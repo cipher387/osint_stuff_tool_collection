@@ -1,0 +1,22 @@
+*
+   {
+      text-align:center;
+      background-color:white;
+      color:black;
+      padding:2px;
+      font-size:14px;
+   
+   }
+   li {
+    list-style-type: none; 
+   }
+   ul {
+    margin-left: 0; 
+    padding-left: 0; 
+   }
+   h5,h6
+   {
+      
+      font-size:16px;
+   
+   }
