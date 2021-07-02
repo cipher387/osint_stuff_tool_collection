@@ -4,7 +4,7 @@
       background-color:white;
       color:black;
       padding:2px;
-      font-size:14px;
+      font-size:20px;
    
    }
    li {
@@ -14,10 +14,14 @@
     margin-left: 0; 
     padding-left: 0; 
    }
+h1,h3
+{
+font-size:30px;
+}
    h5,h6
    {
       
-      font-size:16px;
+      font-size:27px;
    
    }
 
@@ -26,6 +30,7 @@ a
    
    color:blue;
    font-weight: bold;
+   font-size:22px;
 
 }
 
