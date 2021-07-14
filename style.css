@@ -1,44 +1,12 @@
-*
-   {
-      text-align:center;
-      background-color:white;
-      color:black;
-      padding:2px;
-      font-size:20px;
-   
-   }
-   li {
-    list-style-type: none; 
-   }
-   ul {
-    margin-left: 0; 
-    padding-left: 0; 
-   }
-h1,h3
-{
-font-size:30px;
-}
-   h5,h6
-   {
-      
-      font-size:27px;
-   
-   }
-
-a
-{
-   
-   color:blue;
-   font-weight: bold;
-   font-size:22px;
-
-}
-
 .stringicon
 {
-height:22px;
-margin:auto;
-   opacity:0.9;
+  height: 22px;
+  margin: auto;
+  opacity: 0.9;
+}
+td
+{
+ 
+ vertical-align: top;
 
 }
-
