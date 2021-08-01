@@ -8,12 +8,6 @@
 {
 	height:35px;
 }
-td
-{
- 
- vertical-align: top;
-
-}
 .github-follow-button-main
 {
 	height:30px;
@@ -21,4 +15,8 @@ td
 .github-follow-button
 {
 	height:20px;
+}
+a
+{
+	font-size:19px;
 }
