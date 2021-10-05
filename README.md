@@ -1,5 +1,5 @@
 
-I've been running my Twitter account Osint Stuff since 6 April 2021. And now (29 August 2021) 479 different tools have already been published in it. I've decided to collect them all on a separate page to make it easier for my regular readers to find them.
+I've been running my Twitter account Osint Stuff since 6 April 2021. And now (28 September 2021) 550 different tools have already been published in it. I've decided to collect them all on a separate page to make it easier for my regular readers to find them.
 
 I apologise in advance for: spelling and grammatical errors, confusion in the definition of a category (one service may fit into several categories, but is only placed in one), unnecessary spaces and other layout defects. I'm going to do a lot more work on this collection. Thank you very much for listening and for retweeting my tweets!
 
