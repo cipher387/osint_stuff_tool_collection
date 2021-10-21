@@ -33,16 +33,11 @@
   <a name="mapsgeolocationtransport"></a>
             <h1>Maps, Geolocation and Transport</h1>
     
-    
-       
-            
-                
-                   
-                       
-                            <a name="socialmedia"></a>
+   
+ <a name="socialmedia"></a>
                             <h3>Social media</h3>
                     
-                    <a href='https://app.skylens.io/'>Apps.skylens.io</a> — Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)
+  <a href='https://app.skylens.io/'>Apps.skylens.io</a> — Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)
                     <a href="http://photo-map.ru/">photo-map.ru</a> — search geotagged photos from VK.com
                     <a href="https://map.snapchat.com/">Snapchat map</a>
                     <a href="https://mattw.io/youtube-geofind/">YouTube Geofind</a> — view YouTube geottaged video on map
@@ -54,10 +49,10 @@
                 
                    
                        
-                            <a name="nature"></a>
+   <a name="nature"></a>
                             <h3>Nature</h3>
                     
-                    <a href='https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4'>Map View NGMDB</a> — map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database).
+   <a href='https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4'>Map View NGMDB</a> — map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database).
                     <a href='http://waqi.info'>WAQI</a> — World's Air Pollution: Real-time Air Quality Index map
                     <a href='https://globalfishingwatch.org/map/'>GlobalFishingMap</a> — click on a point on the map and get the data on the current fishing effort at that location.
                     <a href='https://www.ncei.noaa.gov/maps/hazards/'>ncei.noaa.gov</a> — Natural Hazards Viewer (worldwide)
@@ -83,10 +78,10 @@
                 
                    
                        
-                            <a name="aviation"></a>
+  <a name="aviation"></a>
                             <h3>Aviation</h3>
                     
-                    <a href='https://skyvector.com/'>Skyvector</a> — tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it
+  <a href='https://skyvector.com/'>Skyvector</a> — tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it
                     <a href='https://www.flightconnections.com/'>Flight Connections</a> — click on the airport on the map to see the cities from which it's possible fly direct
                     <a href="https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx">World Aviation Accident Database 1962-2007</a>
                     <a href="https://data.ntsb.gov/carol-main-public/basic-search">World Aviation Accident Database 2008-2021</a>
