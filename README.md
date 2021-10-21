@@ -12,13 +12,43 @@
 
 <h1>OSINT tools collection</h1>
 
-<h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media maps</a> <a href="#nature">Nature</a> <a href="#aviation">Aviation</a> <a href="#maritime">Maritime</a> <a href="#railway">Railway</a> <a href="#routes">Routes</a> <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a> <a href="#publictransport">Transport</a> <a href="#communications">Communications</a> <a href="#other">Other</a>
-                    <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a> <a href="#youtube">YouTube</a> <a href="#tiktok">TikTok</a> <a href="#facebook">Facebook</a> <a href="#clubhouse">Clubhouse</a> <a href="#linkedin">Linkedin</a> <a href="#reddit">Reddit</a> <a href="#onlyfans">Onlyfans</a> <a href="#twitch">Twitch</a> <a href="#fidonet">Fidonet</a> <a href="#usenet">Usenet</a> <a href="#tumblr">Tumblr</a> <a href="#flickr">Flickr</a> <a href="#spotify">Spotify</a> <a href="#discord">Discord</a> <a href="#Yandex">Yandex</a> <a href="#instagram">Instagram</a>
-                    <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a> <a href="#domainipinvestigation">Domain/IP investigation</a> <a href="#databasesofdomains">Databases of domains</a> <a href="#websitetetrafficlookup">Website traffic look up</a> <a href="#websitetechnologylookup">Website technology look up</a> <a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a>
+<h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media maps</a></br>
+<a href="#nature">Nature</a> <a href="#aviation">Aviation</a></br>
+<a href="#maritime">Maritime</a></br>
+<a href="#railway">Railway</a></br>
+<a href="#routes">Routes</a></br>
+<a href="#politicsconflictscrisis">Politics, conflicts and crisis</a></br>
+<a href="#publictransport">Transport</a></br>
+<a href="#communications">Communications</a></br>
+<a href="#other">Other</a>
+                    <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
+                    <a href="#youtube">YouTube</a></br>
+                    <a href="#tiktok">TikTok</a></br>
+                    <a href="#facebook">Facebook</a></br>
+                    <a href="#clubhouse">Clubhouse</a></br>
+                    <a href="#linkedin">Linkedin</a></br>
+                    <a href="#reddit">Reddit</a></br>
+                    <a href="#onlyfans">Onlyfans</a></br>
+                    <a href="#twitch">Twitch</a></br>
+                    <a href="#fidonet">Fidonet</a></br>
+                    <a href="#usenet">Usenet</a></br>
+                    <a href="#tumblr">Tumblr</a></br>
+                    <a href="#flickr">Flickr</a></br>
+                    <a href="#spotify">Spotify</a></br>
+                    <a href="#discord">Discord</a></br>
+                    <a href="#Yandex">Yandex</a></br>
+                    <a href="#instagram">Instagram</a></br>
+                    <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a></br>
+                    <a href="#domainipinvestigation">Domain/IP investigation</a></br>
+                    <a href="#databasesofdomains">Databases of domains</a></br>
+                    <a href="#websitetetrafficlookup">Website traffic look up</a></br>
+                    <a href="#websitetechnologylookup">Website technology look up</a></br>
+                    <a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a></br>
                     <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
                      <a href="#fontindefication">Font Indenfication</a> 
                     <h4><a href="#cryptocurrencies">Cryptocurrencies</a></h4>
-                    <h4><a href="#messengers">Messengers</a></h4> <a href="#telegram">Telegram</a> <a href="#othersmessengers">Others</a>
+                    <h4><a href="#messengers">Messengers</a></h4> <a href="#telegram">Telegram</a></br>
+                    <a href="#othersmessengers">Others</a>
                     <h4><a href="#code">Code</a></h4>
                     <h4><a href="#searchengines">Search engines</a></h4> <a href="#iot">IOT</a>
                     <h4><a href="#archives">Archives</a></h4>
@@ -36,30 +66,7 @@
                     <h4><a href="#brandscompanies">Brands, companies, items</a></h4> <a href="#amazon">Amazon</a>
                     <h4><a href="#movies">Movies</a></h4>
                     <h4><a href="#tvradio">TV/Radio</a></h4> 
-                    
-  
-
-   
-    
-    
-       
-
-
-   
-
-
-   
-
-
-   
-
-
-   
-
-
-   
-
-
+                 
    
 <a name="mapsgeolocationtransport"></a>
 <h1>Maps, Geolocation and Transport</h1>
