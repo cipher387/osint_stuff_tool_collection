@@ -9,15 +9,13 @@
                     <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a> <a href="#youtube">YouTube</a> <a href="#tiktok">TikTok</a> <a href="#facebook">Facebook</a> <a href="#clubhouse">Clubhouse</a> <a href="#linkedin">Linkedin</a> <a href="#reddit">Reddit</a> <a href="#onlyfans">Onlyfans</a> <a href="#twitch">Twitch</a> <a href="#fidonet">Fidonet</a> <a href="#usenet">Usenet</a> <a href="#tumblr">Tumblr</a> <a href="#flickr">Flickr</a> <a href="#spotify">Spotify</a> <a href="#discord">Discord</a> <a href="#Yandex">Yandex</a> <a href="#instagram">Instagram</a>
                     <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a> <a href="#domainipinvestigation">Domain/IP investigation</a> <a href="#databasesofdomains">Databases of domains</a> <a href="#websitetetrafficlookup">Website traffic look up</a> <a href="#websitetechnologylookup">Website technology look up</a> <a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a>
                     <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
-                   
-               
+                     <a href="#fontindefication">Font Indenfication</a> 
                     <h4><a href="#cryptocurrencies">Cryptocurrencies</a></h4>
                     <h4><a href="#messengers">Messengers</a></h4> <a href="#telegram">Telegram</a> <a href="#othersmessengers">Others</a>
                     <h4><a href="#code">Code</a></h4>
                     <h4><a href="#searchengines">Search engines</a></h4> <a href="#iot">IOT</a>
                     <h4><a href="#archives">Archives</a></h4>
                     <h4><a href="#archivesofdocuments">Archives of documents</a></h4> 
-                
                     <h4><a href="#datasets">Datasets</a></h4>
                     <h4><a href="#passwordsemailsphonenumbers">Passwords, emails, phone numbers</a></h4>
                     <h4><a href="#peoplesearch">People search</a></h4>
@@ -26,7 +24,6 @@
                     <h4><a href="#virtualmachines">VirtualMachines/Linux distributions</a></h4>
                     <h4><a href="#files">Files</a></h4>
                     <h4><a href="#imeiserial">IMEI and serial numbers</a></h4> 
-                
                     <h4><a href="#keywordstrends">Keywords, trends, news analytics</a></h4>
                     <h4><a href="#appsprograms">Apps and programs</a></h4>
                     <h4><a href="#brandscompanies">Brands, companies, items</a></h4> <a href="#amazon">Amazon</a>
