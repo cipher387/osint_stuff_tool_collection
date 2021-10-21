@@ -1,8 +1,7 @@
-
-            <p>I've been running my Twitter account Osint Stuff (@Ivan30394639) since <b>6 April 2021</b>. And now (<b>11 October 2021</b>) <b>576</b> different tools have already been published in it. I've decided to collect them all on a separate page to make it easier for my regular readers to find them.</p>
-            <p style="color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Open Source Intelligence tools.</p>
-            <p>I apologise in advance for: spelling and grammatical errors, confusion in the definition of a category (one service may fit into several categories, but is only placed in one), unnecessary spaces and other layout defects. I'm going to do a lot more work on this collection. Thank you very much for listening and for <b>retweeting</b> my tweets!
-            <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
+<p>I've been running my Twitter account Osint Stuff (@Ivan30394639) since <b>6 April 2021</b>. And now (<b>11 October 2021</b>) <b>576</b> different tools have already been published in it. I've decided to collect them all on a separate page to make it easier for my regular readers to find them.</p>
+<p style="color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Open Source Intelligence tools.</p>
+<p>I apologise in advance for: spelling and grammatical errors, confusion in the definition of a category (one service may fit into several categories, but is only placed in one), unnecessary spaces and other layout defects. I'm going to do a lot more work on this collection. Thank you very much for listening and for <b>retweeting</b> my tweets!
+<a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
 
 
 <p>Telegram — https://t.me/cybdetective</p>
@@ -11,7 +10,7 @@
 <p>This page contains universal and global tools (with a few exceptions). You can find tools for individual countries and cities at <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a>.</p>
 
 
-<h1><a class="btn btn-primary" role="button" href="https://twitter.com/cyb_detective">@cyb_detective</a> OSINT tools collection</h1>
+<h1>OSINT tools collection</h1>
 
 <h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media maps</a> <a href="#nature">Nature</a> <a href="#aviation">Aviation</a> <a href="#maritime">Maritime</a> <a href="#railway">Railway</a> <a href="#routes">Routes</a> <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a> <a href="#publictransport">Transport</a> <a href="#communications">Communications</a> <a href="#other">Other</a>
                     <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a> <a href="#youtube">YouTube</a> <a href="#tiktok">TikTok</a> <a href="#facebook">Facebook</a> <a href="#clubhouse">Clubhouse</a> <a href="#linkedin">Linkedin</a> <a href="#reddit">Reddit</a> <a href="#onlyfans">Onlyfans</a> <a href="#twitch">Twitch</a> <a href="#fidonet">Fidonet</a> <a href="#usenet">Usenet</a> <a href="#tumblr">Tumblr</a> <a href="#flickr">Flickr</a> <a href="#spotify">Spotify</a> <a href="#discord">Discord</a> <a href="#Yandex">Yandex</a> <a href="#instagram">Instagram</a>
