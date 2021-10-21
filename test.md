@@ -1161,15 +1161,6 @@
 </br><a href='https://americanarchive.org'>American Archive of Public Broadcasting</a> — Discover historic programs of publicly funded radio and television across America. Watch and listen
 
 
-
-<a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
-
-
-<p>Telegram — https://t.me/cybdetective</p>
-            
-<p>If you would like to receive a list of new instruments added to your collection 2-3 times a month, please subscribe to<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview"> email newsletter</a>.</p>
-<p>This page contains universal and global tools (with a few exceptions). You can find tools for individual countries and cities at <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a>.</p>
-
 <hr>
 
 <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
