@@ -1,4 +1,4 @@
- <h1>Welcome to <a class="btn btn-primary" role="button" href="https://twitter.com/cyb_detective">@cyb_detective</a> OSINT tools collection</h1>
+<h1>Welcome to <a class="btn btn-primary" role="button" href="https://twitter.com/cyb_detective">@cyb_detective</a> OSINT tools collection</h1>
             <p>I've been running my Twitter account Osint Stuff (@Ivan30394639) since <b>6 April 2021</b>. And now (<b>11 October 2021</b>) <b>576</b> different tools have already been published in it. I've decided to collect them all on a separate page to make it easier for my regular readers to find them.</p>
             <p style="color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Open Source Intelligence tools.</p>
             <p>I apologise in advance for: spelling and grammatical errors, confusion in the definition of a category (one service may fit into several categories, but is only placed in one), unnecessary spaces and other layout defects. I'm going to do a lot more work on this collection. Thank you very much for listening and for <b>retweeting</b> my tweets!
@@ -72,7 +72,7 @@
 </br><a href="https://mattw.io/youtube-geofind/">YouTube Geofind</a> — view YouTube geottaged video on map
 </br><a href="https://www.flickr.com/map">Flickr Photo Map</a>
 </br><a href='http://www.whatsthatpicture.com/flickr/commons-map.php'>Flickr Common Map</a> — displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location)
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> — geottaged photo from Instagram with #cat hashtag
+</br><a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> — geottaged photo from Instagram with #cat hashtag
 </br><a href='https://www.trendsmap.com/map'>Trendsmap.com</a> — Explore most popular #Twitter trends, hashtags and users on the worldmap
 
 
@@ -100,7 +100,7 @@
 </br><a href='https://www.meteoblue.com/'>MeteoBlue</a> — Weather stats data
 </br><a href='https://zoom.earth/'>Zoom.earth</a> — Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas
 </br><a href='https://maps.ngdc.noaa.gov/viewers/bathymetry/'>NGDC Bathymetry map</a> — worldwide detailed interactive bathymetry map
-<img class="stringicon" alt="Star icon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://soar.earth/">Soar.earth</a> — big collection satellite, drone and ecological maps
+</br><a href="https://soar.earth/">Soar.earth</a> — big collection satellite, drone and ecological maps
 </br><a href="https://academo.org/demos/geodesics/">Geodesics on the Earth</a> — finding the shortest path between two points
 </br><a href="https://www.google.com/earth/">Google Earth</a> — 3D representation of Earth based primarily on satellite imagery
 
@@ -224,14 +224,14 @@
 </br><a href='http://vincos.it/world-map-of-social-networks'>Vincos.it</a> — world social media popularity map
 </br><a href='https://app.any.run'>app.any.run</a> — interactive worldwide map of cyber threats statistics (last 24 hour)
 </br><a href='https://mapfight.xyz/browse/'>Map Fight</a> — compare size of two countries
-<img alt="Chrome Icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related'>Presto Map lead extractor</a> — Converts information about labels on Google Maps to CSV or XLSX
+</br><a href='https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related'>Presto Map lead extractor</a> — Converts information about labels on Google Maps to CSV or XLSX
 </br><a href='https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related'>Gmaps Extractor</a> — Extract data from placemarks
 </br><a href="https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html">Web Cam Taxi</a> — open webcams around the world
 </br><a href="http://radio.garden/visit/moscow/MQfEnBji">Radio Garden</a> — select a local radio station on the world map and listen to what's playing at the moment
 </br><a href="https://www.gpsvisualizer.com/">GPS Visualizer</a> — show gpx and tcx files on map
 </br><a href="https://www.mapchecking.com/">Map Checking</a> — tool for measuring the number of people in a crowd of different area and density. 
 </br><a href='https://www.localfocus.nl/geokit/'>localfocus.nl/geokit</a> — geographic toolkit for investigative journalists
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://pastvu.com/">Pastvu.com</a> — View historical photos taken at a particular location on a map. 
+</br><a href="https://pastvu.com/">Pastvu.com</a> — View historical photos taken at a particular location on a map. 
 </br><a href="https://www.mapnificent.net/">Mapnificent</a> — Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) 
 </br><a href='https://findfoodsupport.withgoogle.com/'>Find Food Support</a> — find places where you can get free food by address (USA)
 
@@ -290,14 +290,14 @@
 
 </br><a href="https://github.com/huhmit/slashtags"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/huhmit/slashtags?style=social"></a> Slash Tags — tool for recommending YouTube tags and displaying related statistical data from search keyword(s)
 </br><a href='https://ytplaylist-len.herokuapp.com/'>YouTube playlist len</a> — Find out the total time of all the videos in playlist
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://anilyzer.com/">Anylizer.com</a> — watch frame by frame YouTube and Vimeo)
-<img alt="Chrome Icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd'>Improve YouTube</a> — extension with dozens of different tweaks to the standard #YouTube interface
+</br><a href="https://anilyzer.com/">Anylizer.com</a> — watch frame by frame YouTube and Vimeo)
+</br><a href='https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd'>Improve YouTube</a> — extension with dozens of different tweaks to the standard #YouTube interface
 </br><a href='https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php'>YoTube Channel Search</a> — Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos
 </br><a href="http://www.watchframebyframe.com/">watchframebyframe.com</a> — watch frame by frame YouTube and Vimeo
 </br><a href="https://hadzy.com/">Hadzy.com</a> — YouTube comment search)
 
 </br><a href="https://github.com/lettapp/ytcs"><img alt="Github Icon" class="github-follow-button" src="https://img.shields.io/github/stars/lettapp/ytcs?style=social"></a> </br><a href='https://github.com/lettapp/ytcs'>Ytcs</a> — google chrome extension to search YouTube comments without leaving the site (link to source code)
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a>
+</br><a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a>
 
 
    
@@ -468,7 +468,7 @@
 </br><a href='https://xboxgamertag.com/'>Xboxgamertag</a> — search Xbox Live users by nickname (gamertag). It's possible to view gamer's stats and his playing history.
 </br><a href="https://kribrum.io/search">Kribrum.io</a> — searchengine for different social media platforms with filters by author and time period
 </br><a href='https://github.com/s0md3v/Zen'>Zen</a> — Tool for gathering emails of #Github users
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related'>Auto Scroll Search</a> — automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it.
+</br><a href='https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related'>Auto Scroll Search</a> — automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it.
 </br><a href="https://socialblade.com/">Social Blade</a> — help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more
 </br><a href="http://vk.city4me.com/">Vk.city4me.com</a> — tracking user online time
 
@@ -493,9 +493,9 @@
 
 
 </br><a href="https://github.com/abhijithb200/investigator"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/abhijithb200/investigator?style=social"></a></br><a href='https://abhijithb200.github.io/investigator/'>Investigator Recon Tool</a> — web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name.
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> — extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression
-<img class="stringicon" alt="Chrome Icon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> — adds a bit of information from CrUX API to the standard Google search results
-<img class="stringicon" alt="Chrome Icon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related'>WhatRuns</a> — extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts.
+</br><a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> — extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression
+</br><a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> — adds a bit of information from CrUX API to the standard Google search results
+</br><a href='https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related'>WhatRuns</a> — extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts.
 </br><a href='https://bgpview.io/'>BGPView</a> — web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more
 </br><a href="https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn">Google Chrome webpage Regexp search</a>
 </br><a href="https://redirectdetective.com/">Redirect Detective</a> — tool that allows you to do a full trace of a URL Redirect
@@ -505,9 +505,9 @@
 </br><a href="https://2gdpr.com/">Audits website cookies, online tracking and HTTPS usage for GDPR compliance</a>
 </br><a href="https://tosdr.org/">Terms of Service Didn't Read</a> — find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps
 </br><a href='https://analyzeid.com'>analyzeid.com</a> — find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related'>moarTLS Analyzer</a> — addon which check all links on the webpage and show list of non-secure links.
+</br><a href='https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related'>moarTLS Analyzer</a> — addon which check all links on the webpage and show list of non-secure links.
 </br><a href='https://mmhdan.herokuapp.com'>MMHDAN</a> — Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
+</br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
 
 </br><a href="https://github.com/Josue87/AnalyticsRelationships"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Josue87/AnalyticsRelationships?style=social"></a></br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
 </br><a href="https://www.webemailextractor.com/">Webemailextractor.com</a> — extract email's and phone numbers from the website or list of website
@@ -557,7 +557,7 @@
 </br><a href="https://github.com/spyse-com/cli"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/spyse-com/cli?style=social"></a>Spyse CLI</a> — command line client for Spyse.com
 
 </br><a href="https://github.com/SpiderLabs/HostHunter"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/SpiderLabs/HostHunter?style=social"></a>HostHunter</a> — Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://torwhois.com/">Tor Whois</a>
+</br><a href="https://torwhois.com/">Tor Whois</a>
 
 </br><a href="https://github.com/evilsocket/ditto"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/evilsocket/ditto?style=social"></a></br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
 </br><a href='http://radb.net/query'>RADB</a> — Provides information collected from all the registries that form part of the Internet Routing Registry
@@ -567,7 +567,7 @@
 </br><a href="https://github.com/hakluke/hakrawler"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/hakluke/hakrawler?style=social"></a></br><a href="https://github.com/hakluke/hakrawler">Hakrawler</a> — discover endpoints and assets
 </br><a href="https://passivedns.mnemonic.no/">Passive DNS search</a>
 </br><a href="https://talosintelligence.com/reputation_center/">Talos Intelligence Mail Server Reputation</a>
-<img alt="Github icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> — access to 74 #tools to collect domain information from a single page
+</br><a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> — access to 74 #tools to collect domain information from a single page
 
 </br><a href="https://github.com/harshnandwana/hussh"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/harshnandwana/hussh?style=social"></a></br><a href='https://github.com/harshnandwana/hussh'>Hussh</a> — shell script for domain analyzing
 </br><a href="https://www.vpnmentor.com/tools/test-the-great-china-firewall/">Check any website to see in real time if it is blocked in China</a>
@@ -614,9 +614,9 @@
    
 <a name="sourcecodeanalyzes"></a>
 <h3>Source Code Analyzes</h3>
- <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
-</br><a href='https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related'>Retire.js</a> — GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
-</br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related'>OpenLink Structured Data Sniffer</a> — GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
+
+</br><a href='https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related'>Retire.js</a> — GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries 
+</br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related'>OpenLink Structured Data Sniffer</a> — GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. 
 </br><a href='https://github.com/gildas-lormeau/SingleFile'>SIngle File</a> — GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file
    
    
@@ -650,10 +650,10 @@
 </br><a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a>
 </br><a href='http://ascii2d.net'>Ascii2d.net</a> — Japanese reverse image search engine for anime lovers
 </br><a href='http://exif.app'>Exif.app</a> — Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
+</br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
 </br><a href="https://identify.plantnet.org/">Identify plans</a>
 </br><a href="http://facemaker.uvrg.org/">Facial composite (identikit) maker</a>
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://search4faces.com/">Search4faces.com</a> — search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit
+</br><a href="https://search4faces.com/">Search4faces.com</a> — search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit
 </br><a href="https://www.forensicdots.de/">Forensicdots.de</a> — find "yellow dots" (Machine Identification Code) in printed documents
 </br><a href="https://t.me/facematch_bot">Telegram Facemath bot</a> — searching for a face among the archive of photographs from public events in Kazakhstan
 </br><a href="https://searchbyimage.app/">Searchbyimage.app</a> — search clothes in online shops
@@ -796,7 +796,7 @@
 
 </br><a href="https://github.com/infokiller/web-search-navigator"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/infokiller/web-search-navigator?style=social"></a></br><a href='https://github.com/infokiller/web-search-navigator'>Web Search Navigator</a> — extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
 </br><a href="https://datasetsearch.research.google.com/">Google Datasets Search</a>
-<img alt="Star icon" class="stringicon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a>
+</br><a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a>
 </br><a href="http://dnmugu4755642434.onion.pet/captcha">KILOS Darknet Search Engine</a>
 </br><a href="https://gifcities.org/">Gifcities.org</a> — GIF Search Engine from archive.org
 </br><a href="https://presearch.org/">Presearch.org</a> — privately decentralized search engine, powered by #blockchain technology
@@ -807,7 +807,7 @@
 
 </br><a href="https://github.com/jarun/googler"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/jarun/googler?style=social"></a></br><a href='https://github.com/jarun/googler'>Googler</a> — command line google search tool
 </br><a href='https://goosh.org/'>goosh.org</a> — online google search command line tool
-<img class="stringicon" alt="Star icon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href='https://searchall.net'>searchall.net</a> — 75 fields for quick entry of queries to different search services on one page
+</br><a href='https://searchall.net'>searchall.net</a> — 75 fields for quick entry of queries to different search services on one page
 
 
    
@@ -831,7 +831,7 @@
 
 </br><a href='https://quickcacheandarchivesearch.onrender.com/'>Quick Cache and Archive search</a> — quick search website old versions in different search engines and archives (21 source)
 </br><a href='http://trove.nla.gov.au/search/category/websites'>Trove</a> — australian web archive
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related'>Vandal</a> — extension that makes working with http://archive.org faster, more comfortable, and more efficient.
+</br><a href='https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related'>Vandal</a> — extension that makes working with http://archive.org faster, more comfortable, and more efficient.
 </br><a href="https://theoldnet.com/">TheOldNet.com</a>
 </br><a href="http://carbondate.cs.odu.edu/">Carbon Dating The Web</a>
 </br><a href="https://arquivo.pt/">Arquivo.pt</a>
@@ -843,7 +843,7 @@
 </br><a href="http://web.archive.bibalex.org/">web.archive.bibalex.org</a>
 </br><a href="https://archive.vn/">Archive.vn</a>
 </br><a href='https://www.webarchive.org.uk/'>UKWA</a> — archive of more than half a billion saved English-language web pages (data from 2013)
-<img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related'>Web Archives</a> — extension for viewing cached web page version in 18 search engines and services
+</br><a href='https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related'>Web Archives</a> — extension for viewing cached web page version in 18 search engines and services
 
 </br><a href="https://github.com/gaetanlhf/EasyCache"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gaetanlhf/EasyCache?style=social"></a></br><a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> — quick search website old versions in different search engines and archives
 </br><a href='https://cachedview.b4your.com/en/'>cachedview.b4your.com</a> — quick search website old versions in different search engines and archives
@@ -955,7 +955,7 @@
 </br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
 </br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
 </br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
-<img class="stringicon" alt="Chrome icon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /></br><a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> — detailed statistics of your browser history
+</br><a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> — detailed statistics of your browser history
 </br><a href='https://t.me/YTranslateBot'>@YTranslateBot</a> — type text or resend messages to Telegram bot for translate it.
 </br><a href='https://binvis.io/'>Binvis</a> — lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool
 </br><a href='https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec'>Gdrive-copy</a> — The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications
@@ -965,9 +965,9 @@
 </br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
 
 </br><a href="https://github.com/gephi/gephi"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gephi/gephi?style=social"></a></br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
-</br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
-</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chromw extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
-</br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites <img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
+</br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
+</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chromw extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
+</br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites
 </br><a href='https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related'>Developer search tool</a> — Take the art of copy and paste from Stack Overflow to a new level of speed and productivity
 </br><a href='https://emn178.github.io/online-tools/index.html'>Online tools</a> — 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings
 </br><a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a>
@@ -1004,7 +1004,7 @@
 </br><a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'>
 </br><a href="https://github.com/C0MPL3XDEV/E4GL30S1NT"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/C0MPL3XDEV/E4GL30S1NT?style=social"></a>E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 
-</br><a href='https://github.com/bhavsec/reconspider'><img alt="Chrome icon" class="stringicon" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" /> Recon Spider</a> — Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations
+</br><a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> — Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations
 </br><a href='https://addons.mozilla.org/ru/firefox/addon/foxyrecon/'>FoxyRecon</a> — 44 osint tools in one add-on for #Firefox
 
 </br><a href="https://github.com/saeeddhqan/Maryam"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/saeeddhqan/Maryam?style=social"></a></br><a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> — modular open-source framework based on OSINT and data gathering
@@ -1032,7 +1032,7 @@
 </br><a href="https://github.com/umair9747/vichiti"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/umair9747/vichiti?style=social"></a></br><a href="https://github.com/umair9747/vichiti">Vichiti</a>
 
 </br><a href="https://github.com/pawlaczyk/sarenka"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/pawlaczyk/sarenka?style=social"></a></br><a href="https://github.com/pawlaczyk/sarenka">Sarenka</a>
-<img class="stringicon" alt="Star icon" src="https://affaso.com/wp-content/uploads/2020/06/5-point-stars-png-star-icon-flat-11562958768wpf63hu4tq.png" /></br><a href="https://www.vedbex.com/tools/home">Vedbex.com</a>
+</br><a href="https://www.vedbex.com/tools/home">Vedbex.com</a>
 </br><a href="https://synapsint.com/">Synapsint.com</a>
 
 </br><a href="https://github.com/ivre/ivre"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ivre/ivre?style=social"></a></br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
