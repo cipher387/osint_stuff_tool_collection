@@ -468,7 +468,7 @@
 </br><a href='https://github.com/novitae/sterraxcyl'>Sterraxcyl</a> — Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc)
 <hr>
 
-</br><a href="https://github.com/mxrch/GHunt"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/mxrch/GHunt?style=social"></a></br><a href="https://github.com/mxrch/GHunt">GHunt</a> — google account investigation too
+</br><a href="https://github.com/mxrch/GHunt"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/mxrch/GHunt?style=social"></a></br><a href="https://github.com/mxrch/GHunt">GHunt</a> — google account investigation tool
 </br><a href="https://graphtreon.com/">Graphtreon.com</a> — patreon accounts earnings stats
 </br><a href='https://commits.top/'>Commits.top</a> — Current list of the most active @Github users by country
 </br><a href='https://gitstar-ranking.com/'>Gitstar Ranking</a> — Unofficial GitHub star ranking for users, organizations and repositories
