@@ -12,6 +12,8 @@
 
 <h1>OSINT tools collection</h1>
 
+<h2>Table of contents</h2>
+
 <h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media maps</a></br>
 <a href="#nature">Nature</a> <a href="#aviation">Aviation</a></br>
 <a href="#maritime">Maritime</a></br>
