@@ -4,7 +4,7 @@
 <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
 
             
-<p>New tools in this month — https://github.com/cipher387/osint_stuff_tool_collection/10_november_2021.html</p>
+<p>New tools in this month — https://cipher387.github.io/osint_stuff_tool_collection/10_november_2021.html</p>
 
 <p>Telegram — https://t.me/cybdetective</p>
             
