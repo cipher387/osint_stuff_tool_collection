@@ -3,6 +3,8 @@
 <p>I apologise in advance for: spelling and grammatical errors, confusion in the definition of a category (one service may fit into several categories, but is only placed in one), unnecessary spaces and other layout defects. I'm going to do a lot more work on this collection. Thank you very much for listening and for <b>retweeting</b> my tweets!
 <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
 
+            
+<p>New tools in this month — https://github.com/cipher387/osint_stuff_tool_collection/10_november_2021.html</p>
 
 <p>Telegram — https://t.me/cybdetective</p>
             
