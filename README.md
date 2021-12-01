@@ -31,6 +31,7 @@
                     <a href="#facebook">Facebook</a></br>
                     <a href="#clubhouse">Clubhouse</a></br>
                     <a href="#linkedin">Linkedin</a></br>
+                    <a href="#Xing">Xing</a></br>
                     <a href="#reddit">Reddit</a></br>
                     <a href="#onlyfans">Onlyfans</a></br>
                     <a href="#twitch">Twitch</a></br>
@@ -288,6 +289,7 @@
 </br><a href="http://sleepingtime.org/">Sleeping Time</a> — determining the approximate sleeping time of a user based on analysis of the timing of a tweet
 </br><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a> — tool for quick and comfortable viewing old tweet's of someone account
 </br><a href="https://twitter.com/i/directory/">Twitter users directory</a>
+</br><a href='https://www.followeraudit.com'>FollowerAudit</a> — In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information (biography, geolocation, links, profile picture).
 </br><a href="https://foller.me/">Foller.me</a> — Twitter account detailed analyze
 </br><a href="https://getdaytrends.com/">Get day Twitter Trends</a>
 </br><a href="https://us.trend-calendar.com/">US Twitter Trend Calendar</a>
@@ -318,6 +320,9 @@
 
 </br><a href="https://github.com/lettapp/ytcs"><img alt="Github Icon" class="github-follow-button" src="https://img.shields.io/github/stars/lettapp/ytcs?style=social"></a> </br><a href='https://github.com/lettapp/ytcs'>Ytcs</a> — google chrome extension to search YouTube comments without leaving the site (link to source code)
 </br><a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a>
+</br><a href='https://github.com/jdepoix/youtube-transcript-api'>YouTube Transcript API</a> — Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles.
+</br><a href='https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related'>Jump Cutter</a> — An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed...
+</br><a href='https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru'>YouFilter – YouTube Advanced Search Filter</a> — An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV.
 
 
    
@@ -348,6 +353,7 @@
 </br><a href="https://www.facebook.com/directory/people/">Facebook People Directory</a>
 
 </br><a href="https://github.com/sowdust/sowdust.github.io"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/sowdust/sowdust.github.io?style=social"></a> </br><a href='https://sowdust.github.io/fb-search/'>sowdust.github.io/fb-search</a> — search facebook posts, people and groups using URL-filtres
+</br><a href='https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related'>Dumplt Blue</a> — GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more. 
 
 
    
@@ -371,6 +377,12 @@
 </br><a href="https://github.com/m8r0wn/crosslinked"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/m8r0wn/crosslinked?style=social"></a></br><a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> — LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 
 </br><a href="https://github.com/linkedin/datahub"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/linkedin/datahub?style=social"></a></br><a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> — linkedIn's generalized metadata search & discovery tool
+
+<a name="Xing"></a>
+<h3>Xing</h3>
+
+
+</br><a href='https://github.com/l4rm4nd/XingDumper'>XingDumper</a> — The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company.
 
 
 
@@ -405,6 +417,7 @@
 </br><a href='https://twitch-tools.rootonline.de/followerlist_viewer.php'>Twitch Tools</a> — downloas full followers list of any Twitch account in CSV
 </br><a href="https://twitchtracker.com/">Twitch Tracker</a> — detailed analysis of #Twitch streamer stats
 </br><a href="https://sullygnome.com/">Sully Gnome</a> — detailed analysis of #Twitch streamer stats
+</br><a href='https://twitch-tools.rootonline.de/channel_previews.php'>Twitch Stream Filter</a> — Search streams and filter results by title, game, language, number of viewers.
 
 
 
@@ -457,6 +470,7 @@
 <h3>Discord</h3>
 
 </br><a href='https://github.com/AstraaDev/Discord-All-Tools-In-One'>ASTRAAHOME</a> — 14 #Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc) in one #python tool.
+</br><a href='https://dht.chylex.com'>Discord History Tracker</a> — A tracking script will load messages from the selected channel and save them in .txt file.
    
    
 <a name="yandex"></a>
@@ -484,6 +498,7 @@
 </br><a href='https://aykutsarac.github.io/github-rater/'>Github Rater</a> — rates GitHub profile upon data received from GitHub API
 
 </br><a href="https://github.com/altilunium/wistalk"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/altilunium/wistalk?style=social"></a></br><a href="https://github.com/altilunium/wistalk">WikiStalk : Analyze Wikipedia User's Activity</a>
+</br><a href='https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/'>Wikipedia Cross-lingual Image Analysis</a> — A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance.
 </br><a href="https://parler.adatascienti.st/">Parler archive</a>
 </br><a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> — Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai
 </br><a href="https://sn0int.com/r/kpcyrd/pornhub">Sn0int framework module for Pornhub</a>
@@ -494,13 +509,16 @@
 </br><a href='https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related'>Auto Scroll Search</a> — automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it.
 </br><a href="https://socialblade.com/">Social Blade</a> — help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more
 </br><a href="http://vk.city4me.com/">Vk.city4me.com</a> — tracking user online time
+</br><a href='https://exportcomments.com'>ExportComments</a> — Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free
 
 </br><a href="https://github.com/qeeqbox/social-analyzer"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social"></a></br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
 </br><a href='http://lickd.co/blog/social-salary-calculator'>Social Media Salary Calculator</a> — for YouTube, TikTok, Instagram
 </br><a href='https://findmyfbid.in/'>FindMyBID</a> — Toolkit for collecting data from social networks
 </br><a href='https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp'>Social Analyzer</a> — extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them.
 </br><a href='https://khalil-shreateh.com/khalil.shtml/social_applications/'>Khalil Shreateh Social Applications</a> — More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.)
-
+</br><a href='https://www.githubcompare.com'>GithubCompare</a> — When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars.
+</br><a href='https://github.com/dievus/Oh365UserFinder'>Oh365UserFinder</a> — A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once.
+</br><a href='https://github.com/nyxgeek/onedrive_user_enum'>Onedrive Enumeration Tool</a> — A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company.
 
    
 
@@ -568,6 +586,7 @@
 
 
 </br><a href='https://github.com/lijiejie/subDomainsBrute'>SubDomainsBrute</a> — Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds.
+</br><a href='https://github.com/jonluca/Anubis'>Anubis</a> — Subdomain enumeration and information gathering tool
 </br><a href='https://t.me/UniversalSearchBot'>@UniversalSearchBot</a> — telegram bot finding information about email, russian phone number, domain or IP
 </br><a href='http://cipher387.github.io/domain_investigation_toolbox/'>Domain Investigation Toolbox</a> — gather information about domain with 41 online tools from one page.
 </br><a href='https://t.me/iptools_robot'>@iptools_robot</a> — univsersal domain investigation Telegram bot
@@ -630,6 +649,7 @@
 </br><a href="https://whoisfreaks.com/">Whois Freaks</a> — API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name
 </br><a href='https://www.expireddomains.net/deleted-domains/'>Expireddomains.net</a> — lists of deleted and expired domains (last 7 days)
 </br><a href='http://whoisds.com/newly-registered-domains'>WhoisDS.com</a> — database of domains registered in the last day
+</br><a href='https://api.domaindumper.com'>API Domaindumper</a> — An interesting tool for researchers of IT history and data journalists. Just an FREE API that shows how many sites were registered in each domain zone on a given day (since January 1, 1990)
 </br><a href='http://ptrarchive.com/'>ptrarchive.com</a> — search by 230 billion DNS records retrieved from 2008 to the present.
 </br><a href='https://www.peeringdb.com/'>PeeringDB</a> — Freely available, user-maintained, database of networks, and the go-to location for interconnection data.
 </br><a href='https://iqwhois.com/advanced-search'>IQWhois</a> — Search whois data by address, city, name, surname, phonenumber
@@ -668,6 +688,8 @@
 </br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related'>OpenLink Structured Data Sniffer</a> — GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. 
 </br><a href='https://github.com/gildas-lormeau/SingleFile'>SIngle File</a> — GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file
 </br><a href='https://chrome.google.com/webstore/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg/related'>Copy all links and image links to CSV or JSON</a> — Download all links from current webpage in CSV (for open in #Excel) or JSON
+</br><a href='http://archiveready.com'>ArchiveReady</a> — OSINT specialists most often use various web archives to analyze other people's sites. But if you want your descendants to be able to find your own site, check whether the code of its pages is understandable for crawlers of web archives. 
+
    
    
 <a name="urlinshorteners"></a>
@@ -701,6 +723,7 @@
 </br><a href='http://ascii2d.net'>Ascii2d.net</a> — Japanese reverse image search engine for anime lovers
 </br><a href='http://exif.app'>Exif.app</a> — Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow
 </br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
+</br><a href='https://4qrcode.com/scan-qr-code.php'>Scan QR Code</a> — While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture
 </br><a href="https://identify.plantnet.org/">Identify plans</a>
 </br><a href="http://facemaker.uvrg.org/">Facial composite (identikit) maker</a>
 </br><a href="https://search4faces.com/">Search4faces.com</a> — search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit
@@ -717,6 +740,7 @@
 </br><a href="https://same.energy/">Same Energy</a> — reverse image search engine for finding beautiful art and photos in the same style as the original picture
 </br><a href='https://www.everypixel.com/'>EveryPixel</a> — Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images.
 </br><a href='https://openi.nlm.nih.gov/gridquery'>openi.nlm.nih.gov</a> — Reverse image search engine for scientific and medical images
+</br><a href='https://ru.depositphotos.com/search/by-images.html'>DepositPhotos Reverse Image Search</a> — tool for reverse image search (strictly from DepositPhoto's collection of 222 million files).
 </br><a href='http://zeus.robots.ox.ac.uk/bbc_search/'>BBC News Visual Search</a> — Enter the name of the item and the service will show in which news stories and at what time interval it appeared
 </br><a href='http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree'>Portrait Matcher</a> — Upload a picture of a face and get three paintings that show similar people.
 </br><a href="https://image.so.com/">Image So Search</a> — Qihoo 360 Reverse Images Search
@@ -784,6 +808,7 @@
 </br><a href="https://github.com/emtunc/SlackPirate"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/emtunc/SlackPirate?style=social"></a></br><a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> — tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token
 </br><a href="https://watools.io/download-profile-picture">Watools.io</a> — download whatsapp profile picture
 </br><a href="https://www.vedbex.com/tools/email2skype">vedbex.com/tools/email2skype</a> — finding a Skype account by email
+</br><a href='https://github.com/riz4d/WaGpScraper'>WAGSCRAPER</a> — Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images)
 
 
 
@@ -796,6 +821,7 @@
 </br><a href='https://cipher387.github.io/code_repository_google_custom_search_engines/'>Code Repository Google CSE</a> — Google CSE for search 15 code repository services
 </br><a href='https://libraries.io'>Libraries.io</a> — search by 4 690 628 packages across 32 different package managers
 </br><a href='https://github.com/champmq/TheScrapper'>The Scraper</a> — Simple tool for scrapping emails and social media accounts from the website's source code.
+</br><a href='https://github.com/jordanpotti/CloudScraper'>CloudScraper</a> — Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs
 </br><a href='https://freemailscraper.herokuapp.com/complete-website-email-scraper'>Complete Email Scraper</a> — Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @).
 </br><a href='https://extendsclass.com/python-tester.html'>Python Code Checker</a> — quick find errors in code
 
@@ -845,6 +871,8 @@
 </br><a href='https://www.listennotes.com/'>Listennotes</a> — Podcast Search Engine
 
 </br><a href="https://github.com/BullsEye0/google_dork_list"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/BullsEye0/google_dork_list?style=social"></a></br><a href="https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt">Google Dorks List</a>
+</br><a href='https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related'>Overload Search</a> — Advanced query builder in #Google with the possibilities: change the language and country of your search, disable safe search,disable personalization of search results ("filter bubble")
+</br><a href='https://tools.digitalmethods.net/beta/scrapeGoogle/autocomplete.php'>Google Autocomplete Scraper</a> — One of the best ways to learn more about a person, company, or subject is to see what people are more likely to type in a search engine along with it.
 </br><a href='https://github.com/TheSpeedX/SDorker'>SDorker</a> — Type the Google Dork and get the list of the pages, that came up with this query.
 </br><a href='https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related'>Google Email Extractor</a> — Extract emails from Google Search Results
 </br><a href="https://seqe.me/">SEQE.me</a> — online #tool for constructing search queries using advanced search operators simultaneously for five search engines
@@ -865,12 +893,14 @@
 
 </br><a href="https://github.com/Araekiel/orion"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Araekiel/orion?style=social"></a></br><a href='https://github.com/Araekiel/orion'>Orion</a> — open-Source Search Engine for social networking websites.
 </br><a href='https://www.soundeffectssearch.com/find-a-sound-library/'>soundeffectssearch.com</a> — find a sound library
+</br><a href='https://packettotal.com/app/search'>PacketTotal</a> — .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze.
+</br><a href='https://github.com/searxng/searxng'>SearXNG</a> — Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor
 
 </br><a href="https://github.com/jarun/googler"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/jarun/googler?style=social"></a></br><a href='https://github.com/jarun/googler'>Googler</a> — command line google search tool
 </br><a href='https://goosh.org/'>goosh.org</a> — online google search command line tool
 </br><a href='https://searchall.net'>searchall.net</a> — 75 fields for quick entry of queries to different search services on one page
 
-
+</br><a href='https://query-server.herokuapp.com'>Query-server</a> — A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format.
    
    
 <a name="iot"></a>
@@ -909,6 +939,7 @@
 
 </br><a href="https://github.com/gaetanlhf/EasyCache"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gaetanlhf/EasyCache?style=social"></a></br><a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> — quick search website old versions in different search engines and archives
 </br><a href='https://cachedview.b4your.com/en/'>cachedview.b4your.com</a> — quick search website old versions in different search engines and archives
+</br><a href='https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#'>Internet Archive Wayback Machine Link Ripper</a> — Enter a host or URL to retrieve the links to the URL's archived versions at http://wayback.archive.org. A text file is produced which lists the archive URLs.
 
 </br><a href="https://github.com/jsvine/waybackpack"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/jsvine/waybackpack?style=social"></a></br><a href='https://github.com/jsvine/waybackpack'>Waybackpack</a> — download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) 
 <p>
@@ -964,6 +995,7 @@
 </br><a href="https://github.com/BLINKING-IDIOT/Aliens_eye"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/BLINKING-IDIOT/Aliens_eye?style=social"></a>
 </br><a href='https://github.com/BLINKING-IDIOT/Aliens_eye'>Aliens eye</a> — Find links to social media accounts in 70 websites by username
 </br><a href='https://github.com/rlyonheart/thorndyke'>Thorndyke</a> — Checks the availability of a specified username on over 200 websites
+</br><a href='https://github.com/soxoj/marple'>Marple</a> — It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results.
 
 </br><a href="https://github.com/megadose/holehe"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/megadose/holehe?style=social"></a></br><a href="https://github.com/megadose/holehe">Holehe</a> — check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function 
 
@@ -1006,9 +1038,8 @@
 </br><a href='https://www.cloob.com/profile/search/index'>Cloob.com</a> — Iranian people search
 </br><a href='https://slavevoyages.org/resources/names-database'>SlaveVoyages.org</a> — the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world.
 
- 
-
-</table>
+</br><a href='https://datayze.com/alternate-spelling-finder'>Alternate Spelling Finder</a> — When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently.
+</br><a href='https://translit.net'>Translit.net</a> — Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names
    
 
 <a name="sockpuppets"></a>
@@ -1024,12 +1055,17 @@
 </br><a href='https://t.me/transcriber_bot'>@transcriber_bot</a> — telegram bot, which can convert to text voice messages in 24 languages (view pic) 
 </br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
 </br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
+</br><a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> — Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information.
+</br><a href='https://codesandbox.io/'>Codesandbox</a> — Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph).
+</br><a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> — A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more
 </br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
 </br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
 </br><a href='https://github.com/mohan3d/slideshare-go'>Slideshare Downloader</a> — A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once)
 </br><a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> — detailed statistics of your browser history
 </br><a href='https://t.me/YTranslateBot'>@YTranslateBot</a> — type text or resend messages to Telegram bot for translate it.
 </br><a href='https://mr0grog.github.io/google-docs-to-markdown/'>Google Docs to Markdown online converter</a> — just copy text to the site
+</br><a href='https://www.cloudhq.net/apps'>CloudHQ</a> — A collection of several dozen extensions for #Chrome that allow you to extend the functionality of the standard #Gmail interface and maximize your #productivity. Tracking, sorting, sharing, saving, editing and much more.
+</br><a href='https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related'>AHA Music</a> — A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay)
 </br><a href='https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru'>Talend API Tester Free Edition</a> — tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior
 </br><a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> — free web proxy
 </br><a href='http://www.remindmewhen.io/'>RemindWhen</a> — Simple app that reminds you on email if your favorite country opens for tourists from your country.
@@ -1038,6 +1074,9 @@
 </br><a href='https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec'>Gdrive-copy</a> — The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications
 </br><a href='https://www.unscreen.com/'>unscreen.com</a> — remove the background from an uploaded video
 </br><a href='https://www.shellcheck.net/'>shellcheck.net</a> — analyzes command-line scripts and explains in detail the errors found in them
+</br><a href='https://archivebox.io'>Archivebox</a> — Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files
+</br><a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> — A simple extension that changes the speed of playing video courses on #Udemy.
+</br><a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> — Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd)
 </br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
 </br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
 
@@ -1113,6 +1152,8 @@
 </br><a href="https://github.com/pawlaczyk/sarenka"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/pawlaczyk/sarenka?style=social"></a></br><a href="https://github.com/pawlaczyk/sarenka">Sarenka</a>
 </br><a href="https://www.vedbex.com/tools/home">Vedbex.com</a>
 </br><a href="https://synapsint.com/">Synapsint.com</a>
+
+</br><a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> — Swiff knife for #osint
 
 </br><a href="https://github.com/ivre/ivre"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ivre/ivre?style=social"></a></br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
 
@@ -1214,6 +1255,7 @@
 </br><a href='https://www3.wipo.int/branddb/en/'>WIPO.int</a> — Global Brands Database (46,020,000 records)
 </br><a href='https://www.tmdn.org/tmdsview-web/'>TMDN Design View</a> — Search 17 684 046 products designs across the European Union and beyond
 </br><a href='https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk'>TESS</a> — Search engine for #USA trademarks
+</br><a href='https://www.tendersinfo.com'>TendersInfo</a> — Search tenders around the world by keywords.
 
    
 <a name="movies"></a>
