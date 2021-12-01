@@ -16,14 +16,16 @@
 
 <h2>Table of contents</h2>
 
-<h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media maps</a></br>
+<h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media and photos maps</a></br>
 <a href="#nature">Nature</a> <a href="#aviation">Aviation</a></br>
 <a href="#maritime">Maritime</a></br>
 <a href="#railway">Railway</a></br>
 <a href="#routes">Routes</a></br>
 <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a></br>
+<a href="urbanindustrial">Urban and industrial infrastructure</a></br>
 <a href="#publictransport">Transport</a></br>
-<a href="#communications">Communications</a></br>
+<a href="#communications">Communications, Internet, Technologies</a></br>
+<a href="#maptools">Tools</a></br>
 <a href="#other">Other</a>
                     <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
                     <a href="#youtube">YouTube</a></br>
@@ -84,7 +86,7 @@
    
    
 <a name="socialmedia"></a>
-<h3>Social media</h3>
+<h3>Social media and photos</h3>
 
 </br><a href='https://app.skylens.io/'>Apps.skylens.io</a> — Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)
 </br><a href="http://photo-map.ru/">photo-map.ru</a> — search geotagged photos from VK.com
@@ -94,6 +96,7 @@
 </br><a href='http://www.whatsthatpicture.com/flickr/commons-map.php'>Flickr Common Map</a> — displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location)
 </br><a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> — geottaged photo from Instagram with #cat hashtag
 </br><a href='https://www.trendsmap.com/map'>Trendsmap.com</a> — Explore most popular #Twitter trends, hashtags and users on the worldmap
+</br><a href="https://pastvu.com/">Pastvu.com</a> — View historical photos taken at a particular location on a map.
 
 
    
@@ -202,6 +205,28 @@
 </br><a href='https://frontex.europa.eu/we-know/migratory-map/'>Frontex Migratory Map</a> — click on a country or region to see how many illegal border crossings have been reported there in the last six months. 
 
 
+<a name="urbanindustrial"></a>
+<h3>Urban and industrial infrastructure</h3>
+</br><a href='https://wheelmap.org'>Wheelmap.org</a> — map shows public places that are accessible and partially accessible to #wheelchair users
+</br><a href='https://gulfpub-gisstg.esriemcs.com/pe_chevron/'>gulfpub-gisstg.esriemcs.com</a> — Detailed world gas pipelines map
+</br><a href='https://luminocity3d.org/WorldPopDen/'>World Population Density Map</a> — Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages
+</br><a href='https://www.emporis.com/buildings/map'>Emporis Buildings Map</a> — world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose
+</br><a href='https://osmbuildings.org/'>Osmbuildings.org</a> — world map showing notable buildings. For each object you can find out the height, type, and purpose.
+</br><a href='https://findfoodsupport.withgoogle.com/'>Find Food Support</a> — find places where you can get free food by address (USA)
+
+<a name="maptools"></a>
+<h3>Tools</h3>
+
+</br><a href='http://jopf.re/osmaps-radius/'>Osmaps Radius</a> — drawing circles with a certain radius on the map
+</br><a href='http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/'>MeasureTool-GoogleMaps-V3</a> — Measurement tool for #GoogleMaps.
+</br><a href='https://www.acscdg.com/'>ACSDG</a> — tool allows you to quickly mark a group of points on the map and then export their geographic coordinates to CSV.
+</br><a href='https://app.measuremaponline.com/dashboard/overview'>MeasureMapOnline</a> — tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter
+</br><a href='https://mapfight.xyz/browse/'>Map Fight</a> — compare size of two countries
+</br><a href='https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related'>Presto Map lead extractor</a> — Converts information about labels on Google Maps to CSV or XLSX
+</br><a href='https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related'>Gmaps Extractor</a> — Extract data from placemarks
+</br><a href="https://www.gpsvisualizer.com/">GPS Visualizer</a> — show gpx and tcx files on map
+</br><a href="https://www.mapchecking.com/">Map Checking</a> — tool for measuring the number of people in a crowd of different area and density. 
+</br><a href="https://www.mapnificent.net/">Mapnificent</a> — Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) 
    
    
 <a name="publictransport"></a>
@@ -214,47 +239,29 @@
    
    
 <a name="communications"></a>
-<h3>Communications</h3>
+<h3>Communications, Internet, Technologies</h3>
 
 </br><a href="https://opencellid.org/">Opencellid.org</a> — the world's largest Open Database of Cell Towers
 </br><a href="https://www.mylnikov.org/">API mylnikov.org</a> — get lattitude and longitude by WiFI BBSID
 </br><a href="http://nperf.com/en/map">nperf.com/map</a> — view the coverage area of different #cellular operators in different countries
 </br><a href="https://www.nperf.com/en/map/5g">nperf.com/map/5g</a> — 5G coverage #map worldwide
-
+</br><a href='http://vincos.it/world-map-of-social-networks'>Vincos.it</a> — world social media popularity map
+</br><a href='https://app.any.run'>app.any.run</a> — interactive worldwide map of cyber threats statistics (last 24 hour)
+</br><a href="https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html">Web Cam Taxi</a> — open webcams around the world
+</br><a href="http://radio.garden/visit/moscow/MQfEnBji">Radio Garden</a> — select a local radio station on the world map and listen to what's playing at the moment
 
    
    
 <a name="other"></a>
 <h3>Other</h3>
 
-</br><a href='https://wheelmap.org'>Wheelmap.org</a> — map shows public places that are accessible and partially accessible to #wheelchair users
-</br><a href='http://jopf.re/osmaps-radius/'>Osmaps Radius</a> — drawing circles with a certain radius on the map
-</br><a href='https://gulfpub-gisstg.esriemcs.com/pe_chevron/'>gulfpub-gisstg.esriemcs.com</a> — Detailed world gas pipelines map
 </br><a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> — set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery
 </br><a href='http://demo.f4map.com'>Demo.4map.com</a> — 3D interactive world map
 </br><a href='https://360cities.net/map'>360cities.net/map</a> — world map of panoramic (360 degrees) images
-</br><a href='http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/'>MeasureTool-GoogleMaps-V3</a> — Measurement tool for #GoogleMaps.
 </br><a href='https://www.oldmapsonline.org/'>OldMapsOnline</a> — World aggregator of old maps from various sources (498,908 maps)
-</br><a href='https://luminocity3d.org/WorldPopDen/'>World Population Density Map</a> — Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages
-</br><a href='https://www.emporis.com/buildings/map'>Emporis Buildings Map</a> — world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose
-</br><a href='https://osmbuildings.org/'>Osmbuildings.org</a> — world map showing notable buildings. For each object you can find out the height, type, and purpose.
 </br><a href='http://whatiswhere.com'>Whatiswhere.com</a> — OpenStreetMap based free POI (point of interest) search. 102 types of objects
-</br><a href='https://www.acscdg.com/'>ACSDG</a> — tool allows you to quickly mark a group of points on the map and then export their geographic coordinates to CSV.
 </br><a href='https://cipher387.github.io/collection_of_cadastral_maps/'>Collection of cadastral maps</a> — 41 countries
-</br><a href='https://app.measuremaponline.com/dashboard/overview'>MeasureMapOnline</a> — tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter
-</br><a href='http://vincos.it/world-map-of-social-networks'>Vincos.it</a> — world social media popularity map
-</br><a href='https://app.any.run'>app.any.run</a> — interactive worldwide map of cyber threats statistics (last 24 hour)
-</br><a href='https://mapfight.xyz/browse/'>Map Fight</a> — compare size of two countries
-</br><a href='https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related'>Presto Map lead extractor</a> — Converts information about labels on Google Maps to CSV or XLSX
-</br><a href='https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related'>Gmaps Extractor</a> — Extract data from placemarks
-</br><a href="https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html">Web Cam Taxi</a> — open webcams around the world
-</br><a href="http://radio.garden/visit/moscow/MQfEnBji">Radio Garden</a> — select a local radio station on the world map and listen to what's playing at the moment
-</br><a href="https://www.gpsvisualizer.com/">GPS Visualizer</a> — show gpx and tcx files on map
-</br><a href="https://www.mapchecking.com/">Map Checking</a> — tool for measuring the number of people in a crowd of different area and density. 
 </br><a href='https://www.localfocus.nl/geokit/'>localfocus.nl/geokit</a> — geographic toolkit for investigative journalists
-</br><a href="https://pastvu.com/">Pastvu.com</a> — View historical photos taken at a particular location on a map. 
-</br><a href="https://www.mapnificent.net/">Mapnificent</a> — Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) 
-</br><a href='https://findfoodsupport.withgoogle.com/'>Find Food Support</a> — find places where you can get free food by address (USA)
 </br><a href='https://simon04.dev.openstreetmap.org/whodidit/'>WhoDidIt</a> — Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates).
    
 
