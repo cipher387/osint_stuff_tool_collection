@@ -27,24 +27,36 @@
 <a href="#communications">Communications, Internet, Technologies</a></br>
 <a href="#maptools">Tools</a></br>
 <a href="#other">Other</a>
-                    <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
-                    <a href="#youtube">YouTube</a></br>
-                    <a href="#tiktok">TikTok</a></br>
-                    <a href="#facebook">Facebook</a></br>
-                    <a href="#clubhouse">Clubhouse</a></br>
-                    <a href="#linkedin">Linkedin</a></br>
-                    <a href="#Xing">Xing</a></br>
-                    <a href="#reddit">Reddit</a></br>
-                    <a href="#onlyfans">Onlyfans</a></br>
-                    <a href="#twitch">Twitch</a></br>
-                    <a href="#fidonet">Fidonet</a></br>
-                    <a href="#usenet">Usenet</a></br>
-                    <a href="#tumblr">Tumblr</a></br>
-                    <a href="#flickr">Flickr</a></br>
-                    <a href="#spotify">Spotify</a></br>
-                    <a href="#discord">Discord</a></br>
-                    <a href="#Yandex">Yandex</a></br>
-                    <a href="#instagram">Instagram</a></br>
+<h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
+<a href="#youtube">YouTube</a></br>
+<a href="#tiktok">TikTok</a></br>
+<a href="#facebook">Facebook</a></br>
+<a href="#clubhouse">Clubhouse</a></br>
+<a href="#linkedin">Linkedin</a></br>
+<a href="#Xing">Xing</a></br>
+<a href="#reddit">Reddit</a></br>
+<a href="#onlyfans">Onlyfans</a></br>
+<a href="#twitch">Twitch</a></br>
+<a href="#fidonet">Fidonet</a></br>
+<a href="#usenet">Usenet</a></br>
+<a href="#tumblr">Tumblr</a></br>
+<a href="#flickr">Flickr</a></br>
+<a href="#spotify">Spotify</a></br>
+<a href="#discord">Discord</a></br>
+<a href="#Yandex">Yandex</a></br>
+<a href="#instagram">Instagram</a></br>
+<a href="#socialmediaother">Universal</a></br>
+<a href="#socialmediagoogle">Google</a></br>
+<a href="#patreon">Patreon</a></br>
+<a href="#github">Github</a></br>
+<a href="#parler">Parler</a></br>
+<a href="#pornhub">Pornhub</a></br>
+<a href="#steam">Steam</a></br>
+<a href="#xbox">Xbox</a></br>
+<a href="#vk">VK</a></br>
+<a href="#office365">Office365</a></br>
+<a href="#onedrive">OneDrive</a></br>
+
                     <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a></br>
                     <a href="#domainipinvestigation">Domain/IP investigation</a></br>
                     <a href="#databasesofdomains">Databases of domains</a></br>
@@ -277,7 +289,6 @@
 <a name="twitter"></a>
 <h3>Twitter</h3>
 </br><a href='https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related'>Twitter account detector</a> — A simple and fast Chrome extension that finds all Twitter accounts on a site.
-
 </br><a href='https://followerwonk.com/compare/'>Follower Wonk/Compare</a> — this service allows you to find out how many followers two (or three) Twitter accounts have in common.
 </br><a href='https://tweepsmap.com/dash/unfollows'>Tweepsmap Unfollows</a> — displayed unsubscribed accounts (list for the one week available for free)
 </br><a href="https://app.truthnest.com/">app.truthnest.com</a> — best tool for Twitter account investigation
@@ -324,22 +335,18 @@
 </br><a href='https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php'>YoTube Channel Search</a> — Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos
 </br><a href="http://www.watchframebyframe.com/">watchframebyframe.com</a> — watch frame by frame YouTube and Vimeo
 </br><a href="https://hadzy.com/">Hadzy.com</a> — YouTube comment search)
-
 </br><a href='https://github.com/lettapp/ytcs'>Ytcs</a> — google chrome extension to search YouTube comments without leaving the site (link to source code)
 </br><a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a>
 </br><a href='https://github.com/jdepoix/youtube-transcript-api'>YouTube Transcript API</a> — Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles.
 </br><a href='https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related'>Jump Cutter</a> — An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed...
 </br><a href='https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru'>YouFilter – YouTube Advanced Search Filter</a> — An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV.
 
-
-   
+ 
    
 <a name="tiktok"></a>
 <h3>TikTok</h3>
 </br><a href='https://bellingcat.github.io/tiktok-timestamp/'>Tiktok Timestamp</a> — determines the time of publication of the video to the nearest second. Just copy the link.
-
 </br><a href='https://tikstats.org/'>TikStats</a> — detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account
-
 <a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> — scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file 
 </br><a href="https://tiktokd.com/">TikTokD</a> — TikTok Video Downloader
 </br><a href="https://snaptik.app/">Snaptik.app</a> — TikTok Video Downloader
@@ -348,17 +355,12 @@
 </br><a href='https://mavekite.com/'>Mavekite.com</a> — Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos
 
 
-
-
-   
-   
 <a name="facebook"></a>
 <h3>Facebook</h3>
 
 </br><a href="https://findmyfbid.in/">Find my FB ID</a>
 </br><a href="http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/">435,627,630 indexed items from that Facebook dump of recent - ready to be searched upon.</a>
 </br><a href="https://www.facebook.com/directory/people/">Facebook People Directory</a>
-
 </br><a href='https://sowdust.github.io/fb-search/'>sowdust.github.io/fb-search</a> — search facebook posts, people and groups using URL-filtres
 </br><a href='https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related'>Dumplt Blue</a> — GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more. 
 
@@ -380,22 +382,16 @@
 <h3>Linkedin</h3>
 
 </br><a href="https://freepeoplesearchtool.com/">Freepeoplesseacrhtool.com</a> — find people in Linkedin without registration
-
 <a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> — LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
-
 </br><a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> — linkedIn's generalized metadata search & discovery tool
 
 <a name="Xing"></a>
 <h3>Xing</h3>
 
-
 </br><a href='https://github.com/l4rm4nd/XingDumper'>XingDumper</a> — The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company.
 
 
-
-
-   
-   
+ 
 <a name="reddit"></a>
 <h3>Reddit</h3>
 
@@ -405,9 +401,7 @@
 </br><a href='https://dashboard.laterforreddit.com/analysis'>dashboard.laterforreddit.com/analysis</a> — examine popular post trends for a given subreddit
 </br><a href='https://ebof1223-reddit-timer.netlify.app/'>Reddit Timer</a> — Get last week's hourly activity schedule for a specific subreddit
 
-
-   
-   
+ 
 <a name="onlyfans"></a>
 <h3>Onlyfans</h3>
 
@@ -427,10 +421,6 @@
 </br><a href='https://twitch-tools.rootonline.de/channel_previews.php'>Twitch Stream Filter</a> — Search streams and filter results by title, game, language, number of viewers.
 
 
-
-
-   
-   
 <a name="fidonet"></a>
 <h3>Fidonet</h3>
 
@@ -458,17 +448,12 @@
 
 </br><a href='http://labs.polsys.net/tools/flickr/photopool/'>Flickr Photopool Contact Network</a> — Analyzes Flickr groups and makes a list of nicknames of participants for further graph analysis in Gephi
 
-
-
-
-   
+ 
    
 <a name="spotify"></a>
 <h3>Spotify</h3>
 </br><a href='https://github.com/Footsiefat/zspotify'>Zspotify</a> — Spotify track downloader. Download mp3 by link or by keywords
-
 </br><a href='https://www.chosic.com/spotify-playlist-analyzer/'>Chosic.com</a> — analyze the playlist on Spotiify, calculate the prevailing mood, genres, decades and favorite artists
-
 </br><a href='https://github.com/spotDL/spotify-downloader'>Spotify downloader</a> — download spotify playlist in mp3 from YouTube
 </br><a href='http://chartmasters.org/spotify-streaming-numbers-tool/'>chartmasters.org/spotify-streaming-numbers-tool/</a> — report of the number of streams of a particular artist's tracks on Spotify
    
@@ -490,44 +475,71 @@
    
 <a name="instagram"></a>
 <h3>Instagram</h3>
-</br><a href='https://github.com/bellingcat/instagram-location-search'>Instagram Location Search</a> — Get the names and links to all the locations on Instagram tied to specific geographic coordinates.
-
+</br><a href='https://github.com/bellingcat/instagram-location-search'>Instagram Location Search</a> — Get the names and links to all the locations on Instagram tied to specific geographic coordinates
 </br><a href='https://inflact.com/tools/instagram-search/'>Inflact Instagram Search</a> — Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.)
 </br><a href='https://github.com/xadhrit/terra'>Terra</a> — Collect information about twitter and Instagram accounts
 </br><a href="https://gramho.com/">Instagram analyzer and viewer</a>
 </br><a href='https://github.com/novitae/sterraxcyl'>Sterraxcyl</a> — Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc)
-<hr>
 
+<a name="socialmediagoogle"></a>
+<h3>Google</h3>
 </br><a href="https://github.com/mxrch/GHunt">GHunt</a> — google account investigation tool
+
+
+<a name="patreon"></a>
+<h3>Patreon</h3>
 </br><a href="https://graphtreon.com/">Graphtreon.com</a> — patreon accounts earnings stats
+
+<a name="github"></a>
+<h3>Github</h3>
 </br><a href='https://commits.top/'>Commits.top</a> — Current list of the most active @Github users by country
 </br><a href='https://gitstar-ranking.com/'>Gitstar Ranking</a> — Unofficial GitHub star ranking for users, organizations and repositories
 </br><a href='https://aykutsarac.github.io/github-rater/'>Github Rater</a> — rates GitHub profile upon data received from GitHub API
+</br><a href='https://github.com/s0md3v/Zen'>Zen</a> — Tool for gathering emails of #Github users
+</br><a href='https://www.githubcompare.com'>GithubCompare</a> — When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars.
 
+<a name="wikipedia"></a>
+<h3>Wikipedia</h3>
 </br><a href="https://github.com/altilunium/wistalk">WikiStalk : Analyze Wikipedia User's Activity</a>
 </br><a href='https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/'>Wikipedia Cross-lingual Image Analysis</a> — A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance.
+
+<a name="parler"></a>
+<h3>Parler</h3>
 </br><a href="https://parler.adatascienti.st/">Parler archive</a>
-</br><a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> — Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai
+
+<a name="pornhub"></a>
+<h3>Pornhub</h3>
 </br><a href="https://sn0int.com/r/kpcyrd/pornhub">Sn0int framework module for Pornhub</a>
+
+<a name="steam"></a>
+<h3>Steam</h3>
 </br><a href='https://steamdb.info/calculator/'>steamdb.info/calculator</a> — shows how much money has been spent on games in Steam by a particular user
+<a name="xbox"></a>
+<h3>Xbox</h3>
 </br><a href='https://xboxgamertag.com/'>Xboxgamertag</a> — search Xbox Live users by nickname (gamertag). It's possible to view gamer's stats and his playing history.
+<a name="vk"></a>
+<h3>VK</h3>
+</br><a href="http://vk.city4me.com/">Vk.city4me.com</a> — tracking user online time
+<a name="office365"></a>
+<h3>Office365</h3>
+</br><a href='https://github.com/dievus/Oh365UserFinder'>Oh365UserFinder</a> — A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once.
+
+<a name="onedrive"></a>
+<h3>OneDrive</h3>
+</br><a href='https://github.com/nyxgeek/onedrive_user_enum'>Onedrive Enumeration Tool</a> — A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company.
+
+<a name="socialmediaother"></a>
+<h3>Universal</h3>
+
+</br><a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> — Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai
 </br><a href="https://kribrum.io/search">Kribrum.io</a> — searchengine for different social media platforms with filters by author and time period
-</br><a href='https://github.com/s0md3v/Zen'>Zen</a> — Tool for gathering emails of #Github users
 </br><a href='https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related'>Auto Scroll Search</a> — automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it.
 </br><a href="https://socialblade.com/">Social Blade</a> — help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more
-</br><a href="http://vk.city4me.com/">Vk.city4me.com</a> — tracking user online time
 </br><a href='https://exportcomments.com'>ExportComments</a> — Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free
-
-</br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
 </br><a href='http://lickd.co/blog/social-salary-calculator'>Social Media Salary Calculator</a> — for YouTube, TikTok, Instagram
 </br><a href='https://findmyfbid.in/'>FindMyBID</a> — Toolkit for collecting data from social networks
 </br><a href='https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp'>Social Analyzer</a> — extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them.
 </br><a href='https://khalil-shreateh.com/khalil.shtml/social_applications/'>Khalil Shreateh Social Applications</a> — More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.)
-</br><a href='https://www.githubcompare.com'>GithubCompare</a> — When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars.
-</br><a href='https://github.com/dievus/Oh365UserFinder'>Oh365UserFinder</a> — A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once.
-</br><a href='https://github.com/nyxgeek/onedrive_user_enum'>Onedrive Enumeration Tool</a> — A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company.
-
-   
 
    
 <a name="domainiplinks"></a>
@@ -992,6 +1004,7 @@
 </br><a href="https://hunter.io/">Hunter.io</a> — can link to an article to find its author and his email address 
 </br><a href='https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079'>SingleHire</a> — Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile
 </br><a href='https://github.com/sharsil/mailcat'>Mailcat</a> — find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases
+</br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
 </br><a href='http://sovaweb.herokuapp.com/'>SovaWeb</a> — web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID
 
 </br><a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> — search for profiles in social networks by nickname 
