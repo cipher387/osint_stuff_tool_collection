@@ -80,7 +80,11 @@
 <a href="#facerecognitionandseach">Face recognition and search</a></br>
 <a href="#fontindefication">Font Indenfication</a> 
 <h4><a href="#cryptocurrencies">Cryptocurrencies</a></h4>
-<h4><a href="#messengers">Messengers</a></h4> <a href="#telegram">Telegram</a></br>
+<h4><a href="#messengers">Messengers</a></h4>
+ <a href="#telegram">Telegram</a></br>
+<a href="whatsapp">WhatsApp</a></br>
+<a href="kik">Kik</a></br>
+<a href="Skype">Skype</a></br>
 <a href="#othersmessengers">Others</a>
 <h4><a href="#code">Code</a></h4>
 <h4><a href="#searchengines">Search engines</a></h4> <a href="#iot">IOT</a>
@@ -816,13 +820,10 @@
    
 <a name="messengers"></a>
 <h1>Messengers</h1>
-
-   
    
 <a name="telegram"></a>
 <h3>Telegram</h3>
 </br><a href='https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1'>Telegago</a> — Telegram search engine
-
 </br><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</a> — search by Telegram comments
 </br><a href='https://github.com/zqtay/Telegram-Message-Analyzer'>Telegram Message Analyzer</a> — Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)
 </br><a href='https://t.me/SangMataInfo_bot'>@SangMataInfo_bot</a> — forward a message from the user and find out the history of their name in Telegram
@@ -831,20 +832,27 @@
 
 </br><a href="https://github.com/pielco11/telescan">Telescan</a> — search users in groups (and in which groups is the user) by id, username or phone number
 </br><a href="https://telegcrack.com/">Telegcrack.com</a> — search in telegra.ph)
-   
-<a name="othersmessengers"></a>
-<h3>Others</h3>
 
+
+<a name="whatsapp"></a>
+<h3>WhatsApp</h3>
 </br><a href='https://Whatsanalyze.com'>whatsanalyze.com</a> — analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency)
 </br><a href='https://chatvisualizer.com'>chatvisualizer.com</a> — another #WhatsApp chat analyzer.
-</br><a href='https://kikusernames.com/search'>Kikusernames.com</a> — Kik messenger username search
-
-</br><a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> — tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token
 </br><a href="https://watools.io/download-profile-picture">Watools.io</a> — download whatsapp profile picture
-</br><a href="https://www.vedbex.com/tools/email2skype">vedbex.com/tools/email2skype</a> — finding a Skype account by email
 </br><a href='https://github.com/riz4d/WaGpScraper'>WAGSCRAPER</a> — Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images)
 
 
+<a name="kik"></a>
+<h3>Kik</h3>
+</br><a href='https://kikusernames.com/search'>Kikusernames.com</a> — Kik messenger username search
+
+<a name="slack"></a>
+<h3>Slack</h3>
+</br><a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> — tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token
+   
+<a name="Skype"></a>
+<h3>Skype</h3>
+</br><a href="https://www.vedbex.com/tools/email2skype">vedbex.com/tools/email2skype</a> — finding a Skype account by email
 
    
 <a name="code"></a>
