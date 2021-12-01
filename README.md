@@ -45,7 +45,6 @@
 <a href="#discord">Discord</a></br>
 <a href="#Yandex">Yandex</a></br>
 <a href="#instagram">Instagram</a></br>
-<a href="#socialmediaother">Universal</a></br>
 <a href="#socialmediagoogle">Google</a></br>
 <a href="#patreon">Patreon</a></br>
 <a href="#github">Github</a></br>
@@ -56,6 +55,7 @@
 <a href="#vk">VK</a></br>
 <a href="#office365">Office365</a></br>
 <a href="#onedrive">OneDrive</a></br>
+<a href="#socialmediaother">Universal</a></br>
 
 <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a></br>
 <a href="#domainipinvestigation">Domain/IP investigation</a></br>
@@ -1300,6 +1300,3 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
             
 <p>If you would like to receive a list of new instruments added to your collection 2-3 times a month, please subscribe to<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview"> email newsletter</a>.</p>
 <p>This page contains universal and global tools (with a few exceptions). You can find tools for individual countries and cities at <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a>.</p>
-
-   
-
