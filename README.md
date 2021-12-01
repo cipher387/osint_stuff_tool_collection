@@ -22,7 +22,7 @@
 <a href="#railway">Railway</a></br>
 <a href="#routes">Routes</a></br>
 <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a></br>
-<a href="#urbanindustrial">Urban and industrial infrastructure</a></br>
+<a href="urbanindustrial">Urban and industrial infrastructure</a></br>
 <a href="#publictransport">Transport</a></br>
 <a href="#communications">Communications, Internet, Technologies</a></br>
 <a href="#maptools">Tools</a></br>
@@ -317,7 +317,7 @@
 </br><a href="https://citizenevidence.amnestyusa.org/">YouTube MetaData Viewer</a>
 </br><a href="https://ytcomment.kmcat.uk/">YouTube comment Finder</a>
 </br><a href='https://montage.meedan.com'>Montage.meedan.com</a> — Search #YouTube video by date (uploaded or recording) and by geolocation.
-</br><a href="https://github.com/huhmit/slashtags"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/huhmit/slashtags?style=social"></a> Slash Tags — tool for recommending YouTube tags and displaying related statistical data from search keyword(s)
+</br><a href="https://github.com/huhmit/slashtags"> Slash Tags — tool for recommending YouTube tags and displaying related statistical data from search keyword(s)
 </br><a href='https://ytplaylist-len.herokuapp.com/'>YouTube playlist len</a> — Find out the total time of all the videos in playlist
 </br><a href="https://anilyzer.com/">Anylizer.com</a> — watch frame by frame YouTube and Vimeo)
 </br><a href='https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd'>Improve YouTube</a> — extension with dozens of different tweaks to the standard #YouTube interface
@@ -325,7 +325,7 @@
 </br><a href="http://www.watchframebyframe.com/">watchframebyframe.com</a> — watch frame by frame YouTube and Vimeo
 </br><a href="https://hadzy.com/">Hadzy.com</a> — YouTube comment search)
 
-</br><a href="https://github.com/lettapp/ytcs"><img alt="Github Icon" class="github-follow-button" src="https://img.shields.io/github/stars/lettapp/ytcs?style=social"></a> </br><a href='https://github.com/lettapp/ytcs'>Ytcs</a> — google chrome extension to search YouTube comments without leaving the site (link to source code)
+</br><a href='https://github.com/lettapp/ytcs'>Ytcs</a> — google chrome extension to search YouTube comments without leaving the site (link to source code)
 </br><a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a>
 </br><a href='https://github.com/jdepoix/youtube-transcript-api'>YouTube Transcript API</a> — Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles.
 </br><a href='https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related'>Jump Cutter</a> — An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed...
@@ -340,7 +340,7 @@
 
 </br><a href='https://tikstats.org/'>TikStats</a> — detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account
 
-</br><a href="https://github.com/drawrowfly/tiktok-scraper"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/drawrowfly/tiktok-scraper?style=social"></a></br><a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> — scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file 
+<a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> — scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file 
 </br><a href="https://tiktokd.com/">TikTokD</a> — TikTok Video Downloader
 </br><a href="https://snaptik.app/">Snaptik.app</a> — TikTok Video Downloader
 </br><a href="https://exolyt.com/">Exolyt.com</a> — TikTok profile analyze
@@ -359,7 +359,7 @@
 </br><a href="http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/">435,627,630 indexed items from that Facebook dump of recent - ready to be searched upon.</a>
 </br><a href="https://www.facebook.com/directory/people/">Facebook People Directory</a>
 
-</br><a href="https://github.com/sowdust/sowdust.github.io"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/sowdust/sowdust.github.io?style=social"></a> </br><a href='https://sowdust.github.io/fb-search/'>sowdust.github.io/fb-search</a> — search facebook posts, people and groups using URL-filtres
+</br><a href='https://sowdust.github.io/fb-search/'>sowdust.github.io/fb-search</a> — search facebook posts, people and groups using URL-filtres
 </br><a href='https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related'>Dumplt Blue</a> — GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more. 
 
 
@@ -381,9 +381,9 @@
 
 </br><a href="https://freepeoplesearchtool.com/">Freepeoplesseacrhtool.com</a> — find people in Linkedin without registration
 
-</br><a href="https://github.com/m8r0wn/crosslinked"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/m8r0wn/crosslinked?style=social"></a></br><a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> — LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+<a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> — LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 
-</br><a href="https://github.com/linkedin/datahub"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/linkedin/datahub?style=social"></a></br><a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> — linkedIn's generalized metadata search & discovery tool
+</br><a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> — linkedIn's generalized metadata search & discovery tool
 
 <a name="Xing"></a>
 <h3>Xing</h3>
@@ -469,7 +469,7 @@
 
 </br><a href='https://www.chosic.com/spotify-playlist-analyzer/'>Chosic.com</a> — analyze the playlist on Spotiify, calculate the prevailing mood, genres, decades and favorite artists
 
-</br><a href="https://github.com/spotDL/spotify-downloader"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/spotDL/spotify-downloader?style=social"></a></br><a href='https://github.com/spotDL/spotify-downloader'>Spotify downloader</a> — download spotify playlist in mp3 from YouTube
+</br><a href='https://github.com/spotDL/spotify-downloader'>Spotify downloader</a> — download spotify playlist in mp3 from YouTube
 </br><a href='http://chartmasters.org/spotify-streaming-numbers-tool/'>chartmasters.org/spotify-streaming-numbers-tool/</a> — report of the number of streams of a particular artist's tracks on Spotify
    
    
@@ -498,13 +498,13 @@
 </br><a href='https://github.com/novitae/sterraxcyl'>Sterraxcyl</a> — Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc)
 <hr>
 
-</br><a href="https://github.com/mxrch/GHunt"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/mxrch/GHunt?style=social"></a></br><a href="https://github.com/mxrch/GHunt">GHunt</a> — google account investigation tool
+</br><a href="https://github.com/mxrch/GHunt">GHunt</a> — google account investigation tool
 </br><a href="https://graphtreon.com/">Graphtreon.com</a> — patreon accounts earnings stats
 </br><a href='https://commits.top/'>Commits.top</a> — Current list of the most active @Github users by country
 </br><a href='https://gitstar-ranking.com/'>Gitstar Ranking</a> — Unofficial GitHub star ranking for users, organizations and repositories
 </br><a href='https://aykutsarac.github.io/github-rater/'>Github Rater</a> — rates GitHub profile upon data received from GitHub API
 
-</br><a href="https://github.com/altilunium/wistalk"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/altilunium/wistalk?style=social"></a></br><a href="https://github.com/altilunium/wistalk">WikiStalk : Analyze Wikipedia User's Activity</a>
+</br><a href="https://github.com/altilunium/wistalk">WikiStalk : Analyze Wikipedia User's Activity</a>
 </br><a href='https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/'>Wikipedia Cross-lingual Image Analysis</a> — A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance.
 </br><a href="https://parler.adatascienti.st/">Parler archive</a>
 </br><a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> — Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai
@@ -518,7 +518,7 @@
 </br><a href="http://vk.city4me.com/">Vk.city4me.com</a> — tracking user online time
 </br><a href='https://exportcomments.com'>ExportComments</a> — Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free
 
-</br><a href="https://github.com/qeeqbox/social-analyzer"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social"></a></br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
+</br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
 </br><a href='http://lickd.co/blog/social-salary-calculator'>Social Media Salary Calculator</a> — for YouTube, TikTok, Instagram
 </br><a href='https://findmyfbid.in/'>FindMyBID</a> — Toolkit for collecting data from social networks
 </br><a href='https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp'>Social Analyzer</a> — extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them.
@@ -542,7 +542,7 @@
 <h3>Website analyze</h3>
 
 
-</br><a href="https://github.com/abhijithb200/investigator"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/abhijithb200/investigator?style=social"></a></br><a href='https://abhijithb200.github.io/investigator/'>Investigator Recon Tool</a> — web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name.
+</br><a href='https://abhijithb200.github.io/investigator/'>Investigator Recon Tool</a> — web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name.
 
 </br><a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> — extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression
 </br><a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> — adds a bit of information from CrUX API to the standard Google search results
@@ -562,26 +562,24 @@
 </br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
 </br><a href='https://github.com/pyhackertarget/hackertarget'>Hackertarget</a> — 14 tools for gathering information about domain using Hackerarget API (http://hackertarget.com)
 
-</br><a href="https://github.com/Josue87/AnalyticsRelationships"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Josue87/AnalyticsRelationships?style=social"></a></br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
+</br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
 </br><a href="https://www.webemailextractor.com/">Webemailextractor.com</a> — extract email's and phone numbers from the website or list of website
 </br><a href="https://www.cookieserve.com/">cookieserve.com</a> — detailed website cookie analyze
 
-</br><a href="https://github.com/laramies/metagoofil"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/laramies/metagoofil?style=social"></a></br><a href="https://github.com/laramies/metagoofil">Metagoofil</a> — finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses
-</br><a href="https://github.com/loseys/Goblyn"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/loseys/Goblyn?style=social"></a>
+</br><a href="https://github.com/laramies/metagoofil">Metagoofil</a> — finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses
 </br><a href='https://github.com/loseys/Goblyn'>Goblyn</a> — tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file
 </br><a href='https://www.scraperapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=s_proxies_for_scraping_europe&utm_term=scrape%20api&gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdnurtUihUJqiJpUAtwoPqsJ1X8lSio9etK9Mgcg-fb7qp23xUF2ZscaAqcvEALw_wcB'>Scrape API</a> — Proxy API for Web Scraping
 
-</br><a href="https://github.com/enemy-submarine/pidrila"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/enemy-submarine/pidrila?style=social"></a></br><a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> — Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
+</br><a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> — Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 </br><a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> — Website Vulnerabilities Scanner
 </br><a href="https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html">SEO Spyglass Backlink checker</a>
 </br><a href='https://app.neilpatel.com/en/seo_analyzer/backlinks'>Neilpatel backlinks analyzer</a> — find out how many sites are linking to a certain web page
 
-</br><a href="https://github.com/Zarcolio/sitedorks"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Zarcolio/sitedorks?style=social"></a></br><a href="https://github.com/Zarcolio/sitedorks">Site Dorks</a>
+</br><a href="https://github.com/Zarcolio/sitedorks">Site Dorks</a>
 </br><a href='https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/'>Google (universal) Dork Builder</a> — Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database
-</br><a href="https://github.com/rlyonheart/0xdork"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/rlyonheart/0xdork?style=social"></a>
 </br><a href='https://github.com/rlyonheart/0xdork'>0xdork</a> — Very light and simple #Python tool for Google Dorking 
 
-</br><a href="https://github.com/Cillian-Collins/dirscraper"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Cillian-Collins/dirscraper?style=social"></a></br><a href="https://github.com/Cillian-Collins/dirscraper">Dirscraper</a> — OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website
+</br><a href="https://github.com/Cillian-Collins/dirscraper">Dirscraper</a> — OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website
 </br><a href='http://try.jsoup.org'>Try.jsoup.org</a> — online version of HTML pasrer http://github.com/jhy/jsoup 
 </br><a href='https://osint.sh/adsense/'>Adsense Identiicator Finder</a> — this service finds other sites belonging to the same owner or company by Google Adsense ID
 
@@ -617,33 +615,33 @@
 </br><a href='https://github.com/MrH0wl/Cloudmare'>Cloudmare</a> — Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS
 </br><a href='https://lookyloo.circl.lu/'>Lookyloo</a> — Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc)
 
-</br><a href="https://github.com/six2dez/reconftw"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/six2dez/reconftw?style=social"></a></br><a href="https://github.com/six2dez/reconftw">ReconFTW</a> — tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+</br><a href="https://github.com/six2dez/reconftw">ReconFTW</a> — tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 </br><a href="https://spyse.com/">Spyse.com</a> — domain investigation toolbox
 
-</br><a href="https://github.com/spyse-com/cli"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/spyse-com/cli?style=social"></a>Spyse CLI</a> — command line client for Spyse.com
+</br><a href="https://github.com/spyse-com/cli">Spyse CLI</a> — command line client for Spyse.com
 </br><a href='https://domaintracker.app/'>Domaintracker</a> — webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email)
 </br><a href='https://whois.marcaria.com/en'>Whois Domain Search Tool</a> — A tool that allows you to query whois data for a site name in several domain zones at once.
 </br><a href='https://www.ip-neighbors.com/host/'>IP Neighbors</a> — Find the hosting neighbors for a specific web site or hostname
 </br><a href='http://besticon.herokuapp.com/'>The Favicon Finder</a> — Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly.
 </br><a href='https://github.com/m4ll0k/SecretFinder'>SecretFinder</a> — Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files
 
-</br><a href="https://github.com/SpiderLabs/HostHunter"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/SpiderLabs/HostHunter?style=social"></a>HostHunter</a> — Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames
+</br><a href="https://github.com/SpiderLabs/HostHunter">HostHunter</a> — Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames
 </br><a href="https://torwhois.com/">Tor Whois</a>
 </br><a href='https://dnstwister.report/'>Dnstwister</a> — The anti-phishing domain name search engine and DNS monitoring service
 </br><a href='https://github.com/elceef/dnstwist'>Dnstwist</a> — Command line anti-phishing domain name search engine and DNS monitoring service
 </br><a href='https://github.com/greycatz/CloudUnflare'>CloudUnflare</a> — Reconnaissance Real IP address for Cloudflare Bypass
 
-</br><a href="https://github.com/evilsocket/ditto"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/evilsocket/ditto?style=social"></a></br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
+</br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
 </br><a href='http://radb.net/query'>RADB</a> — Provides information collected from all the registries that form part of the Internet Routing Registry
 </br><a href="https://ipinfo.io/map">IPinfo map</a> — paste up to 500,000 IPs below to see where they're located on a map
 </br><a href="https://whois.whoisxmlapi.com/database/pricing">Whois XML API Whois history database</a>
 
-</br><a href="https://github.com/hakluke/hakrawler"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/hakluke/hakrawler?style=social"></a></br><a href="https://github.com/hakluke/hakrawler">Hakrawler</a> — discover endpoints and assets
+</br><a href="https://github.com/hakluke/hakrawler">Hakrawler</a> — discover endpoints and assets
 </br><a href="https://passivedns.mnemonic.no/">Passive DNS search</a>
 </br><a href="https://talosintelligence.com/reputation_center/">Talos Intelligence Mail Server Reputation</a>
 </br><a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> — access to 74 #tools to collect domain information from a single page
 
-</br><a href="https://github.com/harshnandwana/hussh"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/harshnandwana/hussh?style=social"></a></br><a href='https://github.com/harshnandwana/hussh'>Hussh</a> — shell script for domain analyzing
+</br><a href="https://github.com/harshnandwana/hussh">Hussh</a> — shell script for domain analyzing
 </br><a href="https://www.vpnmentor.com/tools/test-the-great-china-firewall/">Check any website to see in real time if it is blocked in China</a>
 </br><a href='https://chrome.google.com/webstore/detail/analyzer/bmbhpmmhjkbmcachipmccnlcemaoiiji/related'>Ericom Page Risk Analysis</a> — Get a detailed report with links to CSS, Javascript, Fonts, XHR, Images and domains web pages
 
@@ -719,12 +717,12 @@
 
 
 
-</br><a href="https://github.com/GuidoBartoli/sherloq"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/GuidoBartoli/sherloq?style=social"></a></br><a href='http://github.com/GuidoBartoli/sherloq'>Sherloq</a> — open source image #forensic toolset made by profesional photograph Guido Bartoli
+</br><a href='http://github.com/GuidoBartoli/sherloq'>Sherloq</a> — open source image #forensic toolset made by profesional photograph Guido Bartoli
 </br><a href='https://imagecolorpicker.com/'>Image Color Picker</a> — pick color (HEX or RGB) from image or website screenshot
 
-</br><a href="https://github.com/ianare/exif-py"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ianare/exif-py?style=social"></a></br><a href='https://github.com/ianare/exif-py'>EXIF-PY</a> — get exif data of photos thrue command line
+</br><a href='https://github.com/ianare/exif-py'>EXIF-PY</a> — get exif data of photos thrue command line
 
-</br><a href="https://github.com/ageitgey/face_recognition"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ageitgey/face_recognition?style=social"></a></br><a href='https://github.com/ageitgey/face_recognition'>Face Recognition</a> — facial recognition api for Python and the command line
+</br><a href='https://github.com/ageitgey/face_recognition'>Face Recognition</a> — facial recognition api for Python and the command line
 </br><a href="https://news.myseldon.com/en/">News Myseldon</a> — from the photo looks for famous and little-known (like minor officials) people
 </br><a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a>
 </br><a href='http://ascii2d.net'>Ascii2d.net</a> — Japanese reverse image search engine for anime lovers
@@ -796,13 +794,12 @@
 </br><a href='https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1'>Telegago</a> — Telegram search engine
 
 </br><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</a> — search by Telegram comments
-</br><a href="https://github.com/zqtay/Telegram-Message-Analyzer"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/zqtay/Telegram-Message-Analyzer?style=social"></a>
 </br><a href='https://github.com/zqtay/Telegram-Message-Analyzer'>Telegram Message Analyzer</a> — Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)
 </br><a href='https://t.me/SangMataInfo_bot'>@SangMataInfo_bot</a> — forward a message from the user and find out the history of their name in Telegram
 </br><a href='https://t.me/tgscanrobot'>@tgscanrobot</a> — telegram bot to show which telegram groups a person is member of.
 </br><a href='https://tgstat.ru/en/search'>tgstat.ru/en/search</a> — search by #Telegram chats and channels (5.18 bln posts).
 
-</br><a href="https://github.com/pielco11/telescan"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/pielco11/telescan?style=social"></a></br><a href="https://github.com/pielco11/telescan">Telescan</a> — search users in groups (and in which groups is the user) by id, username or phone number
+</br><a href="https://github.com/pielco11/telescan">Telescan</a> — search users in groups (and in which groups is the user) by id, username or phone number
 </br><a href="https://telegcrack.com/">Telegcrack.com</a> — search in telegra.ph)
    
 <a name="othersmessengers"></a>
@@ -812,7 +809,7 @@
 </br><a href='https://chatvisualizer.com'>chatvisualizer.com</a> — another #WhatsApp chat analyzer.
 </br><a href='https://kikusernames.com/search'>Kikusernames.com</a> — Kik messenger username search
 
-</br><a href="https://github.com/emtunc/SlackPirate"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/emtunc/SlackPirate?style=social"></a></br><a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> — tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token
+</br><a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> — tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token
 </br><a href="https://watools.io/download-profile-picture">Watools.io</a> — download whatsapp profile picture
 </br><a href="https://www.vedbex.com/tools/email2skype">vedbex.com/tools/email2skype</a> — finding a Skype account by email
 </br><a href='https://github.com/riz4d/WaGpScraper'>WAGSCRAPER</a> — Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images)
@@ -832,11 +829,11 @@
 </br><a href='https://freemailscraper.herokuapp.com/complete-website-email-scraper'>Complete Email Scraper</a> — Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @).
 </br><a href='https://extendsclass.com/python-tester.html'>Python Code Checker</a> — quick find errors in code
 
-</br><a href="https://github.com/gwen001/github-search"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gwen001/github-search?style=social"></a></br><a href="https://github.com/gwen001/github-search">Github Search</a> — collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos
+</br><a href="https://github.com/gwen001/github-search">Github Search</a> — collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos
 </br><a href="https://sploitus.com/">Sploitus</a> — exploit and hacker's tools search engine
 </br><a href="https://leakcop.info/">Leakcop</a> — service that monitors in real-time the illegal use of source code from certain repositories on Github
 
-</br><a href="https://github.com/github/github-artifact-exporter"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/github/github-artifact-exporter?style=social"></a></br><a href="https://github.com/github/github-artifact-exporter">Github Artifact Exporter</a> — provides a set of packages to make exporting Issues easier useful for those migrating information out of Github
+</br><a href="https://github.com/github/github-artifact-exporter">Github Artifact Exporter</a> — provides a set of packages to make exporting Issues easier useful for those migrating information out of Github
 </br><a href="https://publicwww.com/">PublicWWW</a> — webpages source code search engine
 </br><a href="https://about.sourcegraph.com/">SourceGraph</a> — universal code search engine
 </br><a href="https://www.nerdydata.com/">NerdyData</a> — html/css/code search engine
@@ -857,7 +854,7 @@
 </br><a href="https://www.searchftps.net/">Napalm FTP Indexer</a>
 </br><a href='https://github.com/zquestz/s'>S</a> — Search from command line in 106 different sources
 
-</br><a href="https://github.com/megadose/OnionSearch"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/megadose/OnionSearch?style=social"></a></br><a href="https://github.com/megadose/OnionSearch">Onion Search</a>
+</br><a href="https://github.com/megadose/OnionSearch">Onion Search</a>
 </br><a href="https://recruitin.net/">Recruitin.net</a> — easily use Google to search profiles on LinkedIn
 </br><a href='http://filesearch.link'>Cloud File Search Engine</a> — search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc) 
 </br><a href='https://uvrx.com'>URVX</a> — Based by Google Custom Search tool for searching in popular cloud storages service
@@ -877,7 +874,7 @@
 </br><a href='http://osint.sh/buckets'>osint.sh/buckets</a> — Azure Public Buckets Search
 </br><a href='https://www.listennotes.com/'>Listennotes</a> — Podcast Search Engine
 
-</br><a href="https://github.com/BullsEye0/google_dork_list"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/BullsEye0/google_dork_list?style=social"></a></br><a href="https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt">Google Dorks List</a>
+</br><a href="https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt">Google Dorks List</a>
 </br><a href='https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related'>Overload Search</a> — Advanced query builder in #Google with the possibilities: change the language and country of your search, disable safe search,disable personalization of search results ("filter bubble")
 </br><a href='https://tools.digitalmethods.net/beta/scrapeGoogle/autocomplete.php'>Google Autocomplete Scraper</a> — One of the best ways to learn more about a person, company, or subject is to see what people are more likely to type in a search engine along with it.
 </br><a href='https://github.com/TheSpeedX/SDorker'>SDorker</a> — Type the Google Dork and get the list of the pages, that came up with this query.
@@ -887,10 +884,10 @@
 </br><a href='https://thereisabotforthat.com/bots/search'>thereisabotforthat.com</a> — search by catalog of 5151 bots for 17 different apps and platforms
 </br><a href='https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related'>Auto Searcher</a> — One by one types words from a given list into the search bar of #Google, #Bing, or another search engine
 
-</br><a href="https://github.com/Ibit-to/google-unlocked"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Ibit-to/google-unlocked?style=social"></a></br><a href='https://github.com/Ibit-to/google-unlocked'>Google Unlocked</a> — browser extension uncensor google search results
+</br><a href='https://github.com/Ibit-to/google-unlocked'>Google Unlocked</a> — browser extension uncensor google search results
 </br><a href='https://www.iconfinder.com/search'>Iconfinder.com</a> — Icons Search Engine
 
-</br><a href="https://github.com/infokiller/web-search-navigator"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/infokiller/web-search-navigator?style=social"></a></br><a href='https://github.com/infokiller/web-search-navigator'>Web Search Navigator</a> — extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
+</br><a href='https://github.com/infokiller/web-search-navigator'>Web Search Navigator</a> — extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
 </br><a href="https://datasetsearch.research.google.com/">Google Datasets Search</a>
 </br><a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a>
 </br><a href="http://dnmugu4755642434.onion.pet/captcha">KILOS Darknet Search Engine</a>
@@ -898,12 +895,12 @@
 </br><a href="https://presearch.org/">Presearch.org</a> — privately decentralized search engine, powered by #blockchain technology
 </br><a href="https://milled.com/search">milled.com</a> — search engine for searching through the texts of email marketing messages
 
-</br><a href="https://github.com/Araekiel/orion"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Araekiel/orion?style=social"></a></br><a href='https://github.com/Araekiel/orion'>Orion</a> — open-Source Search Engine for social networking websites.
+</br><a href='https://github.com/Araekiel/orion'>Orion</a> — open-Source Search Engine for social networking websites.
 </br><a href='https://www.soundeffectssearch.com/find-a-sound-library/'>soundeffectssearch.com</a> — find a sound library
 </br><a href='https://packettotal.com/app/search'>PacketTotal</a> — .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze.
 </br><a href='https://github.com/searxng/searxng'>SearXNG</a> — Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor
 
-</br><a href="https://github.com/jarun/googler"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/jarun/googler?style=social"></a></br><a href='https://github.com/jarun/googler'>Googler</a> — command line google search tool
+</br><a href='https://github.com/jarun/googler'>Googler</a> — command line google search tool
 </br><a href='https://goosh.org/'>goosh.org</a> — online google search command line tool
 </br><a href='https://searchall.net'>searchall.net</a> — 75 fields for quick entry of queries to different search services on one page
 
@@ -944,11 +941,11 @@
 </br><a href='https://www.webarchive.org.uk/'>UKWA</a> — archive of more than half a billion saved English-language web pages (data from 2013)
 </br><a href='https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related'>Web Archives</a> — extension for viewing cached web page version in 18 search engines and services
 
-</br><a href="https://github.com/gaetanlhf/EasyCache"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gaetanlhf/EasyCache?style=social"></a></br><a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> — quick search website old versions in different search engines and archives
+</br><a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> — quick search website old versions in different search engines and archives
 </br><a href='https://cachedview.b4your.com/en/'>cachedview.b4your.com</a> — quick search website old versions in different search engines and archives
 </br><a href='https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#'>Internet Archive Wayback Machine Link Ripper</a> — Enter a host or URL to retrieve the links to the URL's archived versions at http://wayback.archive.org. A text file is produced which lists the archive URLs.
 
-</br><a href="https://github.com/jsvine/waybackpack"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/jsvine/waybackpack?style=social"></a></br><a href='https://github.com/jsvine/waybackpack'>Waybackpack</a> — download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) 
+</br><a href='https://github.com/jsvine/waybackpack'>Waybackpack</a> — download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) 
 <p>
 
 
@@ -986,7 +983,6 @@
 </br><a href="http://metricsparrow.com/toolkit/email-permutator/">Metric Sparrow email permulator</a>
 </br><a href='https://snov.io/email-finder'>snov.io email finder</a> — find emails of company employees by domain name.
 </br><a href='https://t.me/maigret_osint_bot'>@maigret_osint_bot</a> — check accounts by username on 1500 sites. Based on maigret CLI tool
-</br><a href="https://github.com/WildSiphon/Mailfoguess"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/WildSiphon/Mailfoguess?style=social"></a>
 </br><a href='https://github.com/WildSiphon/Mailfoguess'>Mailfoguess</a> — tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails
 </br><a href='https://www.loc.gov/collections/united-states-telephone-directory-collection/'>USA Telephone Directory Collection</a> — 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987
 </br><a href='http://www.oldphonebook.com/'>Oldphonebook</a> — USA phonenumbers database from 1994 to 2014
@@ -995,20 +991,20 @@
 </br><a href='https://github.com/CYB3R-G0D/SPY'>Spy</a> — Just another very quick and simple account checker by username (210 sites in list).
 </br><a href="https://hunter.io/">Hunter.io</a> — can link to an article to find its author and his email address 
 </br><a href='https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079'>SingleHire</a> — Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile
-</br><a href="https://github.com/sharsil/mailcat"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/sharsil/mailcat?style=social"></br><a href='https://github.com/sharsil/mailcat'>Mailcat</a> — find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases
+</br><a href='https://github.com/sharsil/mailcat'>Mailcat</a> — find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases
 </br><a href='http://sovaweb.herokuapp.com/'>SovaWeb</a> — web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID
 
-</br><a href="https://github.com/Rog3rSm1th/Profil3r"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Rog3rSm1th/Profil3r?style=social"></a></br><a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> — search for profiles in social networks by nickname 
-</br><a href="https://github.com/BLINKING-IDIOT/Aliens_eye"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/BLINKING-IDIOT/Aliens_eye?style=social"></a>
+</br><a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> — search for profiles in social networks by nickname 
+
 </br><a href='https://github.com/BLINKING-IDIOT/Aliens_eye'>Aliens eye</a> — Find links to social media accounts in 70 websites by username
 </br><a href='https://github.com/rlyonheart/thorndyke'>Thorndyke</a> — Checks the availability of a specified username on over 200 websites
 </br><a href='https://github.com/soxoj/marple'>Marple</a> — It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results.
 
-</br><a href="https://github.com/megadose/holehe"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/megadose/holehe?style=social"></a></br><a href="https://github.com/megadose/holehe">Holehe</a> — check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function 
+</br><a href="https://github.com/megadose/holehe">Holehe</a> — check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function 
 
-</br><a href="https://github.com/khast3x/h8mail"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/khast3x/h8mail?style=social"></a></br><a href="https://github.com/khast3x/h8mail">H8mail</a> — email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent
+</br><a href="https://github.com/khast3x/h8mail">H8mail</a> — email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent
 
-</br><a href="https://github.com/cipher387/pastebinsearchengines"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/cipher387/pastebinsearchengines?style=social"></a></br><a href="https://cipher387.github.io/pastebinsearchengines/">My CSE for search in 48 pastebin sites</a>
+</br><a href="https://cipher387.github.io/pastebinsearchengines/">My CSE for search in 48 pastebin sites</a>
 </br><a href='https://psbdmp.ws'>Psbdmp.ws</a> — search sensitive user data by 25 759 511 pastebins
 </br><a href="https://mailboxlayer.com/">MailBoxLayer API</a> — free api for email adress checking
 </br><a href='https://tools.emailhippo.com/email/'>EmailHippo</a> — Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale.
@@ -1039,7 +1035,7 @@
 </br><a href="http://inmateinfo.indy.gov/IML">Inmate Database Search</a>
 </br><a href="http://scamdigger.com/">Scamdigger.com</a> — search in #scammers database by name, IP-adress, email or phone
 
-</br><a href="https://github.com/snooppr/snoop"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/snooppr/snoop?style=social"></a>
+
 </br><a href='https://github.com/snooppr/snoop'></a> — Search users profile by nickname
 </br><a href='https://github.com/d8rkmind/Pyosint'>Pyosint</a> — Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services
 </br><a href='https://www.cloob.com/profile/search/index'>Cloob.com</a> — Iranian people search
@@ -1087,7 +1083,7 @@
 </br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
 </br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
 
-</br><a href="https://github.com/gephi/gephi"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gephi/gephi?style=social"></a></br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
+</br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
 </br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
 </br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chromw extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
 </br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites
@@ -1096,7 +1092,7 @@
 </br><a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a>
 </br><a href='https://products.groupdocs.app/metadata/'>Online metadata viewer and editor</a> — High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp.
 
-</br><a href="https://github.com/httpcats/http.cat"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/httpcats/http.cat?style=social"></a></br><a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> — free #API to get pictures with cats for different HTTP response codes
+</br><a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> — free #API to get pictures with cats for different HTTP response codes
 </br><a href="https://gitpod.io/workspaces">Gitpod.io</a> — run code from repositories on Github directly in a browser
 </br><a href="https://crackstation.net/">CrackStation.net</a> — password hash cracker
 </br><a href="https://www.functions-online.com/">Run PHP functions online</a>
@@ -1109,7 +1105,7 @@
 </br><a href="https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php">Open Multiple Links ☷ One Click</a>
 </br><a href="https://tobloef.com/text2mindmap/">Tobloef.com</a> — text to mind map
 
-</br><a href="https://github.com/gchq/CyberChef"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/gchq/CyberChef?style=social"></a></br><a href="https://gchq.github.io/CyberChef/">CyberChef</a> — collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
+</br><a href="https://gchq.github.io/CyberChef/">CyberChef</a> — collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
 </br><a href="https://www.textise.net/">Textise.net</a> — convert the HTML code of a page to TXT
 </br><a href="https://shadowcrypt.net/tools/">Shadowcrypt Tools</a> — 24 online tools for OSINT, network scanning, MD5 encryption and many others
 
@@ -1119,50 +1115,50 @@
 <a name="toolscollection"></a>
 <h1>Tools collections</h1>
 
-</br><a href="https://github.com/HOPain/OSINT-Search-Tools"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/HOPain/OSINT-Search-Tools?style=social"></a>
+
 </br><a href='http://git.hopain.cyou/OSINT-Search-Tools/'>Osint Search Tools</a> — Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes...
-<img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/matamorphosis/Scrummage?style=social"></br><a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> — Ultimate OSINT and Threat Hunting Framework
+</br><a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> — Ultimate OSINT and Threat Hunting Framework
 
 
-</br><a href="https://github.com/Lucksi/Mr.Holmes"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Lucksi/Mr.Holmes?style=social"></a></br><a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> — osint toolkit for gathering information about domains, phone numbers and social media accounts
+</br><a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> — osint toolkit for gathering information about domains, phone numbers and social media accounts
 
 </br><a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'>
-</br><a href="https://github.com/C0MPL3XDEV/E4GL30S1NT"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/C0MPL3XDEV/E4GL30S1NT?style=social"></a>E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
+E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 
 </br><a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> — Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations
 </br><a href='https://addons.mozilla.org/ru/firefox/addon/foxyrecon/'>FoxyRecon</a> — 44 osint tools in one add-on for #Firefox
 
-</br><a href="https://github.com/saeeddhqan/Maryam"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/saeeddhqan/Maryam?style=social"></a></br><a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> — modular open-source framework based on OSINT and data gathering
+</br><a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> — modular open-source framework based on OSINT and data gathering
 </br><a href='https://github.com/j3ssie/metabigor'>Metabigoor</a> — Simple and fast #osint framework
 </br><a href='https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221'>Oryon OSINT query tool</a> — Construct investigations links in Google Sheet
-</br><a href="https://github.com/leebaird/discover"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/leebaird/discover?style=social"></a>
+
 </br><a href='https://github.com/leebaird/discover'>Discover</a> — Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one)
 
-</br><a href="https://github.com/one-plus/one-plus.github.com"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/one-plus/one-plus.github.com?style=social"></a></br><a href='https://one-plus.github.io/DocumentSearch'>one-plus.github.io/DocumentSearch</a> — Document Search osint Toolkit
+</br><a href='https://one-plus.github.io/DocumentSearch'>one-plus.github.io/DocumentSearch</a> — Document Search osint Toolkit
 </br><a href="https://t.me/HowToFindBot">Telegram HowToFindBot</a>
 
-</br><a href="https://github.com/Te-k/harpoon"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Te-k/harpoon?style=social"></a></br><a href="https://github.com/Te-k/harpoon">Harpoon</a>
+</br><a href="https://github.com/Te-k/harpoon">Harpoon</a>
 
-</br><a href="https://github.com/d8rkmind/Profounder"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/d8rkmind/Profounder?style=social"></a></br><a href='https://github.com/d8rkmind/Profounder'>Profounder</a> — searching users by nickname and scrapping url's from website
+</br><a href='https://github.com/d8rkmind/Profounder'>Profounder</a> — searching users by nickname and scrapping url's from website
 
-</br><a href="https://github.com/AzizKpln/Moriarty-Project"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/AzizKpln/Moriarty-Project?style=social"></a></br><a href="https://github.com/AzizKpln/Moriarty-Project">Moriarty Project</a>
+</br><a href="https://github.com/AzizKpln/Moriarty-Project">Moriarty Project</a>
 </br><a href="https://osintcombine.tools/">Osintcombine Tools</a>
 
-</br><a href="https://github.com/Bafomet666/OSINT-SAN"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/Bafomet666/OSINT-SAN?style=social"></a></br><a href="https://github.com/Bafomet666/OSINT-SAN">OSINT-SAN</a>
+</br><a href="https://github.com/Bafomet666/OSINT-SAN">OSINT-SAN</a>
 
-</br><a href="https://github.com/ninoseki/mihari"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ninoseki/mihari?style=social"></a></br><a href="https://github.com/ninoseki/mihari">Mihari</a>
+</br><a href="https://github.com/ninoseki/mihari">Mihari</a>
 
-</br><a href="https://github.com/one-plus/one-plus.github.com"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/one-plus/one-plus.github.com?style=social"></a></br><a href="https://one-plus.github.io/Instagram">One Plus OSINT Toolkit</a>
+</br><a href="https://one-plus.github.io/Instagram">One Plus OSINT Toolkit</a>
 
-</br><a href="https://github.com/umair9747/vichiti"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/umair9747/vichiti?style=social"></a></br><a href="https://github.com/umair9747/vichiti">Vichiti</a>
+</br><a href="https://github.com/umair9747/vichiti">Vichiti</a>
 
-</br><a href="https://github.com/pawlaczyk/sarenka"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/pawlaczyk/sarenka?style=social"></a></br><a href="https://github.com/pawlaczyk/sarenka">Sarenka</a>
+</br><a href="https://github.com/pawlaczyk/sarenka">Sarenka</a>
 </br><a href="https://www.vedbex.com/tools/home">Vedbex.com</a>
 </br><a href="https://synapsint.com/">Synapsint.com</a>
 
 </br><a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> — Swiff knife for #osint
 
-</br><a href="https://github.com/ivre/ivre"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/ivre/ivre?style=social"></a></br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
+</br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
 
    
 <a name="virtualmachines"></a>
@@ -1176,16 +1172,16 @@
 <a name="files"></a>
 <h1>Files</h1>
 
-<img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/cipher387/grep_for_osint?style=social"></br><a href='https://github.com/cipher387/grep_for_osint'>Grep for OSINT</a> — simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory
+</br><a href='https://github.com/cipher387/grep_for_osint'>Grep for OSINT</a> — simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory
 </br><a href='http://diffnow.com'>Diffnow.com</a> — Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc).
 </br><a href='https://www.imaios.com/en/Imaios-Dicom-Viewer'>Dicom Viewer</a> — view MRI or CT photo online (.DCM files)
 </br><a href='https://pypi.org/project/wenku/'>Wenku</a> — download documents from Baidu Wenku without registration
 </br><a href='https://github.com/mnismt/CompressedCrack'>CompressedCrack</a> — Simple tool for brute passwords for ZIP and RAR archives
 </br><a href='https://www.protectedzip.com/'>Encrytped ZIP file creator</a> — Create ZIP archive online
-</br><a href="https://github.com/metachris/pdfx"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/metachris/pdfx?style=social"></a></br><a href='https://github.com/metachris/pdfx'>PDFX</a> — get meta data of PDF files thrue command line
+</br><a href='https://github.com/metachris/pdfx'>PDFX</a> — get meta data of PDF files thrue command line
 </br><a href='https://t.me/mediainforobot'>@mediainforobot</a> — telegram bot to getting metadata from different types of files
 
-</br><a href="https://github.com/quodlibet/mutagen"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/quodlibet/mutagen?style=social"></a></br><a href='https://github.com/quodlibet/mutagen'>Mutagen</a> — get meta data of audiofiles thrue command line
+</br><a href='https://github.com/quodlibet/mutagen'>Mutagen</a> — get meta data of audiofiles thrue command line
 </br><a href='https://compress-or-die.com/analyze'>compress-or-die.com/analyze</a> — get detail information about images (exif, metatags, ICC_Profile, quantanisation tables)
 </br><a href='https://voyant-tools.org/'>voyant-tools.org</a> — analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types.
 </br><a href="https://www.aconvert.com/analyze.html">Analyze file format online</a>
@@ -1223,9 +1219,8 @@
 <a name="appsprograms"></a>
 <h1>Apps and programs</h1>
 
-</br><a href="https://asotools.io/en">Asotools: Google Play and App Store keyword search</a>
-<img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/facundoolano/google-play-scraper?style=social"></br><a href='https://github.com/facundoolano/google-play-scraper'>Google Play Scraper</a> — get the most detailed metadata about the app from GooglePlay
-<img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/facundoolano/app-store-scraper?style=social"></br><a href='https://github.com/facundoolano/app-store-scraper'>App Store Scraper</a> — get the most detailed metadata about the app from AppStore
+</br><a href='https://github.com/facundoolano/google-play-scraper'>Google Play Scraper</a> — get the most detailed 
+</br><a href='https://github.com/facundoolano/app-store-scraper'>App Store Scraper</a> — get the most detailed metadata about the app from AppStore
 
 
 
@@ -1239,7 +1234,7 @@
 <h3>Amazon</h3>
 
 
-</br><a href="https://github.com/scrapehero-code/amazon-scraper"><img alt="Github icon" class="github-follow-button" src="https://img.shields.io/github/stars/scrapehero-code/amazon-scraper?style=social"></a></br><a href='https://github.com/scrapehero-code/amazon-scraper'>Amazon Scraper</a> — scraped detail information about list of items
+</br><a href='https://github.com/scrapehero-code/amazon-scraper'>Amazon Scraper</a> — scraped detail information about list of items
 </br><a href='https://www.imeipro.info/check_imei_iphone.html'>iPhone IMEI Checker</a> — Get information about #iPhone by International Mobile Equipment Identity
 </br><a href='https://search.gleif.org/#/search/'>LEI search</a> — can help find "who owned by" or "who owns"
 </br><a href="https://amazon-asin.com/">Amazon ASIN Finder</a>
