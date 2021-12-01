@@ -63,7 +63,7 @@
 <a href="#backlinks">Backlinks analyze</a></br>
 <a href="#redirect">Redirect lookup</a></br>
 <a href="#cookies">Cookies analyze</a></br>
-<a href="#websitemetadata">Website's files metadata analyze</a></br>
+<a name="websitemetadata">Website's files metadata analyze</a></br>
 <a href="#websiteanalyze">Website analyze</a></br>
 <a href="#domainipinvestigation">Domain/IP investigation</a></br>
 <a href="#subdomains">Subdomains scan/brute</a></br>
@@ -73,6 +73,11 @@
 <a href="#websitetechnologylookup">Website technology look up</a></br>
 <a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a></br>
 <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
+<a href="#reverseimagesearchengines">Reverse Image Search Engines</a></br>
+<a href="#otherimagesearchengines">Other Image Search Engines</a></br>
+<a href="#imageforensic">Image Analyze</a></br>
+<a href="#exifanalyze">Exif Analyze and Editing</a></br>
+<a href="#facerecognitionandseach">Face recognition and search</a></br>
 <a href="#fontindefication">Font Indenfication</a> 
 <h4><a href="#cryptocurrencies">Cryptocurrencies</a></h4>
 <h4><a href="#messengers">Messengers</a></h4> <a href="#telegram">Telegram</a></br>
@@ -622,10 +627,6 @@
 </br><a href='https://gofindwhois.com/'>GoFindWhois</a> — More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze.
 </br><a href='https://www.spyfu.com/overview/domain'>Spyfu</a> — tool to collect seo information about the domain, which provide a lot of data partly for free
 </br><a href="https://spyse.com/">Spyse.com</a> — domain investigation toolbox
-
-
-
-
 </br><a href="https://github.com/spyse-com/cli">Spyse CLI</a> — command line client for Spyse.com
 </br><a href='https://domaintracker.app/'>Domaintracker</a> — webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email)
 </br><a href='https://whois.marcaria.com/en'>Whois Domain Search Tool</a> — A tool that allows you to query whois data for a site name in several domain zones at once.
@@ -635,7 +636,6 @@
 </br><a href="https://torwhois.com/">Tor Whois</a>
 </br><a href='https://dnstwister.report/'>Dnstwister</a> — The anti-phishing domain name search engine and DNS monitoring service
 </br><a href='https://github.com/elceef/dnstwist'>Dnstwist</a> — Command line anti-phishing domain name search engine and DNS monitoring service
-
 </br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
 </br><a href='http://radb.net/query'>RADB</a> — Provides information collected from all the registries that form part of the Internet Routing Registry
 </br><a href="https://ipinfo.io/map">IPinfo map</a> — paste up to 500,000 IPs below to see where they're located on a map
@@ -738,45 +738,56 @@
 <h1>Image Search and Identification</h1>
 
    
-
-
-
-</br><a href='http://github.com/GuidoBartoli/sherloq'>Sherloq</a> — open source image #forensic toolset made by profesional photograph Guido Bartoli
-</br><a href='https://imagecolorpicker.com/'>Image Color Picker</a> — pick color (HEX or RGB) from image or website screenshot
-
-</br><a href='https://github.com/ianare/exif-py'>EXIF-PY</a> — get exif data of photos thrue command line
-
-</br><a href='https://github.com/ageitgey/face_recognition'>Face Recognition</a> — facial recognition api for Python and the command line
+<a name="reverseimagesearchengines"></a>
+<h3>Reverse Image Search Engines</h3>
 </br><a href="https://news.myseldon.com/en/">News Myseldon</a> — from the photo looks for famous and little-known (like minor officials) people
-</br><a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a>
-</br><a href='http://ascii2d.net'>Ascii2d.net</a> — Japanese reverse image search engine for anime lovers
-</br><a href='http://exif.app'>Exif.app</a> — Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow
-</br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
-</br><a href='https://4qrcode.com/scan-qr-code.php'>Scan QR Code</a> — While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture
-</br><a href="https://identify.plantnet.org/">Identify plans</a>
-</br><a href="http://facemaker.uvrg.org/">Facial composite (identikit) maker</a>
-</br><a href="https://search4faces.com/">Search4faces.com</a> — search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit
-</br><a href="https://www.forensicdots.de/">Forensicdots.de</a> — find "yellow dots" (Machine Identification Code) in printed documents
-</br><a href="https://t.me/facematch_bot">Telegram Facemath bot</a> — searching for a face among the archive of photographs from public events in Kazakhstan
-</br><a href="https://searchbyimage.app/">Searchbyimage.app</a> — search clothes in online shops
+</br><a href='http://ascii2d.net'>Ascii2d.net</a> — Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download
+ </br><a href="https://searchbyimage.app/">Searchbyimage.app</a> — search clothes in online shops
 </br><a href="https://www.aliseeks.com/search">Aliseeks.com</a> — search items by photo in AliExpress and Ebay
-</br><a href='https://vsudo.net/tools/geotag'>Vsudo Geotag Tool</a> — tool for mass geotagging of photos
-</br><a href="https://www.diffchecker.com/image-diff/">Image Diff Checker</a>
 </br><a href="https://lykdat.com/">lykdat.com</a> — clothing reverse image search services
-</br><a href="https://snradar.azurewebsites.net/">SN Radar VK Photo Search</a>
 </br><a href="https://iqdb.org/">IQDB.org</a> — reverse image search specially for anime art
 </br><a href="https://pic.sogou.com/">pic.sogou.com</a> — chinese reverse image search engine
 </br><a href="https://same.energy/">Same Energy</a> — reverse image search engine for finding beautiful art and photos in the same style as the original picture
 </br><a href='https://www.everypixel.com/'>EveryPixel</a> — Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images.
 </br><a href='https://openi.nlm.nih.gov/gridquery'>openi.nlm.nih.gov</a> — Reverse image search engine for scientific and medical images
 </br><a href='https://ru.depositphotos.com/search/by-images.html'>DepositPhotos Reverse Image Search</a> — tool for reverse image search (strictly from DepositPhoto's collection of 222 million files).
-</br><a href='http://zeus.robots.ox.ac.uk/bbc_search/'>BBC News Visual Search</a> — Enter the name of the item and the service will show in which news stories and at what time interval it appeared
 </br><a href='http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree'>Portrait Matcher</a> — Upload a picture of a face and get three paintings that show similar people.
 </br><a href="https://image.so.com/">Image So Search</a> — Qihoo 360 Reverse Images Search
+
+
+<a name="otherimagesearchengines"></a>
+<h3>Other Image Search Engines</h3>
+</br><a href="https://snradar.azurewebsites.net/">SN Radar VK Photo Search</a>
+</br><a href='http://zeus.robots.ox.ac.uk/bbc_search/'>BBC News Visual Search</a> — Enter the name of the item and the service will show in which news stories and at what time interval it appeared
+
+
+<a name="imageforensic"></a>
+<h3>Image Analyze</h3>
+</br><a href='http://github.com/GuidoBartoli/sherloq'>Sherloq</a> — open source image #forensic toolset made by profesional photograph Guido Bartoli
+</br><a href='https://imagecolorpicker.com/'>Image Color Picker</a> — pick color (HEX or RGB) from image or website screenshot
+</br><a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a>
 </br><a href="http://www.imageforensic.org/">Image Forensic (Ghiro Online)</a>
 
 
-   
+
+
+<a name="exifanalyze"></a>
+<h3>Exif Analyze and editing</h3>
+</br><a href='https://github.com/ianare/exif-py'>EXIF-PY</a> — get exif data of photos thrue command line
+</br><a href='http://exif.app'>Exif.app</a> — Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow
+</br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
+</br><a href='https://4qrcode.com/scan-qr-code.php'>Scan QR Code</a> — While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture
+</br><a href="https://identify.plantnet.org/">Identify plans</a>
+</br><a href="https://www.forensicdots.de/">Forensicdots.de</a> — find "yellow dots" (Machine Identification Code) in printed documents
+</br><a href="https://www.diffchecker.com/image-diff/">Image Diff Checker</a>
+</br><a href='https://vsudo.net/tools/geotag'>Vsudo Geotag Tool</a> — tool for mass geotagging of photos
+
+<a name="facerecognitionandseach"></a>
+<h3>Face recognition and search</h3>
+</br><a href='https://github.com/ageitgey/face_recognition'>Face Recognition</a> — facial recognition api for Python and the command line
+</br><a href="http://facemaker.uvrg.org/">Facial composite (identikit) maker</a>
+</br><a href="https://search4faces.com/">Search4faces.com</a> — search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit
+</br><a href="https://t.me/facematch_bot">Telegram Facemath bot</a> — searching for a face among the archive of photographs from public events in Kazakhstan
    
 <a name="fontindefication"></a>
 <h3>Font Indenfication</h3>
@@ -787,11 +798,6 @@
 </br><a href="https://www.fontspring.com/matcherator">Font Spring</a>
 </br><a href="http://www.identifont.com/">Identifont.com</a>
 </br><a href="https://en.likefont.com/">LikeFont.com</a>
-
-
-   
-   
-
 
 
    
@@ -1313,5 +1319,4 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 <p>If you would like to receive a list of new instruments added to your collection 2-3 times a month, please subscribe to<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview"> email newsletter</a>.</p>
 <p>This page contains universal and global tools (with a few exceptions). You can find tools for individual countries and cities at <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a>.</p>
 
-   
-
+  
