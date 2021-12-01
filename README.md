@@ -57,8 +57,17 @@
 <a href="#onedrive">OneDrive</a></br>
 <a href="#socialmediaother">Universal</a></br>
 
-<h4><a href="#domainiplinks">Domain/IP/Links</a></h4> <a href="#websiteanalyze">Website analyze</a></br>
+<h4><a href="#domainiplinks">Domain/IP/Links</a></h4> 
+<a href="#dorks">Dorks/Pentest/Vulnerabilities</a></br>
+<a href="#scrapers">Searchers, scrapers, extractors, parsers</a></br>
+<a href="#backlinks">Backlinks analyze</a></br>
+<a href="#redirect">Redirect lookup</a></br>
+<a href="#cookies">Cookies analyze</a></br>
+<a name="websitemetadata">Website's files metadata analyze</a></br>
+<a href="#websiteanalyze">Website analyze</a></br>
 <a href="#domainipinvestigation">Domain/IP investigation</a></br>
+<a href="#subdomains">Subdomains scan/brute</a></br>
+<a href="#cloudfare">Cloudfare</a></br>
 <a href="#databasesofdomains">Databases of domains</a></br>
 <a href="#websitetetrafficlookup">Website traffic look up</a></br>
 <a href="#websitetechnologylookup">Website technology look up</a></br>
@@ -545,54 +554,62 @@
 <a name="domainiplinks"></a>
 <h1>Domain/IP/Links</h1>
 
-   
-
-
-   
-   
-<a name="websiteanalyze"></a>
-<h3>Website analyze</h3>
-
-
+<a name="dorks"></a>
+<h3>Dorks/Pentest/Vulnerabilities</h3>
 </br><a href='https://abhijithb200.github.io/investigator/'>Investigator Recon Tool</a> — web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name.
-
-</br><a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> — extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression
-</br><a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> — adds a bit of information from CrUX API to the standard Google search results
-</br><a href='https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related'>WhatRuns</a> — extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts.
-</br><a href='https://bgpview.io/'>BGPView</a> — web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more
-</br><a href="https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn">Google Chrome webpage Regexp search</a>
-</br><a href='https://chrome.google.com/webstore/detail/regex-checker/gkcnkoebkkppbapcjifgokmpcflfhbde'>Regex Checker</a> — Search and highlight (in webpage): Emails, Phone numbers, Dates, Prices, Addresses
-</br><a href="https://redirectdetective.com/">Redirect Detective</a> — tool that allows you to do a full trace of a URL Redirect
-</br><a href="https://wheregoes.com/">Wheregoes.com</a> — tool that allows you to do a full trace of a URL Redirect
-</br><a href="https://www.spyoffers.com/">Spyoffers.com</a> — tool that allows you to do a full trace of a URL Redirect
-</br><a href="https://www.cookiemetrix.com/">Determines if website is not comply with EU Cookie Law and gives you insight about cookies installed from website before the visitors consent</a>
-</br><a href="https://2gdpr.com/">Audits website cookies, online tracking and HTTPS usage for GDPR compliance</a>
-</br><a href="https://tosdr.org/">Terms of Service Didn't Read</a> — find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps
-</br><a href='https://analyzeid.com'>analyzeid.com</a> — find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches
-</br><a href='https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related'>moarTLS Analyzer</a> — addon which check all links on the webpage and show list of non-secure links.
-</br><a href='https://mmhdan.herokuapp.com'>MMHDAN</a> — Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines
-</br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
-</br><a href='https://github.com/pyhackertarget/hackertarget'>Hackertarget</a> — 14 tools for gathering information about domain using Hackerarget API (http://hackertarget.com)
-
-</br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
-</br><a href="https://www.webemailextractor.com/">Webemailextractor.com</a> — extract email's and phone numbers from the website or list of website
-</br><a href="https://www.cookieserve.com/">cookieserve.com</a> — detailed website cookie analyze
-
-</br><a href="https://github.com/laramies/metagoofil">Metagoofil</a> — finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses
-</br><a href='https://github.com/loseys/Goblyn'>Goblyn</a> — tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file
-</br><a href='https://www.scraperapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=s_proxies_for_scraping_europe&utm_term=scrape%20api&gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdnurtUihUJqiJpUAtwoPqsJ1X8lSio9etK9Mgcg-fb7qp23xUF2ZscaAqcvEALw_wcB'>Scrape API</a> — Proxy API for Web Scraping
-
-</br><a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> — Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
-</br><a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> — Website Vulnerabilities Scanner
-</br><a href="https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html">SEO Spyglass Backlink checker</a>
-</br><a href='https://app.neilpatel.com/en/seo_analyzer/backlinks'>Neilpatel backlinks analyzer</a> — find out how many sites are linking to a certain web page
-
 </br><a href="https://github.com/Zarcolio/sitedorks">Site Dorks</a>
 </br><a href='https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/'>Google (universal) Dork Builder</a> — Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database
 </br><a href='https://github.com/rlyonheart/0xdork'>0xdork</a> — Very light and simple #Python tool for Google Dorking 
+</br><a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> — Website Vulnerabilities Scanner
+</br><a href='https://dorks.faisalahmed.me'>dorks.faisalahmed.me</a> — online constructor of google dorks for searching "sensitive" wesite pages
+</br><a href='https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan'>Fast Google Dorks Scan</a> — Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks.
+</br><a href='http://ixss.warsong.pw/xssor/'>ixss.warsong.pw</a> — very old service for making XSS (Cross Site Scripting) faster and easier
+</br><a href="https://github.com/six2dez/reconftw">ReconFTW</a> — tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
-</br><a href="https://github.com/Cillian-Collins/dirscraper">Dirscraper</a> — OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website
+
+<a name="scrapers"></a>
+<h3>Searchers, scrapers, extractors, parsers</h3>
+</br><a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> — extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression
+</br><a href="https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn">Google Chrome webpage Regexp search</a>
+</br><a href='https://chrome.google.com/webstore/detail/regex-checker/gkcnkoebkkppbapcjifgokmpcflfhbde'>Regex Checker</a> — Search and highlight (in webpage): Emails, Phone numbers, Dates, Prices, Addresses
+</br><a href='https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related'>moarTLS Analyzer</a> — addon which check all links on the webpage and show list of non-secure links
+</br><a href='https://www.scraperapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=s_proxies_for_scraping_europe&utm_term=scrape%20api&gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdnurtUihUJqiJpUAtwoPqsJ1X8lSio9etK9Mgcg-fb7qp23xUF2ZscaAqcvEALw_wcB'>Scrape API</a> — Proxy API for Web Scraping
 </br><a href='http://try.jsoup.org'>Try.jsoup.org</a> — online version of HTML pasrer http://github.com/jhy/jsoup 
+
+<a name="redirect"></a>
+<h3>Redirect lookup</h3>
+</br><a href="https://redirectdetective.com/">Redirect Detective</a> — tool that allows you to do a full trace of a URL Redirect
+</br><a href="https://wheregoes.com/">Wheregoes.com</a> — tool that allows you to do a full trace of a URL Redirect
+</br><a href="https://www.spyoffers.com/">Spyoffers.com</a> — tool that allows you to do a full trace of a URL Redirect
+
+<a name="cookies"></a>
+<h3>Cookies analyze</h3>
+</br><a href="https://www.cookiemetrix.com/">Determines if website is not comply with EU Cookie Law and gives you insight about cookies installed from website before the visitors consent</a>
+</br><a href="https://2gdpr.com/">Audits website cookies, online tracking and HTTPS usage for GDPR compliance</a>
+</br><a href="https://www.webemailextractor.com/">Webemailextractor.com</a> — extract email's and phone numbers from the website or list of website
+</br><a href="https://www.cookieserve.com/">cookieserve.com</a> — detailed website cookie analyze
+
+<a name="websitemetadata"></a>
+<h3>Website's files metadata analyze</h3>
+</br><a href="https://github.com/laramies/metagoofil">Metagoofil</a> — finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses
+</br><a href='https://github.com/loseys/Goblyn'>Goblyn</a> — tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file
+
+<a name="backlinks"></a>
+<h3>Backlinks analyze</h3>
+</br><a href="https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html">SEO Spyglass Backlink checker</a>
+</br><a href='https://app.neilpatel.com/en/seo_analyzer/backlinks'>Neilpatel backlinks analyzer</a> — find out how many sites are linking to a certain web page
+   
+<a name="websiteanalyze"></a>
+<h3>Website analyze</h3>
+</br><a href='https://lookyloo.circl.lu/'>Lookyloo</a> — Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc)
+</br><a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> — adds a bit of information from CrUX API to the standard Google search results
+</br><a href='https://bgpview.io/'>BGPView</a> — web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more
+</br><a href="https://tosdr.org/">Terms of Service Didn't Read</a> — find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps
+</br><a href='https://analyzeid.com'>analyzeid.com</a> — find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches
+</br><a href='https://mmhdan.herokuapp.com'>MMHDAN</a> — Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines
+</br><a href='https://github.com/pyhackertarget/hackertarget'>Hackertarget</a> — 14 tools for gathering information about domain using Hackerarget API (http://hackertarget.com)
+</br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
+</br><a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> — Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 </br><a href='https://osint.sh/adsense/'>Adsense Identiicator Finder</a> — this service finds other sites belonging to the same owner or company by Google Adsense ID
 
 
@@ -600,14 +617,36 @@
    
 <a name="domainipinvestigation"></a>
 <h3>Domain/IP investigation</h3>
-
-
-</br><a href='https://github.com/lijiejie/subDomainsBrute'>SubDomainsBrute</a> — Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds.
-</br><a href='https://github.com/jonluca/Anubis'>Anubis</a> — Subdomain enumeration and information gathering tool
 </br><a href='https://t.me/UniversalSearchBot'>@UniversalSearchBot</a> — telegram bot finding information about email, russian phone number, domain or IP
 </br><a href='http://cipher387.github.io/domain_investigation_toolbox/'>Domain Investigation Toolbox</a> — gather information about domain with 41 online tools from one page.
+</br><a href='https://gofindwhois.com/'>GoFindWhois</a> — More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze.
+</br><a href='https://www.spyfu.com/overview/domain'>Spyfu</a> — tool to collect seo information about the domain, which provide a lot of data partly for free
+</br><a href="https://spyse.com/">Spyse.com</a> — domain investigation toolbox
+
+
+
+
+</br><a href="https://github.com/spyse-com/cli">Spyse CLI</a> — command line client for Spyse.com
+</br><a href='https://domaintracker.app/'>Domaintracker</a> — webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email)
+</br><a href='https://whois.marcaria.com/en'>Whois Domain Search Tool</a> — A tool that allows you to query whois data for a site name in several domain zones at once.
+</br><a href='https://www.ip-neighbors.com/host/'>IP Neighbors</a> — Find the hosting neighbors for a specific web site or hostname
+</br><a href='http://besticon.herokuapp.com/'>The Favicon Finder</a> — Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly.
+</br><a href="https://github.com/SpiderLabs/HostHunter">HostHunter</a> — Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames
+</br><a href="https://torwhois.com/">Tor Whois</a>
+</br><a href='https://dnstwister.report/'>Dnstwister</a> — The anti-phishing domain name search engine and DNS monitoring service
+</br><a href='https://github.com/elceef/dnstwist'>Dnstwist</a> — Command line anti-phishing domain name search engine and DNS monitoring service
+
+</br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
+</br><a href='http://radb.net/query'>RADB</a> — Provides information collected from all the registries that form part of the Internet Routing Registry
+</br><a href="https://ipinfo.io/map">IPinfo map</a> — paste up to 500,000 IPs below to see where they're located on a map
+</br><a href="https://whois.whoisxmlapi.com/database/pricing">Whois XML API Whois history database</a>
+</br><a href="https://github.com/hakluke/hakrawler">Hakrawler</a> — discover endpoints and assets
+</br><a href="https://passivedns.mnemonic.no/">Passive DNS search</a>
+</br><a href="https://talosintelligence.com/reputation_center/">Talos Intelligence Mail Server Reputation</a>
+</br><a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> — access to 74 #tools to collect domain information from a single page
+</br><a href="https://github.com/harshnandwana/hussh">Hussh</a> — shell script for domain analyzing
+</br><a href="https://www.vpnmentor.com/tools/test-the-great-china-firewall/">Check any website to see in real time if it is blocked in China</a>
 </br><a href='https://t.me/iptools_robot'>@iptools_robot</a> — univsersal domain investigation Telegram bot
-</br><a href='https://dorks.faisalahmed.me'>dorks.faisalahmed.me</a> — online constructor of google dorks for searching "sensitive" wesite pages
 </br><a href='https://github.com/hamza07-w/raymond'>Raymond</a> — Framework for gathering information about website
 </br><a href='https://pulsedive.com/'>Pulsedive</a> — A partially free website research tool. Collects detailed information about IP, whois, ssl, dns, ports, threats reports, geolocation, cookies, metadata (fb app id etc). Make screenshots and many others
 </br><a href='https://github.com/s0md3v/Striker'>Striker</a> — Quick and simple tool for gathering information about domain (http headers, technologies, vulnerabilities etc).
@@ -616,47 +655,20 @@
 </br><a href='https://github.com/h3x0crypt/HostSpider'>FindMyAss (HostSpider)</a> —  Domain investigations toolkit
 </br><a href='https://github.com/indiancyberops/Drishti'>Drishti</a> — Nodejs toolkit for OSINT
 </br><a href='https://passivedns.mnemonic.no'>passivedns.mnemonic.no</a> — DNS history search by IP-adress or by domain name
-</br><a href='https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan'>Fast Google Dorks Scan</a> — Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks.
-</br><a href='https://github.com/alex14324/Turbolist3r'>Turbolist3r</a> — An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b)
 </br><a href='https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml'>Gotanda</a> — Google Chrome extension. 56 tools for domain, ip and url investigation in one
 </br><a href='https://cipher387.github.io/domain_investigation_toolbox/ip.html'>Ip Investigation Toolbox</a> — type ip-adress once and gather information about it with 13 tools 
-</br><a href='http://ixss.warsong.pw/xssor/'>ixss.warsong.pw</a> — very old service for making XSS (Cross Site Scripting) faster and easier
-</br><a href='https://gofindwhois.com/'>GoFindWhois</a> — More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze.
 
-</br><a href='https://www.spyfu.com/overview/domain'>Spyfu</a> — tool to collect seo information about the domain, which provide a lot of data partly for free
+<a name="subdomains"></a>
+<h3>Subdomains scan/brute</h3>
+</br><a href='https://github.com/lijiejie/subDomainsBrute'>SubDomainsBrute</a> — Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds.
+</br><a href='https://github.com/jonluca/Anubis'>Anubis</a> — Subdomain enumeration and information gathering tool
+</br><a href='https://github.com/alex14324/Turbolist3r'>Turbolist3r</a> — An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b)
+
+<a name="cloudfare"></a>
+<h3>Cloudfare</h3>
+
 </br><a href='https://github.com/MrH0wl/Cloudmare'>Cloudmare</a> — Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS
-</br><a href='https://lookyloo.circl.lu/'>Lookyloo</a> — Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc)
-
-</br><a href="https://github.com/six2dez/reconftw">ReconFTW</a> — tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-</br><a href="https://spyse.com/">Spyse.com</a> — domain investigation toolbox
-
-</br><a href="https://github.com/spyse-com/cli">Spyse CLI</a> — command line client for Spyse.com
-</br><a href='https://domaintracker.app/'>Domaintracker</a> — webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email)
-</br><a href='https://whois.marcaria.com/en'>Whois Domain Search Tool</a> — A tool that allows you to query whois data for a site name in several domain zones at once.
-</br><a href='https://www.ip-neighbors.com/host/'>IP Neighbors</a> — Find the hosting neighbors for a specific web site or hostname
-</br><a href='http://besticon.herokuapp.com/'>The Favicon Finder</a> — Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly.
-</br><a href='https://github.com/m4ll0k/SecretFinder'>SecretFinder</a> — Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files
-
-</br><a href="https://github.com/SpiderLabs/HostHunter">HostHunter</a> — Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames
-</br><a href="https://torwhois.com/">Tor Whois</a>
-</br><a href='https://dnstwister.report/'>Dnstwister</a> — The anti-phishing domain name search engine and DNS monitoring service
-</br><a href='https://github.com/elceef/dnstwist'>Dnstwist</a> — Command line anti-phishing domain name search engine and DNS monitoring service
 </br><a href='https://github.com/greycatz/CloudUnflare'>CloudUnflare</a> — Reconnaissance Real IP address for Cloudflare Bypass
-
-</br><a href="https://github.com/evilsocket/ditto">Ditto</a> — Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered
-</br><a href='http://radb.net/query'>RADB</a> — Provides information collected from all the registries that form part of the Internet Routing Registry
-</br><a href="https://ipinfo.io/map">IPinfo map</a> — paste up to 500,000 IPs below to see where they're located on a map
-</br><a href="https://whois.whoisxmlapi.com/database/pricing">Whois XML API Whois history database</a>
-
-</br><a href="https://github.com/hakluke/hakrawler">Hakrawler</a> — discover endpoints and assets
-</br><a href="https://passivedns.mnemonic.no/">Passive DNS search</a>
-</br><a href="https://talosintelligence.com/reputation_center/">Talos Intelligence Mail Server Reputation</a>
-</br><a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> — access to 74 #tools to collect domain information from a single page
-
-</br><a href="https://github.com/harshnandwana/hussh">Hussh</a> — shell script for domain analyzing
-</br><a href="https://www.vpnmentor.com/tools/test-the-great-china-firewall/">Check any website to see in real time if it is blocked in China</a>
-</br><a href='https://chrome.google.com/webstore/detail/analyzer/bmbhpmmhjkbmcachipmccnlcemaoiiji/related'>Ericom Page Risk Analysis</a> — Get a detailed report with links to CSS, Javascript, Fonts, XHR, Images and domains web pages
-
 
    
    
@@ -679,11 +691,12 @@
 
 </br><a href='https://www.similarweb.com/'>SimilarWeb</a> — Detailed website traffic analyze
 </br><a href='https://www.alexa.com/'>Alexa</a> — Keyword Research, Competitive Analysis, Website Ranking
+</br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
    
    
 <a name="websitetechnologylookup"></a>
 <h3>Website technology look up</h3>
-
+</br><a href='https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related'>WhatRuns</a> — extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts.
 </br><a href="https://builtwith.com/">Built With</a>
 </br><a href="https://w3techs.com/sites">w3techs</a>
 </br><a href="https://hexometer.com/stack-checker">Hexometer stack checker</a>
@@ -695,8 +708,7 @@
 </br><a href="https://tools.cmlabs.co/en/technology-lookup">CMLabs Tools</a>
 </br><a href='app.snov.io/techcheck/main'>Snov.io technology checker</a> — type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it. 
 
-
-   
+  
    
 <a name="sourcecodeanalyzes"></a>
 <h3>Source Code Analyzes</h3>
@@ -704,6 +716,9 @@
 </br><a href='https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related'>Retire.js</a> — GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries 
 </br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related'>OpenLink Structured Data Sniffer</a> — GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. 
 </br><a href='https://github.com/gildas-lormeau/SingleFile'>SIngle File</a> — GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file
+</br><a href="https://github.com/Cillian-Collins/dirscraper">Dirscraper</a> — OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website
+</br><a href='https://chrome.google.com/webstore/detail/analyzer/bmbhpmmhjkbmcachipmccnlcemaoiiji/related'>Ericom Page Risk Analysis</a> — Get a detailed report with links to CSS, Javascript, Fonts, XHR, Images and domains web pages
+</br><a href='https://github.com/m4ll0k/SecretFinder'>SecretFinder</a> — Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files
 </br><a href='https://chrome.google.com/webstore/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg/related'>Copy all links and image links to CSV or JSON</a> — Download all links from current webpage in CSV (for open in #Excel) or JSON
 </br><a href='http://archiveready.com'>ArchiveReady</a> — OSINT specialists most often use various web archives to analyze other people's sites. But if you want your descendants to be able to find your own site, check whether the code of its pages is understandable for crawlers of web archives. 
 
@@ -717,9 +732,6 @@
 </br><a href="http://urlxray.com/">Urlxray</a>
 </br><a href="https://unshorten.it/">Unshorten.it</a>
 
-
-
-   
 
    
 <a name="imagesearchandindefication"></a>
@@ -1300,3 +1312,6 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
             
 <p>If you would like to receive a list of new instruments added to your collection 2-3 times a month, please subscribe to<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview"> email newsletter</a>.</p>
 <p>This page contains universal and global tools (with a few exceptions). You can find tools for individual countries and cities at <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a>.</p>
+
+   
+
