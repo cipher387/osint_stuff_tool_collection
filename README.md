@@ -2,6 +2,8 @@
 
 <p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection.</p>
 
+New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_collection/15_december_2021.html
+
 <h2>Table of contents</h2>
 
 <h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media and photos maps</a></br>
