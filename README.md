@@ -1331,7 +1331,7 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 <a name="virtualmachines"></a>
 <h1>Virtual Machines/Linux distributions</h1>
 
-</br><a href='https://github.com/Double2Sky/OffenOsint'>Offen Osint</a> — More than 108 tools for #OSINT in one virtual machine based by #KaliLinux (13,5 GB)
+</br><a href='https://github.com/Double2Sky/OffenOsint'>Offen Osint</a>
 </br><a href="https://www.blackarch.org">BlackArch Linux</a>
 </br><a href="https://www.kali.org">Kali Linux</a>
 </br><a href="https://csilinux.com">CSI Linux</a>
