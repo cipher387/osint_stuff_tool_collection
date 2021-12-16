@@ -787,6 +787,7 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://github.com/ianare/exif-py'>EXIF-PY</a> — get exif data of photos thrue command line
 </br><a href='http://exif.app'>Exif.app</a> — Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow
 </br><a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> — View all images on a page and expose image properties, EXIF data, and one-click download
+</br><a href='https://products.groupdocs.app/metadata/'>Online metadata viewer and editor</a> — High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp.
 </br><a href='https://4qrcode.com/scan-qr-code.php'>Scan QR Code</a> — While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture
 </br><a href="https://identify.plantnet.org/">Identify plans</a>
 </br><a href="https://www.forensicdots.de/">Forensicdots.de</a> — find "yellow dots" (Machine Identification Code) in printed documents
@@ -840,6 +841,8 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://tgstat.com'>Tgstat</a> — one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources.
 </br><a href="https://github.com/pielco11/telescan">Telescan</a> — search users in groups (and in which groups is the user) by id, username or phone number
 </br><a href="https://telegcrack.com/">Telegcrack.com</a> — search in telegra.ph)
+</br><a href='https://t.me/VoiceMsgBot'>@VoiceMsgBot</a> — telegram bot to which you can send voice messages and it converts them into text
+</br><a href='https://t.me/transcriber_bot'>@transcriber_bot</a> — telegram bot, which can convert to text voice messages in 24 languages (view pic) 
 
 
 <a name="whatsapp"></a>
@@ -1079,14 +1082,21 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 <a name="sockpuppets"></a>
 <h1>Sock Puppets</h1>
 </br><a href='https://generated.photos/face-generator/'>Face Generator</a> — Face Generator for creating #sockpuppets. Customize gender, age, head position, emotions, hair and skin color, makeup and glasses.
+</br><a href='https://generated.photos/faces'>2,682,783 free AI generated photos</a>
+</br><a href='https://www.voicebooking.com/en/free-voice-over-generator'>VoiceBooking</a> — fake voice generator
+</br><a href='https://thisxdoesnotexist.com'>ThisXDoesNotExist</a> — collection of more than 30 services that generate various items using neural networks. 
+</br><a href='https://www.thexifer.net'>TheXifer</a> — add fake metadata to photo
+</br><a href='https://geotagonline.com'>GeoTagOnline</a> — add fake geotags to photo
+</br><a href='https://www.elfqrin.com/fakeid.php'>Fake ID Identity Random Name Generator</a> — generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly.
+</br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
 
    
 <a name="noosinttools"></a>
 <h1>NOOSINT tools</h1>
 
-</br><a href='https://t.me/VoiceMsgBot'>@VoiceMsgBot</a> — telegram bot to which you can send voice messages and it converts them into text
+
 </br><a href='https://manytools.org'>Manytools</a> — Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking.
-</br><a href='https://t.me/transcriber_bot'>@transcriber_bot</a> — telegram bot, which can convert to text voice messages in 24 languages (view pic) 
+
 </br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
 </br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
 </br><a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> — allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file.
@@ -1094,7 +1104,7 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> — Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information.
 </br><a href='https://codesandbox.io/'>Codesandbox</a> — Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph).
 </br><a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> — tool analyzes the voice and determines a person's stress level.
-</br><a href='https://www.voicebooking.com/en/free-voice-over-generator'>VoiceBooking</a> — fake voice generator
+
 </br><a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> — A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more
 </br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
 </br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
@@ -1116,15 +1126,14 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> — A simple extension that changes the speed of playing video courses on #Udemy.
 </br><a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> — Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd)
 </br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
-</br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
+
 </br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
 </br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
-</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chromw extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
+</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chrome extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
 </br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites
 </br><a href='https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related'>Developer search tool</a> — Take the art of copy and paste from Stack Overflow to a new level of speed and productivity
 </br><a href='https://emn178.github.io/online-tools/index.html'>Online tools</a> — 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings
 </br><a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a>
-</br><a href='https://products.groupdocs.app/metadata/'>Online metadata viewer and editor</a> — High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp.
 </br><a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> — free #API to get pictures with cats for different HTTP response codes
 </br><a href="https://gitpod.io/workspaces">Gitpod.io</a> — run code from repositories on Github directly in a browser
 </br><a href="https://crackstation.net/">CrackStation.net</a> — password hash cracker
@@ -1191,8 +1200,6 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href='https://github.com/quodlibet/mutagen'>Mutagen</a> — get meta data of audiofiles thrue command line
 </br><a href='https://compress-or-die.com/analyze'>compress-or-die.com/analyze</a> — get detail information about images (exif, metatags, ICC_Profile, quantanisation tables)
 </br><a href='https://voyant-tools.org/'>voyant-tools.org</a> — analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types.
-</br><a href='https://www.thexifer.net'>TheXifer</a> — add fake metadata to photo
-</br><a href='https://geotagonline.com'>GeoTagOnline</a> — add fake geotags to photo
 </br><a href="https://www.aconvert.com/analyze.html">Analyze file format online</a>
 </br><a href="https://www.toolsley.com/file.html">ToolSley: analyze file format online</a>
 </br><a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a>
@@ -1285,6 +1292,7 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 
 </br><a href='https://www.radio.net/local-stations'>Radion.net</a> — view list of all radiostations near your location and search radiostations by keywords
 </br><a href='https://americanarchive.org'>American Archive of Public Broadcasting</a> — Discover historic programs of publicly funded radio and television across America. Watch and listen
+
 
 <a name="virtualmachines"></a>
 <h1>Virtual Machines/Linux distributions</h1>
