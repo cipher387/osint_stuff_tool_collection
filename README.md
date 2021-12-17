@@ -1097,7 +1097,6 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 
 
 </br><a href='https://manytools.org'>Manytools</a> — Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking.
-
 </br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
 </br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
 </br><a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> — allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file.
@@ -1105,7 +1104,6 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> — Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information.
 </br><a href='https://codesandbox.io/'>Codesandbox</a> — Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph).
 </br><a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> — tool analyzes the voice and determines a person's stress level.
-
 </br><a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> — A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more
 </br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
 </br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
@@ -1127,7 +1125,6 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> — A simple extension that changes the speed of playing video courses on #Udemy.
 </br><a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> — Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd)
 </br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
-
 </br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
 </br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
 </br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chrome extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
