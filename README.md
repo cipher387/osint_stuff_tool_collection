@@ -46,7 +46,7 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#office365">Office365</a></br>
 <a href="#onedrive">OneDrive</a></br>
 <a href="#socialmediaother">Universal</a></br>
-<h4><a href="#downloaders">Downloaders</a></h4> 
+<h4><a href="#downloaders-1">Downloaders</a></h4> 
 
 <h4><a href="#domainiplinks">Domain/IP/Links</a></h4> 
 <a href="#dorks">Dorks/Pentest/Vulnerabilities</a></br>
