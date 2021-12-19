@@ -66,7 +66,6 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
 <a href="#reverseimagesearchengines">Reverse Image Search Engines</a></br>
 <a href="#otherimagesearchengines">Other Image Search Engines</a></br>
-<a href="#googletools">Tools for Google</a></br>
 <a href="#imageforensic">Image Analyze</a></br>
 <a href="#exifanalyze">Exif Analyze and Editing</a></br>
 <a href="#facerecognitionandseach">Face recognition and search</a></br>
@@ -79,7 +78,9 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="Skype">Skype</a></br>
 <a href="#othersmessengers">Others</a>
 <h4><a href="#code">Code</a></h4>
-<h4><a href="#searchengines">Search engines</a></h4> <a href="#iot">IOT</a>
+<h4><a href="#searchengines">Search engines</a></h4>
+<h4><a href="#googletools">Tools for Google</a></h4>
+<h4><a href="#iot">IOT</a></h4>
 <h4><a href="#archives">Archives</a></h4>
 <h4><a href="#archivesofdocuments">Archives of documents</a></h4> 
 <h4><a href="#datasets">Datasets</a></h4>
