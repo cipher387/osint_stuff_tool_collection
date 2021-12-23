@@ -1350,6 +1350,7 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href="https://cipher387.github.io/osintmap/">Worldwide OSINT Tools Map</a>
 </br><a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search</a>
 </br><a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
+</br><a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a>
 </br><a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a>
 </br><a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress Investigation Toolbox</a>
 </br><a href="https://cipher387.github.io/quickcacheandarchivesearch/">Quick Cache and Archive search</a>
