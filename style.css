@@ -30,6 +30,16 @@ a
 {
 	font-size:19px;
 }
+.discord-follow-button {
+    color: #fff;
+    background: #9932CC;
+    padding: 3px 7px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 4px;
+    vertical-align: middle;
+    text-align: center;
+}
 .telegram-follow-button {
     color: #fff;
     background: #1e97d7;
