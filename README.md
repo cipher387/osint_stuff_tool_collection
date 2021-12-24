@@ -996,7 +996,7 @@ New tools 1-15 December 2021 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://github.com/rlyonheart/thelordseye'>TheLordEye</a> — Tool that searches for devices directly connected to the internet with a user specified query. It returns results for webcams, traffic lights, routers, smart TVs etc
 
 
-</table>
+
    
 
 
