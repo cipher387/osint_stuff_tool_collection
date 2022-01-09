@@ -1367,6 +1367,11 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a>
 </br><a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a>
 
+<hr>
+
+Command line cheat sheet for this collection made by Coordinat Cat:
+
+https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI
 
 <hr>
 
