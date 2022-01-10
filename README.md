@@ -1373,6 +1373,8 @@ Command line cheat sheet for this collection made by Coordinat Cat:
 
 https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI
 
+(Under development, In progress)
+
 <hr>
 
 Twitter — https://twitter.com/cyb_detective
