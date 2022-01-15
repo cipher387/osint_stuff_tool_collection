@@ -80,6 +80,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 <a href="#othersmessengers">Others</a>
 <h4><a href="#code">Code</a></h4>
 <h4><a href="#searchengines">Search engines</a></h4>
+<h4><a href="#duckduckgotools">Tools for DuckDuckGo</a></h4>
 <h4><a href="#googletools">Tools for Google</a></h4>
 <h4><a href="#iot">IOT</a></h4>
 <h4><a href="#archives">Archives</a></h4>
@@ -92,6 +93,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 <h4><a href="#toolscollection">Tools collection</a></h4>
 <h4><a href="#files">Files</a></h4>
 <h4><a href="#imeiserial">IMEI and serial numbers</a></h4> 
+<h4><a href="#nft">NFT</a></h4> 
 <h4><a href="#keywordstrends">Keywords, trends, news analytics</a></h4>
 <h4><a href="#appsprograms">Apps and programs</a></h4>
 <h4><a href="#brandscompanies">Brands, companies, items</a></h4><a href="#amazon">Amazon</a>
@@ -280,6 +282,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href="http://showmystreet.com">Show My Street</a> — simple tool that simplifies and speeds up your research work with Google Street View. Just click on the map and see street panoramas
 </br><a href="https://www.mapillary.com/app/">Mapillary</a> — street panoramas over the world
 </br><a href='https://360cities.net/map'>360cities.net/map</a> — world map of panoramic (360 degrees) images
+</br><a href='http://earthviewer360.com'>Earthviewer360.com</a> — Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail)
 
 
    
@@ -361,6 +364,8 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://github.com/jdepoix/youtube-transcript-api'>YouTube Transcript API</a> — Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles.
 </br><a href='https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related'>Jump Cutter</a> — An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed...
 </br><a href='https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru'>YouFilter – YouTube Advanced Search Filter</a> — An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV.
+</br><a href='https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related'>YouTube Timestamp Comments</a> — extension finds all the timestamps in YouTube video comments and arranges them in chronological order.
+</br><a href='https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related'>Youtube Actual Top Comments</a> — Fetch all comments to Youtube video (without answers). Sort them by likes and filter  by keywords
 
  
    
@@ -613,7 +618,9 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://github.com/Balgogan/dorkscanner'>Dork Scanner</a> — NOT support Google. Only Bing, ASK and http://WoW.com (AOL) search engines. Can work with very long lists of queries/documents (in .txt files)
 </br><a href='http://ixss.warsong.pw/xssor/'>ixss.warsong.pw</a> — very old service for making XSS (Cross Site Scripting) faster and easier
 </br><a href="https://github.com/six2dez/reconftw">ReconFTW</a> — tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-
+</br><a href='https://github.com/kostas-pa/LFITester'>LFITester</a> — Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack
+</br><a href='https://github.com/r0075h3ll/Oralyzer'>Oralyzer</a> — Script that check website for following types of Open Redirect Vulnerabilities
+</br><a href='https://github.com/p0dalirius/robotstester'>RobotTester</a> — Simple Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.
 
 <a name="scrapers"></a>
 <h3>Searchers, scrapers, extractors, parsers</h3>
@@ -701,6 +708,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://passivedns.mnemonic.no'>passivedns.mnemonic.no</a> — DNS history search by IP-adress or by domain name
 </br><a href='https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml'>Gotanda</a> — Google Chrome extension. 56 tools for domain, ip and url investigation in one
 </br><a href='https://cipher387.github.io/domain_investigation_toolbox/ip.html'>Ip Investigation Toolbox</a> — type ip-adress once and gather information about it with 13 tools 
+</br><a href='https://github.com/N0tA1dan/Crab'>Crab</a> — Well done and well designed port scanner, host info gatherer (include whois).
 
 <a name="subdomains"></a>
 <h3>Subdomains scan/brute</h3>
@@ -737,6 +745,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://www.similarweb.com/'>SimilarWeb</a> — Detailed website traffic analyze
 </br><a href='https://www.alexa.com/'>Alexa</a> — Keyword Research, Competitive Analysis, Website Ranking
 </br><a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> — Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies.
+</br><a href='https://vstat.info'>vstat.info</a> — Getting detailed info about website traffic (sources, keywords, linked sites etc)
    
    
 <a name="websitetechnologylookup"></a>
@@ -880,6 +889,7 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href="https://telegcrack.com/">Telegcrack.com</a> — search in telegra.ph)
 </br><a href='https://t.me/VoiceMsgBot'>@VoiceMsgBot</a> — telegram bot to which you can send voice messages and it converts them into text
 </br><a href='https://t.me/transcriber_bot'>@transcriber_bot</a> — telegram bot, which can convert to text voice messages in 24 languages (view pic) 
+</br><a href='https://telegramchannels.me/list/biggest?language=en'>Telegramchannels.me</a> — Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages
 
 
 <a name="whatsapp"></a>
@@ -921,6 +931,8 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href="https://publicwww.com/">PublicWWW</a> — webpages source code search engine
 </br><a href="https://about.sourcegraph.com/">SourceGraph</a> — universal code search engine
 </br><a href="https://www.nerdydata.com/">NerdyData</a> — html/css/code search engine
+</br><a href='https://lelinhtinh.github.io/de4js/'>De4js</a> — HTML/JS deobfuscator
+</br><a href='https://tio.run'>TIO RUN</a> — Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser
 
 
 
@@ -971,6 +983,11 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://searchall.net'>searchall.net</a> — 75 fields for quick entry of queries to different search services on one page
 </br><a href='https://query-server.herokuapp.com'>Query-server</a> — A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format.
 
+<a name="duckduckgotools"></a>
+<h1>Tools for DuckDuckGo</h1>
+
+</br><a href='https://chrome.google.com/webstore/detail/duckduckgo-bangs/hdjfebkndhmegijlghjcdghdbealibeb/related'>DuckDuckGo !bangs</a> — extension that add DuckDuckGo bang buttons to search results and search links in the context menu
+
 <a name="googletools"></a>
 <h1>Tools for Google</h1>
 </br><a href='https://github.com/jarun/googler'>Googler</a> — command line google search tool
@@ -979,12 +996,14 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related'>Overload Search</a> — Advanced query builder in #Google with the possibilities: change the language and country of your search, disable safe search,disable personalization of search results ("filter bubble")
 </br><a href='https://tools.digitalmethods.net/beta/scrapeGoogle/autocomplete.php'>Google Autocomplete Scraper</a> — One of the best ways to learn more about a person, company, or subject is to see what people are more likely to type in a search engine along with it.
 </br><a href='https://github.com/TheSpeedX/SDorker'>SDorker</a> — Type the Google Dork and get the list of the pages, that came up with this query.
+</br><a href='https://github.com/XAMFRA/XGS'>XGS</a> — allows you to search for links to onion sites using Google Dorks (site:http://onion.cab, site:http://onion.city etc)
 </br><a href='https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related'>Google Email Extractor</a> — Extract emails from Google Search Results
 </br><a href="https://seqe.me/">SEQE.me</a> — online #tool for constructing search queries using advanced search operators simultaneously for five search engines
 </br><a href="https://www.brightlocal.com/local-search-results-checker/">Bright Local Search Result Checker</a> — shows what #Google search results look like for a particular query around the world (by exact address)
 </br><a href='https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related'>Auto Searcher</a> — One by one types words from a given list into the search bar of #Google, #Bing, or another search engine
 </br><a href="https://2lingual.com/">2lingual.com</a> — google search in two languages simultaneously in one window
 </br><a href="http://isearchfrom.com/">I search from</a> — allows you to customize the country, language, device, city when searching on Google
+</br><a href='https://github.com/370rokas/anonscraper'>Anon Scraper</a> — Search uploaded files to AnonFile using Google
 
    
 <a name="iot"></a>
@@ -1061,6 +1080,8 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href="http://metricsparrow.com/toolkit/email-permutator/">Metric Sparrow email permulator</a>
 </br><a href='https://snov.io/email-finder'>snov.io email finder</a> — find emails of company employees by domain name.
 </br><a href='https://t.me/maigret_osint_bot'>@maigret_osint_bot</a> — check accounts by username on 1500 sites. Based on maigret CLI tool
+</br><a href='https://analyzeid.com/username/'>Analyzeid.com Username Search</a> — view "Summary" of accounts found: list of names used, locations, bio, creations dates etc.
+</br><a href='https://github.com/thewhiteh4t/nexfil'>NEXFIL</a> — Search username by 350 social media platforms
 </br><a href='https://github.com/WildSiphon/Mailfoguess'>Mailfoguess</a> — tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails
 </br><a href='https://www.loc.gov/collections/united-states-telephone-directory-collection/'>USA Telephone Directory Collection</a> — 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987
 </br><a href='http://www.oldphonebook.com/'>Oldphonebook</a> — USA phonenumbers database from 1994 to 2014
@@ -1128,6 +1149,8 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href='https://geotagonline.com'>GeoTagOnline</a> — add fake geotags to photo
 </br><a href='https://www.elfqrin.com/fakeid.php'>Fake ID Identity Random Name Generator</a> — generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly.
 </br><a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> — telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites)
+</br><a href='https://deepai.org/machine-learning-model/text2img'>Text2img</a> — text to image AI generator
+</br><a href='https://generated.photos/anonymizer'>Face Anonimyzer</a> — Upload a face photo and get set of similar AI generated faces.
 
    
 <a name="noosinttools"></a>
@@ -1185,6 +1208,11 @@ New tools 16-31 December 2021 — https://cipher387.github.io/osint_stuff_tool_c
 </br><a href="https://gchq.github.io/CyberChef/">CyberChef</a> — collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
 </br><a href="https://www.textise.net/">Textise.net</a> — convert the HTML code of a page to TXT
 </br><a href="https://shadowcrypt.net/tools/">Shadowcrypt Tools</a> — 24 online tools for OSINT, network scanning, MD5 encryption and many others
+</br><a href='https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon'>Google Docs Voice Comments</a> — simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms.
+</br><a href='http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20'>Text to ASCII Art Generator (TAAG)</a> — This site will help you make atmospheric lettering for your command line tool or README.
+</br><a href='http://cheatsheet-maker.herokuapp.com'>Cheat sheet maker</a> — simple tool for creating cheat sheets
+</br><a href='https://www.caloriemama.ai/api'>Caloriemama</a> — AI can identify the type of food from the photo and give information about its caloric value.
+</br><a href='https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related'>Webmapper</a> — Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable.
 
 
 
@@ -1219,6 +1247,8 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href="https://synapsint.com/">Synapsint.com</a>
 </br><a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> — Swiff knife for #osint
 </br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
+</br><a href='https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related'>SEARCH Investigative and Forensic Toolbar</a> — extension with quick access to dozens of online tools for osint, forensics and othef investigations goals.
+</br><a href='https://github.com/thenurhabib/tenssens'>Tenssens</a> — osint framework
 
  
    
@@ -1254,6 +1284,9 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href="https://contex.com/serial-number-lookup/">Contex condoms serial number lookup</a>
 
 
+<a name="nft"></a>
+<h1>NFT</h1>
+</br><a href='https://nonfungible.com'>Nonfungible.com</a> — help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time)
 
  
 <a name="keywordstrends"></a>
@@ -1321,6 +1354,13 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href="https://masterofallscience.com/">Rick and Morty screencaps search</a>
 </br><a href="http://www.subzin.com/">Subzin.com</a> — by one phrase will find the movie, as well as the full text of the dialogue with the timing
 </br><a href="http://unogs.com/">Unogs.com</a> — Netflix search without registration
+</br><a href='http://flixable.com '>flixable.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flixwatch.co '>flixwatch.co </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flicksurfer.com '>flicksurfer.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flixboss.com'>flixboss.com</a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flickmetrix.com '>flickmetrix.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://whatthehellshouldiwatchonnetflix.com '>whatthehellshouldiwatchonnetflix.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://netflix-codes.com'>netflix-codes.com</a> — alternative way to find anything interesting on Netflix
    
 <a name="tvradio"></a>
 <h1>TV/Radio</h1>
@@ -1371,8 +1411,8 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 
 Command line cheat sheet for this collection made by Coordinat Cat:
 
-https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI
-
+<a href="https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI">OSINT TOOLS CLI</a>
+     
 (Under development, In progress)
 
 <hr>
