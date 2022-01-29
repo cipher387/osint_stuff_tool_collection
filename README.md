@@ -74,9 +74,9 @@ New tools 1-14 January 2022 — https://cipher387.github.io/osint_stuff_tool_col
 <h4><a href="#cryptocurrencies">Cryptocurrencies</a></h4>
 <h4><a href="#messengers">Messengers</a></h4>
  <a href="#telegram">Telegram</a></br>
-<a href="whatsapp">WhatsApp</a></br>
-<a href="kik">Kik</a></br>
-<a href="Skype">Skype</a></br>
+<a href="#whatsapp">WhatsApp</a></br>
+<a href="#kik">Kik</a></br>
+<a href="#skype">Skype</a></br>
 <a href="#othersmessengers">Others</a>
 <h4><a href="#code">Code</a></h4>
 <h4><a href="#searchengines">Search engines</a></h4>
