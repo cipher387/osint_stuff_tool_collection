@@ -1184,7 +1184,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 
 </br><a href='https://wordtune.com/read'> Wordtune.com</a> — Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text.
-
 </br><a href='https://manytools.org'>Manytools</a> — Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking.
 </br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
 </br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
