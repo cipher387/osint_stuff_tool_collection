@@ -1,6 +1,6 @@
 <h1>OSINT tools collection</h1>
 
-<p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 772 services for a wide variety of purposes). </p> 
+<p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 810 services for a wide variety of purposes). </p> 
 
 New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_collection/weekly_updates/2_Febrary_2022.html
 
