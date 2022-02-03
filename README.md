@@ -296,7 +296,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://cipher387.github.io/collection_of_cadastral_maps/'>Collection of cadastral maps</a> — 41 countries
 </br><a href='https://www.localfocus.nl/geokit/'>localfocus.nl/geokit</a> — geographic toolkit for investigative journalists
 </br><a href='https://simon04.dev.openstreetmap.org/whodidit/'>WhoDidIt</a> — Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates).
-</br><a href='Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps.'>Google Maps Scraper</a> — Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps.
+</br><a href='https://console.apify.com/actors/nwua9Gu5YrADL7ZDj'>Google Maps Scraper</a> — Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps.
    
 
    
