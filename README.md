@@ -438,11 +438,11 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
 <a name="onlyfans"></a>
 <h3>Onlyfans</h3>
-
+</br><a href='http://fansmetrics.com'>fansmetrics.com</a> — Search in 20 millions #OnlyFans accounts
 </br><a href="https://onlysearch.co/">Onlysearch.com</a> — Onlyfans users search engines
 </br><a href='https://onlyfinder.com/'>onlyfinder.com</a> — OnlyFans profiles search engine (search by people, images and deals)
 </br><a href='https://hubite.com/onlyfans-search/'>hubite.com/onlyfans-search/</a> — OnlyFans profiles search engine with price filter
-</br><a href='http://fansmetrics.com'>fansmetrics.com</a> — Search in 20 millions #OnlyFans accounts
+
 
 
    
