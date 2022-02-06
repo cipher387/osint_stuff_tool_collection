@@ -1253,9 +1253,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> — Ultimate OSINT and Threat Hunting Framework
 </br><a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> — osint toolkit for gathering information about domains, phone numbers and social media accounts
 </br><a href='https://github.com/Himatric/SEMID'>SEMID osint framework</a> — Search user info in  Tiktok, Playstation, Discord, Doxbin,Twitter, Github
-</br><a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'>
+</br><a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'>E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href='https://github.com/MR-NULL666/NAZAR'>NAZAR </a> — universal Osint Toolkit
-E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> — Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations
 </br><a href='https://nitinpandey.in/ihunt/'>Hunt Osint Framework</a> — Dozens of online tools for different stages of #osint investigations
 </br><a href='https://github.com/nodauf/GoMapEnum'>GoMapEnum</a> — Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development)
