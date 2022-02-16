@@ -1158,6 +1158,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://datayze.com/alternate-spelling-finder'>Alternate Spelling Finder</a> — When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently.
 </br><a href='https://translit.net'>Translit.net</a> — Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names
 </br><a href='https://seintpl.github.io/NAMINT/'>NAMINT</a> — Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media)
+</br><a href='https://www.user-searcher.com'>User Searcher</a> — User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
    
 
 <a name="sockpuppets"></a>
