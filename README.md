@@ -19,6 +19,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#communications">Communications, Internet, Technologies</a></br>
 <a href="#maptools">Tools</a></br>
 <a href="#streetview">Street View</a></br>
+<a href="#satellite">Satellite imagery</a></br>
 <a href="#other">Other</a>
 <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
 <a href="#youtube">YouTube</a></br>
@@ -287,6 +288,21 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='http://earthviewer360.com'>Earthviewer360.com</a> — Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail)
 
 
+<a name="satellite"></a>
+<h3>Satellite imagery</h3>
+</br><a href="https://earthexplorer.usgs.gov/">USGS Earth Explorer</a> — more than 40 years old collection of satellite imagery
+</br><a href="https://eos.com/products/landviewer/">Landviewer</a> — satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues
+</br><a href="https://scihub.copernicus.eu/">Copernicus Open Access Hub</a> — ESA’s open access portal to Sentinel data
+</br><a href="https://apps.sentinel-hub.com/eo-browser/">Sentinel Hub EO Browser</a> - complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
+</br><a href="https://apps.sentinel-hub.com/sentinel-playground/">Sentinel Hub Playground</a> - tool for viewing satellite images with different effects and rendering.
+</br><a href="https://search.earthdata.nasa.gov/">NASA Earthdata Search</a> - search in 8555+ collection and photos.
+</br><a href="http://www.dgi.inpe.br/catalogo/">INPE Image Catalog</a> - free satellite images catalogue.   
+</br><a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a> - satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.)
+</br><a href="https://worldview.earthdata.nasa.gov/">NASA WorldView</a> - high resolution and high quality satellite images.
+</br><a href="https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm">ALOS</a> - "Advanced land Observer Satellite" images collection (Japan)
+</br><a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a> - Indian Geo-platfrom of ISRO.
+
+   
    
 <a name="other"></a>
 <h3>Other</h3>
