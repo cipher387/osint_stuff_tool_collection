@@ -290,6 +290,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 <a name="satellite"></a>
 <h3>Satellite imagery</h3>
+</br><a href="http://observer.farearth.com/observer/">Observer</a> — service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. 
 </br><a href="https://earthexplorer.usgs.gov/">USGS Earth Explorer</a> — more than 40 years old collection of satellite imagery
 </br><a href="https://eos.com/products/landviewer/">Landviewer</a> — satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues
 </br><a href="https://scihub.copernicus.eu/">Copernicus Open Access Hub</a> — ESA’s open access portal to Sentinel data
