@@ -20,7 +20,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#maptools">Tools</a></br>
 <a href="#streetview">Street View</a></br>
 <a href="#satellite">Satellite imagery</a></br>
-<a href="#other">Other</a>
+<a href="militarytracking">Military tracking</a></br>
+<a href="#other">Other</a></br>
 <h4><a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
 <a href="#youtube">YouTube</a></br>
 <a href="#tiktok">TikTok</a></br>
@@ -302,13 +303,28 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://worldview.earthdata.nasa.gov/">NASA WorldView</a> - high resolution and high quality satellite images.
 </br><a href="https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm">ALOS</a> - "Advanced land Observer Satellite" images collection (Japan)
 </br><a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a> - Indian Geo-platfrom of ISRO.
+</br><a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> — set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery
 
+
+<a name="militarytracking"></a>
+<h3>Military tracking</h3>
+</br><a href="https://www.ads-b.nl">ADS-b.nl</a> - tracking military aircrafts.
+</br><a href="https://planefinder.net/flight/ARMY">Planefinder Army Live Flight Tracker</a>.
+</br><a href="https://www.itamilradar.com">Itamilradar</a> -track military flights over Italy and over the Mediterranean Sea.
+</br><a href="https://www.marinevesseltraffic.com/2013/02/military-ship-track.html">MarineVesselFinder</a> - military ship tracking.
+</br><a href="https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;">BellingCat Radar Interfence Tracker</a>
+</br><a href="http://websdr.ewi.utwente.nl:8901">WEBSDR</a> - online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code).
+</br><a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> - represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity .
+</br><a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a> - online tracking of war-related events in Ukraine. 
+</br><a href="https://syria.liveuamap.com">Syria Liveuamap</a> - online tracking of war-related events in Syria. 
+</br><a href="https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1">NATO.int</a> - explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges.
+</br><a href="https://www.understandingwar.org/map-room">Understanding War Map Room</a> - collection of maps illustrating military conflicts in different countries.
    
    
 <a name="other"></a>
 <h3>Other</h3>
 
-</br><a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> — set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery
+
 </br><a href='http://demo.f4map.com'>Demo.4map.com</a> — 3D interactive world map
 </br><a href='https://www.oldmapsonline.org/'>OldMapsOnline</a> — World aggregator of old maps from various sources (498,908 maps)
 </br><a href='http://whatiswhere.com'>Whatiswhere.com</a> — OpenStreetMap based free POI (point of interest) search. 102 types of objects
