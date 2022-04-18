@@ -50,6 +50,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#vk">VK</a></br>
 <a href="#office365">Office365</a></br>
 <a href="#onedrive">OneDrive</a></br>
+<a href="#udemy">Udemy</a></br>
 <a href="#socialmediaother">Universal</a></br>
 <h4><a href="#downloaders-1">Downloaders</a></h4> 
 
@@ -68,6 +69,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#websitetetrafficlookup">Website traffic look up</a></br>
 <a href="#websitetechnologylookup">Website technology look up</a></br>
 <a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a></br>
+<a href="#brokenlinks">Broken Links Checkers</a></br>
+<h4><a href="#textanalyze">Text Analyze</a></h4> 
+<h4><a href="#soundsearchandanalyze">Sound search and analyze</a></h4> 
+<h4><a href="#videoanalyze">Video editing and analyze</a></h4> 
 <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
 <a href="#reverseimagesearchengines">Reverse Image Search Engines</a></br>
 <a href="#otherimagesearchengines">Other Image Search Engines</a></br>
@@ -88,21 +93,34 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <h4><a href="#googletools">Tools for Google</a></h4>
 <h4><a href="#iot">IOT</a></h4>
 <h4><a href="#archives">Archives</a></h4>
+<h4><a href="archivestools">Tools for working with web archives</a></h4>
 <h4><a href="#archivesofdocuments">Archives of documents</a></h4> 
 <h4><a href="#datasets">Datasets</a></h4>
-<h4><a href="#passwordsemailsphonenumbers">Passwords, emails, phone numbers</a></h4>
-<h4><a href="#peoplesearch">People search</a></h4>
+<h4><a href="#passwords">Passwords</a></h4>
+<h4><a href="#emails">Emails</a></h4>
+<h4><a href="#nicknames">Nicknames</a></h4>
+<h4><a href="#phonenumbers">Phone numbers</a></h4>
+<h4><a href="#universalcontactsearch">Universal Contact Search and Leaks Search</a></h4>
 <h4><a href="#sockpuppets">Sock Puppets</a></h4>
 <h4><a href="#noosinttools">NOOSINT tools</a></h4>
-<h4><a href="#toolscollection">Tools collection</a></h4>
+<h4><a href="#visualizationtools">Visualization tools</a></h4>
+<h4><a href="#routineautomation">Routine/Data Extraction Automation</a></h4>
+<h4><a href="#browseranalyze">Browser analyze</a></h4>
 <h4><a href="#files">Files</a></h4>
 <h4><a href="#imeiserial">IMEI and serial numbers</a></h4> 
 <h4><a href="#nft">NFT</a></h4> 
 <h4><a href="#keywordstrends">Keywords, trends, news analytics</a></h4>
 <h4><a href="#appsprograms">Apps and programs</a></h4>
-<h4><a href="#brandscompanies">Brands, companies, items</a></h4><a href="#amazon">Amazon</a>
+<h4><a href="#companysearch">Company information search</a></h4>
+<h4><a href="#banksearch">Bank information search</a></h4>
+<h4><a href="#brandstrademarks">Brand/trademark information search</a></h4>
+<h4><a href="#tendersshipments">Tender/shipment information search</a></h4>
+<h4><a href="#amazon">Amazon</a></h4>
 <h4><a href="#movies">Movies</a></h4>
+<h4><a href="#netflix">Netflix</a></h4> 
 <h4><a href="#tvradio">TV/Radio</a></h4> 
+<h4><a href="#toolscollection">Tools collection</a></h4>
+<h4><a href="#onlineosemulators">Online OS Emulators</a></h4> 
 <h4><a href="#virtualmachines">VirtualMachines/Linux distributions</a></h4>
 <h4><a href="#myprojects">My Projects</a></h4>
                  
@@ -610,6 +628,11 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <h3>OneDrive</h3>
 </br><a href='https://github.com/nyxgeek/onedrive_user_enum'>Onedrive Enumeration Tool</a> — A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company.
 
+
+<a name="udemy"></a>
+<h3>Udemy</h3>
+</br><a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> — A simple extension that changes the speed of playing video courses on #Udemy.
+
 <a name="socialmediaother"></a>
 <h3>Universal</h3>
 
@@ -643,6 +666,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://redditsave.com'>Redditsave.com</a> — Reddit video downloader
 </br><a href='https://minhaskamal.github.io/DownGit/#/home'>DownGit</a> — Create GitHub Resource Download Link
 </br><a href='https://en.savefrom.net/70/'>SaveFrom.net</a> — download video from YouTube, Vimeo, VK, Odnoklassniki and dozen of others services
+</br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
+</br><a href='https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related'>Download Sorter</a> — simple tool that will help set up the distribution of files with different extensions into different folders in a minute and permanently put  "Downloads" folder in order.
+</br><a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> — Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information.
+</br><a href='https://github.com/mohan3d/slideshare-go'>Slideshare Downloader</a> — A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once)
 
 
 
@@ -697,6 +724,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://github.com/ferreiraklet/Aline'>Aline</a> — a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google.
 </br><a href='https://github.com/loseys/Goblyn'>Goblyn</a> — tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file
 </br><a href='https://github.com/dievus/msdorkdump'>DORK DUMP</a> — Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them.
+</br><a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a>
 
 <a name="backlinks"></a>
 <h3>Backlinks analyze</h3>
@@ -715,6 +743,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> — command line #tool for to search for links between domains by Google Analytics ID
 </br><a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> — Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 </br><a href='https://osint.sh/adsense/'>Adsense Identiicator Finder</a> — this service finds other sites belonging to the same owner or company by Google Adsense ID
+</br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites
 
 
    
@@ -759,6 +788,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://cipher387.github.io/domain_investigation_toolbox/ip.html'>Ip Investigation Toolbox</a> — type ip-adress once and gather information about it with 13 tools 
 </br><a href='https://github.com/N0tA1dan/Crab'>Crab</a> — Well done and well designed port scanner, host info gatherer (include whois).
 </br><a href='https://github.com/dievus/msdnsscan'>MayorSecDNSScan</a> — Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration.
+</br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
 
 
 
@@ -827,6 +857,16 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://github.com/m4ll0k/SecretFinder'>SecretFinder</a> — Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files
 </br><a href='https://chrome.google.com/webstore/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg/related'>Copy all links and image links to CSV or JSON</a> — Download all links from current webpage in CSV (for open in #Excel) or JSON
 </br><a href='http://archiveready.com'>ArchiveReady</a> — OSINT specialists most often use various web archives to analyze other people's sites. But if you want your descendants to be able to find your own site, check whether the code of its pages is understandable for crawlers of web archives. 
+</br><a href='https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru'>Talend API Tester Free Edition</a> — tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior
+
+
+<a name="brokenlinks"></a>
+<h3>Broken Links Checkers</h3>
+
+</br><a href='https://github.com/MayankPandey01/BrokenLinkHijacker'>Broken Link Hijacker</a> — Crawls the website and searches for all the broken links (in "<a href" and "<img src").
+</br><a href='https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related'>Broken Link Checker</a> — shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working.
+</br><a href="https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php">Open Multiple Links ☷ One Click</a>
+
 
    
    
@@ -837,6 +877,34 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://unshorten.me/">Unshorten.me</a>
 </br><a href="http://urlxray.com/">Urlxray</a>
 </br><a href="https://unshorten.it/">Unshorten.it</a>
+
+
+
+<a name="textanalyze"></a>
+<h3>Text Analyze</h3>
+
+</br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
+</br><a href='https://wordtune.com/read'> Wordtune.com</a> — Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text.
+
+
+
+
+<a name="soundsearchandanalyze"></a>
+<h1>Sound search and analyze</h1>
+
+
+</br><a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> — allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file.
+</br><a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> — tool analyzes the voice and determines a person's stress level.
+</br><a href='https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related'>AHA Music</a> — A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay)
+</br><a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a>
+
+
+<a name="videoanalyze"></a>
+<h1>Video editing and analyze</h1>
+
+</br><a href='https://www.unscreen.com/'>unscreen.com</a> — remove the background from an uploaded video
+
+
 
 
    
@@ -876,7 +944,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://imagecolorpicker.com/'>Image Color Picker</a> — pick color (HEX or RGB) from image or website screenshot
 </br><a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a>
 </br><a href="http://www.imageforensic.org/">Image Forensic (Ghiro Online)</a>
-
+</br><a href='https://compress-or-die.com/analyze'>compress-or-die.com/analyze</a> — get detail information about images (exif, metatags, ICC_Profile, quantanisation tables)
+</br><a href='https://aperisolve.fr'>aperisolve.fr</a> — Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool.
+</br><a href='https://www.imaios.com/en/Imaios-Dicom-Viewer'>Dicom Viewer</a> — view MRI or CT photo online (.DCM files)
+</br><a href='https://www.caloriemama.ai/api'>Caloriemama</a> — AI can identify the type of food from the photo and give information about its caloric value.
 
 
 
@@ -942,6 +1013,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://t.me/VoiceMsgBot'>@VoiceMsgBot</a> — telegram bot to which you can send voice messages and it converts them into text
 </br><a href='https://t.me/transcriber_bot'>@transcriber_bot</a> — telegram bot, which can convert to text voice messages in 24 languages (view pic) 
 </br><a href='https://telegramchannels.me/list/biggest?language=en'>Telegramchannels.me</a> — Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages
+</br><a href='https://t.me/YTranslateBot'>@YTranslateBot</a> — type text or resend messages to Telegram bot for translate it.
 
 
 <a name="whatsapp"></a>
@@ -985,6 +1057,16 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://www.nerdydata.com/">NerdyData</a> — html/css/code search engine
 </br><a href='https://lelinhtinh.github.io/de4js/'>De4js</a> — HTML/JS deobfuscator
 </br><a href='https://tio.run'>TIO RUN</a> — Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser
+</br><a href="https://explainshell.com/">Explain Shell</a> — this site will help you quickly understand terminal commands-lines from articles, manuals, and tutorials
+</br><a href='https://codesandbox.io/'>Codesandbox</a> — Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph).
+</br><a href='https://www.shellcheck.net/'>shellcheck.net</a> — analyzes command-line scripts and explains in detail the errors found in them
+</br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
+</br><a href='https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related'>Developer search tool</a> — Take the art of copy and paste from Stack Overflow to a new level of speed and productivity
+</br><a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> — free #API to get pictures with cats for different HTTP response codes
+</br><a href="https://www.functions-online.com/">Run PHP functions online</a>
+</br><a href="https://httpie.io/run">HTTPIE.IO</a> — command-line HTTP client
+</br><a href="https://brew.sh/">The Missing Package Manager for macOS (or Linux)</a>
+</br><a href="https://gitpod.io/workspaces">Gitpod.io</a> — run code from repositories on Github directly in a browser
 
 
 
@@ -993,8 +1075,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a name="searchengines"></a>
 <h1>Search engines</h1>
 
-   
-
+  
 
 </br><a href='https://fnd.io/'>fnd.io</a> — alternative search engine for the AppStore and iTunes
 </br><a href="https://www.globalspec.com/">GlobalSpec Engineer Search Engine</a>
@@ -1007,7 +1088,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='http://mac.lc'>Mac Address Search Tool</a> — search by full Mac adress, part of Mac adress (prefix), vendor name or brand name
 </br><a href="https://www.hashatit.com/">Hashatit.com</a> — hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest
 </br><a href="https://www.goo.ne.jp/">Goo.ne.jp</a> — beautiful japanese search engine
-</br><a href="https://explainshell.com/">Explain Shell</a> — this site will help you quickly understand terminal commands-lines from articles, manuals, and tutorials
 </br><a href='https://firebounty.com'>Firebounty</a> — Bug bounty search engine
 </br><a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> — Search links in #darknet (.onion domain zone) from command line without using a Tor network.
 </br><a href='https://peteyvid.com'>Peteyvid</a> — search engine for 70 video hosting sites
@@ -1057,6 +1137,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://2lingual.com/">2lingual.com</a> — google search in two languages simultaneously in one window
 </br><a href="http://isearchfrom.com/">I search from</a> — allows you to customize the country, language, device, city when searching on Google
 </br><a href='https://github.com/370rokas/anonscraper'>Anon Scraper</a> — Search uploaded files to AnonFile using Google
+</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chrome extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
 
    
 <a name="iot"></a>
@@ -1091,6 +1172,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="http://web.archive.bibalex.org/">web.archive.bibalex.org</a>
 </br><a href="https://archive.vn/">Archive.vn</a>
 </br><a href='https://www.webarchive.org.uk/'>UKWA</a> — archive of more than half a billion saved English-language web pages (data from 2013)
+
+<a name="archivestools"></a>
+<h3>Tools for working with web archives</h3>
 </br><a href='https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related'>Web Archives</a> — extension for viewing cached web page version in 18 search engines and services
 </br><a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> — quick search website old versions in different search engines and archives
 </br><a href='https://cachedview.b4your.com/en/'>cachedview.b4your.com</a> — quick search website old versions in different search engines and archives
@@ -1099,7 +1183,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <p>
 </br><a href='https://github.com/anmolksachan/TheTimeMachine'>TheTimeMachine</a> — Toolkit to use http://archive.org to search for vulnerabilities
 </br><a href='https://github.com/akamhy/waybackpy'>Waybackpy</a> — If you want to write your own script to work with http://archive.org, check out the #python library Wayback Machine API. You can use it to quickly automate the extraction of all sorts of website data from the webarchive.
-
+</br><a href='https://archivebox.io'>Archivebox</a> — Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files
 
    
 <a name="archivesofdocuments"></a>
@@ -1124,58 +1208,73 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href='https://ukcensusonline.com/search/'>UK Census Online</a> — Database of deaths, births, and marriages. From 1841 to the beginning of the 21st century. Only the first and last names can be searched.
 
 
-
-   
-<a name="passwordsemailsphonenumbers"></a>
-<h1>Passwords, emails, phone numbers</h1>
-
+<a name="passwords"></a>
+<h1>Passwords</h1>
+</br><a href="https://crackstation.net/">CrackStation.net</a> — password hash cracker
 </br><a href="https://leakpeek.com/">Leak peek</a> — by pasword search part of email and site, where this password is used
-</br><a href="https://breachchecker.com/">Breachchecker.com</a> — history of data leaks associated with a particular email address
-</br><a href="http://metricsparrow.com/toolkit/email-permutator/">Metric Sparrow email permulator</a>
-</br><a href='https://snov.io/email-finder'>snov.io email finder</a> — find emails of company employees by domain name.
-</br><a href='https://t.me/maigret_osint_bot'>@maigret_osint_bot</a> — check accounts by username on 1500 sites. Based on maigret CLI tool
-</br><a href='https://analyzeid.com/username/'>Analyzeid.com Username Search</a> — view "Summary" of accounts found: list of names used, locations, bio, creations dates etc.
-</br><a href='https://github.com/thewhiteh4t/nexfil'>NEXFIL</a> — Search username by 350 social media platforms
-</br><a href='https://github.com/WildSiphon/Mailfoguess'>Mailfoguess</a> — tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails
-</br><a href='https://www.loc.gov/collections/united-states-telephone-directory-collection/'>USA Telephone Directory Collection</a> — 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987
-</br><a href='http://www.oldphonebook.com/'>Oldphonebook</a> — USA phonenumbers database from 1994 to 2014
-</br><a href='https://github.com/s41r4j/phomber'>Phomber</a> — Get information about phone number with command line.
-</br><a href='https://github.com/TheRealDalunacrobate/DaProfiler'>DaProfiler</a> — Get emails, social medias, adresses of peoples using web scraping and google dorking
-</br><a href='https://github.com/CYB3R-G0D/SPY'>Spy</a> — Just another very quick and simple account checker by username (210 sites in list).
-</br><a href="https://hunter.io/">Hunter.io</a> — can link to an article to find its author and his email address 
-</br><a href='https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079'>SingleHire</a> — Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile
-</br><a href='https://github.com/sharsil/mailcat'>Mailcat</a> — find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases
-</br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
-</br><a href='http://sovaweb.herokuapp.com/'>SovaWeb</a> — web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID
-</br><a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> — search for profiles in social networks by nickname 
-</br><a href='https://github.com/BLINKING-IDIOT/Aliens_eye'>Aliens eye</a> — Find links to social media accounts in 70 websites by username
-</br><a href='https://github.com/rlyonheart/thorndyke'>Thorndyke</a> — Checks the availability of a specified username on over 200 websites
-</br><a href='https://github.com/soxoj/marple'>Marple</a> — It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results.
-</br><a href='https://www.behindthename.com'>BehindTheNames</a> — when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them
-</br><a href="https://github.com/megadose/holehe">Holehe</a> — check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function 
-</br><a href="https://github.com/khast3x/h8mail">H8mail</a> — email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent
-</br><a href="https://cipher387.github.io/pastebinsearchengines/">My CSE for search in 48 pastebin sites</a>
-</br><a href='https://psbdmp.ws'>Psbdmp.ws</a> — search sensitive user data by 25 759 511 pastebins
-</br><a href="https://mailboxlayer.com/">MailBoxLayer API</a> — free api for email adress checking
-</br><a href='https://tools.emailhippo.com/email/'>EmailHippo</a> — Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale.
-</br><a href="https://numverify.com/">Numverify API</a> — free api for global phone number lookup and validation
-</br><a href="https://cybernews.com/personal-data-leak-check/">Cybernews RockYour2021</a> — check if your data has been leaked
-</br><a href="https://spycloud.com/check-your-exposure/">Spycloud.com</a> — check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled
-</br><a href='https://en.gravatar.com/site/check/'>Gravatar check</a> — Just enter email and see what the person's Gravatar avatar looks like.
-</br><a href='https://github.com/mishakorzik/UserFinder'>UserFinder</a> — tool for finding profiles by username
 </br><a href="https://www.cleancss.com/router-default/">Reference of default settings of different router models (IP, username, password)</a>
 </br><a href='https://many-passwords.github.io/'>Many Passwords</a> — Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels)
 </br><a href='https://github.com/Viralmaniar/Passhunt'>PassHunt</a> — Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords
 </br><a href='http://bugmenot.com'>BugMenot</a> — login and passwords for public accounts in different services
+
+
+<a name="emails"></a>
+<h1>Emails</h1>
+
+</br><a href="https://breachchecker.com/">Breachchecker.com</a> — history of data leaks associated with a particular email address
+</br><a href="http://metricsparrow.com/toolkit/email-permutator/">Metric Sparrow email permulator</a>
+</br><a href='https://snov.io/email-finder'>snov.io email finder</a> — find emails of company employees by domain name.
+</br><a href='https://github.com/WildSiphon/Mailfoguess'>Mailfoguess</a> — tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails
+</br><a href="https://hunter.io/">Hunter.io</a> — can link to an article to find its author and his email address 
+</br><a href='https://github.com/sharsil/mailcat'>Mailcat</a> — find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases
+</br><a href="https://github.com/khast3x/h8mail">H8mail</a> — email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent
+</br><a href="https://mailboxlayer.com/">MailBoxLayer API</a> — free api for email adress checking
+</br><a href='https://tools.emailhippo.com/email/'>EmailHippo</a> — Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale.
+</br><a href="https://spycloud.com/check-your-exposure/">Spycloud.com</a> — check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled
+</br><a href='https://en.gravatar.com/site/check/'>Gravatar check</a> — Just enter email and see what the person's Gravatar avatar looks like.
+
+<a name="nicknames"></a>
+<h1>Nicknames</h1>
+
+</br><a href='https://t.me/maigret_osint_bot'>@maigret_osint_bot</a> — check accounts by username on 1500 sites. Based on maigret CLI tool
+</br><a href='https://analyzeid.com/username/'>Analyzeid.com Username Search</a> — view "Summary" of accounts found: list of names used, locations, bio, creations dates etc.
+</br><a href='https://github.com/thewhiteh4t/nexfil'>NEXFIL</a> — Search username by 350 social media platforms
+</br><a href='https://github.com/CYB3R-G0D/SPY'>Spy</a> — Just another very quick and simple account checker by username (210 sites in list).
+</br><a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> — search for profiles in social networks by nickname 
+</br><a href='https://github.com/BLINKING-IDIOT/Aliens_eye'>Aliens eye</a> — Find links to social media accounts in 70 websites by username
+</br><a href='https://github.com/rlyonheart/thorndyke'>Thorndyke</a> — Checks the availability of a specified username on over 200 websites
+</br><a href='https://github.com/soxoj/marple'>Marple</a> — It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results.
+</br><a href="https://github.com/megadose/holehe">Holehe</a> — check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function
+</br><a href='https://github.com/mishakorzik/UserFinder'>UserFinder</a> — tool for finding profiles by username
+</br><a href='https://github.com/snooppr/snoop'></a> — Search users profile by nickname
+</br><a href='https://github.com/d8rkmind/Pyosint'>Pyosint</a> — Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services
+</br><a href='https://datayze.com/alternate-spelling-finder'>Alternate Spelling Finder</a> — When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently.
+</br><a href='https://translit.net'>Translit.net</a> — Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names
+</br><a href='https://seintpl.github.io/NAMINT/'>NAMINT</a> — Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media)
+
+   
+<a name="phonenumbers"></a>
+<h1>Phone numbers</h1>
+</br><a href='https://www.loc.gov/collections/united-states-telephone-directory-collection/'>USA Telephone Directory Collection</a> — 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987
+</br><a href='http://www.oldphonebook.com/'>Oldphonebook</a> — USA phonenumbers database from 1994 to 2014
+</br><a href='https://github.com/s41r4j/phomber'>Phomber</a> — Get information about phone number with command line.
+</br><a href="https://numverify.com/">Numverify API</a> — free api for global phone number lookup and validation
 </br><a href='https://github.com/Lexxrt/FireFly'>FireFly</a> — Get information about phone number using Numverify API
 
 
 
+<a name="universalcontactsearch"></a>
+<h1>Universal Contact Search and Leaks Search</h1>
 
-   
-<a name="peoplesearch"></a>
-<h1>People search</h1>
 
+</br><a href='https://github.com/TheRealDalunacrobate/DaProfiler'>DaProfiler</a> — Get emails, social medias, adresses of peoples using web scraping and google dorking
+</br><a href='https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079'>SingleHire</a> — Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile
+</br><a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> — tool for searching nickname profiles on more than 300 sites
+</br><a href='http://sovaweb.herokuapp.com/'>SovaWeb</a> — web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID
+</br><a href='https://www.behindthename.com'>BehindTheNames</a> — when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them
+</br><a href="https://cipher387.github.io/pastebinsearchengines/">My CSE for search in 48 pastebin sites</a>
+</br><a href='https://psbdmp.ws'>Psbdmp.ws</a> — search sensitive user data by 25 759 511 pastebins
+</br><a href="https://cybernews.com/personal-data-leak-check/">Cybernews RockYour2021</a> — check if your data has been leaked
 </br><a href='https://gofindwho.com/'>GoFindWho People Search</a> — More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name.
 </br><a href="https://thatsthem.com/people-search">That's them people search</a>
 </br><a href='https://anywho.com/'>Anywho</a> — Search for people in #USA. Enter first and last name to get age, address, and part of phone number (free)
@@ -1186,14 +1285,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 </br><a href="https://stevemorse.org/ssn/ssn.html">Decoding Social Security Numbers in One Step</a>
 </br><a href="http://inmateinfo.indy.gov/IML">Inmate Database Search</a>
 </br><a href="http://scamdigger.com/">Scamdigger.com</a> — search in #scammers database by name, IP-adress, email or phone
-</br><a href='https://github.com/snooppr/snoop'></a> — Search users profile by nickname
-</br><a href='https://github.com/d8rkmind/Pyosint'>Pyosint</a> — Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services
 </br><a href='https://www.cloob.com/profile/search/index'>Cloob.com</a> — Iranian people search
 </br><a href='https://slavevoyages.org/resources/names-database'>SlaveVoyages.org</a> — the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world.
-</br><a href='https://datayze.com/alternate-spelling-finder'>Alternate Spelling Finder</a> — When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently.
-</br><a href='https://translit.net'>Translit.net</a> — Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names
-</br><a href='https://seintpl.github.io/NAMINT/'>NAMINT</a> — Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media)
-   
+
+
 
 <a name="sockpuppets"></a>
 <h1>Sock Puppets</h1>
@@ -1218,68 +1313,179 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <h1>NOOSINT tools</h1>
 
 
-</br><a href='https://wordtune.com/read'> Wordtune.com</a> — Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text.
-</br><a href='https://manytools.org'>Manytools</a> — Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking.
-</br><a href='https://github.com/wkentaro/gdown'>Gdown</a> — When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.
-</br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
-</br><a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> — allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file.
-</br><a href='https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related'>Download Sorter</a> — simple tool that will help set up the distribution of files with different extensions into different folders in a minute and permanently put  "Downloads" folder in order.
-</br><a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> — Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information.
-</br><a href='https://codesandbox.io/'>Codesandbox</a> — Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph).
-</br><a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> — tool analyzes the voice and determines a person's stress level.
-</br><a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> — A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more
-</br><a href='https://github.com/MayankPandey01/BrokenLinkHijacker'>Broken Link Hijacker</a> — Crawls the website and searches for all the broken links (in "<a href" and "<img src").
-</br><a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> — analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100
-</br><a href='https://github.com/ninoseki/miteru'>Miteru</a> — Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not
-</br><a href='https://github.com/mohan3d/slideshare-go'>Slideshare Downloader</a> — A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once)
-</br><a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> — detailed statistics of your browser history
-</br><a href='https://t.me/YTranslateBot'>@YTranslateBot</a> — type text or resend messages to Telegram bot for translate it.
-</br><a href='https://mr0grog.github.io/google-docs-to-markdown/'>Google Docs to Markdown online converter</a> — just copy text to the site
-</br><a href='https://www.cloudhq.net/apps'>CloudHQ</a> — A collection of several dozen extensions for #Chrome that allow you to extend the functionality of the standard #Gmail interface and maximize your #productivity. Tracking, sorting, sharing, saving, editing and much more.
-</br><a href='https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related'>AHA Music</a> — A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay)
-</br><a href='https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru'>Talend API Tester Free Edition</a> — tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior
-</br><a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> — free web proxy
 </br><a href='http://www.remindmewhen.io/'>RemindWhen</a> — Simple app that reminds you on email if your favorite country opens for tourists from your country.
-</br><a href='https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related'>Broken Link Checker</a> — shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working.
-</br><a href='https://binvis.io/'>Binvis</a> — lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool
-</br><a href='https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec'>Gdrive-copy</a> — The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications
-</br><a href='https://www.unscreen.com/'>unscreen.com</a> — remove the background from an uploaded video
-</br><a href='https://www.shellcheck.net/'>shellcheck.net</a> — analyzes command-line scripts and explains in detail the errors found in them
-</br><a href='https://archivebox.io'>Archivebox</a> — Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files
-</br><a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> — A simple extension that changes the speed of playing video courses on #Udemy.
-</br><a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> — Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd)
-</br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
-</br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
-</br><a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> — super tool for those who forget to leave comments on their code or have to deal with someone else's code. 
-</br><a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> — Google Chrome extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience 
-</br><a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> — Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites
-</br><a href='https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related'>Developer search tool</a> — Take the art of copy and paste from Stack Overflow to a new level of speed and productivity
-</br><a href='https://emn178.github.io/online-tools/index.html'>Online tools</a> — 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings
-</br><a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a>
-</br><a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> — free #API to get pictures with cats for different HTTP response codes
-</br><a href="https://gitpod.io/workspaces">Gitpod.io</a> — run code from repositories on Github directly in a browser
-</br><a href="https://crackstation.net/">CrackStation.net</a> — password hash cracker
-</br><a href="https://www.functions-online.com/">Run PHP functions online</a>
-</br><a href="https://siftrss.com/">Siftrss.com</a> — tool for filtering RSS feeds
-</br><a href="https://brew.sh/">The Missing Package Manager for macOS (or Linux)</a>
-</br><a href="https://httpie.io/run">HTTPIE.IO</a> — command-line HTTP client
-</br><a href="https://json-csv.com/">JSON to CSV</a>
-</br><a href="https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init">Windows 10 Online Emulator</a>
-</br><a href="https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online">Parrot Security OS Online Emulator</a>
-</br><a href="https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php">Open Multiple Links ☷ One Click</a>
-</br><a href="https://tobloef.com/text2mindmap/">Tobloef.com</a> — text to mind map
-</br><a href="https://gchq.github.io/CyberChef/">CyberChef</a> — collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
-</br><a href="https://www.textise.net/">Textise.net</a> — convert the HTML code of a page to TXT
-</br><a href="https://shadowcrypt.net/tools/">Shadowcrypt Tools</a> — 24 online tools for OSINT, network scanning, MD5 encryption and many others
+</br><a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> — free web proxy
 </br><a href='https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon'>Google Docs Voice Comments</a> — simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms.
 </br><a href='http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20'>Text to ASCII Art Generator (TAAG)</a> — This site will help you make atmospheric lettering for your command line tool or README.
+
+
+<a name="visualizationtools"></a>
+<h3>Visualization tools</h3>
+
+</br><a href='https://github.com/gephi/gephi'>Gephi</a> — fast and easy to learn graph analytics tool with a lot of modules (plugins)
+</br><a href="https://tobloef.com/text2mindmap/">Tobloef.com</a> — text to mind map
 </br><a href='http://cheatsheet-maker.herokuapp.com'>Cheat sheet maker</a> — simple tool for creating cheat sheets
-</br><a href='https://www.caloriemama.ai/api'>Caloriemama</a> — AI can identify the type of food from the photo and give information about its caloric value.
+
+
+
+<a name="routineautomation"></a>
+<h3>Routine/Data Extraction Automation</h3>
+</br><a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> — A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more
+</br><a href='https://manytools.org'>Manytools</a> — Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking.
+</br><a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> — An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc
+</br><a href='https://www.cloudhq.net/apps'>CloudHQ</a> — A collection of several dozen extensions for #Chrome that allow you to extend the functionality of the standard #Gmail interface and maximize your #productivity. Tracking, sorting, sharing, saving, editing and much more.
+</br><a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> — Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd)
+</br><a href='https://emn178.github.io/online-tools/index.html'>Online tools</a> — 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings
+</br><a href="https://gchq.github.io/CyberChef/">CyberChef</a> — collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
+</br><a href="https://shadowcrypt.net/tools/">Shadowcrypt Tools</a> — 24 online tools for OSINT, network scanning, MD5 encryption and many others
+
+
+
+<a name="browseranalyze"></a>
+<h1>Browser analyze</h1>
+
+</br><a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> — detailed statistics of your browser history
+</br><a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> — can tell a lot about your browser and computer, including showing a list of installed fonts on the system.
 </br><a href='https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related'>Webmapper</a> — Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable.
+
+
+<a name="files"></a>
+<h1>Files</h1>
+
+</br><a href='https://github.com/cipher387/grep_for_osint'>Grep for OSINT</a> — simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory
+</br><a href='http://diffnow.com'>Diffnow.com</a> — Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc).
+</br><a href='https://github.com/mnismt/CompressedCrack'>CompressedCrack</a> — Simple tool for brute passwords for ZIP and RAR archives
+</br><a href='https://www.protectedzip.com/'>Encrytped ZIP file creator</a> — Create ZIP archive online
+</br><a href='https://github.com/metachris/pdfx'>PDFX</a> — get meta data of PDF files thrue command line
+</br><a href='https://t.me/mediainforobot'>@mediainforobot</a> — telegram bot to getting metadata from different types of files
+</br><a href='https://github.com/quodlibet/mutagen'>Mutagen</a> — get meta data of audiofiles thrue command line
+</br><a href='https://voyant-tools.org/'>voyant-tools.org</a> — analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types.
+</br><a href="https://www.aconvert.com/analyze.html">Analyze file format online</a>
+</br><a href="https://www.toolsley.com/file.html">ToolSley: analyze file format online</a>
+</br><a href="https://recoverytoolbox.com/">RecoveryToolBox</a> — recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files
+</br><a href='https://mr0grog.github.io/google-docs-to-markdown/'>Google Docs to Markdown online converter</a> — just copy text to the site
+</br><a href='https://binvis.io/'>Binvis</a> — lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool
+</br><a href='https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec'>Gdrive-copy</a> — The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications
+</br><a href="https://siftrss.com/">Siftrss.com</a> — tool for filtering RSS feeds
+</br><a href="https://json-csv.com/">JSON to CSV</a>
+</br><a href="https://www.textise.net/">Textise.net</a> — convert the HTML code of a page to TXT
+
+
 
 
 
    
+
+   
+<a name="imeiserial"></a>
+<h1>IMEI and serial numbers</h1>
+
+</br><a href="https://www.checkmi.info/">Checking MI account</a>
+</br><a href="https://contex.com/serial-number-lookup/">Contex condoms serial number lookup</a>
+</br><a href='https://www.imeipro.info/check_imei_iphone.html'>iPhone IMEI Checker</a> — Get information about #iPhone by International Mobile Equipment Identity
+
+
+<a name="nft"></a>
+<h1>NFT</h1>
+</br><a href='https://nonfungible.com'>Nonfungible.com</a> — help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time)
+
+ 
+<a name="keywordstrends"></a>
+<h1>Keywords, trends, news analytics</h1>
+
+</br><a href="https://wordstat.yandex.ru/">Wordstat.yandex.ru</a> — the estimated number of Yandex searches in the coming month for different keywords
+</br><a href="https://trends.google.com/trends/">Trends Google</a>
+</br><a href="https://keywordtool.io/search/keywords/">Keywordtool.io</a> — keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter
+</br><a href="https://books.google.com/ngrams/">Google Books Ngram Viewer</a>
+</br><a href="http://news-explorer.mybluemix.net/">News Explorer BlueMix</a>
+</br><a href="https://trends.pinterest.com/">Pinterest Trends</a>
+
+   
+<a name="appsprograms"></a>
+<h1>Apps and programs</h1>
+
+</br><a href='https://github.com/facundoolano/google-play-scraper'>Google Play Scraper</a> — get the most detailed 
+</br><a href='https://github.com/facundoolano/app-store-scraper'>App Store Scraper</a> — get the most detailed metadata about the app from AppStore
+
+
+
+      
+<a name="companysearch"></a>
+<h1>Company information search</h1>
+</br><a href='https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118'>Lei.bloomberg.com</a> — search information about company by Legal Identify Number
+</br><a href='https://candid.org/research-and-verify-nonprofits/990-finder'>990 finder</a> — Enter the company name and select the state to get a link to download its 900 form.
+</br><a href='https://github.com/rlyonheart/occli'>Open Corporates Command Line Client (Occli)</a> — Gathering detailed information about company through cli.
+</br><a href='https://emm.newsbrief.eu/NewsBrief/clusteredition/ru/latest.html'>NewsBrief</a> — Looking for recent mentions of the company in online media around the world
+</br><a href='http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion.pet/'>Related List</a> — find company-related contacts and confidential documents leaked online
+</br><a href='https://www.investing.com/'>Investing.com</a> — View a detailed investment profile of the company
+</br><a href='https://fccid.io'>FCCID.IO</a> — seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz)
+</br><a href='https://tradint.io/tradint-researcher/'>Tradeint</a> — Quick access for more than 85 tools for gathering information about company and company website, location and sector
+</br><a href='https://cipher387.github.io/corporative_registry_worldwide_catalog/'>Corporative Registry Catalog</a> — worldwide catalog of business registries (63 countries)
+</br><a href='https://search.gleif.org/#/search/'>LEI search</a> — can help find "who owned by" or "who owns"
+</br><a href='http://openownership.org'>openownership.org</a> — Wordwide beneficial ownership data.
+</br><a href='https://opensanctions.org'>opensanctions.org</a> — Open source data on sanctioned people and companies in various countries from 35 (!) different sources.
+
+<a name="banksearch"></a>
+<h1>Bank information search</h1>
+</br><a href='https://banks.data.fdic.gov/bankfind-suite/bankfind'>FDIC search</a> — Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it
+</br><a href='https://www.iban.com/iban-checker'>Iban.com</a> — Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced
+</br><a href='https://api.freebinchecker.com/bin/658205'>Freebin Checker</a> — easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database
+
+
+
+<a name="brandstrademarks"></a>
+<h1>Brand/trademark information search</h1>
+</br><a href='https://www3.wipo.int/branddb/en/'>WIPO.int</a> — Global Brands Database (46,020,000 records)
+</br><a href='https://www.tmdn.org/tmdsview-web/'>TMDN Design View</a> — Search 17 684 046 products designs across the European Union and beyond
+</br><a href='https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk'>TESS</a> — Search engine for #USA trademarks
+
+
+<a name="tendersshipments"></a>
+<h1>Tender/shipment information search</h1>
+</br><a href='https://www.tendersinfo.com'>TendersInfo</a> — Search tenders around the world by keywords.
+</br><a href="https://www.barcodelookup.com/">Barcode lookup</a>
+</br><a href="https://panjiva.com/">Panjiva.com</a> — search data on millions of shipments worldwide
+</br><a href='https://en.52wmb.com'>en.52wmb.com</a> — Search information about worldwide buyers and suppliers by product name, company name or HS code.
+
+
+
+<a name="amazon"></a>
+<h3>Amazon</h3>
+
+
+</br><a href='https://github.com/scrapehero-code/amazon-scraper'>Amazon Scraper</a> — scraped detail information about list of items
+</br><a href="https://amazon-asin.com/">Amazon ASIN Finder</a>
+</br><a href="https://www.sellerapp.com/amazon-reverse-asin.html">Sellerapp.com. Amazon Reverse ASIN search</a>
+
+
+   
+<a name="movies"></a>
+<h1>Movies</h1>
+
+</br><a href='https://reelgood.com/'>Reelgood.com</a> — search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus)
+</br><a href='http://imcdb.org'>IMCDB</a> — Internet Movie Cars Database
+</br><a href="https://frinkiac.com/">Sympsons screencaps search</a>
+</br><a href="https://morbotron.com/">Search Futuruma screencaps</a>
+</br><a href="https://masterofallscience.com/">Rick and Morty screencaps search</a>
+</br><a href="http://www.subzin.com/">Subzin.com</a> — by one phrase will find the movie, as well as the full text of the dialogue with the timing
+<a name="netflix"></a>
+<h3>Netflix</h3>
+</br><a href="http://unogs.com/">Unogs.com</a> — Netflix search without registration
+</br><a href='http://flixable.com '>flixable.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flixwatch.co '>flixwatch.co </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flicksurfer.com '>flicksurfer.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flixboss.com'>flixboss.com</a> — alternative way to find anything interesting on Netflix
+</br><a href='http://flickmetrix.com '>flickmetrix.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://whatthehellshouldiwatchonnetflix.com '>whatthehellshouldiwatchonnetflix.com </a> — alternative way to find anything interesting on Netflix
+</br><a href='http://netflix-codes.com'>netflix-codes.com</a> — alternative way to find anything interesting on Netflix
+   
+<a name="tvradio"></a>
+<h1>TV/Radio</h1>
+
+</br><a href='https://www.radio.net/local-stations'>Radion.net</a> — view list of all radiostations near your location and search radiostations by keywords
+</br><a href='https://americanarchive.org'>American Archive of Public Broadcasting</a> — Discover historic programs of publicly funded radio and television across America. Watch and listen
+
+
 <a name="toolscollection"></a>
 <h1>Tools collections</h1>
 
@@ -1318,131 +1524,14 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 </br><a href='https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related'>SEARCH Investigative and Forensic Toolbar</a> — extension with quick access to dozens of online tools for osint, forensics and othef investigations goals.
 </br><a href='https://github.com/thenurhabib/tenssens'>Tenssens</a> — osint framework
 
- 
-   
-<a name="files"></a>
-<h1>Files</h1>
-
-</br><a href='https://github.com/cipher387/grep_for_osint'>Grep for OSINT</a> — simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory
-</br><a href='http://diffnow.com'>Diffnow.com</a> — Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc).
-</br><a href='https://www.imaios.com/en/Imaios-Dicom-Viewer'>Dicom Viewer</a> — view MRI or CT photo online (.DCM files)
-</br><a href='https://github.com/mnismt/CompressedCrack'>CompressedCrack</a> — Simple tool for brute passwords for ZIP and RAR archives
-</br><a href='https://www.protectedzip.com/'>Encrytped ZIP file creator</a> — Create ZIP archive online
-</br><a href='https://github.com/metachris/pdfx'>PDFX</a> — get meta data of PDF files thrue command line
-</br><a href='https://t.me/mediainforobot'>@mediainforobot</a> — telegram bot to getting metadata from different types of files
-</br><a href='https://github.com/quodlibet/mutagen'>Mutagen</a> — get meta data of audiofiles thrue command line
-</br><a href='https://compress-or-die.com/analyze'>compress-or-die.com/analyze</a> — get detail information about images (exif, metatags, ICC_Profile, quantanisation tables)
-</br><a href='https://aperisolve.fr'>aperisolve.fr</a> — Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool.
-</br><a href='https://voyant-tools.org/'>voyant-tools.org</a> — analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types.
-</br><a href="https://www.aconvert.com/analyze.html">Analyze file format online</a>
-</br><a href="https://www.toolsley.com/file.html">ToolSley: analyze file format online</a>
-</br><a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a>
-</br><a href="https://recoverytoolbox.com/">RecoveryToolBox</a> — recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files
 
 
 
-   
+<a name="onlineosemulators"></a>
+<h1>Online OS Emulators</h1>
 
-
-
-   
-<a name="imeiserial"></a>
-<h1>IMEI and serial numbers</h1>
-
-</br><a href="https://www.checkmi.info/">Checking MI account</a>
-</br><a href="https://contex.com/serial-number-lookup/">Contex condoms serial number lookup</a>
-
-
-<a name="nft"></a>
-<h1>NFT</h1>
-</br><a href='https://nonfungible.com'>Nonfungible.com</a> — help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time)
-
- 
-<a name="keywordstrends"></a>
-<h1>Keywords, trends, news analytics</h1>
-
-</br><a href="https://wordstat.yandex.ru/">Wordstat.yandex.ru</a> — the estimated number of Yandex searches in the coming month for different keywords
-</br><a href="https://trends.google.com/trends/">Trends Google</a>
-</br><a href="https://keywordtool.io/search/keywords/">Keywordtool.io</a> — keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter
-</br><a href="https://books.google.com/ngrams/">Google Books Ngram Viewer</a>
-</br><a href="http://news-explorer.mybluemix.net/">News Explorer BlueMix</a>
-</br><a href="https://trends.pinterest.com/">Pinterest Trends</a>
-
-   
-<a name="appsprograms"></a>
-<h1>Apps and programs</h1>
-
-</br><a href='https://github.com/facundoolano/google-play-scraper'>Google Play Scraper</a> — get the most detailed 
-</br><a href='https://github.com/facundoolano/app-store-scraper'>App Store Scraper</a> — get the most detailed metadata about the app from AppStore
-
-
-
-   
-<a name="brandscompanies"></a>
-<h1>Brands, companies, items</h1>
-
-   
-   
-<a name="amazon"></a>
-
-
-</br><a href='http://openownership.org'>openownership.org</a> — Wordwide beneficial ownership data.
-</br><a href='https://opensanctions.org'>opensanctions.org</a> — Open source data on sanctioned people and companies in various countries from 35 (!) different sources.
-</br><a href='https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118'>Lei.bloomberg.com</a> — search information about company by Legal Identify Number
-</br><a href='https://banks.data.fdic.gov/bankfind-suite/bankfind'>FDIC search</a> — Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it
-</br><a href='https://candid.org/research-and-verify-nonprofits/990-finder'>990 finder</a> — Enter the company name and select the state to get a link to download its 900 form.
-</br><a href='https://www.iban.com/iban-checker'>Iban.com</a> — Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced
-</br><a href='http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion.pet/'>Related List</a> — find company-related contacts and confidential documents leaked online
-</br><a href='https://github.com/rlyonheart/occli'>Open Corporates Command Line Client (Occli)</a> — Gathering detailed information about company through cli.
-</br><a href='https://emm.newsbrief.eu/NewsBrief/clusteredition/ru/latest.html'>NewsBrief</a> — Looking for recent mentions of the company in online media around the world
-</br><a href='https://www.investing.com/'>Investing.com</a> — View a detailed investment profile of the company
-</br><a href='https://fccid.io'>FCCID.IO</a> — seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz)
-</br><a href='https://api.freebinchecker.com/bin/658205'>Freebin Checker</a> — easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database
-</br><a href='https://tradint.io/tradint-researcher/'>Tradeint</a> — Quick access for more than 85 tools for gathering information about company and company website, location and sector
-</br><a href='https://cipher387.github.io/corporative_registry_worldwide_catalog/'>Corporative Registry Catalog</a> — worldwide catalog of business registries (63 countries)
-</br><a href='https://www3.wipo.int/branddb/en/'>WIPO.int</a> — Global Brands Database (46,020,000 records)
-</br><a href='https://www.tmdn.org/tmdsview-web/'>TMDN Design View</a> — Search 17 684 046 products designs across the European Union and beyond
-</br><a href='https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk'>TESS</a> — Search engine for #USA trademarks
-</br><a href='https://www.tendersinfo.com'>TendersInfo</a> — Search tenders around the world by keywords.
-
-<h3>Amazon</h3>
-
-
-</br><a href='https://github.com/scrapehero-code/amazon-scraper'>Amazon Scraper</a> — scraped detail information about list of items
-</br><a href='https://www.imeipro.info/check_imei_iphone.html'>iPhone IMEI Checker</a> — Get information about #iPhone by International Mobile Equipment Identity
-</br><a href='https://search.gleif.org/#/search/'>LEI search</a> — can help find "who owned by" or "who owns"
-</br><a href="https://amazon-asin.com/">Amazon ASIN Finder</a>
-</br><a href="https://www.sellerapp.com/amazon-reverse-asin.html">Sellerapp.com. Amazon Reverse ASIN search</a>
-</br><a href="https://www.barcodelookup.com/">Barcode lookup</a>
-</br><a href="https://panjiva.com/">Panjiva.com</a> — search data on millions of shipments worldwide
-</br><a href='https://en.52wmb.com'>en.52wmb.com</a> — Search information about worldwide buyers and suppliers by product name, company name or HS code.
-
-
-   
-<a name="movies"></a>
-<h1>Movies</h1>
-
-</br><a href='https://reelgood.com/'>Reelgood.com</a> — search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus)
-</br><a href='http://imcdb.org'>IMCDB</a> — Internet Movie Cars Database
-</br><a href="https://frinkiac.com/">Sympsons screencaps search</a>
-</br><a href="https://morbotron.com/">Search Futuruma screencaps</a>
-</br><a href="https://masterofallscience.com/">Rick and Morty screencaps search</a>
-</br><a href="http://www.subzin.com/">Subzin.com</a> — by one phrase will find the movie, as well as the full text of the dialogue with the timing
-</br><a href="http://unogs.com/">Unogs.com</a> — Netflix search without registration
-</br><a href='http://flixable.com '>flixable.com </a> — alternative way to find anything interesting on Netflix
-</br><a href='http://flixwatch.co '>flixwatch.co </a> — alternative way to find anything interesting on Netflix
-</br><a href='http://flicksurfer.com '>flicksurfer.com </a> — alternative way to find anything interesting on Netflix
-</br><a href='http://flixboss.com'>flixboss.com</a> — alternative way to find anything interesting on Netflix
-</br><a href='http://flickmetrix.com '>flickmetrix.com </a> — alternative way to find anything interesting on Netflix
-</br><a href='http://whatthehellshouldiwatchonnetflix.com '>whatthehellshouldiwatchonnetflix.com </a> — alternative way to find anything interesting on Netflix
-</br><a href='http://netflix-codes.com'>netflix-codes.com</a> — alternative way to find anything interesting on Netflix
-   
-<a name="tvradio"></a>
-<h1>TV/Radio</h1>
-
-</br><a href='https://www.radio.net/local-stations'>Radion.net</a> — view list of all radiostations near your location and search radiostations by keywords
-</br><a href='https://americanarchive.org'>American Archive of Public Broadcasting</a> — Discover historic programs of publicly funded radio and television across America. Watch and listen
-
+</br><a href="https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init">Windows 10 Online Emulator</a>
+</br><a href="https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online">Parrot Security OS Online Emulator</a>
 
 <a name="virtualmachines"></a>
 <h1>Virtual Machines/Linux distributions</h1>
