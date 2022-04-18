@@ -68,7 +68,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#databasesofdomains">Databases of domains</a></br>
 <a href="#websitetetrafficlookup">Website traffic look up</a></br>
 <a href="#websitetechnologylookup">Website technology look up</a></br>
-<a href="#sourcecodeanalyzes">Source Code Analyzes</a> <a href="#urlinshorteners">URL unshorteners</a></br>
+<a href="#sourcecodeanalyzes">Source Code Analyzes</a></br>
+<a href="#urlinshorteners">URL unshorteners</a></br>
 <a href="#brokenlinks">Broken Links Checkers</a></br>
 <h4><a href="#textanalyze">Text Analyze</a></h4> 
 <h4><a href="#soundsearchandanalyze">Sound search and analyze</a></h4> 
