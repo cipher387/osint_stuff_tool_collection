@@ -1492,40 +1492,41 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a name="toolscollection"></a>
 <h1>Tools collections</h1>
 
-
-</br><a href='http://git.hopain.cyou/OSINT-Search-Tools/'>Osint Search Tools</a> — Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes...
-</br><a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> — Ultimate OSINT and Threat Hunting Framework
-</br><a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> — osint toolkit for gathering information about domains, phone numbers and social media accounts
-</br><a href='https://github.com/Himatric/SEMID'>SEMID osint framework</a> — Search user info in  Tiktok, Playstation, Discord, Doxbin,Twitter, Github
-</br><a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'>
-</br><a href='https://github.com/MR-NULL666/NAZAR'>NAZAR </a> — universal Osint Toolkit
-E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
-</br><a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> — Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations
-</br><a href='https://nitinpandey.in/ihunt/'>Hunt Osint Framework</a> — Dozens of online tools for different stages of #osint investigations
-</br><a href='https://github.com/nodauf/GoMapEnum'>GoMapEnum</a> — Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development)
-</br><a href='https://addons.mozilla.org/ru/firefox/addon/foxyrecon/'>FoxyRecon</a> — 44 osint tools in one add-on for #Firefox
-</br><a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> — modular open-source framework based on OSINT and data gathering
-</br><a href='https://github.com/j3ssie/metabigor'>Metabigoor</a> — Simple and fast #osint framework
-</br><a href='https://gf.dev/toolbox'>Geekflare Tools</a> — 39 online free tools for website testing
-</br><a href='https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221'>Oryon OSINT query tool</a> — Construct investigations links in Google Sheet
-</br><a href='https://github.com/leebaird/discover'>Discover</a> — Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one)
-</br><a href='https://one-plus.github.io/DocumentSearch'>one-plus.github.io/DocumentSearch</a> — Document Search osint Toolkit
-</br><a href="https://t.me/HowToFindBot">Telegram HowToFindBot</a>
-</br><a href="https://github.com/Te-k/harpoon">Harpoon</a>
-</br><a href='https://github.com/d8rkmind/Profounder'>Profounder</a> — searching users by nickname and scrapping url's from website
-</br><a href="https://github.com/AzizKpln/Moriarty-Project">Moriarty Project</a>
-</br><a href="https://osintcombine.tools/">Osintcombine Tools</a>
-</br><a href="https://github.com/Bafomet666/OSINT-SAN">OSINT-SAN</a>
-</br><a href="https://github.com/ninoseki/mihari">Mihari</a>
-</br><a href="https://one-plus.github.io/Instagram">One Plus OSINT Toolkit</a>
-</br><a href="https://github.com/umair9747/vichiti">Vichiti</a>
-</br><a href="https://github.com/pawlaczyk/sarenka">Sarenka</a>
-</br><a href="https://www.vedbex.com/tools/home">Vedbex.com</a>
-</br><a href="https://synapsint.com/">Synapsint.com</a>
-</br><a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> — Swiff knife for #osint
-</br><a href='https://github.com/ivre/ivre'>IVRE</a> — framework for network recon
-</br><a href='https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related'>SEARCH Investigative and Forensic Toolbar</a> — extension with quick access to dozens of online tools for osint, forensics and othef investigations goals.
-</br><a href='https://github.com/thenurhabib/tenssens'>Tenssens</a> — osint framework
+| Link             | Description             |
+|------------------|-------------------------|
+ | <a href='http://git.hopain.cyou/OSINT-Search-Tools/'>Osint Search Tools</a> | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... | 
+ | <a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> | Ultimate OSINT and Threat Hunting Framework | 
+ | <a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> | osint toolkit for gathering information about domains, phone numbers and social media accounts | 
+ | <a href='https://github.com/Himatric/SEMID'>SEMID osint framework</a> | Search user info in  Tiktok, Playstation, Discord, Doxbin,Twitter, Github | 
+ | <a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'> |  | 
+ | <a href='https://github.com/MR-NULL666/NAZAR'>NAZAR </a> | universal Osint Toolkit
+E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) | 
+ | <a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations | 
+ | <a href='https://nitinpandey.in/ihunt/'>Hunt Osint Framework</a> | Dozens of online tools for different stages of #osint investigations | 
+ | <a href='https://github.com/nodauf/GoMapEnum'>GoMapEnum</a> | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) | 
+ | <a href='https://addons.mozilla.org/ru/firefox/addon/foxyrecon/'>FoxyRecon</a> | 44 osint tools in one add-on for #Firefox | 
+ | <a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> | modular open-source framework based on OSINT and data gathering | 
+ | <a href='https://github.com/j3ssie/metabigor'>Metabigoor</a> | Simple and fast #osint framework | 
+ | <a href='https://gf.dev/toolbox'>Geekflare Tools</a> | 39 online free tools for website testing | 
+ | <a href='https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221'>Oryon OSINT query tool</a> | Construct investigations links in Google Sheet | 
+ | <a href='https://github.com/leebaird/discover'>Discover</a> | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one) | 
+ | <a href='https://one-plus.github.io/DocumentSearch'>one-plus.github.io/DocumentSearch</a> | Document Search osint Toolkit | 
+ | <a href="https://t.me/HowToFindBot">Telegram HowToFindBot</a> |  | 
+ | <a href="https://github.com/Te-k/harpoon">Harpoon</a> |  | 
+ | <a href='https://github.com/d8rkmind/Profounder'>Profounder</a> | searching users by nickname and scrapping url's from website | 
+ | <a href="https://github.com/AzizKpln/Moriarty-Project">Moriarty Project</a> |  | 
+ | <a href="https://osintcombine.tools/">Osintcombine Tools</a> |  | 
+ | <a href="https://github.com/Bafomet666/OSINT-SAN">OSINT-SAN</a> |  | 
+ | <a href="https://github.com/ninoseki/mihari">Mihari</a> |  | 
+ | <a href="https://one-plus.github.io/Instagram">One Plus OSINT Toolkit</a> |  | 
+ | <a href="https://github.com/umair9747/vichiti">Vichiti</a> |  | 
+ | <a href="https://github.com/pawlaczyk/sarenka">Sarenka</a> |  | 
+ | <a href="https://www.vedbex.com/tools/home">Vedbex.com</a> |  | 
+ | <a href="https://synapsint.com/">Synapsint.com</a> |  | 
+ | <a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> | Swiff knife for #osint | 
+ | <a href='https://github.com/ivre/ivre'>IVRE</a> | framework for network recon | 
+ | <a href='https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related'>SEARCH Investigative and Forensic Toolbar</a> | extension with quick access to dozens of online tools for osint, forensics and othef investigations goals. | 
+ | <a href='https://github.com/thenurhabib/tenssens'>Tenssens</a> | osint framework | 
 
 
 
@@ -1533,47 +1534,55 @@ E4GL30S1NT</a> — ShellScript toolkit for #osint (12 tools)
 <a name="onlineosemulators"></a>
 <h1>Online OS Emulators</h1>
 
-</br><a href="https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init">Windows 10 Online Emulator</a>
-</br><a href="https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online">Parrot Security OS Online Emulator</a>
+
+| Link             | Description             |
+|------------------|-------------------------|
+ | <a href="https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init">Windows 10 Online Emulator</a> |  | 
+ | <a href="https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online">Parrot Security OS Online Emulator</a> |  | 
 
 <a name="virtualmachines"></a>
 <h1>Virtual Machines/Linux distributions</h1>
 
-</br><a href='https://github.com/Double2Sky/OffenOsint'>Offen Osint</a>
-</br><a href="https://www.blackarch.org">BlackArch Linux</a>
-</br><a href="https://www.kali.org">Kali Linux</a>
-</br><a href="https://csilinux.com">CSI Linux</a>
-</br><a href="https://labs.fedoraproject.org/security/download/index.html">Fedora Security Lab</a>
-</br><a href="https://github.com/HuronOsint/OsintDistro">Huron Osint</a>
-</br><a href="https://tsurugi-linux.org">Tsurugi Linux</a>
-</br><a href="http://www.osintux.org">Osintux</a>
-</br><a href="https://www.tracelabs.org/initiatives/osint-vm">TraceLabs OSINT VM</a>
-</br><a href="https://dracos-linux.org">Dracos Linux</a>
-</br><a href="https://archstrike.org">ArchStrike</a>
-</br><a href="https://septor.sourceforge.io">Septor Linux</a>
-</br><a href="https://twitter.com/ParrotSec">Parrot Security</a>
-</br><a href="https://www.pentoo.ch">Pentoo Linux</a>
-</br><a href="https://deftlinux.net">Deft Linux</a>
-</br><a href="https://www.backbox.org">BackBox</a>
-</br><a href="https://sourceforge.net/projects/falcon-archlinux/">Falcon Arch Linux</a>
-</br><a href='https://github.com/adi0x90/attifyos'>AttifyOS</a> — Linux distro for pentesting IoT devices.
+| Link             | Description             |
+|------------------|-------------------------|
+ | <a href='https://github.com/Double2Sky/OffenOsint'>Offen Osint</a> |  | 
+ | <a href="https://www.blackarch.org">BlackArch Linux</a> |  | 
+ | <a href="https://www.kali.org">Kali Linux</a> |  | 
+ | <a href="https://csilinux.com">CSI Linux</a> |  | 
+ | <a href="https://labs.fedoraproject.org/security/download/index.html">Fedora Security Lab</a> |  | 
+ | <a href="https://github.com/HuronOsint/OsintDistro">Huron Osint</a> |  | 
+ | <a href="https://tsurugi-linux.org">Tsurugi Linux</a> |  | 
+ | <a href="http://www.osintux.org">Osintux</a> |  | 
+ | <a href="https://www.tracelabs.org/initiatives/osint-vm">TraceLabs OSINT VM</a> |  | 
+ | <a href="https://dracos-linux.org">Dracos Linux</a> |  | 
+ | <a href="https://archstrike.org">ArchStrike</a> |  | 
+ | <a href="https://septor.sourceforge.io">Septor Linux</a> |  | 
+ | <a href="https://twitter.com/ParrotSec">Parrot Security</a> |  | 
+ | <a href="https://www.pentoo.ch">Pentoo Linux</a> |  | 
+ | <a href="https://deftlinux.net">Deft Linux</a> |  | 
+ | <a href="https://www.backbox.org">BackBox</a> |  | 
+ | <a href="https://sourceforge.net/projects/falcon-archlinux/">Falcon Arch Linux</a> |  | 
+ | <a href='https://github.com/adi0x90/attifyos'>AttifyOS</a> | Linux distro for pentesting IoT devices. | 
 
 <a name="myprojects"></a>
 <h1>My Projects</h1>
-</br><a href="https://cipher387.github.io/osintmap/">Worldwide OSINT Tools Map</a>
-</br><a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search</a>
-</br><a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
-</br><a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a>
-</br><a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a>
-</br><a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress Investigation Toolbox</a>
-</br><a href="https://cipher387.github.io/quickcacheandarchivesearch/">Quick Cache and Archive search</a>
-</br><a href="https://github.com/cipher387/grep_for_osint">Grep for OSINT</a>
-</br><a href="https://cipher387.github.io/pastebinsearchengines/">5 Google Custom Search Engine for search 48 pastebin sites</a>
-</br><a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">CSE for search 20 source code hosting services</a>
-</br><a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a>
-</br><a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a>
-</br><a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a>
 
+
+| Link             | Description             |
+|------------------|-------------------------|
+ | <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT Tools Map</a> |  | 
+ | <a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search</a> |  | 
+ | <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a> |  | 
+ | <a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a> |  | 
+ | <a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a> | |  
+ | <a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress Investigation Toolbox</a> |  | 
+ | <a href="https://cipher387.github.io/quickcacheandarchivesearch/">Quick Cache and Archive search</a>
+ | <a href="https://github.com/cipher387/grep_for_osint">Grep for OSINT</a> |  | 
+ | <a href="https://cipher387.github.io/pastebinsearchengines/">5 Google Custom Search Engine for search 48 pastebin sites</a> |  | 
+ | <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">CSE for search 20 source code hosting services</a> |  | 
+ | <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> |  | 
+ | <a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a> |  | 
+ | <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a> |  | 
 <hr>
 
 Command line cheat sheet for this collection made by Coordinat Cat:
