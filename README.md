@@ -138,15 +138,17 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a name="socialmedia"></a>
 <h3>Social media and photos</h3>
 
-</br><a href='https://app.skylens.io/'>Apps.skylens.io</a> — Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)
-</br><a href="http://photo-map.ru/">photo-map.ru</a> — search geotagged photos from VK.com
-</br><a href="https://map.snapchat.com/">Snapchat map</a>
-</br><a href="https://mattw.io/youtube-geofind/">YouTube Geofind</a> — view YouTube geottaged video on map
-</br><a href="https://www.flickr.com/map">Flickr Photo Map</a>
-</br><a href='http://www.whatsthatpicture.com/flickr/commons-map.php'>Flickr Common Map</a> — displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location)
-</br><a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> — geottaged photo from Instagram with #cat hashtag
-</br><a href='https://www.trendsmap.com/map'>Trendsmap.com</a> — Explore most popular #Twitter trends, hashtags and users on the worldmap
-</br><a href="https://pastvu.com/">Pastvu.com</a> — View historical photos taken at a particular location on a map.
+| Link             | Description             |
+|------------------|-------------------------|
+| <a href='https://app.skylens.io/'>Apps.skylens.io</a> | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) | 
+ | <a href="http://photo-map.ru/">photo-map.ru</a> | search geotagged photos from VK.com | 
+ | <a href="https://map.snapchat.com/">Snapchat map</a> |  | 
+ | <a href="https://mattw.io/youtube-geofind/">YouTube Geofind</a> | view YouTube geottaged video on map
+ | <a href="https://www.flickr.com/map">Flickr Photo Map</a> |  | 
+| <a href='http://www.whatsthatpicture.com/flickr/commons-map.php'>Flickr Common Map</a> | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) | 
+ | <a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> | geottaged photo from Instagram with #cat hashtag | 
+| <a href='https://www.trendsmap.com/map'>Trendsmap.com</a> | Explore most popular #Twitter trends, hashtags and users on the worldmap | 
+ | <a href="https://pastvu.com/">Pastvu.com</a> | View historical photos taken at a particular location on a map. | 
 
 
    
