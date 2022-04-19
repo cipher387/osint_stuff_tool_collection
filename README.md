@@ -1202,7 +1202,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
-
  | <a href='https://nationalarchives.gov.uk/'>UK National Archives</a> | search in the catalogue of United Kingdom "The National Archives" | 
  | <a href='https://doaj.org/search/journals'>Directory of Open Access Journals</a> | Search by 16 920 journals, 6, 588, 661 articles, 80 lanquages, 129 countries | 
  | <a href='https://www.ncbi.nlm.nih.gov/'>National Center for Biotechnology</a> | unique tool to search 39 scientific databases (Pubmed, SRA, OMIN, MedGen etc) from one page | 
