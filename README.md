@@ -345,14 +345,14 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://earthexplorer.usgs.gov/">USGS Earth Explorer</a> | more than 40 years old collection of satellite imagery | 
  | <a href="https://eos.com/products/landviewer/">Landviewer</a> | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues | 
  | <a href="https://scihub.copernicus.eu/">Copernicus Open Access Hub</a> | ESA’s open access portal to Sentinel data | 
- | <a href="https://apps.sentinel-hub.com/eo-browser/">Sentinel Hub EO Browser</a> - complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place. | 
- | <a href="https://apps.sentinel-hub.com/sentinel-playground/">Sentinel Hub Playground</a> - tool for viewing satellite images with different effects and rendering. | 
- | <a href="https://search.earthdata.nasa.gov/">NASA Earthdata Search</a> - search in 8555+ collection and photos. | 
- | <a href="http://www.dgi.inpe.br/catalogo/">INPE Image Catalog</a> - free satellite images catalogue.    | 
- | <a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a> - satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.) | 
- | <a href="https://worldview.earthdata.nasa.gov/">NASA WorldView</a> - high resolution and high quality satellite images. | 
- | <a href="https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm">ALOS</a> - "Advanced land Observer Satellite" images collection (Japan) | 
- | <a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a> - Indian Geo-platfrom of ISRO. | 
+ | <a href="https://apps.sentinel-hub.com/eo-browser/">Sentinel Hub EO Browser</a> | complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place. | 
+ | <a href="https://apps.sentinel-hub.com/sentinel-playground/">Sentinel Hub Playground</a>  |  tool for viewing satellite images with different effects and rendering. | 
+ | <a href="https://search.earthdata.nasa.gov/">NASA Earthdata Search</a> | search in 8555+ collection and photos. | 
+ | <a href="http://www.dgi.inpe.br/catalogo/">INPE Image Catalog</a> |  free satellite images catalogue.    | 
+ | <a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a>  |  satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.) | 
+ | <a href="https://worldview.earthdata.nasa.gov/">NASA WorldView</a>  |  high resolution and high quality satellite images. | 
+ | <a href="https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm">ALOS</a>  |  "Advanced land Observer Satellite" images collection (Japan) | 
+ | <a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a>  |  Indian Geo-platfrom of ISRO. | 
  | <a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> | set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery | 
 
 
@@ -361,17 +361,17 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
- | <a href="https://www.ads-b.nl">ADS-b.nl</a> - tracking military aircrafts. | 
+ | <a href="https://www.ads-b.nl">ADS-b.nl</a>  |  tracking military aircrafts. | 
  | <a href="https://planefinder.net/flight/ARMY">Planefinder Army Live Flight Tracker</a>. |  | 
- | <a href="https://www.itamilradar.com">Itamilradar</a> -track military flights over Italy and over the Mediterranean Sea. | 
- | <a href="https://www.marinevesseltraffic.com/2013/02/military-ship-track.html">MarineVesselFinder</a> - military ship tracking. | 
+ | <a href="https://www.itamilradar.com">Itamilradar</a>  | track military flights over Italy and over the Mediterranean Sea. | 
+ | <a href="https://www.marinevesseltraffic.com/2013/02/military-ship-track.html">MarineVesselFinder</a>  |  military ship tracking. | 
  | <a href="https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;">BellingCat Radar Interfence Tracker</a>  | | 
  | <a href="http://websdr.ewi.utwente.nl:8901">WEBSDR</a> - online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). | 
- | <a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> - represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . | 
- | <a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a> - online tracking of war-related events in Ukraine.  | 
- | <a href="https://syria.liveuamap.com">Syria Liveuamap</a> - online tracking of war-related events in Syria.  | 
+ | <a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> |  represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . | 
+ | <a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a>  |  online tracking of war-related events in Ukraine.  | 
+ | <a href="https://syria.liveuamap.com">Syria Liveuamap</a>  |  online tracking of war-related events in Syria.  | 
  | <a href="https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1">NATO.int</a> - explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. | 
- | <a href="https://www.understandingwar.org/map-room">Understanding War Map Room</a> - collection of maps illustrating military conflicts in different countries. | 
+ | <a href="https://www.understandingwar.org/map-room">Understanding War Map Room</a>  |  collection of maps illustrating military conflicts in different countries. | 
    
    
 <a name="other"></a>
