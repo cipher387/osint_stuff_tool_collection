@@ -1171,7 +1171,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
-
  | <a href="https://www.myfonts.com/WhatTheFont/">WhatTheFont</a> |  | 
  | <a href="https://www.whatfontis.com/">WhatFontIs</a> |  | 
  | <a href="https://www.fontsquirrel.com/matcherator">Font Squirrel</a> |  | 
