@@ -1875,12 +1875,17 @@ E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) |
  | <a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a> | |  
  | <a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress Investigation Toolbox</a> |  | 
  | <a href="https://cipher387.github.io/quickcacheandarchivesearch/">Quick Cache and Archive search</a>
- | <a href="https://github.com/cipher387/grep_for_osint">Grep for OSINT</a> |  | 
+ | <a href="https://github.com/cipher387/grep_for_osint">Grep for OSINT</a> | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails | 
  | <a href="https://cipher387.github.io/pastebinsearchengines/">5 Google Custom Search Engine for search 48 pastebin sites</a> |  | 
  | <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">CSE for search 20 source code hosting services</a> |  | 
- | <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> |  | 
- | <a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a> |  | 
- | <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a> |  | 
+ | <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> | List of Github repositories and articles with list of dorks for different search engines | 
+ | <a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a> | List of API's for gathering information about phone numbers, addresses, domains etc | 
+ | <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a> | List of the links to the docs for different services, which explain using of advanced search operators | 
+  | <a href="https://github.com/cipher387/code-understanding-tools">Code understanding tools list</a> | Tools for understanding other people's code  | 
+  | <a href="https://github.com/cipher387/awesome-grep">Awesome grep</a> | List of GREP modifications and alternatives for a variety of purposes| 
+  | <a href="https://github.com/cipher387/maltego-transforms-list">Maltego transforms list</a> | list of tools that handle different data and make it usable in Maltego| 
+ 
+ 
 <hr>
 
 Command line cheat sheet for this collection made by Coordinat Cat:
