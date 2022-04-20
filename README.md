@@ -1032,7 +1032,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
-
  | <a href='https://github.com/MayankPandey01/BrokenLinkHijacker'>Broken Link Hijacker</a> | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). | 
  | <a href='https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related'>Broken Link Checker</a> | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. | 
  | <a href="https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php">Open Multiple Links ☷ One Click</a> |  | 
