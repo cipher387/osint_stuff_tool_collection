@@ -548,6 +548,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://redditmetis.com/'>Reditmetis</a> | View statisctics fot Reddit users's account | 
  | <a href='https://repostsleuth.com/'>Repostsleuth</a> | Reddit trends analyzer | 
  | <a href='https://www.redective.com/'>Redetective</a> | Reddit search tool | 
+  | <a href='https://www.unddit.com/'>Unddit.com</a> | Display deleted content in Reddit| 
 
 
 
