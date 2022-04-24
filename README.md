@@ -1350,6 +1350,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
 <a name="filesharingsearchengines"></a>
 <h3>Filesharing Search Engines</h3>
+ 
+<b>I strongly recommend to use it strictly for research purposes and to search for files that cannot be legally purchased anywhere else. Respect the copyrights of others.</b>
 
   
 | Link             | Description             |
