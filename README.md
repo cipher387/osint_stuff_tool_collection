@@ -1361,8 +1361,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | <a href='https://torrends.to'>Torrents.me</a> | torrent aggregator with search engines and list of new torrents trackers  | 
 | <a href='https://ewasion.github.io/opendirectory-finder/#'>Open Directory Finder</a> | Tool for search files based by Google CSE | 
 | <a href='https://www.mmnt.net'>Mamont's open FTP indexer</a> |  | 
-| <a href='https://orionoid.com'>Orion Media Indexer</a> | Lightning Fast Link Indexer for
-Torrents, Usenet, and Hosters | 
+| <a href='https://orionoid.com'>Orion Media Indexer</a> | Lightning Fast Link Indexer for Torrents, Usenet, and Hosters | 
 | <a href='https://libgen.fun'>Library Genesis</a> | "search engine for articles and books, which allows free access to content that is otherwise paywalled or not digitized elsewhere" (c) | 
 | <a href='http://sunxdcc.com'>Sunxdcc</a> | XDCC file search engine | 
 | <a href='https://www.xdcc.eu'>Xdcc.eu</a> | XDCC search engine | 
