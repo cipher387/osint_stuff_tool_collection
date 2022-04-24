@@ -91,9 +91,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#skype">Skype</a></br>
 <h4><a href="#code">Code</a></h4>
 <h4><a href="#searchengines">Search engines</a></h4>
-<a href="#filesharingsearchengines">Search engines</a>
-<a href="#duckduckgotools">Tools for DuckDuckGo</a>
-<a href="#googletools">Tools for Google</a>
+<a href="#filesharingsearchengines">Filesharing Search engines</a></br>
+<a href="#duckduckgotools">Tools for DuckDuckGo</a></br>
+<a href="#googletools">Tools for Google</a></br>
 <h4><a href="#iot">IOT</a></h4>
 <h4><a href="#archives">Archives</a></h4>
 <h4><a href="#archivestools">Tools for working with web archives</a></h4>
