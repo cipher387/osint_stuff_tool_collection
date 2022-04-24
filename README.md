@@ -1311,11 +1311,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 |------------------|-------------------------|
  | <a href='https://fnd.io/'>fnd.io</a> | alternative search engine for the AppStore and iTunes | 
  | <a href="https://www.globalspec.com/">GlobalSpec Engineer Search Engine</a> |  | 
- | <a href="https://www.searchftps.net/">Napalm FTP Indexer</a> |  | 
  | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources
  | <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
  | <a href="https://recruitin.net/">Recruitin.net</a> | easily use Google to search profiles on LinkedIn | 
- | <a href='http://filesearch.link'>Cloud File Search Engine</a> | search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc)  | 
  | <a href='https://uvrx.com'>URVX</a> | Based by Google Custom Search tool for searching in popular cloud storages service | 
  | <a href='http://mac.lc'>Mac Address Search Tool</a> | search by full Mac adress, part of Mac adress (prefix), vendor name or brand name | 
  | <a href="https://www.hashatit.com/">Hashatit.com</a> | hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest | 
@@ -1323,7 +1321,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
  | <a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> | Search links in #darknet (.onion domain zone) from command line without using a Tor network. | 
  | <a href='https://peteyvid.com'>Peteyvid</a> | search engine for 70 video hosting sites | 
- | <a href='https://filesearching.com'>Filesearching</a> | old FTP servers search engine with filter by top-level domain name and filetype | 
  | <a href='https://3dfindit.com/textsearch'>3DFindit</a> | tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs. | 
  | <a href='http://filechef.com'>Filechef</a> | tool for searching different type of files (videos, application, documents, audio, images) | 
  | <a href='https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0'>Find Who Events</a> | Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor | 
@@ -1347,6 +1344,38 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://searchall.net'>searchall.net</a> | 75 fields for quick entry of queries to different search services on one page | 
  | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
 
+ 
+ 
+ 
+<a name="filesharingsearchengines"></a>
+<h1>Filesharing Search Engines</h1>
+
+  
+| Link             | Description             |
+|------------------|-------------------------| 
+| <a href="https://www.searchftps.net/">Napalm FTP Indexer</a> |  |  
+| <a href='http://filesearch.link'>Cloud File Search Engine</a> | search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc)  | 
+| <a href='https://filesearching.com'>Filesearching</a> | old FTP servers search engine with filter by top-level domain name and filetype | 
+| <a href='https://snowfl.com'>Snowfl.com</a> | torrent aggregator which searches various public torrent indexes in real-time | 
+| <a href='https://torrends.to'>Torrents.me</a> | torrent aggregator with search engines and list of new torrents trackers  | 
+| <a href='https://ewasion.github.io/opendirectory-finder/#'>Open Directory Finder</a> | Tool for search files based by Google CSE | 
+| <a href='https://www.mmnt.net'>Mamont's open FTP indexer</a> |  | 
+| <a href='https://orionoid.com'>Orion Media Indexer</a> | Lightning Fast Link Indexer for
+Torrents, Usenet, and Hosters | 
+| <a href='https://libgen.fun'>Library Genesis</a> | "search engine for articles and books, which allows free access to content that is otherwise paywalled or not digitized elsewhere" (c) | 
+| <a href='http://sunxdcc.com'>Sunxdcc</a> | XDCC file search engine | 
+| <a href='https://www.xdcc.eu'>Xdcc.eu</a> | XDCC search engine | 
+| <a href='http://www.uvrx.com'>URVX.com</a> | File storage search engine based by Google CSE | 
+| <a href='http://ddlsearch.free.fr'>DDL Search</a> | search engine for Rapidshare, Megaupload, Filefactory, Depositfile, Fileserve and a lot of other file sharing sites | 
+| <a href='http://www.sharedigger.com'>Sharedigger</a> | search files in popular file hosting services | 
+| <a href='https://www.xtorx.com'>Xtorx</a> | fast torrents search engine | 
+| <a href='https://torrentseeker.com'>Torrent Seeker</a> | torrents search engine | 
+| <a href='http://www.freewareweb.com/ftpsearch.shtml'>FreeWare web FTP file search</a> | ftp servers search engine  | 
+| <a href='https://search-22.com/ftp-search-tools'>Search 22</a> | access to 10+ ftp search tools from one page | 
+ 
+ 
+ 
+ 
 <a name="duckduckgotools"></a>
 <h1>Tools for DuckDuckGo</h1>
 
