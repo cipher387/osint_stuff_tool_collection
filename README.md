@@ -298,6 +298,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | <a href='http://www.opentopia.com/'>Opentopia</a> |  | 
 | <a href='https://www.mangolinkworld.com/'>MangolinkWorld</a> |  | 
 | <a href='https://www.foxmonitor.com/'>FoxMonitor</a> |  | 
+| <a href='https://cipher387.github.io/webcamcse/'>WEBCAM CSE</a> | Google Custom Search Engine for search in 10 online street webcam catalogs | 
 
 <a name="maptools"></a>
 <h3>Tools</h3>
