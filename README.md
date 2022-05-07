@@ -17,6 +17,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="urbanindustrial">Urban and industrial infrastructure</a></br>
 <a href="#publictransport">Transport</a></br>
 <a href="#communications">Communications, Internet, Technologies</a></br>
+<a href="#streetcams">Worldwide street webcams</a></br>
 <a href="#maptools">Tools</a></br>
 <a href="#streetview">Street View</a></br>
 <a href="#satellite">Satellite imagery</a></br>
@@ -279,6 +280,24 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://www.emporis.com/buildings/map'>Emporis Buildings Map</a> | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose | 
  | <a href='https://osmbuildings.org/'>Osmbuildings.org</a> | world map showing notable buildings. For each object you can find out the height, type, and purpose. | 
  | <a href='https://findfoodsupport.withgoogle.com/'>Find Food Support</a> | find places where you can get free food by address (USA) | 
+
+<a name="streetcams"></a>
+<h3>Worldwide street webcams</h3>
+
+| Link             | Description             |
+|------------------|-------------------------|
+| <a href='http://www.insecam.org/'>Insecam.org</a> || 
+| <a href='https://www.earthcam.com/'>Earthcam</a> |  | 
+| <a href='https://camstreamer.com/live/map'>Camstreamer</a> | | 
+| <a href='https://www.webcamtaxi.com/en/map.html'>Webcamtaxi</a> |  | 
+| <a href='https://www.skylinewebcams.com/webcam.html'>Skyline Webcams</a> | | 
+| <a href='https://worldcam.eu/'>Worldcam.eu</a> | | 
+| <a href='https://worldcams.tv/'>Worldcams TV</a> || 
+| <a href='https://www.geocam.ru/en/'>Geocam</a> | | 
+| <a href='https://www.livebeaches.com/australia/'>Live beaches</a> | Beaches webcam only | 
+| <a href='http://www.opentopia.com/'>Opentopia</a> |  | 
+| <a href='https://www.mangolinkworld.com/'>MangolinkWorld</a> |  | 
+| <a href='https://www.foxmonitor.com/'>FoxMonitor</a> |  | 
 
 <a name="maptools"></a>
 <h3>Tools</h3>
