@@ -24,7 +24,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#militarytracking">Military tracking</a></br>
 <a href="#militaryvisualisation">Military visaulisation</a></br>
 <a href="#other">Other</a></br>
-<a href="socialmedia2">Social Media</a></h4> <a href="#twitter">Twitter</a></br>
+<a href="socialmedia2">Social Media</a></h4></br>
+<a href="#twitter">Twitter</a></br>
 <a href="#youtube">YouTube</a></br>
 <a href="#tiktok">TikTok</a></br>
 <a href="#facebook">Facebook</a></br>
@@ -75,6 +76,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#brokenlinks">Broken Links Checkers</a></br>
 <h4><a href="#textanalyze">Text Analyze</a></h4> 
 <h4><a href="#soundsearchandanalyze">Sound search and analyze</a></h4> 
+<a href="#soundsearchengines">Sound search engines</a></br>
 <h4><a href="#videoanalyze">Video editing and analyze</a></h4> 
 <h4><a href="#imagesearchandindefication">Image Search and Identification</a></h4> 
 <a href="#reverseimagesearchengines">Reverse Image Search Engines</a></br>
@@ -92,6 +94,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a href="#skype">Skype</a></br>
 <h4><a href="#code">Code</a></h4>
 <h4><a href="#searchengines">Search engines</a></h4>
+<a href="#universalsearchtools">Universal search tools</a></br>
+<a href="#darknetsearch">Darknet search tools</a></br>
+<a href="#bucketssearch">Public buckets search tools</a></br>
+<a href="#bugbountysearch">Bugbounty search tools</a></br>
 <a href="#filesharingsearchengines">Filesharing Search engines</a></br>
 <a href="#duckduckgotools">Tools for DuckDuckGo</a></br>
 <a href="#googletools">Tools for Google</a></br>
@@ -546,8 +552,10 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://freepeoplesearchtool.com/">Freepeoplesseacrhtool.com</a> | find people in Linkedin without registration | 
 <a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping | 
  | <a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> | linkedIn's generalized metadata search & discovery tool | 
+ | <a href="https://recruitin.net/">Recruitin.net</a> | easily use Google to search profiles on LinkedIn |
 
-<a name="Xing"></a>
+ 
+ <a name="Xing"></a>
 <h3>Xing</h3>
 
 | Link             | Description             |
@@ -989,7 +997,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 <a name="cloudfare"></a>
 <h3>Cloudfare</h3>
 
-
 | Link             | Description             |
 |------------------|-------------------------|
  | <a href='https://github.com/MrH0wl/Cloudmare'>Cloudmare</a> | Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS | 
@@ -1099,14 +1106,21 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 
 <a name="soundsearchandanalyze"></a>
-<h1>Sound search and analyze</h1>
+<h1>Sound indefication and analyze</h1>
 
 | Link             | Description             |
 |------------------|-------------------------|
  | <a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> | allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file. | 
  | <a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> | tool analyzes the voice and determines a person's stress level. | 
  | <a href='https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related'>AHA Music</a> | A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay) | 
- | <a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a> | 
+ | <a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a> |
+ 
+ <a name="soundsearchengines"></a>
+ <h1>Sound search engines</h1>
+
+| Link             | Description             |
+|------------------|-------------------------|
+ | <a href='https://www.soundeffectssearch.com/find-a-sound-library/'>soundeffectssearch.com</a> | find a sound library | 
 
 
 <a name="videoanalyze"></a>
@@ -1331,41 +1345,56 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | Link             | Description             |
 |------------------|-------------------------|
  | <a href='https://fnd.io/'>fnd.io</a> | alternative search engine for the AppStore and iTunes | 
- | <a href="https://www.globalspec.com/">GlobalSpec Engineer Search Engine</a> |  | 
- | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources
- | <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
- | <a href="https://recruitin.net/">Recruitin.net</a> | easily use Google to search profiles on LinkedIn | 
+ | <a href="https://www.globalspec.com/">GlobalSpec Engineer Search Engine</a> |  |  
  | <a href='https://uvrx.com'>URVX</a> | Based by Google Custom Search tool for searching in popular cloud storages service | 
  | <a href='http://mac.lc'>Mac Address Search Tool</a> | search by full Mac adress, part of Mac adress (prefix), vendor name or brand name | 
  | <a href="https://www.hashatit.com/">Hashatit.com</a> | hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest | 
  | <a href="https://www.goo.ne.jp/">Goo.ne.jp</a> | beautiful japanese search engine | 
- | <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
- | <a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> | Search links in #darknet (.onion domain zone) from command line without using a Tor network. | 
  | <a href='https://peteyvid.com'>Peteyvid</a> | search engine for 70 video hosting sites | 
  | <a href='https://3dfindit.com/textsearch'>3DFindit</a> | tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs. | 
  | <a href='http://filechef.com'>Filechef</a> | tool for searching different type of files (videos, application, documents, audio, images) | 
  | <a href='https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0'>Find Who Events</a> | Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor | 
- | <a href='http://buckets.grayhatwarfare.com'>buckets.grayhatwarfare.com</a> | Amazon Public Buckets Search | 
- | <a href='http://osint.sh/buckets'>osint.sh/buckets</a> | Azure Public Buckets Search | 
  | <a href='https://www.listennotes.com/'>Listennotes</a> | Podcast Search Engine | 
  | <a href='https://thereisabotforthat.com/bots/search'>thereisabotforthat.com</a> | search by catalog of 5151 bots for 17 different apps and platforms | 
  | <a href='https://www.scoperac.com/booleanstringbank/'>BooleanStringBank</a> | over 430+ strings and 3553+ keywords | 
  | <a href='https://github.com/Ibit-to/google-unlocked'>Google Unlocked</a> | browser extension uncensor google search results | 
  | <a href='https://www.iconfinder.com/search'>Iconfinder.com</a> | Icons Search Engine | 
  | <a href="https://datasetsearch.research.google.com/">Google Datasets Search</a> |  | 
- | <a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a> |  | 
- | <a href="http://dnmugu4755642434.onion.pet/captcha">KILOS Darknet Search Engine</a> |  | 
  | <a href="https://gifcities.org/">Gifcities.org</a> | GIF Search Engine from archive.org | 
  | <a href="https://presearch.org/">Presearch.org</a> | privately decentralized search engine, powered by #blockchain technology | 
  | <a href="https://milled.com/search">milled.com</a> | search engine for searching through the texts of email marketing messages | 
- | <a href='https://github.com/Araekiel/orion'>Orion</a> | open-Source Search Engine for social networking websites. | 
- | <a href='https://www.soundeffectssearch.com/find-a-sound-library/'>soundeffectssearch.com</a> | find a sound library | 
+ | <a href='https://github.com/Araekiel/orion'>Orion</a> | open-Source Search Engine for social networking websites. |  
  | <a href='https://packettotal.com/app/search'>PacketTotal</a> | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. | 
  | <a href='https://github.com/searxng/searxng'>SearXNG</a> | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor | 
- | <a href='https://searchall.net'>searchall.net</a> | 75 fields for quick entry of queries to different search services on one page | 
- | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
+
 
  
+ 
+ <a name="universalsearchtools"></a>
+<h3>Universal search tools</h3>
+ | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources| 
+  | <a href='https://searchall.net'>searchall.net</a> | 75 fields for quick entry of queries to different search services on one page | 
+ | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
+ 
+ 
+  <a name="darknetsearch"></a>
+<h3>Darknet search tools</h3>
+| <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
+| <a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> | Search links in #darknet (.onion domain zone) from command line without using a Tor network. | 
+ | <a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a> |  | 
+ | <a href="http://dnmugu4755642434.onion.pet/captcha">KILOS Darknet Search Engine</a> |  | 
+ 
+ 
+  
+  <a name="bucketssearch"></a>
+<h3>Public buckets search tools</h3>
+ | <a href='http://buckets.grayhatwarfare.com'>buckets.grayhatwarfare.com</a> | Amazon Public Buckets Search | 
+ | <a href='http://osint.sh/buckets'>osint.sh/buckets</a> | Azure Public Buckets Search | 
+ 
+ 
+   <a name="bugbountysearch"></a>
+<h3>Bugbounty search tools</h3>
+ | <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
  
  
 <a name="filesharingsearchengines"></a>
