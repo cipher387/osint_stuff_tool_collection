@@ -1372,6 +1372,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
  <a name="universalsearchtools"></a>
 <h3>Universal search tools</h3>
+ 
  | Link             | Description             |
 |------------------|-------------------------|
  | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources| 
@@ -1381,6 +1382,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
   <a name="darknetsearch"></a>
 <h3>Darknet search tools</h3>
+ 
  | Link             | Description             |
 |------------------|-------------------------|
 | <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
@@ -1400,6 +1402,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
    <a name="bugbountysearch"></a>
 <h3>Bugbounty search tools</h3>
+ 
  | Link             | Description             |
 |------------------|-------------------------|
 | <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
