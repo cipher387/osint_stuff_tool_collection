@@ -1372,6 +1372,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
  <a name="universalsearchtools"></a>
 <h3>Universal search tools</h3>
+ | Link             | Description             |
+|------------------|-------------------------|
  | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources| 
   | <a href='https://searchall.net'>searchall.net</a> | 75 fields for quick entry of queries to different search services on one page | 
  | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
@@ -1379,6 +1381,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  
   <a name="darknetsearch"></a>
 <h3>Darknet search tools</h3>
+ | Link             | Description             |
+|------------------|-------------------------|
 | <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
 | <a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> | Search links in #darknet (.onion domain zone) from command line without using a Tor network. | 
  | <a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a> |  | 
@@ -1388,13 +1392,18 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
   
   <a name="bucketssearch"></a>
 <h3>Public buckets search tools</h3>
+ | Link             | Description             |
+|------------------|-------------------------|
  | <a href='http://buckets.grayhatwarfare.com'>buckets.grayhatwarfare.com</a> | Amazon Public Buckets Search | 
  | <a href='http://osint.sh/buckets'>osint.sh/buckets</a> | Azure Public Buckets Search | 
  
  
    <a name="bugbountysearch"></a>
 <h3>Bugbounty search tools</h3>
- | <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
+ | Link             | Description             |
+|------------------|-------------------------|
+| <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
+| <a href='https://www.bugbountyhunting.com'>BugBountyHunting</a> | Bug bounty hunting search engine | 
  
  
 <a name="filesharingsearchengines"></a>
