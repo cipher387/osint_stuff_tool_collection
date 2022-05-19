@@ -8,22 +8,23 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 <h2>Table of contents</h2>
 
-* <a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4> <a href="#socialmedia">Social media and photos maps</a>
-* <a href="#nature">Nature</a> <a href="#aviation">Aviation</a>
-* <a href="#maritime">Maritime</a>
-* <a href="#railway">Railway</a>
-* <a href="#routes">Routes</a>
-* <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a>
-* <a href="urbanindustrial">Urban and industrial infrastructure</a>
-* <a href="#publictransport">Transport</a>
-* <a href="#communications">Communications, Internet, Technologies</a>
-* <a href="#streetcams">Worldwide street webcams</a>
-* <a href="#maptools">Tools</a>
-* <a href="#streetview">Street View</a>
-* <a href="#satellite">Satellite imagery</a>
-* <a href="#militarytracking">Military tracking</a>
-* <a href="#militaryvisualisation">Military visaulisation</a>
-* <a href="#other">Other</a>
+* <a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a>
+     * <a href="#socialmedia">Social media and photos maps</a>
+     * <a href="#nature">Nature</a> <a href="#aviation">Aviation</a>
+     * <a href="#maritime">Maritime</a>
+     * <a href="#railway">Railway</a>
+     * <a href="#routes">Routes</a>
+     * <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a>
+     * <a href="urbanindustrial">Urban and industrial infrastructure</a>
+     * <a href="#publictransport">Transport</a>
+     * <a href="#communications">Communications, Internet, Technologies</a>
+     * <a href="#streetcams">Worldwide street webcams</a>
+     * <a href="#maptools">Tools</a>
+     * <a href="#streetview">Street View</a>
+     * <a href="#satellite">Satellite imagery</a>
+     * <a href="#militarytracking">Military tracking</a>
+     * <a href="#militaryvisualisation">Military visaulisation</a>
+     * <a href="#other">Other</a>
 * <a href="socialmedia2">Social Media</a></h4>
 * <a href="#twitter">Twitter</a>
 * <a href="#youtube">YouTube</a>
