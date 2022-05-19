@@ -2003,17 +2003,15 @@ Command line cheat sheet for this collection made by Coordinat Cat:
 
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
+<a href="https://twitter.com/cyb_detective">Twitter</a>
 
-Telegram — https://t.me/cybdetective
+<a href="https://t.me/cybdetective">Telegram</a>
 
-Linkedin — https://www.linkedin.com/groups/1908171/
+<a href="https://www.getrevue.co/profile/cyb_detective">Revue</a>
 
-Revue — https://www.getrevue.co/profile/cyb_detective
+<a href="https://github.com/cipher387">Github</a>
 
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
+<a href="https://cipher387.github.io/discordlink.html">Discord</a>
 
 <hr>
 
