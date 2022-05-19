@@ -8,7 +8,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 <h2>Table of contents</h2>
 
-* <a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a>
+* <h4><a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a></h4>
      * <a href="#socialmedia">Social media and photos maps</a>
      * <a href="#nature">Nature</a> <a href="#aviation">Aviation</a>
      * <a href="#maritime">Maritime</a>
