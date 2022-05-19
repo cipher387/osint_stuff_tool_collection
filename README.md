@@ -25,7 +25,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
      * <a href="#militarytracking">Military tracking</a>
      * <a href="#militaryvisualisation">Military visaulisation</a>
      * <a href="#other">Other</a>
-* <a href="socialmedia2">Social Media</a></h4>
+* <a href="socialmedia2">Social Media</a>
      * <a href="#twitter">Twitter</a>
      * <a href="#youtube">YouTube</a>
      * <a href="#tiktok">TikTok</a>
