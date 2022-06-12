@@ -511,7 +511,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://app.tikbuddy.com/">Tikbuddy</a> | TikTok profile analytics | 
  | <a href='https://mavekite.com/'>Mavekite.com</a> | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos | 
  | <a href='https://github.com/sauermar/Tiktok-Scraper'>Tiktok Scraper</a> | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. | 
- | <a href='https://tikrank.com'>Tikrank.com</a> | free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database) | 
+ | <a href='https://countik.com'>Countik.com</a> | free tool for comparing and analyzing #TikTok accounts and videos.
 
 
 <a name="facebook"></a>
