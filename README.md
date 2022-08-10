@@ -155,7 +155,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> | geottaged photo from Instagram with #cat hashtag | 
 | <a href='https://www.trendsmap.com/map'>Trendsmap.com</a> | Explore most popular #Twitter trends, hashtags and users on the worldmap | 
  | <a href="https://pastvu.com/">Pastvu.com</a> | View historical photos taken at a particular location on a map. | 
-
+ | <a href='https://birdhunt.co/'>BirdHunt</a> | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
 
    
    
@@ -437,6 +437,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
+| <a href='https://birdhunt.co/'>BirdHunt</a> | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
  | <a href='https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related'>Twitter account detector</a> | A simple and fast Chrome extension that finds all Twitter accounts on a site. | 
  | <a href='https://followerwonk.com/compare/'>Follower Wonk/Compare</a> | this service allows you to find out how many followers two (or three) Twitter accounts have in common. | 
  | <a href='https://tweepsmap.com/dash/unfollows'>Tweepsmap Unfollows</a> | displayed unsubscribed accounts (list for the one week available for free) | 
@@ -857,6 +858,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://github.com/Zarcolio/sitedorks">Site Dorks</a> | 
  | <a href='https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/'>Google (universal) Dork Builder</a> | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database | 
  | <a href='https://github.com/rlyonheart/0xdork'>0xdork</a> | Very light and simple #Python tool for Google Dorking  | 
+ | </br><a href='https://cartographia.github.io/FilePhish/'>FilePhish</a> | Simple online Google query builder for fast and easy document file discovery. |
+
  | <a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> | Website Vulnerabilities Scanner | 
  | <a href='https://dorks.faisalahmed.me'>dorks.faisalahmed.me</a> | online constructor of google dorks for searching "sensitive" wesite pages | 
  | <a href='https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan'>Fast Google Dorks Scan</a> | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. | 
@@ -1679,6 +1682,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
+| </br><a href='https://www.pramp.com/'>Pramp</a> | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
  | <a href='http://www.remindmewhen.io/'>RemindWhen</a> | Simple app that reminds you on email if your favorite country opens for tourists from your country. | 
  | <a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> | free web proxy | 
  | <a href='https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon'>Google Docs Voice Comments</a> | simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms. | 
@@ -2009,8 +2013,6 @@ Command line cheat sheet for this collection made by Coordinat Cat:
 <a href="https://twitter.com/cyb_detective">Twitter</a>
 
 <a href="https://t.me/cybdetective">Telegram</a>
-
-<a href="https://www.getrevue.co/profile/cyb_detective">Revue</a>
 
 <a href="https://github.com/cipher387">Github</a>
 
