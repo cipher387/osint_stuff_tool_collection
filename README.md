@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 <h1>OSINT tools collection</h1>
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
@@ -1658,6 +1656,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 | Link             | Description             |
 |------------------|-------------------------|
+| </br><a href='https://github.com/rly0nheart/rug'>Rug</a> | Extreme simple tool for generating random user data. |
  | <a href='https://generated.photos/face-generator/'>Face Generator</a> | Face Generator for creating #sockpuppets. Customize gender, age, head position, emotions, hair and skin color, makeup and glasses. | 
  | <a href='https://generated.photos/faces'>2,682,783 free AI generated photos</a> |  | 
  | <a href='https://www.voicebooking.com/en/free-voice-over-generator'>VoiceBooking</a> | fake voice generator | 
