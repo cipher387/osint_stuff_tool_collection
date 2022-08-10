@@ -161,6 +161,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://wikishootme.toolforge.org/'>WikiShootMe</a> | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
 | </br><a href='https://hicsuntleones.nl/paintedplanet/'>The Painted Planet</a> | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
 | </br><a href='https://copernix.io/'>COPERNIX</a> | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
+| </br><a href='https://www.huntintel.io/'>Huntel.io</a> | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
+
    
 <a name="nature"></a>
 <h3>Nature</h3>
@@ -195,6 +197,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://www.gbif.org/occurrence/map?q=cobra'>Global Biodiversity Information Facility</a> | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |  
 | </br><a href='https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map'>Natural Hazards Map (worldwide)</a> | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
 | </br><a href='https://river-runner-global.samlearner.com/'>River Runner Global</a> | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
+| </br><a href='http://global-flood-database.cloudtostreet.ai/'>Global Flood Database (and interactive map)</a> | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
+
 
    
 <a name="aviation"></a>
@@ -242,6 +246,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://juckins.net/amtrak_status/archive/html/history.php">Amtrak Status Maps Archive Database</a> | find out the train schedule for a station on a particular day that passed many years ago (since 2008) | 
  | <a href="https://www.nsinternational.com/en/stations/station-maps-floor-plan">Europe station maps floor plan</a> | 
  | <a href='https://rasp.yandex.ru/map/trains'>Rasp.yandex.ru/map/trains</a> | Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia | 
+ | </br><a href='https://chronotrains-eu.vercel.app/'>Chronotrains</a> | A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train. |
+| </br><a href='https://direkt.bahn.guru/'>Direkht Ban Guru</a> | Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city). |
 
 
    
@@ -342,7 +348,11 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | </br><a href='https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe'>Cesium ion</a> | scalable and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device |
  | </br><a href='https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related'>OSM Smart Menu</a> | Google Chrome extension to switch between dozens of different types of online maps (based on #OpenStreetMap and NOT only) |
  | </br><a href='https://www.calcmaps.com/'>Calcmaps</a> | Simple online map tools: Calculate area (triangles, quadrilaterals and complex polygons), Calculate distance (for complex routes), Measure radius, Calculate elevation |
-   
+ | </br><a href='https://www.scribblemaps.com/'>Scribble maps</a> | Partly free online tool for creating infographics (images or pdf) based on maps. |  
+
+
+
+
 <a name="publictransport"></a>
 <h3>Transport</h3>
 
@@ -370,6 +380,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="http://radio.garden/visit/moscow/MQfEnBji">Radio Garden</a> | select a local radio station on the world map and listen to what's playing at the moment | 
  | </br><a href='https://twitter.com/cyb_detective/status/1536682540265873408'>TorMap</a> | Worldwide online map of Tor Nodes |
  | </br><a href='https://github.com/GONZOsint/geowifi'>GeoWiFi</a> | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
+ | </br><a href='https://gpsjam.org/'>GPSJam</a> | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
 
 <a name="streetview"></a>
 <h3>Street View</h3>  
@@ -401,6 +412,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a>  |  Indian Geo-platfrom of ISRO. | 
  | <a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> | set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery | 
 | </br><a href='https://map.openaerialmap.org/#/-18.632,18.47900000000001,3?_k=3za5b4'>OpenAerialMap</a> | Select an area on the map and get a list of freely available aerial images for that area. For some locations available images are many times superior in quality to conventional satellite images. |
+| </br><a href='https://imagehunter.apollomapping.com/'>ApolloMapping Image Hunter</a> | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
 
 <a name="militarytracking"></a>
 <h3>Military tracking</h3>
@@ -492,7 +504,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://tweeview.ml/'>Tweeview</a> | Twitter conversation visualization (beta) |
 | </br><a href='https://www.tweeplers.com/?cc=GB'>Tweeplers</a> | Trending Twitter users and hashtags (map/list) Top twitted cities and countries Realtime Tweet Map |
 | </br><a href='https://www.flock.network/'>FlockNet</a> | A tool for finding and filtering your own #Twitter followers. It allows you to find all the people from a certain city or with certain interests. And then quickly view their profiles in a convenient format. |
-
+| </br><a href='https://orbit.livasch.com/'>Orbit livasch</a> | A tool for analyzing connections between Twitter accounts (based on the number of likes, retweets, tweet citations, and mentions). |
+| </br><a href='https://archive.org/details/twitterstream'>The Twitter Stream Grab</a> | Full archives of tweets in JSON for a particular month (from 2011, but some months are not available). |
    
 <a name="youtube"></a>
 <h3>YouTube</h3>
@@ -527,6 +540,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | </br><a href='https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related'>YouTube Caption Searcher</a> | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |  
 | </br><a href='https://youtube-lookup.vercel.app/'>Youtube Lookup</a> | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | </br><a href='https://youglish.com/'>YouGlish</a> | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
+| </br><a href='https://github.com/mrwnwttk/youtube_stream_capture'>YouTube Screen Capture</a> | allows you to download a stream in pieces and then merge them |
+| </br><a href='https://filmot.com/'>Filmot</a> | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
 
 <a name="tiktok"></a>
 <h3>TikTok</h3>
@@ -650,6 +665,11 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://sullygnome.com/">Sully Gnome</a> | detailed analysis of #Twitch streamer stats | 
  | <a href='https://twitch-tools.rootonline.de/channel_previews.php'>Twitch Stream Filter</a> | Search streams and filter results by title, game, language, number of viewers. | 
  | <a href='https://untwitch.com'>Untwitch.com</a> | Twitch video downloader | 
+ | </br><a href='https://stats.roki.sh/'>Twitch Overlap</a> | shows the viewer and audience overlap stats between different channels on Twitch. Currently tracks all channels over 1000 concurrent viewers. Data updates every 30 minutes. |
+| </br><a href='https://logs.ivr.fi/'>Justlog</a> | Enter the username and the name of the channel to see all of the user's messages in that channel. The results can be downloaded as TXT |
+| </br><a href='https://twitter.com/PogULive'>Pogu Live</a> | Tool that allows you to watch sub only or deleted VODs for free. It works because when a streamer deletes a video, iit is not deleted from Twitch's servers immediately. |
+| </br><a href='https://github.com/TwitchRecover/TwitchRecover'>Twitch Recover</a> | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
+| </br><a href='https://www.twitchdatabase.com/following'>Twitch Database</a> | Following List + Channel Metadata + Role Lookup |
 
 
 <a name="fidonet"></a>
@@ -736,6 +756,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://console.apify.com/actors/reGe1ST3OBgYZSsZJ'>Instagram Hashtag Scraper</a> | Enter hashtag name and scrape all post tagged it. Get caption, commentsCount, photo dimensions, URL, other hashtags and other details in CSV, JSON or XLS table. | 
  | </br><a href='https://github.com/novitae/Tenai'>Tenai</a> | Simple tool that uncover some followers of a private #Instagram account |
  | </br><a href='https://trendhero.io/'>TrendHero</a> | An Instagram profile search tool with a huge number of filters and the ability to view profile statistics. |
+ | </br><a href='https://github.com/instaloader/instaloader'>INSTALOADER</a> | Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram |
+ | </br><a href='https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related'>InsFo</a> | The ultimate simple tool for saving followers/following an Instagram account to a table. |
 
 <a name="socialmediagoogle"></a>
 <h3>Google</h3>
@@ -773,6 +795,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related'>Github Hovercard</a> | Displays a block of detailed information about the repository or user when the mouse pointer is placed over it. Save time for those who look through dozens of pages of #Github search results in search of the right tool for their tasks. |
 | </br><a href='https://seart-ghs.si.usi.ch/'>SEART Github Search</a> | Search engine for #Github with a dozen different filters. It has slightly fewer features than the standard Github advanced search, but more user-friendly. |
 | </br><a href='https://repostimeline.nazifbara.com/'>Repos Timeline</a> | Enter #Github username and click Generate to see a timeline with all of the user's repositories and forks they have made. |
+| </br><a href='https://gitvio.vercel.app/'>Gitvio</a> | A tool to quickly and easily view detailed information about a user's Github profile: the most popular repositories, number of commits, issues and , statistics of languages used, and more. |
+
+
 
 <a name="wikipedia"></a>
 <h3>Wikipedia</h3>
@@ -891,6 +916,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | </br><a href='https://megous.com/git/megatools'>Megatools</a> | The http://Mega.nz file exchange contains links to many files, including various databases of leaked data. You can use the megatools command-line tool to automate your work with this file-sharing service. |
 | </br><a href='https://github.com/soimort/you-get'>You Get</a> | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
 | </br><a href='https://github.com/Miserlou/SoundScrape'>SoundScrape</a> | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
+| </br><a href='https://github.com/lunnlew/stream-downloader'>Stream Downloader</a> | Download streams from different sites |
    
 <a name="domainiplinks"></a>
 <h1>Domain/IP/Links</h1>
@@ -920,10 +946,12 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | </br><a href='https://github.com/j3ssie/cdnstrip'>CDNStrip</a> | Very fast #go tool, that sorts the list of IP addresses into two lists: CDN and no CDN. |
 | </br><a href='https://github.com/the-h3x/H3X-CCTV'>H3X-CCTV</a> | A simple command line tool with a Google Dorks list to find vulnerable CCTV cameras |
 | </br><a href='https://github.com/nerrorsec/nDorker'>nDorker</a> | Enter the domain name and get quick links to Google Dorks, Github dorks, Shodan dorks and quick links to get info about domain in Codepad, Codepen, Codeshare and other sites ("vendor dorking") |
+| </br><a href='https://github.com/hktalent/scan4all'>Scan4all</a> | 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzzing and many many more |
 | </br><a href='https://analyze.intezer.com/'>Intezer Analyzer</a> | Online tool for finding code injections, malware, unrecognized code and suspicious artifacts in: Files (up to 150 mb), URL, Memory dumps, Endpoints |
 | </br><a href='https://github.com/C3n7ral051nt4g3ncy/webosint'>WEBOSINT</a> | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. |
-
-
+| </br><a href='https://github.com/harleo/knockknock'>KnockKnock</a> | A very fast script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain (which could theoretically belong to the same person or company) |
+| </br><a href='https://github.com/Zold1/sqli-dorks-generator'>SQLI Dorks Generator</a> | python script generates Google Dorks for SQL Injections for sites from the list. |
+| </br><a href='https://github.com/six2dez/dorks_hunter'>Dorks Hunter</a> | A simple script to analyze domain using Google Dorks. It saves in file the results of checking the following categories Backup files, Database files, Exposed documents, Sub-subdomains, Login pages, SQL/PHP errors |
 
 <a name="scrapers"></a>
 <h3>Searchers, scrapers, extractors, parsers</h3>
@@ -973,6 +1001,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a> |  | 
  | </br><a href='https://github.com/SirCryptic/autoexif'>AutoExif</a> | A simple script to read and delete metadata from images and ACVH videos. |
  | </br><a href='https://github.com/securing/DumpsterDiver'>DumpsterDiver</a> | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc) |
+| </br><a href='https://github.com/vstinner/hachoir'>HACHOIR</a> | One of the most powerful tools for work with files metadata with the most detailed settings. |
+
 
 <a name="backlinks"></a>
 <h3>Backlinks analyze</h3>
@@ -1067,7 +1097,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://github.com/alex14324/Turbolist3r'>Turbolist3r</a> | An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b) | 
  | </br><a href='https://github.com/v4d1/Dome'>DomE</a> | Fast and reliable #python script that makes active and/or passive scan to obtain subdomains and search for open ports. Used 21 different #OSINT sources (AlienVault, ThreatCrowd, Urlscan io etc) |
  | </br><a href='https://github.com/0xsha/CloudBrute'>CloudBrute</a> | Tool to find target infrastructure, files, and apps on the popular cloud providers |
-
+| </br><a href='https://github.com/punk-security/dnsReaper'>dnsReaper</a> |TwiSub-domain takeover tool |
 
 
 <a name="cloudfare"></a>
@@ -1244,6 +1274,8 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://github.com/tanaikech/goris'>GORIS</a> | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
 | </br><a href='https://www.webmd.com/pill-identification/default.htm'>Pill Identifier</a> | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
 | </br><a href='http://www.logobook.com/'>Logobook</a> | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
+| </br><a href='http://immerse.zone'>Immerse Zone</a> | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
+
 
 <a name="otherimagesearchengines"></a>
 <h3>Other Image Search Engines</h3>
@@ -1284,6 +1316,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://www.forensicdots.de/">Forensicdots.de</a> | find "yellow dots" (Machine Identification Code) in printed documents | 
  | <a href="https://www.diffchecker.com/image-diff/">Image Diff Checker</a> |  | 
  | <a href='https://vsudo.net/tools/geotag'>Vsudo Geotag Tool</a> | tool for mass geotagging of photos | 
+| </br><a href='https://github.com/aydinnyunus/exifLooter'>exifLooter</a> | Quick #go tool to automate work with EXIF data |
+
+
 
 <a name="facerecognitionandseach"></a>
 <h3>Face recognition and search</h3>
@@ -1470,6 +1505,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
  | </br><a href='https://github.com/tasos-py/Search-Engines-Scraper'>Search Engines Scraper</a> | Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines. |
 | </br><a href='https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo'>Trufflepiggy (Context Search)</a> | Search selected text in different search engines and sites from Google Chrome context menu. |
+| </br><a href='https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001'>Search Patterns</a> | A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet). |
 
 
  
@@ -1786,6 +1822,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='https://github.com/iperov/DeepFaceLive'>Deep Face Live</a> | Real-time face swap for streaming and video calls |
 | </br><a href='https://fakeinfo.net/'>Fakeinfo</a> | Online screenshot generator of fake YouTube channels, posts/profiles on Facebook, Instagram, TikTok, Twitter, chats on Telegram, Hangouts, WhatsApp, Line, Linkedin. |
 | </br><a href='https://github.com/David-Lor/ThisPersonDoesNotExistAPI'>ThisPersonDoesNotExistAPI (unofficial)</a> | #Python library that returns a random "doesnotexist" person picture generated by AI (with site http://thispersondoesnotexist.com) |
+| </br><a href='https://thisbaseballplayerdoesnotexist.com/'>This Baseball Player Does Not Exist</a> | A non-existent personality generator that generates people who look amazingly natural. |
    
 <a name="noosinttools"></a>
 <h1>NOOSINT tools</h1>
@@ -1810,7 +1847,9 @@ Check the desired boxes or directly enter a valid numeric value to see its value
 | </br><a href='https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related'>Hack This Page</a> | A simple extension that allows you to edit the text of any web page. |
 | </br><a href='https://soundraw.io/'>Soundraw</a> | AI music generation |
 | </br><a href='https://app.remini.ai/'>Remini AI Photo Enhancer</a> | Tool allows to restore blurry faces to photos. |
-
+| </br><a href='https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related'>Screenshot - Full Page Screen Capture</a> | record a video of part of the screen using a very easy-to-use browser extension |
+| </br><a href='https://theinpaint.com/'>Theinpaint</a> | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
+| </br><a href='https://replicate.com/tencentarc/gfpgan'>GFPGAN</a> | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
 
 
 <a name="visualizationtools"></a>
@@ -1952,7 +1991,7 @@ Check the desired boxes or directly enter a valid numeric value to see its value
  | <a href='https://banks.data.fdic.gov/bankfind-suite/bankfind'>FDIC search</a> | Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it | 
  | <a href='https://www.iban.com/iban-checker'>Iban.com</a> | Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced | 
  | <a href='https://api.freebinchecker.com/bin/658205'>Freebin Checker</a> | easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database | 
-
+| </br><a href='https://github.com/krdsploit/Credit-OSINT'>Credit OSINT</a> | A very simple #python tool to gather information about bank cards and validate them. |
 
 
 <a name="brandstrademarks"></a>
@@ -2001,6 +2040,7 @@ Check the desired boxes or directly enter a valid numeric value to see its value
  | <a href="https://morbotron.com/">Search Futuruma screencaps</a> |  | 
  | <a href="https://masterofallscience.com/">Rick and Morty screencaps search</a> |  | 
  | <a href="http://www.subzin.com/">Subzin.com</a> | by one phrase will find the movie, as well as the full text of the dialogue with the timing | 
+ | </br><a href='https://www.doesthedogdie.com/'>Doesthedogdie</a> | This is an ingenious site that lets you find out if a movie (video game) has scenes that might upset someone (death of dogs, cats and horses, animal abuse, domestic violence etc). |
 
 <a name="netflix"></a>
 <h3>Netflix</h3>
@@ -2075,6 +2115,11 @@ E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) |
 | </br><a href='https://osint-tool.com/'>Osint tool</a> | A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.). |
 | </br><a href='https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related'>Hackers toolkit</a> | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
 | </br><a href='https://botster.io/bots'>BOTSTER</a> | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
+| </br><a href='https://github.com/TheEyeOfCyber/Magnifier'>Magnifier</a> | #osint #python toolkit.  15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
+"| </br><a href='https://wannabe1337.xyz/'>Wannabe1337 Toolkit</a> | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools.
+ |"
+
+
 
 <a name="databases"></a>
 <h1>Databases and data analyzes</h1>
