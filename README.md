@@ -16,7 +16,7 @@
      * <a href="#railway">Railway</a>
      * <a href="#routes">Routes</a>
      * <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a>
-     * <a href="urbanindustrial">Urban and industrial infrastructure</a>
+     * <a href="#urbanindustrial">Urban and industrial infrastructure</a>
      * <a href="#publictransport">Transport</a>
      * <a href="#communications">Communications, Internet, Technologies</a>
      * <a href="#streetcams">Worldwide street webcams</a>
@@ -26,7 +26,7 @@
      * <a href="#militarytracking">Military tracking</a>
      * <a href="#militaryvisualisation">Military visaulisation</a>
      * <a href="#other">Other</a>
-* <a href="socialmedia2">Social Media</a>
+* <a href="#socialmedia2">Social Media</a>
      * <a href="#twitter">Twitter</a>
      * <a href="#youtube">YouTube</a>
      * <a href="#tiktok">TikTok</a>
@@ -65,7 +65,7 @@
      * <a href="#backlinks">Backlinks analyze</a>
      * <a href="#redirect">Redirect lookup</a>
      * <a href="#cookies">Cookies analyze</a>
-     * <a href="websitemetadata">Website's files metadata analyze and files downloads</a>
+     * <a href="#websitemetadata">Website's files metadata analyze and files downloads</a>
      * <a href="#websiteanalyze">Website analyze</a>
      * <a href="#domainipinvestigation">Domain/IP investigation</a>
      * <a href="#subdomains">Subdomains scan/brute</a>
@@ -1157,7 +1157,7 @@
  | <a href="https://www.wappalyzer.com/">Wappalyzer</a> |  | 
  | <a href="https://www.larger.io/">Larger.io</a> |  | 
  | <a href="https://tools.cmlabs.co/en/technology-lookup">CMLabs Tools</a> |  | 
- | <a href='app.snov.io/techcheck/main'>Snov.io technology checker</a> | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it.  | 
+ | <a href='https://app.snov.io/techcheck/main'>Snov.io technology checker</a> | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it.  | 
 
   
    
