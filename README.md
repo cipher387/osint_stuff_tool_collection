@@ -425,7 +425,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://www.itamilradar.com">Itamilradar</a>  | track military flights over Italy and over the Mediterranean Sea. | 
  | <a href="https://www.marinevesseltraffic.com/2013/02/military-ship-track.html">MarineVesselFinder</a>  |  military ship tracking. | 
  | <a href="https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;">BellingCat Radar Interfence Tracker</a>  | | 
- | <a href="http://websdr.ewi.utwente.nl:8901">WEBSDR</a> - online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). | 
+ | <a href="http://websdr.ewi.utwente.nl:8901">WEBSDR</a> | online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). | 
  | <a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> |  represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . | 
  | <a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a>  |  online tracking of war-related events in Ukraine.  | 
  | <a href="https://syria.liveuamap.com">Syria Liveuamap</a>  |  online tracking of war-related events in Syria.  | 
@@ -936,7 +936,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | </br><a href='https://github.com/hakluke/hakrawler'>Hakrawler</a> | Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application. |
  | <a href='https://github.com/rlyonheart/0xdork'>0xdork</a> | Very light and simple #Python tool for Google Dorking  | 
  | </br><a href='https://cartographia.github.io/FilePhish/'>FilePhish</a> | Simple online Google query builder for fast and easy document file discovery. |
-
  | <a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> | Website Vulnerabilities Scanner | 
  | <a href='https://dorks.faisalahmed.me'>dorks.faisalahmed.me</a> | online constructor of google dorks for searching "sensitive" wesite pages | 
  | <a href='https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan'>Fast Google Dorks Scan</a> | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. | 
@@ -1179,7 +1178,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href='https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru'>Talend API Tester Free Edition</a> | tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior | 
  | </br><a href='https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf/related'>uMatrix</a> | Shows all the domains to which the site connects at runtime and allows you to block different sources at will. Useful for ad blocking, tracking, data collection, and various experiments. |
 | </br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj'>Open Link Structured Data Sniffer</a> | View webpage details info in Google Chrome: RDFa linked data (http://rdfa.info) POSH (Plain Old Semantic HTML) Microdata RSS
- |
+ 
 
 <a name="brokenlinks"></a>
 <h3>Broken Links Checkers</h3>
@@ -2128,13 +2127,17 @@ E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) |
 | </br><a href='https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related'>Hackers toolkit</a> | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
 | </br><a href='https://botster.io/bots'>BOTSTER</a> | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
 | </br><a href='https://github.com/TheEyeOfCyber/Magnifier'>Magnifier</a> | #osint #python toolkit.  15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
-"| </br><a href='https://wannabe1337.xyz/'>Wannabe1337 Toolkit</a> | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools.
- |"
+| </br><a href='https://wannabe1337.xyz/'>Wannabe1337 Toolkit</a> | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools.
+ |
 
 
 
 <a name="databases"></a>
 <h1>Databases and data analyzes</h1>
+
+
+| Link             | Description             |
+|------------------|-------------------------|
 | </br><a href='https://github.com/alephdata/cronodump'>Cronodump</a> | When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV. |
 | </br><a href='https://jsonvisio.com/'>Jsonvisio</a> | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | </br><a href='https://github.com/soxoj/1c-database-converter'>1C Database Converter</a> | 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files. |
@@ -2201,7 +2204,7 @@ E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) |
  
 <hr>
 
-Command line cheat sheet for this collection made by Coordinat Cat:
+Command line cheat sheet for this collection made by <a href="https://github.com/Coordinate-Cat">Coordinat Cat</a>:
 
 <a href="https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI">OSINT TOOLS CLI</a>
      
@@ -2212,8 +2215,6 @@ Command line cheat sheet for this collection made by Coordinat Cat:
 <a href="https://twitter.com/cyb_detective">Twitter</a>
 
 <a href="https://t.me/cybdetective">Telegram</a>
-
-<a href="https://www.getrevue.co/profile/cyb_detective">Revue</a>
 
 <a href="https://github.com/cipher387">Github</a>
 
