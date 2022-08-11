@@ -83,6 +83,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 * <a href="#videoanalyze">Video editing and analyze</a>
 * <a href="#imagesearchandindefication">Image Search and Identification</a> 
      * <a href="#reverseimagesearchengines">Reverse Image Search Engines and automation tools</a>
+    * <a href="#imageediting">Image editing tools</a>
      * <a href="#otherimagesearchengines">Other Image Search Engines</a>
      * <a href="#imageforensic">Image Analyze</a>
      * <a href="#exifanalyze">Exif Analyze and Editing</a>
@@ -428,7 +429,7 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
  | <a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> |  represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . | 
  | <a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a>  |  online tracking of war-related events in Ukraine.  | 
  | <a href="https://syria.liveuamap.com">Syria Liveuamap</a>  |  online tracking of war-related events in Syria.  | 
- | <a href="https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1">NATO.int</a> - explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. | 
+ | <a href="https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1">NATO.int</a>  |  Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. | 
  | <a href="https://www.understandingwar.org/map-room">Understanding War Map Room</a>  |  collection of maps illustrating military conflicts in different countries. | 
  
  
@@ -563,6 +564,9 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 
 <a name="protonmail"></a>
 <h3>Protonmail</h3>
+
+| Link             | Description             |
+|------------------|-------------------------|
 | </br><a href='https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence'>Prot1ntelligence</a> | Validate ProtonMail email address, Gather info about ProtonMail user email or PGP Key, Search on the dark web target digital footprints, Check IP to belong to ProtonVPN |
 
 <a name="facebook"></a>
@@ -1277,6 +1281,18 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='http://immerse.zone'>Immerse Zone</a> | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
 
 
+
+<a name="imageediting"></a>
+<h3>Image editing tools</h3>
+
+| Link             | Description             |
+|------------------|-------------------------|
+| </br><a href='https://theinpaint.com/'>Theinpaint</a> | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
+| </br><a href='https://replicate.com/tencentarc/gfpgan'>GFPGAN</a> | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
+| </br><a href='https://app.remini.ai/'>Remini AI Photo Enhancer</a> | Tool allows to restore blurry faces to photos. |
+| </br><a href='https://letsenhance.io/'>Letsenhance</a> | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
+
+
 <a name="otherimagesearchengines"></a>
 <h3>Other Image Search Engines</h3>
 
@@ -1830,7 +1846,6 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | Link             | Description             |
 |------------------|-------------------------|
 | </br><a href='https://annotely.com/editor'>Annotely</a> | Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. |
-| </br><a href='https://letsenhance.io/'>Letsenhance</a> | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
 | </br><a href='https://www.pramp.com/'>Pramp</a> | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
  | <a href='http://www.remindmewhen.io/'>RemindWhen</a> | Simple app that reminds you on email if your favorite country opens for tourists from your country. | 
  | <a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> | free web proxy | 
@@ -1840,16 +1855,13 @@ New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_co
 | </br><a href='http://websdr.ewi.utwente.nl:8901/'>Wide-band WebSDR</a> | Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code) |
 | </br><a href='https://jsonvisio.com/'>Jsonvisio</a> | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | </br><a href='https://crontab.guru/'>Crontab guru</a> | Online "shedule expression" editor (for setting task times in Crontab files). |
-"| </br><a href='https://chmod-calculator.com/'>Chmod calculator</a> | Calculate the  octal numeric or symbolic value for a set of file or folder permissions in #Linux servers.
-Check the desired boxes or directly enter a valid numeric value to see its value in other format |"
+| </br><a href='https://chmod-calculator.com/'>Chmod calculator</a> | Calculate the  octal numeric or symbolic value for a set of file or folder permissions in #Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format |
 | </br><a href='https://ray.so/'>Ray So</a> | A simple tool that allows you to beautifully design code as a picture (for social media post or article). |
 | </br><a href='https://www.ultimatewindowssecurity.com/'>Windows Event Collection</a> | A tool to help you understand #Windows, #SharePoint, #SQLServer and Exchange system security logs. |
 | </br><a href='https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related'>Hack This Page</a> | A simple extension that allows you to edit the text of any web page. |
 | </br><a href='https://soundraw.io/'>Soundraw</a> | AI music generation |
-| </br><a href='https://app.remini.ai/'>Remini AI Photo Enhancer</a> | Tool allows to restore blurry faces to photos. |
 | </br><a href='https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related'>Screenshot - Full Page Screen Capture</a> | record a video of part of the screen using a very easy-to-use browser extension |
-| </br><a href='https://theinpaint.com/'>Theinpaint</a> | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
-| </br><a href='https://replicate.com/tencentarc/gfpgan'>GFPGAN</a> | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
+
 
 
 <a name="visualizationtools"></a>
