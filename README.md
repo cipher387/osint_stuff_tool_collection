@@ -133,7 +133,7 @@
 * <a href="#netflix">Netflix</a>
 * <a href="#tvradio">TV/Radio</a>
 * <a href="#toolscollection">Tools collections/toolkits</a>
-* <a href=="databases">Databases and data analyzes</a>
+* <a href="databases">Databases and data analyzes</a>
 * <a href="#onlineosemulators">Online OS Emulators</a>
 * <a href="#virtualmachines">VirtualMachines/Linux distributions</a>
 * <a href="#myprojects">My Projects</a>
