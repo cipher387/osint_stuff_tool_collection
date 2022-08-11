@@ -4,9 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 810 services for a wide variety of purposes). </p> 
+<p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes). </p> 
 
-New tools 15-31 January 2022 — https://cipher387.github.io/osint_stuff_tool_collection/weekly_updates/2_Febrary_2022.html
 
 <h2>Table of contents</h2>
 
