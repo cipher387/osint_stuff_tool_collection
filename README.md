@@ -1386,6 +1386,7 @@
  | <a href='https://github.com/zqtay/Telegram-Message-Analyzer'>Telegram Message Analyzer</a> | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) | 
  | <a href='https://t.me/SangMataInfo_bot'>@SangMataInfo_bot</a> | forward a message from the user and find out the history of their name in Telegram | 
  | <a href='https://t.me/tgscanrobot'>@tgscanrobot</a> | telegram bot to show which telegram groups a person is member of. | 
+ | <a href='https://t.me/telebrellabot'>@telebrellabot</a> | another telegram bot to show which telegram groups a person is member of. | 
  | <a href='https://github.com/tejado/telegram-nearby-map'>Telegram Nearby Map</a> | Discover the location of nearby Telegram users on OpenStreetMap | 
  | <a href='https://github.com/pielco11/telescan'>Telescan</a> | search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts) | 
  | <a href='https://tgstat.com'>Tgstat</a> | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. | 
