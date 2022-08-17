@@ -560,6 +560,7 @@
 <a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |  
  | <a href="https://tiktokd.com/">TikTokD</a> | TikTok Video Downloader | 
  | <a href="https://snaptik.app/">Snaptik.app</a> | TikTok Video Downloader | 
+  | <a href="https://tiktake.net/">TikTake.net</a> | TikTok Video Downloader | 
  | <a href="https://exolyt.com/">Exolyt.com</a> | TikTok profile analyze | 
  | <a href="https://app.tikbuddy.com/">Tikbuddy</a> | TikTok profile analytics | 
  | <a href='https://mavekite.com/'>Mavekite.com</a> | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos | 
