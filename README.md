@@ -1,2232 +1,1948 @@
-<h1>OSINT tools collection</h1>
-
 <div align="center">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection">
- 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection">
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+     <h1>OSINT tools collection</h1>
+     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection"> 
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection"></br>
+     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+     <br>
+     <br>
 </div>
 
-<p>Hello! On my Twitter account <a href="https://twitter.com/cyb_detective">@cyb_detective</a> I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes). </p> 
-
-
-<h2>Table of contents</h2>
-
-* <a href="#mapsgeolocationtransport">Maps, Geolocation and Transport</a>
-     * <a href="#socialmedia">Social media and photos maps</a>
-     * <a href="#nature">Nature</a> <a href="#aviation">Aviation</a>
-     * <a href="#maritime">Maritime</a>
-     * <a href="#railway">Railway</a>
-     * <a href="#routes">Routes</a>
-     * <a href="#politicsconflictscrisis">Politics, conflicts and crisis</a>
-     * <a href="#urbanindustrial">Urban and industrial infrastructure</a>
-     * <a href="#publictransport">Transport</a>
-     * <a href="#communications">Communications, Internet, Technologies</a>
-     * <a href="#streetcams">Worldwide street webcams</a>
-     * <a href="#maptools">Tools</a>
-     * <a href="#streetview">Street View</a>
-     * <a href="#satellite">Satellite/aerial imagery</a>
-     * <a href="#militarytracking">Military tracking</a>
-     * <a href="#militaryvisualisation">Military visaulisation</a>
-     * <a href="#other">Other</a>
-* <a href="#socialmedia2">Social Media</a>
-     * <a href="#twitter">Twitter</a>
-     * <a href="#youtube">YouTube</a>
-     * <a href="#tiktok">TikTok</a>
-     * <a href="#protonmail">Protonmail</a>
-     * <a href="#facebook">Facebook</a>
-     * <a href="#clubhouse">Clubhouse</a>
-     * <a href="#linkedin">Linkedin</a>
-     * <a href="#Xing">Xing</a>
-     * <a href="#reddit">Reddit</a>
-     * <a href="#onlyfans">Onlyfans</a>
-     * <a href="#twitch">Twitch</a>
-     * <a href="#fidonet">Fidonet</a>
-     * <a href="#usenet">Usenet</a>
-     * <a href="#tumblr">Tumblr</a>
-     * <a href="#flickr">Flickr</a>
-     * <a href="#spotify">Spotify</a>
-     * <a href="#discord">Discord</a>
-     * <a href="#Yandex">Yandex</a>
-     * <a href="#instagram">Instagram</a>
-     * <a href="#socialmediagoogle">Google</a>
-     * <a href="#patreon">Patreon</a>
-     * <a href="#github">Github</a>
-     * <a href="#parler">Parler</a>
-     * <a href="#pornhub">Pornhub</a>
-     * <a href="#steam">Steam</a>
-     * <a href="#xbox">Xbox</a>
-     * <a href="#vk">VK</a>
-     * <a href="#office365">Office365</a>
-     * <a href="#onedrive">OneDrive</a>
-     * <a href="#udemy">Udemy</a>
-     * <a href="#socialmediaother">Universal</a>
-     * <a href="#downloaders-1">Downloaders</a>
-* <a href="#domainiplinks">Domain/IP/Links</a>
-     * <a href="#dorks">Dorks/Pentest/Vulnerabilities</a>
-     * <a href="#scrapers">Searchers, scrapers, extractors, parsers</a>
-     * <a href="#backlinks">Backlinks analyze</a>
-     * <a href="#redirect">Redirect lookup</a>
-     * <a href="#cookies">Cookies analyze</a>
-     * <a href="#websitemetadata">Website's files metadata analyze and files downloads</a>
-     * <a href="#websiteanalyze">Website analyze</a>
-     * <a href="#domainipinvestigation">Domain/IP investigation</a>
-     * <a href="#subdomains">Subdomains scan/brute</a>
-     * <a href="#cloudfare">Cloudfare</a>
-     * <a href="#databasesofdomains">Databases of domains</a>
-     * <a href="#websitetetrafficlookup">Website traffic look up</a>
-     * <a href="#websitetechnologylookup">Website technology look up</a>
-     * <a href="#sourcecodeanalyzes">Source Code Analyzes</a>
-     * <a href="#urlinshorteners">URL unshorteners</a>
-     * <a href="#brokenlinks">Broken Links Checkers</a>
-* <a href="#textanalyze">Text Analyze</a>
-* <a href="#soundsearchandanalyze">Sound search and analyze</a>
-* <a href="#soundsearchengines">Sound search engines</a>
-* <a href="#videoanalyze">Video editing and analyze</a>
-* <a href="#imagesearchandindefication">Image Search and Identification</a> 
-     * <a href="#reverseimagesearchengines">Reverse Image Search Engines and automation tools</a>
-    * <a href="#imageediting">Image editing tools</a>
-     * <a href="#otherimagesearchengines">Other Image Search Engines</a>
-     * <a href="#imageforensic">Image Analyze</a>
-     * <a href="#exifanalyze">Exif Analyze and Editing</a>
-     * <a href="#facerecognitionandseach">Face recognition and search</a>
-     * <a href="#fontindefication">Font Indenfication</a> 
-* <a href="#cryptocurrencies">Cryptocurrencies</a>
-* <a href="#messengers">Messengers</a>
-     * <a href="#telegram">Telegram</a>
-     * <a href="#whatsapp">WhatsApp</a>
-     * <a href="#kik">Kik</a>
-     * <a href="#slack">Slack</a>
-     * <a href="#skype">Skype</a>
-* <a href="#code">Code</a>
-* <a href="#searchengines">Search engines</a>
-     * <a href="#universalsearchtools">Universal search tools</a>
-     * <a href="#darknetsearch">Darknet search tools</a>
-     * <a href="#bucketssearch">Public buckets search tools</a>
-     * <a href="#bugbountysearch">Bugbounty search tools</a>
-     * <a href="#filesharingsearchengines">Filesharing Search engines</a>
-     * <a href="#duckduckgotools">Tools for DuckDuckGo</a>
-     * <a href="#googletools">Tools for Google</a>
-* <a href="#iot">IOT</a>
-* <a href="#archives">Archives</a>
-     * <a href="#archivestools">Tools for working with web archives</a>
-     * <a href="#archivesofdocuments">Archives of documents/newspapers</a> 
-* <a href="#datasets">Datasets</a>
-* <a href="#passwords">Passwords</a>
-* <a href="#emails">Emails</a>
-* <a href="#nicknames">Nicknames</a>
-* <a href="#phonenumbers">Phone numbers</a>
-* <a href="#universalcontactsearch">Universal Contact Search and Leaks Search</a>
-* <a href="#sockpuppets">Sock Puppets</a>
-* <a href="#noosinttools">NOOSINT tools</a>
-* <a href="#visualizationtools">Visualization tools</a>
-* <a href="#routineautomation">Routine/Data Extraction Automation</a>
-* <a href="#browseranalyze">Browser analyze</a>
-* <a href="#files">Files</a>
-* <a href="#imeiserial">IMEI and serial numbers</a> 
-* <a href="#nft">NFT</a>
-* <a href="#keywordstrends">Keywords, trends, news analytics</a>
-* <a href="#appsprograms">Apps and programs</a>
-* <a href="#companysearch">Company information search</a>
-* <a href="#banksearch">Bank information search</a>
-* <a href="#brandstrademarks">Brand/trademark information search</a>
-* <a href="#tendersshipments">Tender/shipment information search</a>
-* <a href="#amazon">Amazon</a>
-* <a href="#movies">Movies</a>
-* <a href="#netflix">Netflix</a>
-* <a href="#tvradio">TV/Radio</a>
-* <a href="#toolscollection">Tools collections/toolkits</a>
-* <a href="databases">Databases and data analyzes</a>
-* <a href="#onlineosemulators">Online OS Emulators</a>
-* <a href="#virtualmachines">VirtualMachines/Linux distributions</a>
-* <a href="#myprojects">My Projects</a>
-                 
-   
-<a name="mapsgeolocationtransport"></a>
-<h1>Maps, Geolocation and Transport</h1>
-
-   
-<a name="socialmedia"></a>
-<h3>Social media and photos</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| <a href='https://app.skylens.io/'>Apps.skylens.io</a> | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) | 
- | <a href="http://photo-map.ru/">photo-map.ru</a> | search geotagged photos from VK.com | 
- | <a href="https://map.snapchat.com/">Snapchat map</a> |  | 
- | <a href="https://mattw.io/youtube-geofind/">YouTube Geofind</a> | view YouTube geottaged video on map
- | <a href="https://www.flickr.com/map">Flickr Photo Map</a> |  | 
-| <a href='http://www.whatsthatpicture.com/flickr/commons-map.php'>Flickr Common Map</a> | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) | 
- | <a href="https://iknowwhereyourcatlives.com/cat/99638e1fe0">I know where your cat lives</a> | geottaged photo from Instagram with #cat hashtag | 
-| <a href='https://www.trendsmap.com/map'>Trendsmap.com</a> | Explore most popular #Twitter trends, hashtags and users on the worldmap | 
- | <a href="https://pastvu.com/">Pastvu.com</a> | View historical photos taken at a particular location on a map. | 
- | <a href='https://birdhunt.co/'>BirdHunt</a> | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
-| </br><a href='https://wikishootme.toolforge.org/'>WikiShootMe</a> | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
-| </br><a href='https://hicsuntleones.nl/paintedplanet/'>The Painted Planet</a> | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
-| </br><a href='https://copernix.io/'>COPERNIX</a> | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
-| </br><a href='https://www.huntintel.io/'>Huntel.io</a> | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
-
-   
-<a name="nature"></a>
-<h3>Nature</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4'>Map View NGMDB</a> | map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database). | 
- | <a href='http://waqi.info'>WAQI</a> | World's Air Pollution: Real-time Air Quality Index map | 
- | <a href='https://globalfishingwatch.org/map/'>GlobalFishingMap</a> | click on a point on the map and get the data on the current fishing effort at that location. | 
- | <a href='https://www.ncei.noaa.gov/maps/hazards/'>ncei.noaa.gov</a> | Natural Hazards Viewer (worldwide) | 
- | <a href='https://www.lightningmaps.org/'>Lightingmaps</a> | lightning strikes in real time and also data on thunderstorms that ended months or years ago | 
- | <a href='https://www.lightpollutionmap.info/'>Light Pollution World Map</a> | showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013) | 
- | <a href='https://www2.cifor.org/global-wetlands/'>Global Wetlands Map</a> | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world) | 
- | <a href='https://firms.modaps.eosdis.nasa.gov/map/'>Fire MAP NASA</a> | online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours) | 
- | <a href='https://www.ocearch.org/tracker/'>Ocearch Shark Tracker</a> | Click on a shark on the world map and find out its name, size and travel log. | 
- | <a href='https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide'>Surging Seas: Risk Zone Map</a> | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. | 
- | <a href='https://usa.fishermap.org/depth-map/'>USA Fishermap</a> | when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked | 
- | <a href="https://www.mindat.org/countrylist.php">Mindat.org</a> | mineral maps for different countries | 
- | <a href="https://www.ventusky.com/">Ventusky.com</a> | collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc) | 
- | <a href="https://www.wunderground.com/history">Wunderground</a> | weather history data | 
- | <a href='http://rain-alarm.com'>Rain Alarm</a> | shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app) | 
- | <a href='https://cyclocane.com'>Cyclocane</a> | click on the hurricane on the map and get detailed information about it | 
- | <a href='https://www.meteoblue.com/'>MeteoBlue</a> | Weather stats data | 
- | <a href='https://zoom.earth/'>Zoom.earth</a> | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas | 
- | <a href='https://maps.ngdc.noaa.gov/viewers/bathymetry/'>NGDC Bathymetry map</a> | worldwide detailed interactive bathymetry map | 
- | <a href="https://soar.earth/">Soar.earth</a> | big collection satellite, drone and ecological maps | 
- | <a href="https://academo.org/demos/geodesics/">Geodesics on the Earth</a> | finding the shortest path between two points | 
- | <a href="https://www.google.com/earth/">Google Earth</a> | 3D representation of Earth based primarily on satellite imagery | 
-| </br><a href='http://everymountainintheworld.com/'>Everymountainintheworld</a> | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
-| </br><a href='https://rivermap.org/map/#sprache=en'>Rivermap</a> | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
-| </br><a href='https://www.gbif.org/occurrence/map?q=cobra'>Global Biodiversity Information Facility</a> | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |  
-| </br><a href='https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map'>Natural Hazards Map (worldwide)</a> | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
-| </br><a href='https://river-runner-global.samlearner.com/'>River Runner Global</a> | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
-| </br><a href='http://global-flood-database.cloudtostreet.ai/'>Global Flood Database (and interactive map)</a> | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
-
-
-   
-<a name="aviation"></a>
-<h3>Aviation</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://skyvector.com/'>Skyvector</a> | tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it | 
- | <a href='https://www.flightconnections.com/'>Flight Connections</a> | click on the airport on the map to see the cities from which it's possible fly direct | 
- | <a href="https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx">World Aviation Accident Database 1962-2007</a> | |  
- | <a href="https://data.ntsb.gov/carol-main-public/basic-search">World Aviation Accident Database 2008-2021</a> |  | 
- | <a href="http://rzjets.net/aircraft/">Rzjets.net</a> | user updated online database (census) of civilian jet and turbojet aircraft | 
- | <a href="https://globe.adsbexchange.com/">Globe.adsbexchange.com</a> | tracking flights on a map | 
- | <a href="https://transtats.bts.gov/ONTIME/">Transtats.bts.gov</a> | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) | 
- | <a href='https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related'>Legrooms for Google Flights</a> | An extension that displays the size of the legroom between the seats next to the flight information. | 
-
-
-
-
-   
-   
-<a name="maritime"></a>
-<h3>Maritime</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.track-trace.com/container">Track Trace</a> | tracking a shipping container by number | 
- | <a href="http://container-tracking.org/">Container Tracking</a> | tracking a shipping container by number | 
- | <a href="https://www.searates.com/container/tracking/">Searates container tracking</a> | tracking a shipping container by number | 
- | <a href="https://www.cma-cgm.com/ebusiness/schedules/voyage">CMA Voyage Finder</a> | search for voyage details by voyage number or ship name | 
- | <a href="https://theshippingdatabase.com/">The Shipping Database</a> | comprehensive archive of the world ships. There is even data for 1820!!!!!!! | 
- | <a href="https://www.submarinecablemap.com/">Submarinecablemap.com</a> | submarine communications cables map | 
- | <a href="https://www.marinevesseltraffic.com/submarine-vessels-tracking-map">Submarine Vessels Tracking Map</a> |  | 
- | <a href='https://ports.com/sea-route/'>Ports.com</a> | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |  
-| </br><a href='https://www.livecruiseshiptracker.com/'>Live Cruise Ship Tracker</a> | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
-
-   
-   
-<a name="railway"></a>
-<h3>Railway</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://juckins.net/amtrak_status/archive/html/history.php">Amtrak Status Maps Archive Database</a> | find out the train schedule for a station on a particular day that passed many years ago (since 2008) | 
- | <a href="https://www.nsinternational.com/en/stations/station-maps-floor-plan">Europe station maps floor plan</a> | 
- | <a href='https://rasp.yandex.ru/map/trains'>Rasp.yandex.ru/map/trains</a> | Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia | 
- | </br><a href='https://chronotrains-eu.vercel.app/'>Chronotrains</a> | A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train. |
-| </br><a href='https://direkt.bahn.guru/'>Direkht Ban Guru</a> | Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city). |
-
-
-   
-   
-<a name="routes"></a>
-<h3>Routes</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://ridewithgps.com/users">Ride With GPS</a> |  | 
- | <a href="http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain">Wandermap</a> | hiking routes world map | 
- | <a href="http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain">Runmap</a> | running routes world map | 
- | <a href="https://www.bikemap.net/">Bikemap</a> | biking route world map | 
-
-
-
-
-   
-   
-<a name="politicsconflictscrisis"></a>
-<h3>Politics, conflicts and crisis</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://freedomhouse.org/explore-the-map'>Freedomhouse.org</a> | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) | 
- | <a href='https://www.crimemapping.com/'>Crimemapping.com</a> | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. | 
- | <a href='https://citizen.com/explore'>Citizen.com</a> | live map of incidents (mainly shooting) that happened in the last hours in major U.S. cities | 
- | <a href="https://map.nbr.org/interactivemap/">MARITIME AWARENESS PROJECT</a> | detailed map of maritime borders of states, economic zones with statistical data on ports and many other objects | 
- | <a href='https://monitor.civicus.org'>Monitor Tracking Civic Space Worldwide Map</a> | Civicus (@CIVICUSalliance) | the global civil society alliance, constitutes an influential network of organisations at the local, national, regional and international levels of civil society. | 
- | <a href='https://hungermap.wfp.org'>Hungermap</a> | Worldwide Hunger Map | 
- | <a href='https://native-land.ca/'>Native-land.ca</a> | click on the point on the map and find out: - what nation this area used to belong to; - what language was once spoken there; - a historical event that resulted in a nation losing their territory. | 
- | <a href="https://www.riskmap.com/">RiskMap</a> | 
- | <a href="https://liveuamap.com/">Liveuamap</a> | 
- | <a href="https://www.crisisgroup.org/crisiswatch">Crisisgroup</a> | 
- | <a href="https://www.splcenter.org/hate-map">Hate Map</a> | 
- | <a href="https://emmeline.carto.com/me">emmeline.carto.com</a> | 
- | <a href="https://www.cfr.org/global-conflict-tracker/?category=us">Global Conflict Tracker</a> | 
- | <a href="https://acleddata.com/dashboard/#/dashboard">Acled data crisis map</a> | 
- | <a href='https://frontex.europa.eu/we-know/migratory-map/'>Frontex Migratory Map</a> | click on a country or region to see how many illegal border crossings have been reported there in the last six months.  | 
-
-
-<a name="urbanindustrial"></a>
-<h3>Urban and industrial infrastructure</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://wheelmap.org'>Wheelmap.org</a> | map shows public places that are accessible and partially accessible to #wheelchair users | 
- | <a href='https://gulfpub-gisstg.esriemcs.com/pe_chevron/'>gulfpub-gisstg.esriemcs.com</a> | Detailed world gas pipelines map | 
- | <a href='https://luminocity3d.org/WorldPopDen/'>World Population Density Map</a> | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages | 
- | <a href='https://www.emporis.com/buildings/map'>Emporis Buildings Map</a> | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose | 
- | <a href='https://osmbuildings.org/'>Osmbuildings.org</a> | world map showing notable buildings. For each object you can find out the height, type, and purpose. | 
- | <a href='https://findfoodsupport.withgoogle.com/'>Find Food Support</a> | find places where you can get free food by address (USA) | 
-| </br><a href='https://aqicn.org/map/world/'>Aqicn</a> | Air pollution gauges on the map |
-| </br><a href='https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html'>Average Gamma Dose Rate Map</a> | Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries |
-| </br><a href='https://poweroutage.com/'>Poweroutage</a> | Map with real-time power outage statistics by country and region. |
-| </br><a href='https://openbenches.org/'>Open Benches</a> | Worldwide map of 22,756 memorial benches (added by users). |
-| </br><a href='https://sondehub.org/'>Sondehub</a> | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
-| </br><a href='https://bikesharingworldmap.com/'>The Meddin Bike-sharing World Map</a> | 8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities. |
-| </br><a href='https://www.rally-maps.com/map'>Rally Maps</a> | A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available). |
-
-
-
-<a name="streetcams"></a>
-<h3>Worldwide street webcams</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| <a href='http://www.insecam.org/'>Insecam.org</a> || 
-| <a href='https://www.earthcam.com/'>Earthcam</a> |  | 
-| <a href='https://camstreamer.com/live/map'>Camstreamer</a> | | 
-| <a href='https://www.webcamtaxi.com/en/map.html'>Webcamtaxi</a> |  | 
-| <a href='https://www.skylinewebcams.com/webcam.html'>Skyline Webcams</a> | | 
-| <a href='https://worldcam.eu/'>Worldcam.eu</a> | | 
-| <a href='https://worldcams.tv/'>Worldcams TV</a> || 
-| <a href='https://www.geocam.ru/en/'>Geocam</a> | | 
-| <a href='https://www.livebeaches.com/australia/'>Live beaches</a> | Beaches webcam only | 
-| <a href='http://www.opentopia.com/'>Opentopia</a> |  | 
-| <a href='https://www.mangolinkworld.com/'>MangolinkWorld</a> |  | 
-| <a href='https://www.foxmonitor.com/'>FoxMonitor</a> |  | 
-| <a href='https://cipher387.github.io/webcamcse/'>WEBCAM CSE</a> | Google Custom Search Engine for search in 10 online street webcam catalogs | 
-
-<a name="maptools"></a>
-<h3>Tools</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://calculator.ipvm.com/'>Calculator IPVM</a> | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
- | <a href='http://jopf.re/osmaps-radius/'>Osmaps Radius</a> | drawing circles with a certain radius on the map | 
- | <a href='http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/'>MeasureTool-GoogleMaps-V3</a> | Measurement tool for #GoogleMaps. | 
- | <a href='https://www.acscdg.com/'>ACSDG</a> | tool allows you to quickly mark a group of points on the map and then export their geographic coordinates to CSV. | 
- | <a href='https://app.measuremaponline.com/dashboard/overview'>MeasureMapOnline</a> | tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter | 
- | <a href='https://mapfight.xyz/browse/'>Map Fight</a> | compare size of two countries | 
- | <a href='https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related'>Presto Map lead extractor</a> | Converts information about labels on Google Maps to CSV or XLSX | 
- | <a href='https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related'>Gmaps Extractor</a> | Extract data from placemarks | 
- | <a href="https://www.gpsvisualizer.com/">GPS Visualizer</a> | show gpx and tcx files on map | 
- | <a href="https://www.mapchecking.com/">Map Checking</a> | tool for measuring the number of people in a crowd of different area and density. |  
- | <a href="https://www.mapnificent.net/">Mapnificent</a> | Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) |  
- | </br><a href='https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe'>Cesium ion</a> | scalable and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device |
- | </br><a href='https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related'>OSM Smart Menu</a> | Google Chrome extension to switch between dozens of different types of online maps (based on #OpenStreetMap and NOT only) |
- | </br><a href='https://www.calcmaps.com/'>Calcmaps</a> | Simple online map tools: Calculate area (triangles, quadrilaterals and complex polygons), Calculate distance (for complex routes), Measure radius, Calculate elevation |
- | </br><a href='https://www.scribblemaps.com/'>Scribble maps</a> | Partly free online tool for creating infographics (images or pdf) based on maps. |  
-
-
-
-
-<a name="publictransport"></a>
-<h3>Transport</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://cipher387.github.io/venicle_number_search_toolbox/'>Venicle Number Search Toolbox</a> | search information about car by venicle numbers (14 different countries from one page) - #GreatBritain, #Norway, #Denmark, #Russian and others | 
- | <a href='https://tracker.geops.ch'>Transit Visualisation Client</a> | real time info about public transport in 739 cities and towns in the dozens of countries | 
- | <a href='https://cipher387.github.io/public_transport_maps/'>Collection of public transport maps</a> | 20 online public transport maps (most real-time) for different cities and countries around the world | 
- | <a href='http://www.worldlicenseplates.com/'>WorldLicensePlates</a> | graphic index of license plates of different countries of the world | 
- | </br><a href='https://openrailwaymap.org/'>Openrailwaymap</a> | Map of the world with information about the railroad tracks. It's possible to visualize maximum speed, electrification, track gauge, and other parameters. |
-   
-   
-<a name="communications"></a>
-<h3>Communications, Internet, Technologies</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://opencellid.org/">Opencellid.org</a> | the world's largest Open Database of Cell Towers | 
- | <a href="https://www.mylnikov.org/">API mylnikov.org</a> | get lattitude and longitude by WiFI BBSID | 
- | <a href="http://nperf.com/en/map">nperf.com/map</a> | view the coverage area of different #cellular operators in different countries | 
- | <a href="https://www.nperf.com/en/map/5g">nperf.com/map/5g</a> | 5G coverage #map worldwide | 
- | <a href='http://vincos.it/world-map-of-social-networks'>Vincos.it</a> | world social media popularity map | 
- | <a href='https://app.any.run'>app.any.run</a> | interactive worldwide map of cyber threats statistics (last 24 hour) | 
- | <a href="https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html">Web Cam Taxi</a> | open webcams around the world | 
- | <a href="http://radio.garden/visit/moscow/MQfEnBji">Radio Garden</a> | select a local radio station on the world map and listen to what's playing at the moment | 
- | </br><a href='https://twitter.com/cyb_detective/status/1536682540265873408'>TorMap</a> | Worldwide online map of Tor Nodes |
- | </br><a href='https://github.com/GONZOsint/geowifi'>GeoWiFi</a> | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
- | </br><a href='https://gpsjam.org/'>GPSJam</a> | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
-
-<a name="streetview"></a>
-<h3>Street View</h3>  
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="http://showmystreet.com">Show My Street</a> | simple tool that simplifies and speeds up your research work with Google Street View. Just click on the map and see street panoramas | 
- | <a href="https://www.mapillary.com/app/">Mapillary</a> | street panoramas over the world | 
- | <a href='https://360cities.net/map'>360cities.net/map</a> | world map of panoramic (360 degrees) images | 
- | <a href='http://earthviewer360.com'>Earthviewer360.com</a> | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) | 
-
-
-<a name="satellite"></a>
-<h3>Satellite/aerial imagery</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="http://observer.farearth.com/observer/">Observer</a> | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording.  | 
- | <a href="https://earthexplorer.usgs.gov/">USGS Earth Explorer</a> | more than 40 years old collection of satellite imagery | 
- | <a href="https://eos.com/products/landviewer/">Landviewer</a> | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues | 
- | <a href="https://scihub.copernicus.eu/">Copernicus Open Access Hub</a> | ESA’s open access portal to Sentinel data | 
- | <a href="https://apps.sentinel-hub.com/eo-browser/">Sentinel Hub EO Browser</a> | complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place. | 
- | <a href="https://apps.sentinel-hub.com/sentinel-playground/">Sentinel Hub Playground</a>  |  tool for viewing satellite images with different effects and rendering. | 
- | <a href="https://search.earthdata.nasa.gov/">NASA Earthdata Search</a> | search in 8555+ collection and photos. | 
- | <a href="http://www.dgi.inpe.br/catalogo/">INPE Image Catalog</a> |  free satellite images catalogue.    | 
- | <a href="https://coast.noaa.gov/dataviewer/#/">NOAA Data Access Viewer</a>  |  satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.) | 
- | <a href="https://worldview.earthdata.nasa.gov/">NASA WorldView</a>  |  high resolution and high quality satellite images. | 
- | <a href="https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm">ALOS</a>  |  "Advanced land Observer Satellite" images collection (Japan) | 
- | <a href="https://bhuvan.nrsc.gov.in/home/index.php">Bhuvan</a>  |  Indian Geo-platfrom of ISRO. | 
- | <a href='https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6'>OpenAerialMap</a> | set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery | 
-| </br><a href='https://map.openaerialmap.org/#/-18.632,18.47900000000001,3?_k=3za5b4'>OpenAerialMap</a> | Select an area on the map and get a list of freely available aerial images for that area. For some locations available images are many times superior in quality to conventional satellite images. |
-| </br><a href='https://imagehunter.apollomapping.com/'>ApolloMapping Image Hunter</a> | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
-
-<a name="militarytracking"></a>
-<h3>Military tracking</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.ads-b.nl">ADS-b.nl</a>  |  tracking military aircrafts. | 
- | <a href="https://planefinder.net/flight/ARMY">Planefinder Army Live Flight Tracker</a>. |  | 
- | <a href="https://www.itamilradar.com">Itamilradar</a>  | track military flights over Italy and over the Mediterranean Sea. | 
- | <a href="https://www.marinevesseltraffic.com/2013/02/military-ship-track.html">MarineVesselFinder</a>  |  military ship tracking. | 
- | <a href="https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;">BellingCat Radar Interfence Tracker</a>  | | 
- | <a href="http://websdr.ewi.utwente.nl:8901">WEBSDR</a> | online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). | 
- | <a href="https://www.info-res.org/map">Russia-Ukraine Monitor Map</a> |  represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . | 
- | <a href="https://liveuamap.com/ru">Ukraine liveuamap.com</a>  |  online tracking of war-related events in Ukraine.  | 
- | <a href="https://syria.liveuamap.com">Syria Liveuamap</a>  |  online tracking of war-related events in Syria.  | 
- | <a href="https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1">NATO.int</a>  |  Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. | 
- | <a href="https://www.understandingwar.org/map-room">Understanding War Map Room</a>  |  collection of maps illustrating military conflicts in different countries. | 
- 
- 
- <a name="militaryvisualisation"></a>
-<h4>Military visalisation</h4>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| <a href="https://www.map.army/">Map.Army</a> | Online tool for creating schemes of battles and military operations on the map. Extensive customization possibilities and a huge library of symbols.|
-| <a href="https://mgrs-mapper.com/">MGRS Mapper</a> |Build and share custom maps with standard military graphics using a simple visual interface (paod)|
-| <a href="https://solutions.arcgis.com/defense/help/military-overlay/">ArgGis Military Overlay</a> | Military Overlay can be used to create overlays with standard military symbols, by using and adapting existing feature templates in <b>ArgGis Pro</b> |
-   
-   
-<a name="other"></a>
-<h3>Other</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://demo.f4map.com'>Demo.4map.com</a> | 3D interactive world map | 
- | <a href='https://www.oldmapsonline.org/'>OldMapsOnline</a> | World aggregator of old maps from various sources (498,908 maps) | 
- | <a href='http://whatiswhere.com'>Whatiswhere.com</a> | OpenStreetMap based free POI (point of interest) search. 102 types of objects | 
- | <a href='https://cipher387.github.io/collection_of_cadastral_maps/'>Collection of cadastral maps</a> | 41 countries | 
- | <a href='https://www.localfocus.nl/geokit/'>localfocus.nl/geokit</a> | geographic toolkit for investigative journalists | 
- | <a href='https://simon04.dev.openstreetmap.org/whodidit/'>WhoDidIt</a> | Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). | 
- | <a href='https://console.apify.com/actors/nwua9Gu5YrADL7ZDj'>Google Maps Scraper</a> | Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps. | 
-   
-
-   
-<a name="socialmedia2"></a>
-<h1>Social Media</h1>
-
-   
-
-
-   
-   
-<a name="twitter"></a>
-<h3>Twitter</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| <a href='https://birdhunt.co/'>BirdHunt</a> | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
- | <a href='https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related'>Twitter account detector</a> | A simple and fast Chrome extension that finds all Twitter accounts on a site. | 
- | <a href='https://followerwonk.com/compare/'>Follower Wonk/Compare</a> | this service allows you to find out how many followers two (or three) Twitter accounts have in common. | 
- | <a href='https://tweepsmap.com/dash/unfollows'>Tweepsmap Unfollows</a> | displayed unsubscribed accounts (list for the one week available for free) | 
- | <a href="https://app.truthnest.com/">app.truthnest.com</a> | best tool for Twitter account investigation | 
- | <a href="https://treeverse.app">Treeverse.app</a> | view dialogs in Twitter as a graph | 
- | <a href='https://hashtagify.me/'>Hashtagify</a> | compare the popularity of the two hashtags | 
- | <a href='https://www.scoutzen.com/twitter-lists/search'>Scoutzen</a> | search twitter lists by keywords | 
- | <a href="https://onemilliontweetmap.com/">One Million Tweet Map</a> |  | 
- | <a href="https://www.tweetbinder.com/">Tweet Binder</a> | detailed twitter account analyze | 
- | <a href="https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/">Tweet Sentiment Visualization</a> |  | 
- | <a href="https://tweetbeaver.com/friendsfollowing.php">Tweet Beaver Friends Following</a> |  | 
- | <a href="http://tweettopicexplorer.neoformix.com/#n=NYTimes">Tweet Topic Explorer</a> |  | 
- | <a href="https://influencermarketinghub.com/twitter-money-calculator/">Twitter Money Calculator</a> |  | 
- | <a href='https://analytics.twitter.com/'>Twitter Analytics</a> | gather detailed infromation about your own account | 
- | <a href="https://www.vicinitas.io/free-tools/download-twitter-followers">Vicintias.io</a> | very fast export of information about Twitter account followers to XLSX | 
- | <a href="https://doesfollow.com/">DO ES FOLLOW</a> | quick check if one user is subscribed to another on Twitter | 
- | <a href="http://sleepingtime.org/">Sleeping Time</a> | determining the approximate sleeping time of a user based on analysis of the timing of a tweet | 
- | <a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a> | tool for quick and comfortable viewing old tweet's of someone account | 
- | <a href="https://twitter.com/i/directory/">Twitter users directory</a> |  | 
- | <a href='https://www.followeraudit.com'>FollowerAudit</a> | In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information (biography, geolocation, links, profile picture).
- | <a href="https://foller.me/">Foller.me</a> | Twitter account detailed analyze | 
- | <a href="https://getdaytrends.com/">Get day Twitter Trends</a> | 
- | <a href="https://us.trend-calendar.com/">US Twitter Trend Calendar</a> |  | 
- | <a href="https://followerwonk.com/bio">Followerwonk</a> | search by Twitter bio | 
- | <a href="https://botometer.osome.iu.edu/">Twitter Botometr</a> |  | 
- | <a href='http://projects.noahliebman.net/listcopy/connect.php'>projects.noahliebman.net/listcopy</a> | copy a list made by another user to your Twitter account | 
- | <a href='https://unfollowerstats.com/'>Unfollower Stats</a> | iOS App that tracking unfollowers and show nofollowersback and unactive followers for your Twitter account | 
- | <a href='https://chrome.google.com/webstore/detail/twish/afpegchfbaddfmenhkajjggbnjfjejeh/related'>Twish</a> | very simple, quick, comfortable and nicely designed advanced #Twitter search query builder for #GoogleChrome. | 
- | <a href='https://console.apify.com/actors/u6ppkMWAx2E2MpEuF'>Twitter Scraper</a> | Scrape any #Twitter user profile. Creates an unofficial Twitter API to extract tweets, retweets, replies, favorites, and conversation threads with no Twitter API limits. | 
-| </br><a href='http://archive.twitter-trending.com/'>Twiiter Trending Archive</a> | A wide range of options for analyzing #Twitter trending history: 1. See what was popular on a particular day in a particular country or in the world as a whole. 2. Enter a keyword and find out when it was in the global/particular country trends. |
-| </br><a href='https://tweeview.ml/'>Tweeview</a> | Twitter conversation visualization (beta) |
-| </br><a href='https://www.tweeplers.com/?cc=GB'>Tweeplers</a> | Trending Twitter users and hashtags (map/list) Top twitted cities and countries Realtime Tweet Map |
-| </br><a href='https://www.flock.network/'>FlockNet</a> | A tool for finding and filtering your own #Twitter followers. It allows you to find all the people from a certain city or with certain interests. And then quickly view their profiles in a convenient format. |
-| </br><a href='https://orbit.livasch.com/'>Orbit livasch</a> | A tool for analyzing connections between Twitter accounts (based on the number of likes, retweets, tweet citations, and mentions). |
-| </br><a href='https://archive.org/details/twitterstream'>The Twitter Stream Grab</a> | Full archives of tweets in JSON for a particular month (from 2011, but some months are not available). |
-   
-<a name="youtube"></a>
-<h3>YouTube</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://unlistedvideos.com/">YouTube Unlisted Video</a> | search for videos available only by link on youtube | 
- | <a href='https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php'>YouTube Comments Analyze</a> | Download detailed information about YouTube video comments to a .tab or .gdf | 
- | <a href='https://noxinfluencer.com/youtube/channel-compare'>Noxinluencer</a> | youtube channels comparing
- | <a href="https://citizenevidence.amnestyusa.org/">YouTube MetaData Viewer</a> |  | 
- | <a href='https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related'>PocketTube</a> | YouTube Subscription Manager | 
- | <a href="https://ytcomment.kmcat.uk/">YouTube comment Finder</a> |  | 
- | <a href='https://github.com/egbertbouman/youtube-comment-downloader'>YouTube Comment Downloader</a> | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys.  | 
- | <a href='https://montage.meedan.com'>Montage.meedan.com</a> | Search #YouTube video by date (uploaded or recording) and by geolocation. | 
- | <a href="https://github.com/huhmit/slashtags"> Slash Tags | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) | 
- | <a href='https://ytplaylist-len.herokuapp.com/'>YouTube playlist len</a> | Find out the total time of all the videos in playlist
- | <a href="https://anilyzer.com/">Anylizer.com</a> | watch frame by frame YouTube and Vimeo) | 
- | <a href='https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd'>Improve YouTube</a> | extension with dozens of different tweaks to the standard #YouTube interface | 
- | <a href='https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php'>YoTube Channel Search</a> | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos | 
- | <a href="http://www.watchframebyframe.com/">watchframebyframe.com</a> | watch frame by frame YouTube and Vimeo | 
- | <a href="https://hadzy.com/">Hadzy.com</a> | YouTube comment search) | 
- | <a href='https://github.com/lettapp/ytcs'>Ytcs</a> | google chrome extension to search YouTube comments without leaving the site (link to source code) | 
- | <a href="https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related">YouTube Comment Search Chrome Extension</a> |  | 
- | <a href='https://github.com/jdepoix/youtube-transcript-api'>YouTube Transcript API</a> | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. | 
- | <a href='https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related'>Jump Cutter</a> | An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed... | 
- | <a href='https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru'>YouFilter – YouTube Advanced Search Filter</a> | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. | 
- | <a href='https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related'>YouTube Timestamp Comments</a> | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. | 
- | <a href='https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related'>Youtube Actual Top Comments</a> | Fetch all comments to Youtube video (without answers). Sort them by likes and filter  by keywords | 
- | <a href='https://apify.com/bernardo/youtube-scraper'>YouTube Scraper</a> | Extract and download channel name, likes, number of views, and number of subscribers. Scrape by keyword or URL. | 
- | </br><a href='https://chrome.google.com/webstore/detail/youtube-booster/dajnidicmkknmmbapmmmlemjdfolgjnf/related'>YouTube Booster</a> | This extension selects frames from videos and generates quick links to find them on Google and TinEye! |
- | </br><a href='https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related'>YouTube Caption Searcher</a> | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |  
-| </br><a href='https://youtube-lookup.vercel.app/'>Youtube Lookup</a> | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
-| </br><a href='https://youglish.com/'>YouGlish</a> | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
-| </br><a href='https://github.com/mrwnwttk/youtube_stream_capture'>YouTube Screen Capture</a> | allows you to download a stream in pieces and then merge them |
-| </br><a href='https://filmot.com/'>Filmot</a> | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
-
-<a name="tiktok"></a>
-<h3>TikTok</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://bellingcat.github.io/tiktok-timestamp/'>Tiktok Timestamp</a> | determines the time of publication of the video to the nearest second. Just copy the link. | 
- | <a href='https://tikstats.org/'>TikStats</a> | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account | 
-<a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |  
- | <a href="https://tiktokd.com/">TikTokD</a> | TikTok Video Downloader | 
- | <a href="https://snaptik.app/">Snaptik.app</a> | TikTok Video Downloader | 
- | <a href="https://exolyt.com/">Exolyt.com</a> | TikTok profile analyze | 
- | <a href="https://app.tikbuddy.com/">Tikbuddy</a> | TikTok profile analytics | 
- | <a href='https://mavekite.com/'>Mavekite.com</a> | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos | 
- | <a href='https://github.com/sauermar/Tiktok-Scraper'>Tiktok Scraper</a> | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. | 
- | <a href='https://tikrank.com'>Tikrank.com</a> | free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database) | 
-| </br><a href='https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114'>TikTok Creative Center Statistics</a> | List of most popular hashtags; songs; creators; videos for different countries and periods. |
-
-
-<a name="protonmail"></a>
-<h3>Protonmail</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence'>Prot1ntelligence</a> | Validate ProtonMail email address, Gather info about ProtonMail user email or PGP Key, Search on the dark web target digital footprints, Check IP to belong to ProtonVPN |
-
-<a name="facebook"></a>
-<h3>Facebook</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://randomtools.io/">Find my FB ID (randomtools.io)</a> |  | 
- | <a href="http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/">435,627,630 indexed items from that Facebook dump of recent - ready to be searched upon.</a> |  | 
- | <a href="https://www.facebook.com/directory/people/">Facebook People Directory</a> |  | 
- | <a href='https://sowdust.github.io/fb-search/'>sowdust.github.io/fb-search</a> | search facebook posts, people and groups using URL-filtres | 
- | <a href='https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related'>Dumplt Blue</a> | GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more.  | 
- | <a href='https://fdown.net'>Fdown.net</a> | Facebook video downloader | 
- | <a href='https://console.apify.com/actors/EtZ9lsiipPgKrQIi6'>Facebook Latest Posts Scraper</a> | Scrape #Facebook posts with comments from one or multiple page URLs. Get post and comment texts, timestamps, post URLs, likes, shares, comments count, author ID. | 
- | <a href='https://console.apify.com/actors/w8bYllu7Jq18uWz99'>Facebook Latest Comments Scraper</a> | Enter link to the #Facebook post and get comments comments to it (text, timestamp and other info). | 
-| </br><a href='https://github.com/narkopolo/fb_friend_list_scraper'>Facebook Friend List Scraper</a> | Scrape names and usernames from large friend lists on Facebook, without being rate limited" |
-
-   
-   
-<a name="clubhouse"></a>
-<h3>Clubhouse</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://clubhousedb.com/">ClubHouse users.db</a> | search users by nickname and keyword in profile | 
- | <a href='https://roomsofclubhouse.com/'>roomsofclubhouse.com</a> | search open and scheduled rooms  | 
- | <a href='https://clubsearch.io/'>clubsearch.io</a> | search open and scheduled rooms  | 
- | <a href='https://search4faces.com/ch00/index.html'>search4faces.com/ch00</a> | reverse image face search by 4 millions 594 thousands #clubhouse avatars. | 
-
-
-   
-   
-<a name="linkedin"></a>
-<h3>Linkedin</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://freepeoplesearchtool.com/">Freepeoplesseacrhtool.com</a> | find people in Linkedin without registration | 
-<a href="https://github.com/m8r0wn/crosslinked">CrossLinked</a> | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping | 
- | <a href="https://github.com/linkedin/datahub/blob/master/docs/faq.md">Linkedin Datahub</a> | linkedIn's generalized metadata search & discovery tool | 
- | <a href="https://recruitin.net/">Recruitin.net</a> | easily use Google to search profiles on LinkedIn |
-
- 
- <a name="Xing"></a>
-<h3>Xing</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/l4rm4nd/XingDumper'>XingDumper</a> | The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company. | 
-
-
- 
-<a name="reddit"></a>
-<h3>Reddit</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393'>Map of Reddit</a> | an alternative format for interacting with Reddit | 
- | <a href="https://www.redditinvestigator.com/">Reddit Insvestigator</a> | 
- | <a href='http://redditcommentsearch.com'>redditcommentsearch.com</a> | getting a list of all comments by a Reddit user with a certain name | 
- | <a href='https://dashboard.laterforreddit.com/analysis'>dashboard.laterforreddit.com/analysis</a> | examine popular post trends for a given subreddit | 
- | <a href='https://ebof1223-reddit-timer.netlify.app/'>Reddit Timer</a> | Get last week's hourly activity schedule for a specific subreddit | 
- | <a href='https://redditsave.com'>Redditsave.com</a> | Reddit video downloader | 
- | <a href='https://apify.com/trudax/reddit-scraper'>Reddit Scraper</a> | Crawl posts, comments, communities, and users without login. | 
- | <a href='https://redditsearch.io/'>Redditsearch.io</a> | Reddit search tool | 
- | <a href='https://reddloader.com'>Reddloader.com</a> | Reddit video downloader | 
- | <a href='https://camas.github.io/reddit-search/'>Camas Reddit Search</a> | Search engines for Reddit with a lot of filtres | 
- | <a href='https://redditmetis.com/'>Reditmetis</a> | View statistics fot Reddit users's account | 
- | <a href='https://repostsleuth.com/'>Repostsleuth</a> | Reddit trends analyzer | 
- | <a href='https://www.redective.com/'>Redetective</a> | Reddit search tool | 
-| <a href='https://www.unddit.com/'>Unddit.com</a> | Display deleted content in Reddit| 
-| </br><a href='https://www.reveddit.com/about/#welcome'>Reveddit</a> | Reveal reddit's removed content. Search by username, subreddit (r/), link or domain. |
-| </br><a href='https://github.com/mylk/reddit-user-extractor'>Reddit User Extractor</a> | #python script that allows you to get a complete list of comments by user name on Reddit in CSV format |
-| </br><a href='https://betterredditsearch.web.app/'>Better Reddit Search</a> | Reddit search tool for posts and subreddits (with boolean filters by keywords and filters by publication date). |
-| </br><a href='https://github.com/rly0nheart/reddit-post-scraping-tool'>Reddit Post Scraping Tool</a> | Simple #python script for scraping post from #Reddit (by keywords and subreddit name) |
-
- 
-<a name="onlyfans"></a>
-<h3>Onlyfans</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://fansmetrics.com'>fansmetrics.com</a> | Search in 20 millions #OnlyFans accounts | 
- | <a href="https://onlysearch.co/">Onlysearch.com</a> | Onlyfans users search engines | 
- | <a href='https://onlyfinder.com/'>onlyfinder.com</a> | OnlyFans profiles search engine (search by people, images and deals) | 
- | <a href='https://hubite.com/onlyfans-search/'>hubite.com/onlyfans-search/</a> | OnlyFans profiles search engine with price filter | 
- | </br><a href='https://similarfans.com/'>SimilarFans</a> | A tool to find #onlyfans profiles with many filters (by country, price, category, age, etc.). |
-
-
-   
-   
-<a name="twitch"></a>
-<h3>Twitch</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://twitch-tools.rootonline.de/followerlist_viewer.php'>Twitch Tools</a> | downloas full followers list of any Twitch account in CSV | 
- | <a href="https://twitchtracker.com/">Twitch Tracker</a> | detailed analysis of #Twitch streamer stats | 
- | <a href="https://sullygnome.com/">Sully Gnome</a> | detailed analysis of #Twitch streamer stats | 
- | <a href='https://twitch-tools.rootonline.de/channel_previews.php'>Twitch Stream Filter</a> | Search streams and filter results by title, game, language, number of viewers. | 
- | <a href='https://untwitch.com'>Untwitch.com</a> | Twitch video downloader | 
- | </br><a href='https://stats.roki.sh/'>Twitch Overlap</a> | shows the viewer and audience overlap stats between different channels on Twitch. Currently tracks all channels over 1000 concurrent viewers. Data updates every 30 minutes. |
-| </br><a href='https://logs.ivr.fi/'>Justlog</a> | Enter the username and the name of the channel to see all of the user's messages in that channel. The results can be downloaded as TXT |
-| </br><a href='https://twitter.com/PogULive'>Pogu Live</a> | Tool that allows you to watch sub only or deleted VODs for free. It works because when a streamer deletes a video, iit is not deleted from Twitch's servers immediately. |
-| </br><a href='https://github.com/TwitchRecover/TwitchRecover'>Twitch Recover</a> | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
-| </br><a href='https://www.twitchdatabase.com/following'>Twitch Database</a> | Following List + Channel Metadata + Role Lookup |
-
-
-<a name="fidonet"></a>
-<h3>Fidonet</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://nodehist.fidonet.org.ua/'>Fidonet nodelist</a> | search by node number, sysop name and sysop location | 
-   
-   
-<a name="usenet"></a>
-<h3>Usenet</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://nzbfriends.com'>NZBFRIENDS</a> | usenet search engine | 
-
-
-   
-   
-<a name="tumblr"></a>
-<h3>Tumblr</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://labs.polsys.net/tools/tumblr/'>Tumblr Tool</a> | collected posts tagged with a specific term from Tumblr and export to .tab file (opens in Excel) and .GDF (opens in Gephi) | 
-
-
-   
-   
-<a name="flickr"></a>
-<h3>Flickr</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://labs.polsys.net/tools/flickr/photopool/'>Flickr Photopool Contact Network</a> | Analyzes Flickr groups and makes a list of nicknames of participants for further graph analysis in Gephi | 
-
- 
-   
-<a name="spotify"></a>
-<h3>Spotify</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/Footsiefat/zspotify'>Zspotify</a> | Spotify track downloader. Download mp3 by link or by keywords | 
- | <a href='https://www.chosic.com/spotify-playlist-analyzer/'>Chosic.com</a> | analyze the playlist on Spotiify, calculate the prevailing mood, genres, decades and favorite artists | 
- | <a href='https://github.com/spotDL/spotify-downloader'>Spotify downloader</a> | download spotify playlist in mp3 from YouTube | 
- | <a href='http://chartmasters.org/spotify-streaming-numbers-tool/'>chartmasters.org/spotify-streaming-numbers-tool/</a> | report of the number of streams of a particular artist's tracks on Spotify | 
-   
-   
-<a name="discord"></a>
-<h3>Discord</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/AstraaDev/Discord-All-Tools-In-One'>ASTRAAHOME</a> | 14 #Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc) in one #python tool. | 
- | <a href='https://dht.chylex.com'>Discord History Tracker</a> | A tracking script will load messages from the selected channel and save them in .txt file. | 
- | </br><a href='https://extraction.team/serverse'>Serverse</a> | Search for Discord servers by keyword. |
-   
-   
-<a name="yandex"></a>
-<h3>Yandex</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/HowToFind-bot/YaSeeker'>YaSeeker</a> | Get information about http://Yandex.ru account by login | 
-
-
-   
-   
-<a name="instagram"></a>
-<h3>Instagram</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://instahunt.co/'>Instahunt</a> | Click on the point on the world map Click "Find places" Click "Get Instagram Place Data" Copy and paste the "Place Data" into the box View Insta locations on the map with links to photos! |
- | <a href='https://github.com/bellingcat/instagram-location-search'>Instagram Location Search</a> | Get the names and links to all the locations on Instagram tied to specific geographic coordinates | 
- | <a href='https://inflact.com/tools/instagram-search/'>Inflact Instagram Search</a> | Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.) | 
- | <a href='https://github.com/xadhrit/terra'>Terra</a> | Collect information about twitter and Instagram accounts | 
- | <a href="https://gramho.com/">Instagram analyzer and viewer</a> | 
- | <a href='https://github.com/novitae/sterraxcyl'>Sterraxcyl</a> | Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc) | 
- | <a href='https://www.storysaver.net'>Storysaver.net</a> | download Instagram stories. | 
- | <a href='https://apify.com/jaroslavhejlek/instagram-scraper'>Instagram Scraper</a> | Scrape info about accounts, posts, stories and comment | 
- | <a href='https://console.apify.com/actors/reGe1ST3OBgYZSsZJ'>Instagram Hashtag Scraper</a> | Enter hashtag name and scrape all post tagged it. Get caption, commentsCount, photo dimensions, URL, other hashtags and other details in CSV, JSON or XLS table. | 
- | </br><a href='https://github.com/novitae/Tenai'>Tenai</a> | Simple tool that uncover some followers of a private #Instagram account |
- | </br><a href='https://trendhero.io/'>TrendHero</a> | An Instagram profile search tool with a huge number of filters and the ability to view profile statistics. |
- | </br><a href='https://github.com/instaloader/instaloader'>INSTALOADER</a> | Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram |
- | </br><a href='https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related'>InsFo</a> | The ultimate simple tool for saving followers/following an Instagram account to a table. |
-
-<a name="socialmediagoogle"></a>
-<h3>Google</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://github.com/mxrch/GHunt">GHunt</a> | google account investigation tool | 
-
-
-<a name="patreon"></a>
-<h3>Patreon</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://graphtreon.com/">Graphtreon.com</a> | patreon accounts earnings stats | 
-
-<a name="github"></a>
-<h3>Github</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://star-history.com'>Star History</a> | simple tool that shows how the number of stars a repository on #Github has changed over the past three months. | 
- | <a href='https://commits.top/'>Commits.top</a> | Current list of the most active @Github users by country | 
- | <a href='https://gitstar-ranking.com/'>Gitstar Ranking</a> | Unofficial GitHub star ranking for users, organizations and repositories | 
- | <a href='https://aykutsarac.github.io/github-rater/'>Github Rater</a> | rates GitHub profile upon data received from GitHub API | 
- | <a href='https://github.com/willin/github-trending'>Github Trending Archives</a> | Github trending archive for a specific date. | 
- | <a href='https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci'>GitHub Repository Size</a> | simple google chrome extension to view Github repo size | 
- | <a href='https://github.com/soxoj/gitcolombo'>Gitcolombo</a> | simple and fast tool that collects information (edit statistics and contacts) about repository contributors on Github | 
- | <a href='https://coderstats.net'>Coderstats</a> | enter Github username and get detailed statistics of profile: languages, issues, forks, stars and much more | 
- | <a href='https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related'>GitHub-Chart</a> | it shows a visual representation of the temporal distribution of user changes in the repositories. You can visually see "productivity peaks" and see which days of the week a person is most active | 
- | <a href='https://github.com/s0md3v/Zen'>Zen</a> | Tool for gathering emails of #Github users | 
- | <a href='https://www.githubcompare.com'>GithubCompare</a> | When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars. | 
- | <a href='https://minhaskamal.github.io/DownGit/#/home'>DownGit</a> | Create GitHub Resource Download Link | 
- | </br><a href='https://profile-summary-for-github.com/search'>Profile Summary for Github</a> | Get detailed stats by Github username |
-| </br><a href='https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related'>Github Hovercard</a> | Displays a block of detailed information about the repository or user when the mouse pointer is placed over it. Save time for those who look through dozens of pages of #Github search results in search of the right tool for their tasks. |
-| </br><a href='https://seart-ghs.si.usi.ch/'>SEART Github Search</a> | Search engine for #Github with a dozen different filters. It has slightly fewer features than the standard Github advanced search, but more user-friendly. |
-| </br><a href='https://repostimeline.nazifbara.com/'>Repos Timeline</a> | Enter #Github username and click Generate to see a timeline with all of the user's repositories and forks they have made. |
-| </br><a href='https://gitvio.vercel.app/'>Gitvio</a> | A tool to quickly and easily view detailed information about a user's Github profile: the most popular repositories, number of commits, issues and , statistics of languages used, and more. |
-
-
-
-<a name="wikipedia"></a>
-<h3>Wikipedia</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://github.com/altilunium/wistalk">WikiStalk : Analyze Wikipedia User's Activity</a> | 
- | <a href='https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/'>Wikipedia Cross-lingual Image Analysis</a> | A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance. | 
-
-<a name="parler"></a>
-<h3>Parler</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://parler.adatascienti.st/">Parler archive</a> |  | 
-
-<a name="pornhub"></a>
-<h3>Pornhub</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://sn0int.com/r/kpcyrd/pornhub">Sn0int framework module for Pornhub</a> |  | 
-
-<a name="steam"></a>
-<h3>Steam</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://steamdb.info/calculator/'>steamdb.info/calculator</a> | shows how much money has been spent on games in Steam by a particular user | 
-| </br><a href='https://github.com/matiash26/Steam-OSINT-TOOL'>Steam Osint Tool</a> | Enter the link to the user's Steam profile to get a list of his or her closed "friends" and a list of his or her public comments. |
-
-<a name="xbox"></a>
-<h3>Xbox</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://xboxgamertag.com/'>Xboxgamertag</a> | search Xbox Live users by nickname (gamertag). It's possible to view gamer's stats and his playing history. | 
-
-
-<a name="vk"></a>
-<h3>VK</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="http://vk.city4me.com/">Vk.city4me.com</a> | tracking user online time | 
-
-<a name="office365"></a>
-<h3>Office365</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/dievus/Oh365UserFinder'>Oh365UserFinder</a> | A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once.
- | <a href='https://github.com/nixintel/o365chk'>o365chk</a> | simple #Python script to check if there is an #Office365 instance linked to a particular domain and gathering information about this instance. | 
-
-<a name="onedrive"></a>
-<h3>OneDrive</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/nyxgeek/onedrive_user_enum'>Onedrive Enumeration Tool</a> | A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company. | 
-
-
-<a name="udemy"></a>
-<h3>Udemy</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related'>Udemy Video Playback Speed</a> | A simple extension that changes the speed of playing video courses on #Udemy. | 
-
-<a name="socialmediaother"></a>
-<h3>Universal</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai | 
- | <a href="https://kribrum.io/search">Kribrum.io</a> | searchengine for different social media platforms with filters by author and time period | 
- | <a href='https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related'>Auto Scroll Search</a> | automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it. | 
- | <a href="https://socialblade.com/">Social Blade</a> | help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more | 
- | <a href='https://exportcomments.com'>ExportComments</a> | Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free | 
- | <a href='http://lickd.co/blog/social-salary-calculator'>Social Media Salary Calculator</a> | for YouTube, TikTok, Instagram
- | <a href='https://github.com/xenova/chat-downloader'>Chat-downloader</a> | download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. | 
- | <a href='https://findmyfbid.in/'>FindMyBID</a> | Toolkit for collecting data from social networks | 
- | <a href='https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp'>Social Analyzer</a> | extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them. | 
- | <a href='https://khalil-shreateh.com/khalil.shtml/social_applications/'>Khalil Shreateh Social Applications</a> | More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.) | 
-| </br><a href='https://kworb.net/'>Kworb</a> | A lot of different statistics on views and listens collected from #YouTube, #iTunes, #Spotify. Ratings by country, year, music type, and more. |
-| </br><a href='https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd'>Amazing Hiring</a> | An extension for Chrome that allows you to find a link to Linkedin, Facebook, VK, StackOverflow, Instagram... by user Github (or other) profile |
-| </br><a href='https://github.com/jakecreps/ruby'>RUBY</a> | Simple tool for searching videos by keyword in Rumble, BitChute, YouTube and saving results (author, title, link) to CSV file. |
-
-<a name="downloaders"></a>
-<h1>Downloaders</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://pypi.org/project/wenku/'>Wenku</a> | download documents from Baidu Wenku without registration | 
- | <a href='https://github.com/mohan3d/slideshare-go'>Slideshare Downloader</a> | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) | 
- | <a href='https://github.com/wkentaro/gdown'>Gdown</a> | When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved | 
- | <a href='https://github.com/jsvine/waybackpack'>Waybackpack</a> | download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss)  | 
- | <a href='https://github.com/xenova/chat-downloader'>Chat-downloader</a> | download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. | 
- | <a href='https://github.com/mikf/gallery-dl'>Gallery-dl</a> | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai | 
- | <a href='https://github.com/spotDL/spotify-downloader'>Spotify downloader</a> | download spotify playlist in mp3 from YouTube | 
- | <a href='https://github.com/Footsiefat/zspotify'>Zspotify</a> | Spotify track downloader. Download mp3 by link or by keywords | 
- | <a href="https://snaptik.app/">Snaptik.app</a> | TikTok Video Downloader | 
-<a href='https://github.com/drawrowfly/tiktok-scraper'>TikTok Scraper</a> | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file  | 
- | <a href='https://github.com/egbertbouman/youtube-comment-downloader'>YouTube Comment Downloader</a> | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys.  | 
- | <a href='https://www.storysaver.net'>Storysaver.net</a> | download Instagram stories | 
- | <a href='https://fdown.net'>Fdown.net</a> | Facebook video downloader | 
- | <a href='https://untwitch.com'>Untwitch.com</a> | Twitch video downloader | 
- | <a href='https://redditsave.com'>Redditsave.com</a> | Reddit video downloader | 
- | <a href='https://minhaskamal.github.io/DownGit/#/home'>DownGit</a> | Create GitHub Resource Download Link | 
- | <a href='https://en.savefrom.net/70/'>SaveFrom.net</a> | download video from YouTube, Vimeo, VK, Odnoklassniki and dozen of others services | 
- | <a href='https://github.com/wkentaro/gdown'>Gdown</a> | When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved. | 
- | <a href='https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related'>Download Sorter</a> |  simple tool that will help set up the distribution of files with different extensions into different folders in a minute and permanently put  "Downloads" folder in order. | 
- | <a href='https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related'>Z History Dump</a> | Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information. | 
- | <a href='https://github.com/mohan3d/slideshare-go'>Slideshare Downloader</a> | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) | 
- | </br><a href='https://megous.com/git/megatools'>Megatools</a> | The http://Mega.nz file exchange contains links to many files, including various databases of leaked data. You can use the megatools command-line tool to automate your work with this file-sharing service. |
-| </br><a href='https://github.com/soimort/you-get'>You Get</a> | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
-| </br><a href='https://github.com/Miserlou/SoundScrape'>SoundScrape</a> | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
-| </br><a href='https://github.com/lunnlew/stream-downloader'>Stream Downloader</a> | Download streams from different sites |
-   
-<a name="domainiplinks"></a>
-<h1>Domain/IP/Links</h1>
-
-<a name="dorks"></a>
-<h3>Dorks/Pentest/Vulnerabilities</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://abhijithb200.github.io/investigator/'>Investigator Recon Tool</a> | web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name. | 
- | <a href="https://github.com/Zarcolio/sitedorks">Site Dorks</a> | 
- | <a href='https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/'>Google (universal) Dork Builder</a> | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database | 
- | </br><a href='https://github.com/hakluke/hakrawler'>Hakrawler</a> | Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application. |
- | <a href='https://github.com/rlyonheart/0xdork'>0xdork</a> | Very light and simple #Python tool for Google Dorking  | 
- | </br><a href='https://cartographia.github.io/FilePhish/'>FilePhish</a> | Simple online Google query builder for fast and easy document file discovery. |
- | <a href='https://snyk.io/test/website-scanner/'>Snyk.io</a> | Website Vulnerabilities Scanner | 
- | <a href='https://dorks.faisalahmed.me'>dorks.faisalahmed.me</a> | online constructor of google dorks for searching "sensitive" wesite pages | 
- | <a href='https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan'>Fast Google Dorks Scan</a> | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. | 
- | <a href='https://github.com/Balgogan/dorkscanner'>Dork Scanner</a> | NOT support Google. Only Bing, ASK and http://WoW.com (AOL) search engines. Can work with very long lists of queries/documents (in .txt files) | 
- | <a href='http://ixss.warsong.pw/xssor/'>ixss.warsong.pw</a> | very old service for making XSS (Cross Site Scripting) faster and easier | 
- | <a href="https://github.com/six2dez/reconftw">ReconFTW</a> | tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities | 
- | <a href='https://github.com/kostas-pa/LFITester'>LFITester</a> | Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack | 
- | <a href='https://github.com/r0075h3ll/Oralyzer'>Oralyzer</a> | Script that check website for following types of Open Redirect Vulnerabilities | 
- | <a href='https://github.com/p0dalirius/robotstester'>RobotTester</a> | Simple Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not. | 
- | <a href='https://github.com/JakeWnuk/SickNerd'>SickNerd</a> | tool for researching domain lists using Google Dorking. You can automatically load fresh dorks from GHDB and customize the maximum number of results | 
- | </br><a href='https://github.com/j3ssie/cdnstrip'>CDNStrip</a> | Very fast #go tool, that sorts the list of IP addresses into two lists: CDN and no CDN. |
-| </br><a href='https://github.com/the-h3x/H3X-CCTV'>H3X-CCTV</a> | A simple command line tool with a Google Dorks list to find vulnerable CCTV cameras |
-| </br><a href='https://github.com/nerrorsec/nDorker'>nDorker</a> | Enter the domain name and get quick links to Google Dorks, Github dorks, Shodan dorks and quick links to get info about domain in Codepad, Codepen, Codeshare and other sites ("vendor dorking") |
-| </br><a href='https://github.com/hktalent/scan4all'>Scan4all</a> | 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzzing and many many more |
-| </br><a href='https://analyze.intezer.com/'>Intezer Analyzer</a> | Online tool for finding code injections, malware, unrecognized code and suspicious artifacts in: Files (up to 150 mb), URL, Memory dumps, Endpoints |
-| </br><a href='https://github.com/C3n7ral051nt4g3ncy/webosint'>WEBOSINT</a> | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. |
-| </br><a href='https://github.com/harleo/knockknock'>KnockKnock</a> | A very fast script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain (which could theoretically belong to the same person or company) |
-| </br><a href='https://github.com/Zold1/sqli-dorks-generator'>SQLI Dorks Generator</a> | python script generates Google Dorks for SQL Injections for sites from the list. |
-| </br><a href='https://github.com/six2dez/dorks_hunter'>Dorks Hunter</a> | A simple script to analyze domain using Google Dorks. It saves in file the results of checking the following categories Backup files, Database files, Exposed documents, Sub-subdomains, Login pages, SQL/PHP errors |
-
-<a name="scrapers"></a>
-<h3>Searchers, scrapers, extractors, parsers</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://chrome.google.com/webstore/detail/scrappy/bcphfcbaecjifhiojhejdiogpanlmadm/related'>Scrappy!</a> | One of the easiest to learn web scrapers I've seen (and quite fast at that). It allows you to extract all URLs, table fields, lists and any elements matching the given criteria from a web page in a second. |
- | <a href="https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related">find+ | Regex Find-in-Page Tool</a> | extension for Chrome that helps you quickly find pieces of text on a web page that match a certain regular expression | 
- | <a href="https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn">Google Chrome webpage Regexp search</a> |  | 
- | <a href='https://chrome.google.com/webstore/detail/regex-checker/gkcnkoebkkppbapcjifgokmpcflfhbde'>Regex Checker</a> | Search and highlight (in webpage): Emails, Phone numbers, Dates, Prices, Addresses | 
- | <a href='https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related'>moarTLS Analyzer</a> | addon which check all links on the webpage and show list of non-secure links | 
- | <a href='https://www.scraperapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=s_proxies_for_scraping_europe&utm_term=scrape%20api&gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdnurtUihUJqiJpUAtwoPqsJ1X8lSio9etK9Mgcg-fb7qp23xUF2ZscaAqcvEALw_wcB'>Scrape API</a> | Proxy API for Web Scraping | 
- | <a href='http://try.jsoup.org'>Try.jsoup.org</a> | online version of HTML pasrer http://github.com/jhy/jsoup  | 
- | </br><a href='https://github.com/tdh8316/Investigo'>Investigo</a> | A very simple and fast (written in #go) tool that searches for active links to social network accounts by username (or multiple usernames) |
-| </br><a href='https://extract.pics/'>Extract images</a> | Extract pictures from any webpage. Analyze, sort, download and search in them by keywords. |
-
-<a name="redirect"></a>
-<h3>Redirect lookup</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://redirectdetective.com/">Redirect Detective</a> | tool that allows you to do a full trace of a URL Redirect | 
- | <a href="https://wheregoes.com/">Wheregoes.com</a> | tool that allows you to do a full trace of a URL Redirect | 
- | <a href="https://www.spyoffers.com/">Spyoffers.com</a> | tool that allows you to do a full trace of a URL Redirect | 
-
-<a name="cookies"></a>
-<h3>Cookies analyze</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.cookiemetrix.com/">Determines if website is not comply with EU Cookie Law and gives you insight about cookies installed from website before the visitors consent</a> |  | 
- | <a href="https://2gdpr.com/">Audits website cookies, online tracking and HTTPS usage for GDPR compliance</a> |  | 
- | <a href="https://www.webemailextractor.com/">Webemailextractor.com</a> | extract email's and phone numbers from the website or list of website | 
- | <a href="https://www.cookieserve.com/">cookieserve.com</a> | detailed website cookie analyze | 
- | <a href='https://webkay.robinlinus.com'>What every Browser knows about you</a> | This site not only shows what information your browser provides to third-party sites, but also explains how it can be dangerous and suggests what extensions will help to ensure your anonymity. | 
- | </br><a href='https://developers.whatismybrowser.com/useragents/parse/'>User Agent Parser</a> | User Agent String can be found, for example, in the logs of your site (or someone else's), in the source code of some CLI tools for #osint and many other places. |
-
-<a name="websitemetadata"></a>
-<h3>Website's files metadata analyze and files downloads</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://github.com/laramies/metagoofil">Metagoofil</a> | finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses | 
- | <a href='https://github.com/ferreiraklet/Aline'>Aline</a> | a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. | 
- | <a href='https://github.com/loseys/Goblyn'>Goblyn</a> | tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file | 
- | <a href='https://github.com/dievus/msdorkdump'>DORK DUMP</a> | Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them. | 
- | <a href="https://products.groupdocs.app/metadata/total">VERY QUICK and SIMPLE metadata online editor and remover</a> |  | 
- | </br><a href='https://github.com/SirCryptic/autoexif'>AutoExif</a> | A simple script to read and delete metadata from images and ACVH videos. |
- | </br><a href='https://github.com/securing/DumpsterDiver'>DumpsterDiver</a> | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc) |
-| </br><a href='https://github.com/vstinner/hachoir'>HACHOIR</a> | One of the most powerful tools for work with files metadata with the most detailed settings. |
-
-
-<a name="backlinks"></a>
-<h3>Backlinks analyze</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html">SEO Spyglass Backlink checker</a> |  | 
- | <a href='https://app.neilpatel.com/en/seo_analyzer/backlinks'>Neilpatel backlinks analyzer</a> | find out how many sites are linking to a certain web page | 
-   
-<a name="websiteanalyze"></a>
-<h3>Website analyze</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://app.buzzsumo.com/content/web'>AppSumo Content Analyzer</a> | Enter the name of the domain and find out for free its three most popular publications in social networks (for six months, a quarter, a month, or the last day) |
-| </br><a href='http://openlinkprofiler.org/'>OpenLinkProfiles</a> | Get backlinks by website URL. Filter and sort backlinks by anchor, context, trust, LIS and industry. |
- | <a href='https://lookyloo.circl.lu/'>Lookyloo</a> | Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc) | 
- | <a href='https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related'>Core SERP Vitals</a> | adds a bit of information from CrUX API to the standard Google search results | 
- | <a href='https://bgpview.io/'>BGPView</a> | web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more | 
- | <a href="https://tosdr.org/">Terms of Service Didn't Read</a> | find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps | 
- | <a href='https://analyzeid.com'>analyzeid.com</a> | find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches | 
- | <a href='https://mmhdan.herokuapp.com'>MMHDAN</a> | Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines | 
- | </br><a href='https://github.com/imtiazsec/favhash'>Favhash</a> | Simple script to calculate favicon hash for searching in Shodan. |
- | <a href='https://github.com/pyhackertarget/hackertarget'>Hackertarget</a> | 14 tools for gathering information about domain using Hackerarget API (http://hackertarget.com) | 
- | <a href="https://github.com/Josue87/AnalyticsRelationships">AnalyticsRelationships</a> | command line #tool for to search for links between domains by Google Analytics ID | 
- | <a href="https://github.com/enemy-submarine/pidrila">Pidrila</a> | Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer | 
- | <a href='https://osint.sh/adsense/'>Adsense Identiicator Finder</a> | this service finds other sites belonging to the same owner or company by Google Adsense ID | 
- | <a href='https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related'>Smart ruler</a> | Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites | 
-| </br><a href='https://github.com/ksharinarayanan/SourceWolf'>SourceWolf</a> | A tool for analyzing #javascript files. It finds all the variables, endpoints and social media links mentioned in the code in just a few seconds. |
-| </br><a href='http://stylifyme.com/'>Stylifyme</a> | Tool for analyzing the style characteristics of a particular website. In the context of #osint, it will help when analyzing links between two sites (common rare design features may indicate common owner) |
-| </br><a href='https://cspvalidator.org/#url=https://cspvalidator.org/'>Content Security Policy (CSP) Validator</a> | Online service for checking the headers and meta tags of websites for compliance with security standards. It can help determine if a site is vulnerable to common vulnerabilities (XSS, clickjacking, etc). |
-| </br><a href='https://nibbler.insites.com/'>Nibbler</a> | Free tool for comprehensive website analysis on more than ten different parameters. |   
-| </br><a href='https://github.com/mathis2001/WebHackUrls'>WebHackUrls</a> | The simplest tool for URl recon with filter by keyword and saving results to file. |   
-
-
-
-<a name="domainipinvestigation"></a>
-<h3>Domain/IP investigation</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://t.me/UniversalSearchBot'>@UniversalSearchBot</a> | telegram bot finding information about email, russian phone number, domain or IP | 
- | <a href='http://cipher387.github.io/domain_investigation_toolbox/'>Domain Investigation Toolbox</a> | gather information about domain with 41 online tools from one page. | 
- | <a href='https://gofindwhois.com/'>GoFindWhois</a> | More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze. | 
- | <a href='https://www.spyfu.com/overview/domain'>Spyfu</a> | tool to collect seo information about the domain, which provide a lot of data partly for free | 
- | <a href="https://spyse.com/">Spyse.com</a> | domain investigation toolbox | 
- | <a href="https://github.com/spyse-com/cli">Spyse CLI</a> | command line client for Spyse.com | 
- | <a href='https://domaintracker.app/'>Domaintracker</a> | webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email) | 
- | <a href='https://whois.marcaria.com/en'>Whois Domain Search Tool</a> | A tool that allows you to query whois data for a site name in several domain zones at once. | 
- | <a href='https://www.ip-neighbors.com/host/'>IP Neighbors</a> | Find the hosting neighbors for a specific web site or hostname | 
- | <a href='http://besticon.herokuapp.com/'>The Favicon Finder</a> | Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly. | 
- | <a href="https://github.com/SpiderLabs/HostHunter">HostHunter</a> | Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames | 
- | <a href="https://torwhois.com/">Tor Whois</a> |  | 
- | <a href='https://dnstwister.report/'>Dnstwister</a> | The anti-phishing domain name search engine and DNS monitoring service | 
- | <a href='https://domaincodex.com'>Source code search engine (315 million domains indexed). Search by title, metadata, javascript files, server name, location and more.</a> | Source code search engine (315 million domains indexed). Search by title, metadata, javascript files, server name, location and more. | 
- | <a href='https://github.com/elceef/dnstwist'>Dnstwist</a> | Command line anti-phishing domain name search engine and DNS monitoring service | 
- | <a href="https://github.com/evilsocket/ditto">Ditto</a> | Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered | 
- | <a href='http://radb.net/query'>RADB</a> | Provides information collected from all the registries that form part of the Internet Routing Registry | 
- | <a href="https://ipinfo.io/map">IPinfo map</a> | paste up to 500,000 IPs below to see where they're located on a map | 
- | <a href="https://whois.whoisxmlapi.com/database/pricing">Whois XML API Whois history database</a> | 
- | <a href="https://github.com/hakluke/hakrawler">Hakrawler</a> | discover endpoints and assets | 
- | <a href="https://passivedns.mnemonic.no/">Passive DNS search</a> | 
- | <a href="https://talosintelligence.com/reputation_center/">Talos Intelligence Mail Server Reputation</a> | 
- | <a href='https://netbootcamp.org/websitetool.html'>netbootcamp.org/websitetool.html</a> | access to 74 #tools to collect domain information from a single page | 
- | <a href="https://github.com/harshnandwana/hussh">Hussh</a> | shell script for domain analyzing | 
- | <a href="https://www.vpnmentor.com/tools/test-the-great-china-firewall/">Check any website to see in real time if it is blocked in China</a> |  |  | 
- | <a href='https://t.me/iptools_robot'>@iptools_robot</a> | univsersal domain investigation Telegram bot | 
- | <a href='https://github.com/hamza07-w/raymond'>Raymond</a> | Framework for gathering information about website | 
- | <a href='https://pulsedive.com/'>Pulsedive</a> | A partially free website research tool. Collects detailed information about IP, whois, ssl, dns, ports, threats reports, geolocation, cookies, metadata (fb app id etc). Make screenshots and many others | 
- | <a href='https://github.com/s0md3v/Striker'>Striker</a> | Quick and simple tool for gathering information about domain (http headers, technologies, vulnerabilities etc). | 
- | <a href='https://github.com/Anon-Exploiter/SiteBroker'>SiteBroker</a> | Domain investigation #python tool | 
- | <a href='https://dnslytics.com/'>DNSlytics</a> | find out everything about a domain name, IP address or provider. Discover relations between them and see historical data | 
- | <a href='https://github.com/h3x0crypt/HostSpider'>FindMyAss (HostSpider)</a> |  Domain investigations toolkit
- | <a href='https://github.com/indiancyberops/Drishti'>Drishti</a> | Nodejs toolkit for OSINT | 
- | <a href='https://passivedns.mnemonic.no'>passivedns.mnemonic.no</a> | DNS history search by IP-adress or by domain name | 
- | <a href='https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml'>Gotanda</a> | Google Chrome extension. 56 tools for domain, ip and url investigation in one | 
- | <a href='https://cipher387.github.io/domain_investigation_toolbox/ip.html'>Ip Investigation Toolbox</a> | type ip-adress once and gather information about it with 13 tools | 
- | <a href='https://github.com/N0tA1dan/Crab'>Crab</a> | Well done and well designed port scanner, host info gatherer (include whois). | 
- | <a href='https://github.com/dievus/msdnsscan'>MayorSecDNSScan</a> | Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration. | 
- | </br><a href='https://github.com/mathis2001/Cert4Recon'>Cert4Recon</a> | Very quick and simple subdomain enumeration using http://crt.sh. |
- | <a href='https://github.com/ninoseki/miteru'>Miteru</a> | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not | 
-
-
-
-<a name="subdomains"></a>
-<h3>Subdomains scan/brute</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/lijiejie/subDomainsBrute'>SubDomainsBrute</a> | Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds. | 
- | <a href='https://github.com/jonluca/Anubis'>Anubis</a> | Subdomain enumeration and information gathering tool | 
- | <a href='https://github.com/alex14324/Turbolist3r'>Turbolist3r</a> | An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b) | 
- | </br><a href='https://github.com/v4d1/Dome'>DomE</a> | Fast and reliable #python script that makes active and/or passive scan to obtain subdomains and search for open ports. Used 21 different #OSINT sources (AlienVault, ThreatCrowd, Urlscan io etc) |
- | </br><a href='https://github.com/0xsha/CloudBrute'>CloudBrute</a> | Tool to find target infrastructure, files, and apps on the popular cloud providers |
-| </br><a href='https://github.com/punk-security/dnsReaper'>dnsReaper</a> |TwiSub-domain takeover tool |
-
-
-<a name="cloudfare"></a>
-<h3>Cloudfare</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/MrH0wl/Cloudmare'>Cloudmare</a> | Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS | 
- | <a href='https://github.com/greycatz/CloudUnflare'>CloudUnflare</a> | Reconnaissance Real IP address for Cloudflare Bypass | 
-
-   
-   
-<a name="databasesofdomains"></a>
-<h3>Databases of domains</h3>
-
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://whoisfreaks.com/">Whois Freaks</a> | API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name | 
- | <a href='https://www.expireddomains.net/deleted-domains/'>Expireddomains.net</a> | lists of deleted and expired domains (last 7 days) | 
- | <a href='https://instantdomainsearch.com/domain/sale'>InstantDomainSearch</a> | search for domains for sale | 
- | <a href='http://whoisds.com/newly-registered-domains'>WhoisDS.com</a> | database of domains registered in the last day | 
- | <a href='https://api.domaindumper.com'>API Domaindumper</a> | An interesting tool for researchers of IT history and data journalists. Just an FREE API that shows how many sites were registered in each domain zone on a given day (since January 1, 1990) | 
- | <a href='http://ptrarchive.com/'>ptrarchive.com</a> | search by 230 billion DNS records retrieved from 2008 to the present. | 
- | <a href='https://www.peeringdb.com/'>PeeringDB</a> | Freely available, user-maintained, database of networks, and the go-to location for interconnection data. | 
- | <a href='https://iqwhois.com/advanced-search'>IQWhois</a> | Search whois data by address, city, name, surname, phonenumber | 
-
-
-   
-   
-<a name="websitetetrafficlookup"></a>
-<h3>Website traffic look up</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.similarweb.com/'>SimilarWeb</a> | Detailed website traffic analyze | 
- | <a href='https://www.alexa.com/'>Alexa</a> | Keyword Research, Competitive Analysis, Website Ranking | 
- | <a href='https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related'>HypeStat Analyzer Plugin</a> | Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies. | 
- | <a href='https://vstat.info'>vstat.info</a> | Getting detailed info about website traffic (sources, keywords, linked sites etc) | 
-   
-   
-<a name="websitetechnologylookup"></a>
-<h3>Website technology look up</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related'>WhatRuns</a> | extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts. | 
- | <a href="https://builtwith.com/">Built With</a> |  | 
- | <a href="https://w3techs.com/sites">w3techs</a> |  | 
- | <a href="https://hexometer.com/stack-checker">Hexometer stack checker</a> |  | 
- | <a href="https://webtechsurvey.com/website/">Web Tech Survey</a> |  | 
- | <a href="https://awesometechstack.com/">Awesome Tech Stack</a> |  | 
- | <a href="https://sitereport.netcraft.com/">Netcraft Site Report</a> |  | 
- | <a href="https://www.wappalyzer.com/">Wappalyzer</a> |  | 
- | <a href="https://www.larger.io/">Larger.io</a> |  | 
- | <a href="https://tools.cmlabs.co/en/technology-lookup">CMLabs Tools</a> |  | 
- | <a href='https://app.snov.io/techcheck/main'>Snov.io technology checker</a> | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it.  | 
-
-  
-   
-<a name="sourcecodeanalyzes"></a>
-<h3>Source Code Analyzes</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related'>Retire.js</a> | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries  | 
- | <a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related'>OpenLink Structured Data Sniffer</a> | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents.  | 
- | <a href='https://github.com/gildas-lormeau/SingleFile'>SIngle File</a> | GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file | 
- | <a href="https://github.com/Cillian-Collins/dirscraper">Dirscraper</a> | OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website | 
- | <a href='https://chrome.google.com/webstore/detail/analyzer/bmbhpmmhjkbmcachipmccnlcemaoiiji/related'>Ericom Page Risk Analysis</a> | Get a detailed report with links to CSS, Javascript, Fonts, XHR, Images and domains web pages | 
- | <a href='https://github.com/m4ll0k/SecretFinder'>SecretFinder</a> | Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files | 
- | <a href='https://chrome.google.com/webstore/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg/related'>Copy all links and image links to CSV or JSON</a> | Download all links from current webpage in CSV (for open in #Excel) or JSON | 
- | <a href='http://archiveready.com'>ArchiveReady</a> | OSINT specialists most often use various web archives to analyze other people's sites. But if you want your descendants to be able to find your own site, check whether the code of its pages is understandable for crawlers of web archives.  | 
- | <a href='https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru'>Talend API Tester Free Edition</a> | tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior | 
- | </br><a href='https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf/related'>uMatrix</a> | Shows all the domains to which the site connects at runtime and allows you to block different sources at will. Useful for ad blocking, tracking, data collection, and various experiments. |
-| </br><a href='https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj'>Open Link Structured Data Sniffer</a> | View webpage details info in Google Chrome: RDFa linked data (http://rdfa.info) POSH (Plain Old Semantic HTML) Microdata RSS
- 
-
-<a name="brokenlinks"></a>
-<h3>Broken Links Checkers</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/MayankPandey01/BrokenLinkHijacker'>Broken Link Hijacker</a> | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). | 
- | <a href='https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related'>Broken Link Checker</a> | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. | 
- | <a href="https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php">Open Multiple Links ☷ One Click</a> |  | 
-| </br><a href='https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related'>Check my links</a> | Old and large lists of tutorials or tools often have many inactive links. This extension will help mark inactive links in red and save you time checking them out. |
-
-   
-   
-<a name="urlinshorteners"></a>
-<h3>URL unshorteners</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.getlinkinfo.com/">Get Link Info</a> |  | 
- | <a href="https://unshorten.me/">Unshorten.me</a> |  | 
- | <a href="http://urlxray.com/">Urlxray</a> |  | 
- | <a href="https://unshorten.it/">Unshorten.it</a> |  | 
-
-
-
-<a name="textanalyze"></a>
-<h3>Text Analyze</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://headlines.sharethrough.com/'>Headlines.Sharethrough.com</a> | analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100 | 
- | <a href='https://wordtune.com/read'> Wordtune.com</a> | Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text. | 
-
-
-
-
-<a name="soundsearchandanalyze"></a>
-<h1>Sound indefication and analyze</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://youlean.co/online-loudness-meter/'>Online Loudness Meter</a> | allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file. | 
- | <a href='https://www.cignaglobal.com/stress-care/individuals/voice-tool'>Voice Stress Test</a> | tool analyzes the voice and determines a person's stress level. | 
- | <a href='https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related'>AHA Music</a> | A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay) | 
- | <a href="https://academo.org/demos/spectrum-analyzer/">MP3 Spectrum Analyzer</a> |
- 
- <a name="soundsearchengines"></a>
- <h1>Sound search and analyze</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.soundeffectssearch.com/find-a-sound-library/'>soundeffectssearch.com</a> | find a sound library | 
-| </br><a href='https://vocalremover.org/'>Vocal Remover</a> | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
-
-<a name="videoanalyze"></a>
-<h1>Video editing and analyze</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
-| <a href='https://www.unscreen.com/'>unscreen.com</a> | remove the background from an uploaded video | 
-| </br><a href='https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related'>TextGrab</a> | Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) |
-| </br><a href='https://github.com/mifi/lossless-cut'>Lossless Cut</a> | #javascript #opensource swiss army knife for audio/video editing. |
-
-
-   
-<a name="imagesearchandindefication"></a>
-<h1>Image Search and Identification</h1>
-
-
-
-   
-<a name="reverseimagesearchengines"></a>
-<h3>Reverse Image Search Engines and automation tools</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://news.myseldon.com/en/">News Myseldon</a> | from the photo looks for famous and little-known (like minor officials) people | 
- | <a href='http://ascii2d.net'>Ascii2d.net</a> | Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download | 
-  | <a href="https://searchbyimage.app/">Searchbyimage.app</a> | search clothes in online shops | 
- | <a href="https://www.aliseeks.com/search">Aliseeks.com</a> | search items by photo in AliExpress and Ebay | 
- | <a href="https://lykdat.com/">lykdat.com</a> | clothing reverse image search services | 
- | <a href="https://iqdb.org/">IQDB.org</a> | reverse image search specially for anime art | 
- | <a href="https://pic.sogou.com/">pic.sogou.com</a> | chinese reverse image search engine | 
- | <a href="https://same.energy/">Same Energy</a> | reverse image search engine for finding beautiful art and photos in the same style as the original picture | 
- | <a href='https://revesesearch.com'>Revesearch.com</a> | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. | 
- | <a href='https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related'>Image Search Assistant</a> | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once | 
- | <a href='https://pixsy.com'>Pixsy</a> | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted | 
- | <a href='https://www.everypixel.com/'>EveryPixel</a> | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. | 
- | <a href='https://openi.nlm.nih.gov/gridquery'>openi.nlm.nih.gov</a> | Reverse image search engine for scientific and medical images | 
- | <a href='https://ru.depositphotos.com/search/by-images.html'>DepositPhotos Reverse Image Search</a> | tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). | 
- | <a href='http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree'>Portrait Matcher</a> | Upload a picture of a face and get three paintings that show similar people. | 
- | <a href="https://image.so.com/">Image So Search</a> | Qihoo 360 Reverse Images Search | 
-| </br><a href='https://github.com/tanaikech/goris'>GORIS</a> | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
-| </br><a href='https://www.webmd.com/pill-identification/default.htm'>Pill Identifier</a> | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
-| </br><a href='http://www.logobook.com/'>Logobook</a> | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
-| </br><a href='http://immerse.zone'>Immerse Zone</a> | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
-
-
-
-<a name="imageediting"></a>
-<h3>Image editing tools</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://theinpaint.com/'>Theinpaint</a> | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
-| </br><a href='https://replicate.com/tencentarc/gfpgan'>GFPGAN</a> | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
-| </br><a href='https://app.remini.ai/'>Remini AI Photo Enhancer</a> | Tool allows to restore blurry faces to photos. |
-| </br><a href='https://letsenhance.io/'>Letsenhance</a> | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
-
-
-<a name="otherimagesearchengines"></a>
-<h3>Other Image Search Engines</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://snradar.azurewebsites.net/">SN Radar VK Photo Search</a> |  | 
- | <a href='http://zeus.robots.ox.ac.uk/bbc_search/'>BBC News Visual Search</a> | Enter the name of the item and the service will show in which news stories and at what time interval it appeared | 
-
-
-<a name="imageforensic"></a>
-<h3>Image Analyze</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://github.com/GuidoBartoli/sherloq'>Sherloq</a> | open source image #forensic toolset made by profesional photograph Guido Bartoli | 
- | <a href='https://imagecolorpicker.com/'>Image Color Picker</a> | pick color (HEX or RGB) from image or website screenshot | 
- | <a href="https://www.blocklayer.com/scale-fixereng.aspx">Find and Set Scale From Image</a> |  | 
- | <a href="http://www.imageforensic.org/">Image Forensic (Ghiro Online)</a> |  | 
- | <a href='https://compress-or-die.com/analyze'>compress-or-die.com/analyze</a> | get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) | 
- | <a href='https://aperisolve.fr'>aperisolve.fr</a> | Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool. | 
- | <a href='https://www.imaios.com/en/Imaios-Dicom-Viewer'>Dicom Viewer</a> | view MRI or CT photo online (.DCM files) | 
- | <a href='https://www.caloriemama.ai/api'>Caloriemama</a> | AI can identify the type of food from the photo and give information about its caloric value. | 
- | </br><a href='https://chrome.google.com/webstore/detail/betterviewer/llcpfkbjgkpmapiidpnohffjmmnhpmpb'>BetterViewer</a> | #Google Chrome extension for work with images. Right click on the picture and open it in new tab. You will get access to the following tools: Zoom, Flip, Rotate, Color picker, Extract text, Reverse image search, QR code scanner and much more |
-| </br><a href='https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl'>PhotoOSINT</a> | A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted. |
-
-<a name="exifanalyze"></a>
-<h3>Exif Analyze and editing</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/ianare/exif-py'>EXIF-PY</a> | get exif data of photos thrue command line | 
- | <a href='http://exif.app'>Exif.app</a> | Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow | 
- | <a href='https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek'>Image Analyzer Addon</a> | View all images on a page and expose image properties, EXIF data, and one-click download | 
- | <a href='https://products.groupdocs.app/metadata/'>Online metadata viewer and editor</a> | High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp. | 
- | <a href='https://4qrcode.com/scan-qr-code.php'>Scan QR Code</a> | While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture | 
- | <a href="https://identify.plantnet.org/">Identify plans</a> |  | 
- | <a href="https://www.forensicdots.de/">Forensicdots.de</a> | find "yellow dots" (Machine Identification Code) in printed documents | 
- | <a href="https://www.diffchecker.com/image-diff/">Image Diff Checker</a> |  | 
- | <a href='https://vsudo.net/tools/geotag'>Vsudo Geotag Tool</a> | tool for mass geotagging of photos | 
-| </br><a href='https://github.com/aydinnyunus/exifLooter'>exifLooter</a> | Quick #go tool to automate work with EXIF data |
-
-
-
-<a name="facerecognitionandseach"></a>
-<h3>Face recognition and search</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/ageitgey/face_recognition'>Face Recognition</a> | facial recognition api for Python and the command line | 
- | <a href="http://facemaker.uvrg.org/">Facial composite (identikit) maker</a> |  | 
- | <a href="https://search4faces.com/">Search4faces.com</a> | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit | 
- | <a href="https://t.me/facematch_bot">Telegram Facemath bot</a> | searching for a face among the archive of photographs from public events in Kazakhstan | 
-   
-<a name="fontindefication"></a>
-<h3>Font Indenfication</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.myfonts.com/WhatTheFont/">WhatTheFont</a> |  | 
- | <a href="https://www.whatfontis.com/">WhatFontIs</a> |  | 
- | <a href="https://www.fontsquirrel.com/matcherator">Font Squirrel</a> |  | 
- | <a href="https://www.fontspring.com/matcherator">Font Spring</a> |  | 
- | <a href="http://www.identifont.com/">Identifont.com</a> |  | 
- | <a href="https://en.likefont.com/">LikeFont.com</a> |  | 
-
-
-   
-<a name="cryptocurrencies"></a>
-<h1>Cryptocurrencies</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.walletexplorer.com/">Wallet explorer</a> | bitcoin wallet transaction history | 
- | <a href="https://blockpath.com/">Blockpath.com</a> | viewing bitcoin wallet transactions as a graph | 
- | <a href="https://cryptocurrencyalerting.com/">Cryptocurrency alerting</a> | track spending and deposits in Bitcoin and Ethereum wallets | 
- | <a href="https://learnmeabitcoin.com/tools/path/">Learnmebitcoin.com</a> | find transactions between two Bitcoin adresses | 
- | <a href="https://coinwink.com/">Coinwink.com</a> | allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value | 
- | <a href='https://blockcypher.herokuapp.com/'>BlockCypher</a> | Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin, Dash. Getting into about address, transactions and block hashes, block number or wallet name. | 
-
-
-
-   
-<a name="messengers"></a>
-<h1>Messengers</h1>
-   
-<a name="telegram"></a>
-<h3>Telegram</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1'>Telegago</a> | Telegram search engine | 
- | <a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</a> | search by Telegram comments | 
- | <a href='https://github.com/zqtay/Telegram-Message-Analyzer'>Telegram Message Analyzer</a> | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) | 
- | <a href='https://t.me/SangMataInfo_bot'>@SangMataInfo_bot</a> | forward a message from the user and find out the history of their name in Telegram | 
- | <a href='https://t.me/tgscanrobot'>@tgscanrobot</a> | telegram bot to show which telegram groups a person is member of. | 
- | <a href='https://t.me/telebrellabot'>@telebrellabot</a> | telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745). | 
- | <a href='https://github.com/tejado/telegram-nearby-map'>Telegram Nearby Map</a> | Discover the location of nearby Telegram users on OpenStreetMap | 
- | <a href='https://github.com/pielco11/telescan'>Telescan</a> | search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts) | 
- | <a href='https://tgstat.com'>Tgstat</a> | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. | 
- | <a href="https://github.com/pielco11/telescan">Telescan</a> | search users in groups (and in which groups is the user) by id, username or phone number | 
- | <a href="https://telegcrack.com/">Telegcrack.com</a> | search in telegra.ph | 
- | <a href='https://t.me/VoiceMsgBot'>@VoiceMsgBot</a> | telegram bot to which you can send voice messages and it converts them into text | 
- | <a href='https://t.me/transcriber_bot'>@transcriber_bot</a> | telegram bot, which can convert to text voice messages in 24 languages (view pic)  | 
- | <a href='https://telegramchannels.me/list/biggest?language=en'>Telegramchannels.me</a> | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages | 
- | <a href='https://t.me/YTranslateBot'>@YTranslateBot</a> | type text or resend messages to Telegram bot for translate it. | 
-
-
-<a name="whatsapp"></a>
-<h3>WhatsApp</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://Whatsanalyze.com'>whatsanalyze.com</a> | analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency) | 
- | <a href='https://chatvisualizer.com'>chatvisualizer.com</a> | another #WhatsApp chat analyzer. | 
- | <a href="https://watools.io/download-profile-picture">Watools.io</a> | download whatsapp profile picture | 
- | <a href='https://github.com/riz4d/WaGpScraper'>WAGSCRAPER</a> | Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images) | 
-
-
-<a name="kik"></a>
-<h3>Kik</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://kikusernames.com/search'>Kikusernames.com</a> | Kik messenger username search | 
-
-<a name="slack"></a>
-<h3>Slack</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://github.com/emtunc/SlackPirate">Slack Pirate</a> | tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token | 
-   
-<a name="Skype"></a>
-<h3>Skype</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.vedbex.com/tools/email2skype">vedbex.com/tools/email2skype</a> | finding a Skype account by email | 
- | </br><a href='https://github.com/8C/skypehunt'>SkypeHunt</a> | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
-
-   
-<a name="code"></a>
-<h1>Code</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://grep.app/">Grep.app</a> | regExp search in Github repositories | 
- | <a href='https://searchcode.com/'>Searchcode.com</a> | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages | 
- | <a href='https://cipher387.github.io/code_repository_google_custom_search_engines/'>Code Repository Google CSE</a> | Google CSE for search 15 code repository services | 
- | <a href='https://libraries.io'>Libraries.io</a> | search by 4 690 628 packages across 32 different package managers | 
- | <a href='https://github.com/champmq/TheScrapper'>The Scraper</a> | Simple tool for scrapping emails and social media accounts from the website's source code. | 
- | <a href='https://github.com/jordanpotti/CloudScraper'>CloudScraper</a> | Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs | 
- | <a href='https://freemailscraper.herokuapp.com/complete-website-email-scraper'>Complete Email Scraper</a> | Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @). | 
- | <a href='https://extendsclass.com/python-tester.html'>Python Code Checker</a> | quick find errors in code | 
- | <a href="https://github.com/gwen001/github-search">Github Search</a> | collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos | 
- | <a href="https://sploitus.com/">Sploitus</a> | exploit and hacker's tools search engine | 
- | <a href="https://leakcop.info/">Leakcop</a> | service that monitors in real-time the illegal use of source code from certain repositories on Github | 
- | <a href="https://github.com/github/github-artifact-exporter">Github Artifact Exporter</a> | provides a set of packages to make exporting Issues easier useful for those migrating information out of Github | 
- | <a href="https://publicwww.com/">PublicWWW</a> | webpages source code search engine | 
- | <a href="https://about.sourcegraph.com/">SourceGraph</a> | universal code search engine | 
- | <a href="https://www.nerdydata.com/">NerdyData</a> | html/css/code search engine | 
- | </br><a href='https://you.com/code'>YouCode</a> | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
- | <a href='https://lelinhtinh.github.io/de4js/'>De4js</a> | HTML/JS deobfuscator | 
- | <a href='https://tio.run'>TIO RUN</a> | Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser | 
- | <a href="https://explainshell.com/">Explain Shell</a> | this site will help you quickly understand terminal commands-lines from articles, manuals, and tutorials | 
- | <a href='https://codesandbox.io/'>Codesandbox</a> | Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph). | 
- | <a href='https://www.shellcheck.net/'>shellcheck.net</a> | analyzes command-line scripts and explains in detail the errors found in them | 
- | <a href='https://xenon.stanford.edu/~xusch/regexp/'>Regular Expression Analyzer</a> | super tool for those who forget to leave comments on their code or have to deal with someone else's code.  | 
- | <a href='https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related'>Developer search tool</a> | Take the art of copy and paste from Stack Overflow to a new level of speed and productivity | 
- | <a href='https://github.com/httpcats/http.cat'>HTTP Cat</a> | free #API to get pictures with cats for different HTTP response codes | 
- | <a href="https://www.functions-online.com/">Run PHP functions online</a> |  | 
- | <a href="https://httpie.io/run">HTTPIE.IO</a> | command-line HTTP client | 
- | <a href="https://brew.sh/">The Missing Package Manager for macOS (or Linux)</a> |  | 
- | <a href="https://gitpod.io/workspaces">Gitpod.io</a> | run code from repositories on Github directly in a browser | 
- | </br><a href='https://github.com/feross/thanks'>Thanks</a> | A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers. |
- | </br><a href='https://github.com/nvbn/thefuck'>The Fuck</a> | Simple app which corrects your previous console commands. |
-| </br><a href='https://api-guesser.netlify.app/'>API Guesser</a> | Enter the API key or token to find out which service it can be used by. |
-| </br><a href='https://github.com/chubin/cheat.sh'>Cheat․sh</a> | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
-| </br><a href='https://www.digitalocean.com/community/tools/nginx'>NGINXconfig</a> | Online tool to configure stable and secure #nginx server. Select the options and then download the config files. |
-| </br><a href='https://www.digitalocean.com/community/tools/spf'>SPF Explainer</a> | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
-| </br><a href='https://github.com/tldr-pages/tldr'>TLDR</a> | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
-| </br><a href='https://awk.js.org/'>AWK JS</a> | AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk. |   
-
-
-
-<a name="searchengines"></a>
-<h1>Search engines</h1>
-
-  
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://fnd.io/'>fnd.io</a> | alternative search engine for the AppStore and iTunes | 
- | <a href="https://www.globalspec.com/">GlobalSpec Engineer Search Engine</a> |  |  
- | <a href='https://uvrx.com'>URVX</a> | Based by Google Custom Search tool for searching in popular cloud storages service | 
- | <a href='http://mac.lc'>Mac Address Search Tool</a> | search by full Mac adress, part of Mac adress (prefix), vendor name or brand name | 
- | <a href="https://www.hashatit.com/">Hashatit.com</a> | hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest | 
- | <a href="https://www.goo.ne.jp/">Goo.ne.jp</a> | beautiful japanese search engine | 
- | <a href='https://peteyvid.com'>Peteyvid</a> | search engine for 70 video hosting sites | 
- | <a href='https://3dfindit.com/textsearch'>3DFindit</a> | tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs. | 
- | <a href='http://filechef.com'>Filechef</a> | tool for searching different type of files (videos, application, documents, audio, images) | 
- | <a href='https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0'>Find Who Events</a> | Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor | 
- | <a href='https://www.listennotes.com/'>Listennotes</a> | Podcast Search Engine | 
- | <a href='https://thereisabotforthat.com/bots/search'>thereisabotforthat.com</a> | search by catalog of 5151 bots for 17 different apps and platforms | 
- | <a href='https://www.scoperac.com/booleanstringbank/'>BooleanStringBank</a> | over 430+ strings and 3553+ keywords | 
- | <a href='https://github.com/Ibit-to/google-unlocked'>Google Unlocked</a> | browser extension uncensor google search results | 
- | <a href='https://www.iconfinder.com/search'>Iconfinder.com</a> | Icons Search Engine | 
- | <a href="https://datasetsearch.research.google.com/">Google Datasets Search</a> |  | 
- | <a href="https://gifcities.org/">Gifcities.org</a> | GIF Search Engine from archive.org | 
- | <a href="https://presearch.org/">Presearch.org</a> | privately decentralized search engine, powered by #blockchain technology | 
- | <a href="https://milled.com/search">milled.com</a> | search engine for searching through the texts of email marketing messages | 
- | <a href='https://github.com/Araekiel/orion'>Orion</a> | open-Source Search Engine for social networking websites. |  
- | <a href='https://packettotal.com/app/search'>PacketTotal</a> | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. | 
- | <a href='https://github.com/searxng/searxng'>SearXNG</a> | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor | 
- | </br><a href='https://www.yeggi.com/'>Yeggi</a> | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
-| </br><a href='https://memegine.com/'>Memegine</a> | A search engine to find memes. Helps you find rare and obscure memes when Google fails. |
-| </br><a href='https://chatbottle.co/bots/'>ChatBottle</a> | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
-| </br><a href='https://search3.com/'>search3</a> | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
- | </br><a href='http://densephrases.korea.ac.kr/'>DensePhrase</a> | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. 
- 
- <a name="universalsearchtools"></a>
-<h3>Universal search tools</h3>
- 
- | Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/zquestz/s'>S</a> | Search from command line in 106 different sources| 
-  | <a href='https://searchall.net'>searchall.net</a> | 75 fields for quick entry of queries to different search services on one page | 
- | <a href='https://query-server.herokuapp.com'>Query-server</a> | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. | 
- | </br><a href='https://github.com/tasos-py/Search-Engines-Scraper'>Search Engines Scraper</a> | Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines. |
-| </br><a href='https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo'>Trufflepiggy (Context Search)</a> | Search selected text in different search engines and sites from Google Chrome context menu. |
-| </br><a href='https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001'>Search Patterns</a> | A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet). |
-
-
- 
-  <a name="darknetsearch"></a>
-<h3>Darknet/deepweb search tools</h3>
- 
- | Link             | Description             |
-|------------------|-------------------------|
-| <a href="https://github.com/megadose/OnionSearch">Onion Search</a> |  | 
-| <a href='https://github.com/rlyonheart/thedevilseye'>TheDevilsEye</a> | Search links in #darknet (.onion domain zone) from command line without using a Tor network. | 
- | <a href="https://onionsearchengine.com/">Onion Search Engine (+maps, mail and pastebin)</a> |  | 
- | <a href="http://dnmugu4755642434.onion.pet/captcha">KILOS Darknet Search Engine</a> |  | 
- | </br><a href='https://ahmia.fi/stats/link_graph/'>Ahmia Link Graph</a> | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
- | </br><a href='https://github.com/Kr0ff/Pasta'>Pasta</a> | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
-  
-  <a name="bucketssearch"></a>
-<h3>Public buckets search tools</h3>
- 
- | Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://buckets.grayhatwarfare.com'>buckets.grayhatwarfare.com</a> | Amazon Public Buckets Search | 
- | <a href='http://osint.sh/buckets'>osint.sh/buckets</a> | Azure Public Buckets Search | 
- 
- 
-   <a name="bugbountysearch"></a>
-<h3>Bugbounty/vulnerabilities search tools</h3>
- 
- | Link             | Description             |
-|------------------|-------------------------|
-| <a href='https://firebounty.com'>Firebounty</a> | Bug bounty search engine | 
-| <a href='https://www.bugbountyhunting.com'>BugBountyHunting</a> | Bug bounty hunting search engine | 
-| </br><a href='https://leakix.net/'>Leakix</a> | A search engine for web services where common types of vulnerabilities have been found. |
-| </br><a href='https://nerd.cesnet.cz/'>Network Entity Reputation Database (NERD)</a> | database of malicious entities on the Internet) It's possible to search by IP, domain, subdomain, and other parameters, including even the country code (useful for large-scale research) |
-| </br><a href='https://inventory.raw.pm/'>Inventory Raw Pm</a> | Search by best #cybersecurity tools, resources, #ctf and #bugbounty platforms. |
-| </br><a href='https://rfc.fyi/'>RFC.fyi</a> | Browseable, searchable RFC index |
-| </br><a href='https://hn.algolia.com/'>Hacker News Algolia</a> | Hacker News search engine with filters. Useful for finding all mentions of a product or person. |
-| </br><a href='https://controlcompass.github.io/'>Control Validation Compass</a> | Database of 9,000+ publicly-accessible detection rules and 2,100+ offensive security tests, aligned with over 500 common attacker techniques. |
-| </br><a href='https://hackingthe.cloud/'>Hacking the Cloud</a> | Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on cloud exploitation (#AWS, #Azure, #GoogleCloud, #Terraform,) |
-
- 
-<a name="filesharingsearchengines"></a>
-<h3>Filesharing Search Engines</h3>
- 
-<b>I strongly recommend to use it strictly for research purposes and to search for files that cannot be legally purchased anywhere else. Respect the copyrights of others.</b>
-
-  
-| Link             | Description             |
-|------------------|-------------------------| 
-| <a href="https://www.searchftps.net/">Napalm FTP Indexer</a> |  |  
-| <a href='http://filesearch.link'>Cloud File Search Engine</a> | search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc)  | 
-| <a href='https://filesearching.com'>Filesearching</a> | old FTP servers search engine with filter by top-level domain name and filetype | 
-| <a href='https://snowfl.com'>Snowfl.com</a> | torrent aggregator which searches various public torrent indexes in real-time | 
-| <a href='https://torrends.to'>Torrents.me</a> | torrent aggregator with search engines and list of new torrents trackers  | 
-| <a href='https://ewasion.github.io/opendirectory-finder/#'>Open Directory Finder</a> | Tool for search files based by Google CSE | 
-| <a href='https://www.mmnt.net'>Mamont's open FTP indexer</a> |  | 
-| <a href='https://orionoid.com'>Orion Media Indexer</a> | Lightning Fast Link Indexer for Torrents, Usenet, and Hosters | 
-| <a href='https://libgen.fun'>Library Genesis</a> | "search engine for articles and books, which allows free access to content that is otherwise paywalled or not digitized elsewhere" (c) | 
-| <a href='http://sunxdcc.com'>Sunxdcc</a> | XDCC file search engine | 
-| <a href='https://www.xdcc.eu'>Xdcc.eu</a> | XDCC search engine | 
-| <a href='http://www.uvrx.com'>URVX.com</a> | File storage search engine based by Google CSE | 
-| <a href='http://ddlsearch.free.fr'>DDL Search</a> | search engine for Rapidshare, Megaupload, Filefactory, Depositfile, Fileserve and a lot of other file sharing sites | 
-| <a href='http://www.sharedigger.com'>Sharedigger</a> | search files in popular file hosting services | 
-| <a href='https://www.xtorx.com'>Xtorx</a> | fast torrents search engine | 
-| <a href='https://torrentseeker.com'>Torrent Seeker</a> | torrents search engine | 
-| <a href='http://www.freewareweb.com/ftpsearch.shtml'>FreeWare web FTP file search</a> | ftp servers search engine  | 
-| <a href='https://search-22.com/ftp-search-tools'>Search 22</a> | access to 10+ ftp search tools from one page | 
- | </br><a href='https://heystacks.com/'>Heystack</a> | Service for finding public files in Google Docs, Google Sheets and Google Slides. It's possible to filter results by topic group and creation date. |
- 
- 
- 
-<a name="duckduckgotools"></a>
-<h1>Tools for DuckDuckGo</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/duckduckgo-bangs/hdjfebkndhmegijlghjcdghdbealibeb/related'>DuckDuckGo !bangs</a> | extension that add DuckDuckGo bang buttons to search results and search links in the context menu | 
- | </br><a href='https://github.com/jarun/ddgr'>DDGR</a> | Search in DuckDuckGo via the command line: - export the results to JSON; - bangs support - location setting |
-
-<a name="googletools"></a>
-<h1>Tools for Google</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://apify.com/apify/google-search-scraper'>Google Search Scraper</a> | Crawls Google Search result pages (SERPs) and extracts a list of organic results, ads, related queries and more. It supports selection of custom country, language and location | 
- | <a href='https://github.com/jarun/googler'>Googler</a> | command line google search tool | 
- | <a href='https://goosh.org/'>goosh.org</a> | online google search command line tool | 
- | <a href='https://github.com/infokiller/web-search-navigator'>Web Search Navigator</a> | extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others | 
- | <a href='https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related'>Overload Search</a> | Advanced query builder in #Google with the possibilities: change the language and country of your search, disable safe search,disable personalization of search results ("filter bubble") | 
- | <a href='https://tools.digitalmethods.net/beta/scrapeGoogle/autocomplete.php'>Google Autocomplete Scraper</a> | One of the best ways to learn more about a person, company, or subject is to see what people are more likely to type in a search engine along with it. | 
- | <a href='https://github.com/TheSpeedX/SDorker'>SDorker</a> | Type the Google Dork and get the list of the pages, that came up with this query. | 
- | <a href='https://github.com/XAMFRA/XGS'>XGS</a> | allows you to search for links to onion sites using Google Dorks (site:http://onion.cab, site:http://onion.city etc) | 
- | <a href='https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related'>Google Email Extractor</a> | Extract emails from Google Search Results | 
- | <a href="https://seqe.me/">SEQE.me</a> | online #tool for constructing search queries using advanced search operators simultaneously for five search engines | 
- | <a href="https://www.brightlocal.com/local-search-results-checker/">Bright Local Search Result Checker</a> | shows what #Google search results look like for a particular query around the world (by exact address) | 
- | <a href='https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related'>Auto Searcher</a> | One by one types words from a given list into the search bar of #Google, #Bing, or another search engine | 
- | <a href="https://2lingual.com/">2lingual.com</a> | google search in two languages simultaneously in one window | 
- | <a href="http://isearchfrom.com/">I search from</a> | allows you to customize the country, language, device, city when searching on Google | 
- | <a href='https://github.com/370rokas/anonscraper'>Anon Scraper</a> | Search uploaded files to AnonFile using Google | 
- | <a href='https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related'>Search Commands</a> | Google Chrome extension provides a Swiss-knife style commands tool inside your browser’s address bar to enhance your search experience  | 
- | </br><a href='https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=940516593'>Boolean Builder theBalazs</a> | Google Sheet to tool for constructing Google X-Ray search queries. |
-
-   
-<a name="iot"></a>
-<h3>IOT</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.greynoise.io/'>Greynoise.io</a> |  | 
- | <a href='https://fofa.so/'>fofa.so</a> |  | 
- | <a href="https://www.thingful.net/">Thingful.net</a> |  | 
- | <a href='https://github.com/rlyonheart/thelordseye'>TheLordEye</a> | Tool that searches for devices directly connected to the internet with a user specified query. It returns results for webcams, traffic lights, routers, smart TVs etc | 
-
-
-
-   
-
-
-
-   
-<a name="archives"></a>
-<h1>Archives</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://quickcacheandarchivesearch.onrender.com/'>Quick Cache and Archive search</a> | quick search website old versions in different search engines and archives (21 source) | 
- | <a href='http://trove.nla.gov.au/search/category/websites'>Trove</a> | australian web archive | 
- | <a href='https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related'>Vandal</a> | extension that makes working with http://archive.org faster, more comfortable, and more efficient. |  | 
- | <a href="https://theoldnet.com/">TheOldNet.com</a> |  | 
- | <a href="http://carbondate.cs.odu.edu/">Carbon Dating The Web</a> |  | 
- | <a href="https://arquivo.pt/">Arquivo.pt</a> |  | 
- | <a href="https://archive.md/">Archive.md</a> |  | 
- | <a href="http://webarchive.loc.gov/">Webarchive.loc.gov</a> |  | 
- | <a href="https://swap.stanford.edu/">Swap.stanford.edu</a> |  | 
- | <a href="http://wayback.archive-it.org/">Wayback.archive-it.org</a> |  | 
- | <a href="https://vefsafn.is/">Vefsafn.is</a> |  | 
- | <a href="http://web.archive.bibalex.org/">web.archive.bibalex.org</a> |  | 
- | <a href="https://archive.vn/">Archive.vn</a> |  | 
- | <a href='https://www.webarchive.org.uk/'>UKWA</a> | archive of more than half a billion saved English-language web pages (data from 2013) | 
-
-<a name="archivestools"></a>
-<h3>Tools for working with web archives</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related'>Web Archives</a> | extension for viewing cached web page version in 18 search engines and services | 
- | <a href='https://gaetanlhf.github.io/EasyCache/'>EasyCache</a> | quick search website old versions in different search engines and archives | 
- | <a href='https://cachedview.b4your.com/en/'>cachedview.b4your.com</a> | quick search website old versions in different search engines and archives | 
- | <a href='https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#'>Internet Archive Wayback Machine Link Ripper</a> | Enter a host or URL to retrieve the links to the URL's archived versions at http://wayback.archive.org. A text file is produced which lists the archive URLs. | 
- | <a href='https://github.com/jsvine/waybackpack'>Waybackpack</a> | download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss)  | 
- | <a href='https://github.com/anmolksachan/TheTimeMachine'>TheTimeMachine</a> | Toolkit to use http://archive.org to search for vulnerabilities | 
- | <a href='https://github.com/akamhy/waybackpy'>Waybackpy</a> | If you want to write your own script to work with http://archive.org, check out the #python library Wayback Machine API. You can use it to quickly automate the extraction of all sorts of website data from the webarchive. | 
- | <a href='https://archivebox.io'>Archivebox</a> | Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files | 
-| </br><a href='https://github.com/Haax9/WaybackPDF'>WaybackPDF</a> | Collects a list of saved PDFs for the given domain from http://archive.org and downloads them into a folder. |
-| </br><a href='https://github.com/MiniGlome/Archive.org-Downloader'>Archive-org-Downloader</a> | A simple #python script for downloading books from http://archive.org in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
-| </br><a href='https://github.com/xnl-h4ck3r/waymore'>WayMore</a> | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
-   
-<a name="archivesofdocuments"></a>
-<h1>Archives of documents/newspapers</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://nationalarchives.gov.uk/'>UK National Archives</a> | search in the catalogue of United Kingdom "The National Archives" | 
- | <a href='https://doaj.org/search/journals'>Directory of Open Access Journals</a> | Search by 16 920 journals, 6, 588, 661 articles, 80 lanquages, 129 countries | 
- | <a href='https://www.ncbi.nlm.nih.gov/'>National Center for Biotechnology</a> | unique tool to search 39 scientific databases (Pubmed, SRA, OMIN, MedGen etc) from one page | 
- | <a href='http://industrydocuments.ucsf.edu/'>industrydocuments.ucsf.edu</a> | digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel) | 
- | <a href='https://offshoreleaks.icij.org/'>Offshor Leaks</a> | Search through various databases of leaked documents of offshore companies | 
- | <a href='https://vault.fbi.gov/search'>Vault.fbi.gov</a> | Vault is FOIA Library, containing 6,700 documents that have been scanned from paper | 
- | <a href='https://projects.icij.org/luxembourg-leaks/viz/industries/index.html'>Lux Leaks</a> | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story | 
-| </br><a href='https://rootssearch.io/search'>RootsSearch</a> | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
-| </br><a href='https://news-navigator.labs.loc.gov/search'>Newspaper navigator</a> | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
-   
-<a name="datasets"></a>
-<h1>Datasets</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://afrobarometer.org/online-data-analysis/analyse-online'>Afrobarometer</a> | huge database of the results of sociological surveys conducted in African countries over the last 20 years | 
- | <a href='https://www.arabbarometer.org/survey-data/data-analysis-tool/'>Arabbarometer</a> | database of the results of sociological surveys conducted in the Arab countries of Africa and the Middle East in 2007-2018 | 
- | <a href='https://dataset.domainsproject.org/'>dataset.domainsproject.org</a> | dataset of 616 millions domains (16GB!) | 
- | <a href='https://stevemorse.org/ssdi/ssdi.html'>Stevemorse.org</a> | Searching the Social Security Death Index | 
- | <a href='https://ukcensusonline.com/search/'>UK Census Online</a> | Database of deaths, births, and marriages. From 1841 to the beginning of the 21st century. Only the first and last names can be searched. | 
-
-
-<a name="passwords"></a>
-<h1>Passwords</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://crackstation.net/">CrackStation.net</a> | password hash cracker | 
- | <a href="https://leakpeek.com/">Leak peek</a> | by pasword search part of email and site, where this password is used | 
- | <a href="https://www.cleancss.com/router-default/">Reference of default settings of different router models (IP, username, password)</a> |  | 
- | <a href='https://many-passwords.github.io/'>Many Passwords</a> | Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels) | 
- | <a href='https://github.com/Viralmaniar/Passhunt'>PassHunt</a> | Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords | 
- | <a href='http://bugmenot.com'>BugMenot</a> | login and passwords for public accounts in different services | 
-
-
-<a name="emails"></a>
-<h1>Emails</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://github.com/dievus/geeMailUserFinder'>geeMail User Finder</a> | A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails. |
- | <a href="https://breachchecker.com/">Breachchecker.com</a> | history of data leaks associated with a particular email address | 
- | <a href="http://metricsparrow.com/toolkit/email-permutator/">Metric Sparrow email permulator</a> |  | 
- | <a href='https://snov.io/email-finder'>snov.io email finder</a> | find emails of company employees by domain name. | 
- | <a href='https://github.com/WildSiphon/Mailfoguess'>Mailfoguess</a> | tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails | 
- | <a href="https://hunter.io/">Hunter.io</a> | can link to an article to find its author and his email address  | 
- | <a href='https://github.com/sharsil/mailcat'>Mailcat</a> | find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases | 
- | <a href="https://github.com/khast3x/h8mail">H8mail</a> | email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent
- | <a href="https://mailboxlayer.com/">MailBoxLayer API</a> | free api for email adress checking | 
- | <a href='https://tools.emailhippo.com/email/'>EmailHippo</a> | Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale. | 
- | <a href="https://spycloud.com/check-your-exposure/">Spycloud.com</a> | check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled | 
- | <a href='https://en.gravatar.com/site/check/'>Gravatar check</a> | Just enter email and see what the person's Gravatar avatar looks like. |
- | </br><a href='https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0'>Email Permutator</a> | Google Sheet table that generate 46 variants of user email by first name, last name and domain | 
- | </br><a href='https://haveibeensold.app/'>Have I Been Sold?</a> | The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. |
- | </br><a href='https://github.com/gr33nm0nk2802/mailMeta'>mailMeta</a> | Simple tool to analyze emails headers and identify spoofed emails. |
-
-<a name="nicknames"></a>
-<h1>Nicknames</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://t.me/maigret_osint_bot'>@maigret_osint_bot</a> | check accounts by username on 1500 sites. Based on maigret CLI tool | 
- | <a href='https://analyzeid.com/username/'>Analyzeid.com Username Search</a> | view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. | 
- | <a href='https://github.com/thewhiteh4t/nexfil'>NEXFIL</a> | Search username by 350 social media platforms | 
- | <a href='https://github.com/CYB3R-G0D/SPY'>Spy</a> | Just another very quick and simple account checker by username (210 sites in list). | 
- | <a href="https://github.com/Rog3rSm1th/Profil3r">Profil3r</a> | search for profiles in social networks by nickname  | 
- | <a href='https://github.com/BLINKING-IDIOT/Aliens_eye'>Aliens eye</a> | Find links to social media accounts in 70 websites by username | 
- | <a href='https://github.com/rlyonheart/thorndyke'>Thorndyke</a> | Checks the availability of a specified username on over 200 websites | 
- | <a href='https://github.com/soxoj/marple'>Marple</a> | It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results. | 
- | <a href="https://github.com/megadose/holehe">Holehe</a> | check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function | 
- | <a href='https://github.com/mishakorzik/UserFinder'>UserFinder</a> | tool for finding profiles by username
- | <a href='https://github.com/snooppr/snoop'></a> | Search users profile by nickname | 
- | <a href='https://github.com/d8rkmind/Pyosint'>Pyosint</a> | Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services | 
- | <a href='https://datayze.com/alternate-spelling-finder'>Alternate Spelling Finder</a> | When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. | 
- | <a href='https://translit.net'>Translit.net</a> | Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names | 
- | <a href='https://seintpl.github.io/NAMINT/'>NAMINT</a> | Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) | 
-| </br><a href='https://username-check.herokuapp.com/'>Username Availability Checker</a> | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
-| </br><a href='https://github.com/p1ngul1n0/blackbird'>BlackBird</a> |  - Search username across 200+ sites; -  API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
-| </br><a href='https://nameberry.com/search?q=john'>Nameberry</a> | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
-   
-<a name="phonenumbers"></a>
-<h1>Phone numbers</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.loc.gov/collections/united-states-telephone-directory-collection/'>USA Telephone Directory Collection</a> | 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987 | 
- | <a href='http://www.oldphonebook.com/'>Oldphonebook</a> | USA phonenumbers database from 1994 to 2014 | 
- | <a href='https://github.com/s41r4j/phomber'>Phomber</a> | Get information about phone number with command line. | 
- | <a href="https://numverify.com/">Numverify API</a> | free api for global phone number lookup and validation | 
- | <a href='https://github.com/Lexxrt/FireFly'>FireFly</a> | Get information about phone number using Numverify API | 
-| </br><a href='https://github.com/spider863644/PhoneNumber-OSINT'>PhoneNumber OSINT</a> | Simple tool for gathering basic information about phone numbers (country code, timezone, provider) |
-
-
-<a name="universalcontactsearch"></a>
-<h1>Universal Contact Search and Leaks Search</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/TheRealDalunacrobate/DaProfiler'>DaProfiler</a> | Get emails, social medias, adresses of peoples using web scraping and google dorking | 
- | <a href='https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079'>SingleHire</a> | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile | 
- | <a href="https://github.com/qeeqbox/social-analyzer">Social Analyzer</a> | tool for searching nickname profiles on more than 300 sites | 
- | <a href='http://sovaweb.herokuapp.com/'>SovaWeb</a> | web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID | 
- | <a href='https://www.behindthename.com'>BehindTheNames</a> | when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them | 
- | <a href="https://cipher387.github.io/pastebinsearchengines/">My CSE for search in 48 pastebin sites</a>
- | <a href='https://psbdmp.ws'>Psbdmp.ws</a> | search sensitive user data by 25 759 511 pastebins | 
- | <a href="https://cybernews.com/personal-data-leak-check/">Cybernews RockYour2021</a> | check if your data has been leaked | 
- | <a href='https://gofindwho.com/'>GoFindWho People Search</a> | More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name. | 
- | <a href="https://thatsthem.com/people-search">That's them people search</a> |  | 
- | <a href='https://anywho.com/'>Anywho</a> | Search for people in #USA. Enter first and last name to get age, address, and part of phone number (free) | 
- | <a href="https://usersearch.org/index.php">Usersearch.org</a> | search people by nickname, phone or email | 
- | <a href='http://heritage.statueofliberty.org'>Ellis Island</a> | online searchable database of 65 million arrivals to #NewYork between (late 19th and early 20th century). | 
- | <a href='https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx'>recordsearch.naa.gov.au</a> | National archives of #Australia |  | 
- | <a href='https://www.spydialer.com/'>SpyDialer</a> | Free search contact information by phone number, name, address or email |  | 
- | <a href="https://stevemorse.org/ssn/ssn.html">Decoding Social Security Numbers in One Step</a> |  | 
- | <a href="http://inmateinfo.indy.gov/IML">Inmate Database Search</a> |  | 
- | <a href="http://scamdigger.com/">Scamdigger.com</a> | search in #scammers database by name, IP-adress, email or phone | 
- | <a href='https://www.cloob.com/profile/search/index'>Cloob.com</a> | Iranian people search | 
- | <a href='https://slavevoyages.org/resources/names-database'>SlaveVoyages.org</a> | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. | 
-
-
-
-<a name="sockpuppets"></a>
-<h1>Sock Puppets</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://github.com/rly0nheart/rug'>Rug</a> | Extreme simple tool for generating random user data. |
- | <a href='https://generated.photos/face-generator/'>Face Generator</a> | Face Generator for creating #sockpuppets. Customize gender, age, head position, emotions, hair and skin color, makeup and glasses. | 
- | <a href='https://generated.photos/faces'>2,682,783 free AI generated photos</a> |  | 
- | <a href='https://www.voicebooking.com/en/free-voice-over-generator'>VoiceBooking</a> | fake voice generator | 
- | <a href='https://thisxdoesnotexist.com'>ThisXDoesNotExist</a> | collection of more than 30 services that generate various items using neural networks.  | 
- | <a href='https://www.thexifer.net'>TheXifer</a> | add fake metadata to photo | 
- | <a href='https://geotagonline.com'>GeoTagOnline</a> | add fake geotags to photo | 
- | <a href='https://www.elfqrin.com/fakeid.php'>Fake ID Identity Random Name Generator</a> | generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly. | 
- | <a href='https://t.me/TempMail_org_bot'>@TempMail_org_bot</a> | telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites) | 
- | <a href='https://deepai.org/machine-learning-model/text2img'>Text2img</a> | text to image AI generator | 
- | <a href='https://generated.photos/anonymizer'>Face Anonimyzer</a> | Upload a face photo and get set of similar AI generated faces. | 
- | <a href='https://www.synthesia.io/free-ai-video-demo'>AI video generator</a> | Type the text (video script). Choose a character and script template. Click the "Submit a video" button. Enter your registration data and wait for the letter with the result | 
- | <a href='https://massless.io/tool/face-maker-ai/'>AI Face maker</a> | Just draw a person face (note that there is a separate tool for each part of the face) and the neural network will generate a realistic photo based on it. | 
- | <a href='https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=ru'>SessionBox</a> | multi-login browser extension | 
- | <a href='https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi?hl=ru'>MultiLogin</a> | multi-login browser extension | 
- | <a href='https://chrome.google.com/webstore/detail/freshstart-cross-browser/nmidkjogcjnnlfimjcedenagjfacpobb?hl=ru'>FreshStart</a> | multi-login browser extension | 
- | </br><a href='https://boredhumans.com/faces.php'>BoredHumans</a> | Another tool for creating non-existent people. AI was trained using a database of 70,000 of photos of real humans. I like this service because it often makes very emotional and lively faces. |
-| </br><a href='https://deepfakesweb.com/'>Deepfakesweb</a> | Create deepfake videos ONLINE |
-| </br><a href='https://github.com/iperov/DeepFaceLive'>Deep Face Live</a> | Real-time face swap for streaming and video calls |
-| </br><a href='https://fakeinfo.net/'>Fakeinfo</a> | Online screenshot generator of fake YouTube channels, posts/profiles on Facebook, Instagram, TikTok, Twitter, chats on Telegram, Hangouts, WhatsApp, Line, Linkedin. |
-| </br><a href='https://github.com/David-Lor/ThisPersonDoesNotExistAPI'>ThisPersonDoesNotExistAPI (unofficial)</a> | #Python library that returns a random "doesnotexist" person picture generated by AI (with site http://thispersondoesnotexist.com) |
-| </br><a href='https://thisbaseballplayerdoesnotexist.com/'>This Baseball Player Does Not Exist</a> | A non-existent personality generator that generates people who look amazingly natural. |
-   
-<a name="noosinttools"></a>
-<h1>NOOSINT tools</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://annotely.com/editor'>Annotely</a> | Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. |
-| </br><a href='https://www.pramp.com/'>Pramp</a> | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
- | <a href='http://www.remindmewhen.io/'>RemindWhen</a> | Simple app that reminds you on email if your favorite country opens for tourists from your country. | 
- | <a href='https://web--proxy.herokuapp.com/'>Web--proxy</a> | free web proxy | 
- | <a href='https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon'>Google Docs Voice Comments</a> | simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms. | 
- | <a href='http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20'>Text to ASCII Art Generator (TAAG)</a> | This site will help you make atmospheric lettering for your command line tool or README. | 
- | </br><a href='https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget'>Snow</a> | A very simple add-on that speeds up and simplifies the formatting of #GoogleDocs. "Show" shows non-printable characters (spaces, tabs, page breaks, indents, etc.) |
-| </br><a href='http://websdr.ewi.utwente.nl:8901/'>Wide-band WebSDR</a> | Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code) |
-| </br><a href='https://jsonvisio.com/'>Jsonvisio</a> | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
-| </br><a href='https://crontab.guru/'>Crontab guru</a> | Online "shedule expression" editor (for setting task times in Crontab files). |
-| </br><a href='https://chmod-calculator.com/'>Chmod calculator</a> | Calculate the  octal numeric or symbolic value for a set of file or folder permissions in #Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format |
-| </br><a href='https://ray.so/'>Ray So</a> | A simple tool that allows you to beautifully design code as a picture (for social media post or article). |
-| </br><a href='https://www.ultimatewindowssecurity.com/'>Windows Event Collection</a> | A tool to help you understand #Windows, #SharePoint, #SQLServer and Exchange system security logs. |
-| </br><a href='https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related'>Hack This Page</a> | A simple extension that allows you to edit the text of any web page. |
-| </br><a href='https://soundraw.io/'>Soundraw</a> | AI music generation |
-| </br><a href='https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related'>Screenshot - Full Page Screen Capture</a> | record a video of part of the screen using a very easy-to-use browser extension |
-
-
-
-<a name="visualizationtools"></a>
-<h3>Visualization tools</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/gephi/gephi'>Gephi</a> | fast and easy to learn graph analytics tool with a lot of modules (plugins) | 
- | <a href="https://tobloef.com/text2mindmap/">Tobloef.com</a> | text to mind map | 
- | <a href='http://cheatsheet-maker.herokuapp.com'>Cheat sheet maker</a> | simple tool for creating cheat sheets | 
-
-
-
-<a name="routineautomation"></a>
-<h3>Routine/Data Extraction Automation</h3>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.scrapersnbots.com/webtools/'>Scrapersnbots</a> | A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more | 
- | <a href='https://manytools.org'>Manytools</a> | Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking. | 
- | <a href='https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related'>Webdext</a> | An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc | 
- | <a href='https://www.cloudhq.net/apps'>CloudHQ</a> | A collection of several dozen extensions for #Chrome that allow you to extend the functionality of the standard #Gmail interface and maximize your #productivity. Tracking, sorting, sharing, saving, editing and much more. | 
- | <a href='https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related'>Magical. Text Expander</a> | Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling  (lom -> Lomarrikkendd) | 
- | <a href='https://emn178.github.io/online-tools/index.html'>Online tools</a> | 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings | 
- | <a href="https://gchq.github.io/CyberChef/">CyberChef</a> | collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)
- | <a href="https://shadowcrypt.net/tools/">Shadowcrypt Tools</a> | 24 online tools for OSINT, network scanning, MD5 encryption and many others | 
-
-
-
-<a name="browseranalyze"></a>
-<h1>Browser analyze</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related'>Web history stat</a> | detailed statistics of your browser history | 
- | <a href='https://coveryourtracks.eff.org'>coveryourtracks.eff.org</a> | can tell a lot about your browser and computer, including showing a list of installed fonts on the system. | 
- | <a href='https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related'>Webmapper</a> | Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable. | 
-
-
-<a name="files"></a>
-<h1>Files</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/cipher387/grep_for_osint'>Grep for OSINT</a> | simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory | 
- | <a href='http://diffnow.com'>Diffnow.com</a> | Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc). | 
- | <a href='https://github.com/mnismt/CompressedCrack'>CompressedCrack</a> | Simple tool for brute passwords for ZIP and RAR archives | 
- | <a href='https://www.protectedzip.com/'>Encrytped ZIP file creator</a> | Create ZIP archive online | 
- | <a href='https://github.com/metachris/pdfx'>PDFX</a> | get meta data of PDF files thrue command line | 
- | <a href='https://t.me/mediainforobot'>@mediainforobot</a> | telegram bot to getting metadata from different types of files | 
- | <a href='https://github.com/quodlibet/mutagen'>Mutagen</a> | get meta data of audiofiles thrue command line | 
- | <a href='https://voyant-tools.org/'>voyant-tools.org</a> | analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types. | 
- | <a href="https://www.aconvert.com/analyze.html">Analyze file format online</a> |  | 
- | <a href="https://www.toolsley.com/file.html">ToolSley: analyze file format online</a> |  | 
- | <a href="https://recoverytoolbox.com/">RecoveryToolBox</a> | recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files | 
- | <a href='https://mr0grog.github.io/google-docs-to-markdown/'>Google Docs to Markdown online converter</a> | just copy text to the site | 
- | <a href='https://binvis.io/'>Binvis</a> | lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool | 
- | <a href='https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec'>Gdrive-copy</a> | The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications | 
- | <a href="https://siftrss.com/">Siftrss.com</a> | tool for filtering RSS feeds | 
- | <a href="https://json-csv.com/">JSON to CSV</a> |  | 
- | <a href="https://www.textise.net/">Textise.net</a> | convert the HTML code of a page to TXT | 
-
-
-
-
-
-   
-
-   
-<a name="imeiserial"></a>
-<h1>IMEI and serial numbers</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.checkmi.info/">Checking MI account</a> |  | 
- | <a href="https://contex.com/serial-number-lookup/">Contex condoms serial number lookup</a> |  | 
- | <a href='https://www.imeipro.info/check_imei_iphone.html'>iPhone IMEI Checker</a> | Get information about #iPhone by International Mobile Equipment Identity | 
-
-
-<a name="nft"></a>
-<h1>NFT</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://nonfungible.com'>Nonfungible.com</a> | help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time) | 
-
- 
-<a name="keywordstrends"></a>
-<h1>Keywords, trends, news analytics</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://wordstat.yandex.ru/">Wordstat.yandex.ru</a> | the estimated number of Yandex searches in the coming month for different keywords | 
- | <a href="https://trends.google.com/trends/">Trends Google</a> |  | 
- | <a href="https://keywordtool.io/search/keywords/">Keywordtool.io</a> | keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter | 
- | <a href="https://books.google.com/ngrams/">Google Books Ngram Viewer</a> |  | 
- | <a href="http://news-explorer.mybluemix.net/">News Explorer BlueMix</a> |  | 
- | <a href="https://trends.pinterest.com/">Pinterest Trends</a> |  | 
-
-   
-<a name="appsprograms"></a>
-<h1>Apps and programs</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/facundoolano/google-play-scraper'>Google Play Scraper</a> | get the most detailed  | 
- | <a href='https://github.com/facundoolano/app-store-scraper'>App Store Scraper</a> | get the most detailed metadata about the app from AppStore | 
-
-
-
-      
-<a name="companysearch"></a>
-<h1>Company information search</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118'>Lei.bloomberg.com</a> | search information about company by Legal Identify Number | 
- | <a href='https://candid.org/research-and-verify-nonprofits/990-finder'>990 finder</a> | Enter the company name and select the state to get a link to download its 900 form. | 
- | <a href='https://github.com/rlyonheart/occli'>Open Corporates Command Line Client (Occli)</a> | Gathering detailed information about company through cli. | 
- | <a href='https://emm.newsbrief.eu/NewsBrief/clusteredition/ru/latest.html'>NewsBrief</a> | Looking for recent mentions of the company in online media around the world | 
- | <a href='http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion.pet/'>Related List</a> | find company-related contacts and confidential documents leaked online | 
- | <a href='https://www.investing.com/'>Investing.com</a> | View a detailed investment profile of the company | 
- | <a href='https://fccid.io'>FCCID.IO</a> | seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz) | 
- | <a href='https://tradint.io/tradint-researcher/'>Tradeint</a> | Quick access for more than 85 tools for gathering information about company and company website, location and sector | 
- | <a href='https://cipher387.github.io/corporative_registry_worldwide_catalog/'>Corporative Registry Catalog</a> | worldwide catalog of business registries (63 countries) | 
- | <a href='https://search.gleif.org/#/search/'>LEI search</a> | can help find "who owned by" or "who owns" | 
- | <a href='http://openownership.org'>openownership.org</a> | Wordwide beneficial ownership data. | 
- | <a href='https://opensanctions.org'>opensanctions.org</a> | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. | 
- | </br><a href='https://oec.world/'>Oec World</a> | A tool for detailed analysis of international trade. It will show clearly which country sells which products, to which countries these products are sold and in what trade value (in $) |
-
-<a name="banksearch"></a>
-<h1>Bank information search</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://banks.data.fdic.gov/bankfind-suite/bankfind'>FDIC search</a> | Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it | 
- | <a href='https://www.iban.com/iban-checker'>Iban.com</a> | Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced | 
- | <a href='https://api.freebinchecker.com/bin/658205'>Freebin Checker</a> | easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database | 
-| </br><a href='https://github.com/krdsploit/Credit-OSINT'>Credit OSINT</a> | A very simple #python tool to gather information about bank cards and validate them. |
-
-
-<a name="brandstrademarks"></a>
-<h1>Brand/trademark information search</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www3.wipo.int/branddb/en/'>WIPO.int</a> | Global Brands Database (46,020,000 records) | 
- | <a href='https://www.tmdn.org/tmdsview-web/'>TMDN Design View</a> | Search 17 684 046 products designs across the European Union and beyond | 
- | <a href='https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk'>TESS</a> | Search engine for #USA trademarks | 
-
-
-<a name="tendersshipments"></a>
-<h1>Tender/shipment information search</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.tendersinfo.com'>TendersInfo</a> | Search tenders around the world by keywords. | 
- | <a href="https://www.barcodelookup.com/">Barcode lookup</a> |  | 
- | <a href="https://panjiva.com/">Panjiva.com</a> | search data on millions of shipments worldwide | 
- | <a href='https://en.52wmb.com'>en.52wmb.com</a> | Search information about worldwide buyers and suppliers by product name, company name or HS code. | 
-
-
-
-<a name="amazon"></a>
-<h3>Amazon</h3>
-
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/scrapehero-code/amazon-scraper'>Amazon Scraper</a> | scraped detail information about list of items |  
- | <a href="https://amazon-asin.com/">Amazon ASIN Finder</a> |  | 
- | <a href="https://www.sellerapp.com/amazon-reverse-asin.html">Sellerapp.com. Amazon Reverse ASIN search</a> |  | 
-
-
-   
-<a name="movies"></a>
-<h1>Movies</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://reelgood.com/'>Reelgood.com</a> | search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus) | 
- | <a href='http://imcdb.org'>IMCDB</a> | Internet Movie Cars Database | 
- | <a href="https://frinkiac.com/">Sympsons screencaps search</a> |  | 
- | <a href="https://morbotron.com/">Search Futuruma screencaps</a> |  | 
- | <a href="https://masterofallscience.com/">Rick and Morty screencaps search</a> |  | 
- | <a href="http://www.subzin.com/">Subzin.com</a> | by one phrase will find the movie, as well as the full text of the dialogue with the timing | 
- | </br><a href='https://www.doesthedogdie.com/'>Doesthedogdie</a> | This is an ingenious site that lets you find out if a movie (video game) has scenes that might upset someone (death of dogs, cats and horses, animal abuse, domestic violence etc). |
-
-<a name="netflix"></a>
-<h3>Netflix</h3>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="http://unogs.com/">Unogs.com</a> | Netflix search without registration | 
- | <a href='http://flixable.com '>flixable.com </a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://flixwatch.co '>flixwatch.co </a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://flicksurfer.com '>flicksurfer.com </a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://flixboss.com'>flixboss.com</a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://flickmetrix.com '>flickmetrix.com </a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://whatthehellshouldiwatchonnetflix.com '>whatthehellshouldiwatchonnetflix.com </a> | alternative way to find anything interesting on Netflix | 
- | <a href='http://netflix-codes.com'>netflix-codes.com</a> | alternative way to find anything interesting on Netflix | 
-   
-<a name="tvradio"></a>
-<h1>TV/Radio</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://www.radio.net/local-stations'>Radion.net</a> | view list of all radiostations near your location and search radiostations by keywords | 
- | <a href='https://americanarchive.org'>American Archive of Public Broadcasting</a> | Discover historic programs of publicly funded radio and television across America. Watch and listen | 
-| </br><a href='https://www.liveatc.net/'>LiveATC</a> | Archive of audio recordings between pilots and dispatchers. Useful for investigating incidents and for foreign language comprehension skills (if you learn to understand pilots' conversations, you will be able to understand everything). |
-| </br><a href='http://rx.linkfanel.net/'>Wideband shortware radio receiver map</a> | Online map of shortwave radio receivers available for listening in your browser at the moment. |
-| </br><a href='https://iptv-org.github.io/'>IPTV org</a> | Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream). |
-
-
-<a name="toolscollection"></a>
-<h1>Tools collections/toolkits</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='http://git.hopain.cyou/OSINT-Search-Tools/'>Osint Search Tools</a> | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... | 
- | <a href='https://github.com/matamorphosis/Scrummage'>Scrummage</a> | Ultimate OSINT and Threat Hunting Framework | 
- | <a href='https://github.com/Lucksi/Mr.Holmes'>Mr.Holmes</a> | osint toolkit for gathering information about domains, phone numbers and social media accounts | 
- | <a href='https://github.com/Himatric/SEMID'>SEMID osint framework</a> | Search user info in  Tiktok, Playstation, Discord, Doxbin,Twitter, Github | 
- | <a href='https://github.com/C0MPL3XDEV/E4GL30S1NT'> |  | 
- | <a href='https://github.com/MR-NULL666/NAZAR'>NAZAR </a> | universal Osint Toolkit
-E4GL30S1NT</a> | ShellScript toolkit for #osint (12 tools) | 
- | <a href='https://github.com/bhavsec/reconspider'> Recon Spider</a> | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations | 
- | <a href='https://nitinpandey.in/ihunt/'>Hunt Osint Framework</a> | Dozens of online tools for different stages of #osint investigations | 
- | <a href='https://github.com/nodauf/GoMapEnum'>GoMapEnum</a> | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) | 
- | </br><a href='https://extendsclass.com/'>ExtendClass</a> | One of my favorite sites for #automating various routine tasks. Among the many analogues, it stands out for its quality of work and variety of functions (view pic). |
- | <a href='https://addons.mozilla.org/ru/firefox/addon/foxyrecon/'>FoxyRecon</a> | 44 osint tools in one add-on for #Firefox | 
- | </br><a href='https://github.com/ByDog3r/GvngSearch'>GVNG Search</a> | Command line toolkit for gathering information about person (nickname search, validate email, geolocate ip) and domain (traceroute, dns lookup, tcp port scan etc). |
- | <a href='https://github.com/saeeddhqan/Maryam'>Owasp Maryam</a> | modular open-source framework based on OSINT and data gathering | 
- | <a href='https://github.com/j3ssie/metabigor'>Metabigoor</a> | Simple and fast #osint framework | 
- | <a href='https://gf.dev/toolbox'>Geekflare Tools</a> | 39 online free tools for website testing | 
- | <a href='https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221'>Oryon OSINT query tool</a> | Construct investigations links in Google Sheet | 
- | <a href='https://github.com/leebaird/discover'>Discover</a> | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one) | 
- | <a href='https://one-plus.github.io/DocumentSearch'>one-plus.github.io/DocumentSearch</a> | Document Search osint Toolkit | 
- | <a href="https://t.me/HowToFindBot">Telegram HowToFindBot</a> |  | 
- | <a href="https://github.com/Te-k/harpoon">Harpoon</a> |  | 
- | <a href='https://github.com/d8rkmind/Profounder'>Profounder</a> | searching users by nickname and scrapping url's from website | 
- | <a href="https://github.com/AzizKpln/Moriarty-Project">Moriarty Project</a> |  | 
- | <a href="https://osintcombine.tools/">Osintcombine Tools</a> |  | 
- | <a href="https://github.com/Bafomet666/OSINT-SAN">OSINT-SAN</a> |  | 
- | <a href="https://github.com/ninoseki/mihari">Mihari</a> |  | 
- | <a href="https://one-plus.github.io/Instagram">One Plus OSINT Toolkit</a> |  | 
- | <a href="https://github.com/umair9747/vichiti">Vichiti</a> |  | 
- | <a href="https://github.com/pawlaczyk/sarenka">Sarenka</a> |  | 
- | <a href="https://www.vedbex.com/tools/home">Vedbex.com</a> |  | 
- | <a href="https://synapsint.com/">Synapsint.com</a> |  | 
- | <a href='https://github.com/ankitdobhal/Ashok'>Ashok</a> | Swiff knife for #osint | 
- | <a href='https://github.com/ivre/ivre'>IVRE</a> | framework for network recon | 
- | <a href='https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related'>SEARCH Investigative and Forensic Toolbar</a> | extension with quick access to dozens of online tools for osint, forensics and othef investigations goals. | 
- | <a href='https://github.com/thenurhabib/tenssens'>Tenssens</a> | osint framework | 
- | </br><a href='https://github.com/galihap76/collector'>Collector</a> | Universal Osint Toolkit |
- | </br><a href='https://randomtools.io/'>Randomtools</a> | Several dozen online tools for a variety of purposes. Including to facilitate gathering information on #Facebook, #Twitter, #YouTube, #Instagram |
- | </br><a href='https://github.com/devXprite/infoooze'>Infooze</a> | User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata  |
-| </br><a href='https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke/related'>ThreatPinch Lookup</a> | Helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API(c) |
-| </br><a href='https://osint-tool.com/'>Osint tool</a> | A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.). |
-| </br><a href='https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related'>Hackers toolkit</a> | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
-| </br><a href='https://botster.io/bots'>BOTSTER</a> | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
-| </br><a href='https://github.com/TheEyeOfCyber/Magnifier'>Magnifier</a> | #osint #python toolkit.  15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
-| </br><a href='https://wannabe1337.xyz/'>Wannabe1337 Toolkit</a> | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools.
- |
-
-
-
-<a name="databases"></a>
-<h1>Databases and data analyzes</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
-| </br><a href='https://github.com/alephdata/cronodump'>Cronodump</a> | When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV. |
-| </br><a href='https://jsonvisio.com/'>Jsonvisio</a> | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
-| </br><a href='https://github.com/soxoj/1c-database-converter'>1C Database Converter</a> | 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files. |
-| </br><a href='https://insightjini.com/'>Insight Jini</a> | Extreme quick, extreme simple and free online tool for data visalization and analysis |
-
-
-<a name="onlineosemulators"></a>
-<h1>Online OS Emulators</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init">Windows 10 Online Emulator</a> |  | 
- | <a href="https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online">Parrot Security OS Online Emulator</a> |  | 
-
-<a name="virtualmachines"></a>
-<h1>Virtual Machines/Linux distributions</h1>
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href='https://github.com/Double2Sky/OffenOsint'>Offen Osint</a> |  | 
- | <a href="https://www.blackarch.org">BlackArch Linux</a> |  | 
- | <a href="https://www.kali.org">Kali Linux</a> |  | 
- | <a href="https://csilinux.com">CSI Linux</a> |  | 
- | <a href="https://labs.fedoraproject.org/security/download/index.html">Fedora Security Lab</a> |  | 
- | <a href="https://github.com/HuronOsint/OsintDistro">Huron Osint</a> |  | 
- | <a href="https://tsurugi-linux.org">Tsurugi Linux</a> |  | 
- | <a href="http://www.osintux.org">Osintux</a> |  | 
- | <a href="https://www.tracelabs.org/initiatives/osint-vm">TraceLabs OSINT VM</a> |  | 
- | <a href="https://dracos-linux.org">Dracos Linux</a> |  | 
- | <a href="https://archstrike.org">ArchStrike</a> |  | 
- | <a href="https://septor.sourceforge.io">Septor Linux</a> |  | 
- | <a href="https://twitter.com/ParrotSec">Parrot Security</a> |  |
- | </br><a href='https://github.com/Dimaslg/osintBOX'>osintBOX</a> | Parrot OS Home edition modified with the popular OSINT tools: Dmitry, ExifTool, Maltego, Sherlock, SpiderFoot and much more. |
- | <a href="https://www.pentoo.ch">Pentoo Linux</a> |  | 
- | <a href="https://deftlinux.net">Deft Linux</a> |  | 
- | <a href="https://www.backbox.org">BackBox</a> |  | 
- | <a href="https://sourceforge.net/projects/falcon-archlinux/">Falcon Arch Linux</a> |  | 
- | <a href='https://github.com/adi0x90/attifyos'>AttifyOS</a> | Linux distro for pentesting IoT devices. | 
-
-<a name="myprojects"></a>
-<h1>My Projects</h1>
-
-
-| Link             | Description             |
-|------------------|-------------------------|
- | <a href="https://cipher387.github.io/osintmap/">Worldwide OSINT Tools Map</a> |  | 
- | <a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search</a> |  | 
- | <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a> |  | 
- | <a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a> |  | 
- | <a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a> | |  
- | <a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress Investigation Toolbox</a> |  | 
- | <a href="https://cipher387.github.io/quickcacheandarchivesearch/">Quick Cache and Archive search</a>
- | <a href="https://github.com/cipher387/grep_for_osint">Grep for OSINT</a> | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails | 
- | <a href="https://cipher387.github.io/pastebinsearchengines/">5 Google Custom Search Engine for search 48 pastebin sites</a> |  | 
- | <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">CSE for search 20 source code hosting services</a> |  | 
- | <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> | List of Github repositories and articles with list of dorks for different search engines | 
- | <a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a> | List of API's for gathering information about phone numbers, addresses, domains etc | 
- | <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced Search Operators List</a> | List of the links to the docs for different services, which explain using of advanced search operators | 
-  | <a href="https://github.com/cipher387/code-understanding-tools">Code understanding tools list</a> | Tools for understanding other people's code  | 
-  | <a href="https://github.com/cipher387/awesome-grep">Awesome grep</a> | List of GREP modifications and alternatives for a variety of purposes| 
-  | <a href="https://github.com/cipher387/maltego-transforms-list">Maltego transforms list</a> | list of tools that handle different data and make it usable in Maltego| 
- 
- 
-<hr>
-
-Command line cheat sheet for this collection made by <a href="https://github.com/Coordinate-Cat">Coordinat Cat</a>:
-
-<a href="https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI">OSINT TOOLS CLI</a>
-     
+
+Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective) I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
+
+[](#table-of-contents)Table of contents
+- [Maps, Geolocation and Transport](#maps-geolocation-and-transport)
+    - [Social media and photos](#social-media-and-photos)
+    - [Nature](#nature)
+    - [Aviation](#aviation)
+    - [Maritime](#maritime)
+    - [Railway](#railway)
+    - [Routes](#routes)
+    - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
+    - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
+    - [Worldwide street webcams](#worldwide-street-webcams)
+    - [Tools](#tools)
+    - [Transport](#transport)
+    - [Communications, Internet, Technologies](#communications-internet-technologies)
+    - [Street View](#street-view)
+    - [Satellite/aerial imagery](#satelliteaerial-imagery)
+    - [Military tracking](#military-tracking)
+    - [Military visalisation](#military-visalisation)
+    - [Other](#other)
+- [Social Media](#social-media)
+    - [Twitter](#twitter)
+    - [YouTube](#youtube)
+    - [TikTok](#tiktok)
+    - [Protonmail](#protonmail)
+    - [Facebook](#facebook)
+    - [Clubhouse](#clubhouse)
+    - [Linkedin](#linkedin)
+    - [Xing](#xing)
+    - [Reddit](#reddit)
+    - [Onlyfans](#onlyfans)
+    - [Twitch](#twitch)
+    - [Fidonet](#fidonet)
+    - [Usenet](#usenet)
+    - [Tumblr](#tumblr)
+    - [Flickr](#flickr)
+    - [Spotify](#spotify)
+    - [Discord](#discord)
+    - [Yandex](#yandex)
+    - [Instagram](#instagram)
+    - [Google](#google)
+    - [Patreon](#patreon)
+    - [Github](#github)
+    - [Wikipedia](#wikipedia)
+    - [Parler](#parler)
+    - [Pornhub](#pornhub)
+    - [Steam](#steam)
+    - [Xbox](#xbox)
+    - [VK](#vk)
+    - [Office365](#office365)
+    - [OneDrive](#onedrive)
+    - [Udemy](#udemy)
+    - [Universal](#universal)
+    - [Downloaders](#downloaders)
+- [Domain/IP/Links](#domainiplinks)
+    - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
+    - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
+    - [Redirect lookup](#redirect-lookup)
+    - [Cookies analyze](#cookies-analyze)
+    - [Website's files metadata analyze and files downloads](#websites-files-metadata-analyze-and-files-downloads)
+    - [Backlinks analyze](#backlinks-analyze)
+    - [Website analyze](#website-analyze)
+    - [Domain/IP investigation](#domainip-investigation)
+    - [Subdomains scan/brute](#subdomains-scanbrute)
+    - [Cloudfare](#cloudfare)
+    - [Databases of domains](#databases-of-domains)
+    - [Website traffic look up](#website-traffic-look-up)
+    - [Website technology look up](#website-technology-look-up)
+    - [Source Code Analyzes](#source-code-analyzes)
+    - [Broken Links Checkers](#broken-links-checkers)
+    - [URL unshorteners](#url-unshorteners)
+- [Text Analyze](#text-analyze)
+- [Sound indefication and analyze](#sound-indefication-and-analyze)
+- [Sound search and analyze](#sound-search-and-analyze)
+- [Video editing and analyze](#video-editing-and-analyze)
+- [Image Search and Identification](#image-search-and-identification)
+    - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
+    - [Image editing tools](#image-editing-tools)
+    - [Other Image Search Engines](#other-image-search-engines)
+    - [Image Analyze](#image-analyze)
+    - [Exif Analyze and editing](#exif-analyze-and-editing)
+    - [Face recognition and search](#face-recognition-and-search)
+    - [Font Indenfication](#font-indenfication)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Messengers](#messengers)
+    - [Telegram](#telegram)
+    - [WhatsApp](#whatsapp)
+    - [Kik](#kik)
+    - [Slack](#slack)
+    - [Skype](#skype)
+- [Code](#code)
+- [Search engines](#search-engines)
+    - [Universal search tools](#universal-search-tools)
+    - [Darknet/deepweb search tools](#darknetdeepweb-search-tools)
+    - [Public buckets search tools](#public-buckets-search-tools)
+    - [Bugbounty/vulnerabilities search tools](#bugbountyvulnerabilities-search-tools)
+    - [Filesharing Search Engines](#filesharing-search-engines)
+    - [Tools for DuckDuckGo](#tools-for-duckduckgo)
+    - [Tools for Google](#tools-for-google)
+- [IOT](#iot)
+- [Archives](#archives)
+    - [Tools for working with web archives](#tools-for-working-with-web-archives)
+    - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
+- [Datasets](#datasets)
+- [Passwords](#passwords)
+- [Emails](#emails)
+- [Nicknames](#nicknames)
+- [Phone numbers](#phone-numbers)
+- [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
+- [Sock Puppets](#sock-puppets)
+- [NOOSINT tools](#noosint-tools)
+- [Visualization tools](#visualization-tools)
+- [Routine/Data Extraction Automation](#routinedata-extraction-automation)
+- [Browser analyze](#browser-analyze)
+- [Files](#files)
+- [IMEI and serial numbers](#imei-and-serial-numbers)
+- [NFT](#nft)
+- [Keywords, trends, news analytics](#keywords-trends-news-analytics)
+- [Apps and programs](#apps-and-programs)
+- [Company information search](#company-information-search)
+- [Bank information search](#bank-information-search)
+- [Brand/trademark information search](#brandtrademark-information-search)
+- [Tender/shipment information search](#tendershipment-information-search)
+- [Amazon](#amazon)
+- [Movies](#movies)
+- [Netflix](#netflix)
+- [TV/Radio](#tvradio)
+- [Tools collections/toolkits](#tools-collectionstoolkits)
+- [Databases and data analyzes](#databases-and-data-analyzes)
+- [Online OS Emulators](#online-os-emulators)
+- [Virtual Machines/Linux distributions](#virtual-machineslinux-distributions)
+- [My Projects](#my-projects)
+
+[](#maps-geolocation-and-transport)Maps, Geolocation and Transport
+==================================================================
+
+### [](#social-media-and-photos)Social media and photos
+
+| Link | Description |
+| --- | --- |
+| [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
+| [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
+| [Snapchat map](https://map.snapchat.com/) |     |
+| [YouTube Geofind](https://mattw.io/youtube-geofind/) | view YouTube geottaged video on map |
+| [Flickr Photo Map](https://www.flickr.com/map) |     |
+| [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
+| [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
+| [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
+| [Pastvu.com](https://pastvu.com/) | View historical photos taken at a particular location on a map. |
+| [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
+| [WikiShootMe](https://wikishootme.toolforge.org/) | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
+| [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
+| [COPERNIX](https://copernix.io/) | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
+| [Huntel.io](https://www.huntintel.io/) | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
+
+### [](#nature)Nature
+
+| Link | Description |
+| --- | --- |
+| [Map View NGMDB](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) | map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database). |
+| [WAQI](http://waqi.info) | World's Air Pollution: Real-time Air Quality Index map |
+| [GlobalFishingMap](https://globalfishingwatch.org/map/) | click on a point on the map and get the data on the current fishing effort at that location. |
+| [ncei.noaa.gov](https://www.ncei.noaa.gov/maps/hazards/) | Natural Hazards Viewer (worldwide) |
+| [Lightingmaps](https://www.lightningmaps.org/) | lightning strikes in real time and also data on thunderstorms that ended months or years ago |
+| [Light Pollution World Map](https://www.lightpollutionmap.info/) | showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013) |
+| [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world) |
+| [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours) |
+| [Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
+| [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. |
+| [USA Fishermap](https://usa.fishermap.org/depth-map/) | when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked |
+| [Mindat.org](https://www.mindat.org/countrylist.php) | mineral maps for different countries |
+| [Ventusky.com](https://www.ventusky.com/) | collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc) |
+| [Wunderground](https://www.wunderground.com/history) | weather history data |
+| [Rain Alarm](http://rain-alarm.com) | shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app) |
+| [Cyclocane](https://cyclocane.com) | click on the hurricane on the map and get detailed information about it |
+| [MeteoBlue](https://www.meteoblue.com/) | Weather stats data |
+| [Zoom.earth](https://zoom.earth/) | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas |
+| [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | worldwide detailed interactive bathymetry map |
+| [Soar.earth](https://soar.earth/) | big collection satellite, drone and ecological maps |
+| [Geodesics on the Earth](https://academo.org/demos/geodesics/) | finding the shortest path between two points |
+| [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
+| [Everymountainintheworld](http://everymountainintheworld.com/) | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
+| [Rivermap](https://rivermap.org/map/#sprache=en) | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
+| [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |
+| [Natural Hazards Map (worldwide)](https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
+| [River Runner Global](https://river-runner-global.samlearner.com/) | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
+| [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
+
+### [](#aviation)Aviation
+
+| Link | Description |
+| --- | --- |
+| [Skyvector](https://skyvector.com/) | tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it |
+| [Flight Connections](https://www.flightconnections.com/) | click on the airport on the map to see the cities from which it's possible fly direct |
+| [World Aviation Accident Database 1962-2007](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx) |     |
+| [World Aviation Accident Database 2008-2021](https://data.ntsb.gov/carol-main-public/basic-search) |     |
+| [Rzjets.net](http://rzjets.net/aircraft/) | user updated online database (census) of civilian jet and turbojet aircraft |
+| [Globe.adsbexchange.com](https://globe.adsbexchange.com/) | tracking flights on a map |
+| [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) |
+| [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | An extension that displays the size of the legroom between the seats next to the flight information. |
+
+### [](#maritime)Maritime
+
+| Link | Description |
+| --- | --- |
+| [Track Trace](https://www.track-trace.com/container) | tracking a shipping container by number |
+| [Container Tracking](http://container-tracking.org/) | tracking a shipping container by number |
+| [Searates container tracking](https://www.searates.com/container/tracking/) | tracking a shipping container by number |
+| [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | search for voyage details by voyage number or ship name |
+| [The Shipping Database](https://theshippingdatabase.com/) | comprehensive archive of the world ships. There is even data for 1820!!!!!!! |
+| [Submarinecablemap.com](https://www.submarinecablemap.com/) | submarine communications cables map |
+| [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
+| [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
+| [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
+
+### [](#railway)Railway
+
+| Link | Description |
+| --- | --- |
+| [Amtrak Status Maps Archive Database](https://juckins.net/amtrak_status/archive/html/history.php) | find out the train schedule for a station on a particular day that passed many years ago (since 2008) |
+| [Europe station maps floor plan](https://www.nsinternational.com/en/stations/station-maps-floor-plan) |     |
+| [Rasp.yandex.ru/map/trains](https://rasp.yandex.ru/map/trains) | Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia |
+| [Chronotrains](https://chronotrains-eu.vercel.app/) | A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train. |
+| [Direkht Ban Guru](https://direkt.bahn.guru/) | Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city). |
+
+### [](#routes)Routes
+
+| Link | Description |
+| --- | --- |
+| [Ride With GPS](https://ridewithgps.com/users) |     |
+| [Wandermap](http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain) | hiking routes world map |
+| [Runmap](http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain) | running routes world map |
+| [Bikemap](https://www.bikemap.net/) | biking route world map |
+
+### [](#politics-conflicts-and-crisis)Politics, conflicts and crisis
+
+| Link | Description |
+| --- | --- |
+| [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) |
+| [Crimemapping.com](https://www.crimemapping.com/) | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. |
+| [Citizen.com](https://citizen.com/explore) | live map of incidents (mainly shooting) that happened in the last hours in major U.S. cities |
+| [MARITIME AWARENESS PROJECT](https://map.nbr.org/interactivemap/) | detailed map of maritime borders of states, economic zones with statistical data on ports and many other objects |
+| [Monitor Tracking Civic Space Worldwide Map](https://monitor.civicus.org) | Civicus (@CIVICUSalliance) |
+| [Hungermap](https://hungermap.wfp.org) | Worldwide Hunger Map |
+| [Native-land.ca](https://native-land.ca/) | click on the point on the map and find out: - what nation this area used to belong to; - what language was once spoken there; - a historical event that resulted in a nation losing their territory. |
+| [RiskMap](https://www.riskmap.com/) |     |
+| [Liveuamap](https://liveuamap.com/) |     |
+| [Crisisgroup](https://www.crisisgroup.org/crisiswatch) |     |
+| [Hate Map](https://www.splcenter.org/hate-map) |     |
+| [emmeline.carto.com](https://emmeline.carto.com/me) |     |
+| [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
+| [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
+| [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
+
+### [](#urban-and-industrial-infrastructure)Urban and industrial infrastructure
+
+| Link | Description |
+| --- | --- |
+| [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
+| [gulfpub-gisstg.esriemcs.com](https://gulfpub-gisstg.esriemcs.com/pe_chevron/) | Detailed world gas pipelines map |
+| [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages |
+| [Emporis Buildings Map](https://www.emporis.com/buildings/map) | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose |
+| [Osmbuildings.org](https://osmbuildings.org/) | world map showing notable buildings. For each object you can find out the height, type, and purpose. |
+| [Find Food Support](https://findfoodsupport.withgoogle.com/) | find places where you can get free food by address (USA) |
+| [Aqicn](https://aqicn.org/map/world/) | Air pollution gauges on the map |
+| [Average Gamma Dose Rate Map](https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) | Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries |
+| [Poweroutage](https://poweroutage.com/) | Map with real-time power outage statistics by country and region. |
+| [Open Benches](https://openbenches.org/) | Worldwide map of 22,756 memorial benches (added by users). |
+| [Sondehub](https://sondehub.org/) | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
+| [The Meddin Bike-sharing World Map](https://bikesharingworldmap.com/) | 8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities. |
+| [Rally Maps](https://www.rally-maps.com/map) | A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available). |
+
+### [](#worldwide-street-webcams)Worldwide street webcams
+
+| Link | Description |
+| --- | --- |
+| [Insecam.org](http://www.insecam.org/) |     |
+| [Earthcam](https://www.earthcam.com/) |     |
+| [Camstreamer](https://camstreamer.com/live/map) |     |
+| [Webcamtaxi](https://www.webcamtaxi.com/en/map.html) |     |
+| [Skyline Webcams](https://www.skylinewebcams.com/webcam.html) |     |
+| [Worldcam.eu](https://worldcam.eu/) |     |
+| [Worldcams TV](https://worldcams.tv/) |     |
+| [Geocam](https://www.geocam.ru/en/) |     |
+| [Live beaches](https://www.livebeaches.com/australia/) | Beaches webcam only |
+| [Opentopia](http://www.opentopia.com/) |     |
+| [MangolinkWorld](https://www.mangolinkworld.com/) |     |
+| [FoxMonitor](https://www.foxmonitor.com/) |     |
+| [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Google Custom Search Engine for search in 10 online street webcam catalogs |
+
+### [](#tools)Tools
+
+| Link | Description |
+| --- | --- |
+| [Calculator IPVM](https://calculator.ipvm.com/) | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
+| [Osmaps Radius](http://jopf.re/osmaps-radius/) | drawing circles with a certain radius on the map |
+| [MeasureTool-GoogleMaps-V3](http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/) | Measurement tool for #GoogleMaps. |
+| [ACSDG](https://www.acscdg.com/) | tool allows you to quickly mark a group of points on the map and then export their geographic coordinates to CSV. |
+| [MeasureMapOnline](https://app.measuremaponline.com/dashboard/overview) | tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter |
+| [Map Fight](https://mapfight.xyz/browse/) | compare size of two countries |
+| [Presto Map lead extractor](https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related) | Converts information about labels on Google Maps to CSV or XLSX |
+| [Gmaps Extractor](https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related) | Extract data from placemarks |
+| [GPS Visualizer](https://www.gpsvisualizer.com/) | show gpx and tcx files on map |
+| [Map Checking](https://www.mapchecking.com/) | tool for measuring the number of people in a crowd of different area and density. |
+| [Mapnificent](https://www.mapnificent.net/) | Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) |
+| [Cesium ion](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe) | scalable and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device |
+| [OSM Smart Menu](https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related) | Google Chrome extension to switch between dozens of different types of online maps (based on #OpenStreetMap and NOT only) |
+| [Calcmaps](https://www.calcmaps.com/) | Simple online map tools: Calculate area (triangles, quadrilaterals and complex polygons), Calculate distance (for complex routes), Measure radius, Calculate elevation |
+| [Scribble maps](https://www.scribblemaps.com/) | Partly free online tool for creating infographics (images or pdf) based on maps. |
+
+### [](#transport)Transport
+
+| Link | Description |
+| --- | --- |
+| [Venicle Number Search Toolbox](https://cipher387.github.io/venicle_number_search_toolbox/) | search information about car by venicle numbers (14 different countries from one page) - #GreatBritain, #Norway, #Denmark, #Russian and others |
+| [Transit Visualisation Client](https://tracker.geops.ch) | real time info about public transport in 739 cities and towns in the dozens of countries |
+| [Collection of public transport maps](https://cipher387.github.io/public_transport_maps/) | 20 online public transport maps (most real-time) for different cities and countries around the world |
+| [WorldLicensePlates](http://www.worldlicenseplates.com/) | graphic index of license plates of different countries of the world |
+| [Openrailwaymap](https://openrailwaymap.org/) | Map of the world with information about the railroad tracks. It's possible to visualize maximum speed, electrification, track gauge, and other parameters. |
+
+### [](#communications-internet-technologies)Communications, Internet, Technologies
+
+| Link | Description |
+| --- | --- |
+| [Opencellid.org](https://opencellid.org/) | the world's largest Open Database of Cell Towers |
+| [API mylnikov.org](https://www.mylnikov.org/) | get lattitude and longitude by WiFI BBSID |
+| [nperf.com/map](http://nperf.com/en/map) | view the coverage area of different #cellular operators in different countries |
+| [nperf.com/map/5g](https://www.nperf.com/en/map/5g) | 5G coverage #map worldwide |
+| [Vincos.it](http://vincos.it/world-map-of-social-networks) | world social media popularity map |
+| [app.any.run](https://app.any.run) | interactive worldwide map of cyber threats statistics (last 24 hour) |
+| [Web Cam Taxi](https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html) | open webcams around the world |
+| [Radio Garden](http://radio.garden/visit/moscow/MQfEnBji) | select a local radio station on the world map and listen to what's playing at the moment |
+| [TorMap](https://twitter.com/cyb_detective/status/1536682540265873408) | Worldwide online map of Tor Nodes |
+| [GeoWiFi](https://github.com/GONZOsint/geowifi) | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
+| [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
+
+### [](#street-view)Street View
+
+| Link | Description |
+| --- | --- |
+| [Show My Street](http://showmystreet.com) | simple tool that simplifies and speeds up your research work with Google Street View. Just click on the map and see street panoramas |
+| [Mapillary](https://www.mapillary.com/app/) | street panoramas over the world |
+| [360cities.net/map](https://360cities.net/map) | world map of panoramic (360 degrees) images |
+| [Earthviewer360.com](http://earthviewer360.com) | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) |
+
+### [](#satelliteaerial-imagery)Satellite/aerial imagery
+
+| Link | Description |
+| --- | --- |
+| [Observer](http://observer.farearth.com/observer/) | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. |
+| [USGS Earth Explorer](https://earthexplorer.usgs.gov/) | more than 40 years old collection of satellite imagery |
+| [Landviewer](https://eos.com/products/landviewer/) | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues |
+| [Copernicus Open Access Hub](https://scihub.copernicus.eu/) | ESA's open access portal to Sentinel data |
+| [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) | complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA's archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place. |
+| [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground/) | tool for viewing satellite images with different effects and rendering. |
+| [NASA Earthdata Search](https://search.earthdata.nasa.gov/) | search in 8555+ collection and photos. |
+| [INPE Image Catalog](http://www.dgi.inpe.br/catalogo/) | free satellite images catalogue. |
+| [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/) | satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.) |
+| [NASA WorldView](https://worldview.earthdata.nasa.gov/) | high resolution and high quality satellite images. |
+| [ALOS](https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm) | "Advanced land Observer Satellite" images collection (Japan) |
+| [Bhuvan](https://bhuvan.nrsc.gov.in/home/index.php) | Indian Geo-platfrom of ISRO. |
+| [OpenAerialMap](https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6) | set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery |
+| [OpenAerialMap](https://map.openaerialmap.org/#/-18.632,18.47900000000001,3?_k=3za5b4) | Select an area on the map and get a list of freely available aerial images for that area. For some locations available images are many times superior in quality to conventional satellite images. |
+| [ApolloMapping Image Hunter](https://imagehunter.apollomapping.com/) | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
+
+### [](#military-tracking)Military tracking
+
+| Link | Description |
+| --- | --- |
+| [ADS-b.nl](https://www.ads-b.nl) | tracking military aircrafts. |
+| [Planefinder Army Live Flight Tracker](https://planefinder.net/flight/ARMY). |     |
+| [Itamilradar](https://www.itamilradar.com) | track military flights over Italy and over the Mediterranean Sea. |
+| [MarineVesselFinder](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) | military ship tracking. |
+| [BellingCat Radar Interfence Tracker](https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;) |     |
+| [WEBSDR](http://websdr.ewi.utwente.nl:8901) | online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). |
+| [Russia-Ukraine Monitor Map](https://www.info-res.org/map) | represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . |
+| [Ukraine liveuamap.com](https://liveuamap.com/ru) | online tracking of war-related events in Ukraine. |
+| [Syria Liveuamap](https://syria.liveuamap.com) | online tracking of war-related events in Syria. |
+| [NATO.int](https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1) | Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. |
+| [Understanding War Map Room](https://www.understandingwar.org/map-room) | collection of maps illustrating military conflicts in different countries. |
+
+### [](#military-visalisation)Military visalisation
+
+| Link | Description |
+| --- | --- |
+| [Map.Army](https://www.map.army/) | Online tool for creating schemes of battles and military operations on the map. Extensive customization possibilities and a huge library of symbols. |
+| [MGRS Mapper](https://mgrs-mapper.com/) | Build and share custom maps with standard military graphics using a simple visual interface (paod) |
+| [ArgGis Military Overlay](https://solutions.arcgis.com/defense/help/military-overlay/) | Military Overlay can be used to create overlays with standard military symbols, by using and adapting existing feature templates in **ArgGis Pro** |
+
+### [](#other)Other
+
+| Link | Description |
+| --- | --- |
+| [Demo.4map.com](http://demo.f4map.com) | 3D interactive world map |
+| [OldMapsOnline](https://www.oldmapsonline.org/) | World aggregator of old maps from various sources (498,908 maps) |
+| [Whatiswhere.com](http://whatiswhere.com) | OpenStreetMap based free POI (point of interest) search. 102 types of objects |
+| [Collection of cadastral maps](https://cipher387.github.io/collection_of_cadastral_maps/) | 41 countries |
+| [localfocus.nl/geokit](https://www.localfocus.nl/geokit/) | geographic toolkit for investigative journalists |
+| [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) | Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). |
+| [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps. |
+
+[](#social-media)Social Media
+=============================
+
+### [](#twitter)Twitter
+
+| Link | Description |
+| --- | --- |
+| [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
+| [Twitter account detector](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related) | A simple and fast Chrome extension that finds all Twitter accounts on a site. |
+| [Follower Wonk/Compare](https://followerwonk.com/compare/) | this service allows you to find out how many followers two (or three) Twitter accounts have in common. |
+| [Tweepsmap Unfollows](https://tweepsmap.com/dash/unfollows) | displayed unsubscribed accounts (list for the one week available for free) |
+| [app.truthnest.com](https://app.truthnest.com/) | best tool for Twitter account investigation |
+| [Treeverse.app](https://treeverse.app) | view dialogs in Twitter as a graph |
+| [Hashtagify](https://hashtagify.me/) | compare the popularity of the two hashtags |
+| [Scoutzen](https://www.scoutzen.com/twitter-lists/search) | search twitter lists by keywords |
+| [One Million Tweet Map](https://onemilliontweetmap.com/) |     |
+| [Tweet Binder](https://www.tweetbinder.com/) | detailed twitter account analyze |
+| [Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) |     |
+| [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
+| [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
+| [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
+| [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
+| [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
+| [DO ES FOLLOW](https://doesfollow.com/) | quick check if one user is subscribed to another on Twitter |
+| [Sleeping Time](http://sleepingtime.org/) | determining the approximate sleeping time of a user based on analysis of the timing of a tweet |
+| [Tweet Tunnel](https://tweettunnel.com/reverse.php) | tool for quick and comfortable viewing old tweet's of someone account |
+| [Twitter users directory](https://twitter.com/i/directory/) |     |
+| [FollowerAudit](https://www.followeraudit.com) | In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information (biography, geolocation, links, profile picture). |
+| [Foller.me](https://foller.me/) | Twitter account detailed analyze |
+| [Get day Twitter Trends](https://getdaytrends.com/) |     |
+| [US Twitter Trend Calendar](https://us.trend-calendar.com/) |     |
+| [Followerwonk](https://followerwonk.com/bio) | search by Twitter bio |
+| [Twitter Botometr](https://botometer.osome.iu.edu/) |     |
+| [projects.noahliebman.net/listcopy](http://projects.noahliebman.net/listcopy/connect.php) | copy a list made by another user to your Twitter account |
+| [Unfollower Stats](https://unfollowerstats.com/) | iOS App that tracking unfollowers and show nofollowersback and unactive followers for your Twitter account |
+| [Twish](https://chrome.google.com/webstore/detail/twish/afpegchfbaddfmenhkajjggbnjfjejeh/related) | very simple, quick, comfortable and nicely designed advanced #Twitter search query builder for #GoogleChrome. |
+| [Twitter Scraper](https://console.apify.com/actors/u6ppkMWAx2E2MpEuF) | Scrape any #Twitter user profile. Creates an unofficial Twitter API to extract tweets, retweets, replies, favorites, and conversation threads with no Twitter API limits. |
+| [Twiiter Trending Archive](http://archive.twitter-trending.com/) | A wide range of options for analyzing #Twitter trending history: 1. See what was popular on a particular day in a particular country or in the world as a whole. 2. Enter a keyword and find out when it was in the global/particular country trends. |
+| [Tweeview](https://tweeview.ml/) | Twitter conversation visualization (beta) |
+| [Tweeplers](https://www.tweeplers.com/?cc=GB) | Trending Twitter users and hashtags (map/list) Top twitted cities and countries Realtime Tweet Map |
+| [FlockNet](https://www.flock.network/) | A tool for finding and filtering your own #Twitter followers. It allows you to find all the people from a certain city or with certain interests. And then quickly view their profiles in a convenient format. |
+| [Orbit livasch](https://orbit.livasch.com/) | A tool for analyzing connections between Twitter accounts (based on the number of likes, retweets, tweet citations, and mentions). |
+| [The Twitter Stream Grab](https://archive.org/details/twitterstream) | Full archives of tweets in JSON for a particular month (from 2011, but some months are not available). |
+
+### [](#youtube)YouTube
+
+| Link | Description |
+| --- | --- |
+| [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
+| [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
+| [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | youtube channels comparing |
+| [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
+| [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related) | YouTube Subscription Manager |
+| [YouTube comment Finder](https://ytcomment.kmcat.uk/) |     |
+| [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
+| [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
+| [Slash Tags](https://github.com/huhmit/slashtags) | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
+| [YouTube playlist len](https://ytplaylist-len.herokuapp.com/) | Find out the total time of all the videos in playlist |
+| [Anylizer.com](https://anilyzer.com/) | watch frame by frame YouTube and Vimeo) |
+| [Improve YouTube](https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd) | extension with dozens of different tweaks to the standard #YouTube interface |
+| [YoTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
+| [watchframebyframe.com](http://www.watchframebyframe.com/) | watch frame by frame YouTube and Vimeo |
+| [Hadzy.com](https://hadzy.com/) | YouTube comment search) |
+| [Ytcs](https://github.com/lettapp/ytcs) | google chrome extension to search YouTube comments without leaving the site (link to source code) |
+| [YouTube Comment Search Chrome Extension](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related) |     |
+| [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. |
+| [Jump Cutter](https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related) | An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed... |
+| [YouFilter – YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
+| [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
+| [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related) | Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords |
+| [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) | Extract and download channel name, likes, number of views, and number of subscribers. Scrape by keyword or URL. |
+| [YouTube Booster](https://chrome.google.com/webstore/detail/youtube-booster/dajnidicmkknmmbapmmmlemjdfolgjnf/related) | This extension selects frames from videos and generates quick links to find them on Google and TinEye! |
+| [YouTube Caption Searcher](https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related) | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |
+| [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
+| [YouGlish](https://youglish.com/) | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
+| [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
+| [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
+
+### [](#tiktok)TikTok
+
+| Link | Description |
+| --- | --- |
+| [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
+| [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
+| [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
+| [TikTokD](https://tiktokd.com/) | TikTok Video Downloader |
+| [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
+| [Exolyt.com](https://exolyt.com/) | TikTok profile analyze |
+| [Tikbuddy](https://app.tikbuddy.com/) | TikTok profile analytics |
+| [Mavekite.com](https://mavekite.com/) | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos |
+| [Tiktok Scraper](https://github.com/sauermar/Tiktok-Scraper) | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. |
+| [Tikrank.com](https://tikrank.com) | free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database) |
+| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
+
+### [](#protonmail)Protonmail
+
+| Link | Description |
+| --- | --- |
+| [Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) | Validate ProtonMail email address, Gather info about ProtonMail user email or PGP Key, Search on the dark web target digital footprints, Check IP to belong to ProtonVPN |
+
+### [](#facebook)Facebook
+
+| Link | Description |
+| --- | --- |
+| [Find my FB ID (randomtools.io)](https://randomtools.io/) |     |
+| [435,627,630 indexed items from that Facebook dump of recent - ready to be searched upon.](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) |     |
+| [Facebook People Directory](https://www.facebook.com/directory/people/) |     |
+| [sowdust.github.io/fb-search](https://sowdust.github.io/fb-search/) | search facebook posts, people and groups using URL-filtres |
+| [Dumplt Blue](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related) | GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more. |
+| [Fdown.net](https://fdown.net) | Facebook video downloader |
+| [Facebook Latest Posts Scraper](https://console.apify.com/actors/EtZ9lsiipPgKrQIi6) | Scrape #Facebook posts with comments from one or multiple page URLs. Get post and comment texts, timestamps, post URLs, likes, shares, comments count, author ID. |
+| [Facebook Latest Comments Scraper](https://console.apify.com/actors/w8bYllu7Jq18uWz99) | Enter link to the #Facebook post and get comments comments to it (text, timestamp and other info). |
+| [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) | Scrape names and usernames from large friend lists on Facebook, without being rate limited" |
+
+### [](#clubhouse)Clubhouse
+
+| Link | Description |
+| --- | --- |
+| [ClubHouse users.db](https://clubhousedb.com/) | search users by nickname and keyword in profile |
+| [roomsofclubhouse.com](https://roomsofclubhouse.com/) | search open and scheduled rooms |
+| [clubsearch.io](https://clubsearch.io/) | search open and scheduled rooms |
+| [search4faces.com/ch00](https://search4faces.com/ch00/index.html) | reverse image face search by 4 millions 594 thousands #clubhouse avatars. |
+
+### [](#linkedin)Linkedin
+
+| Link | Description |
+| --- | --- |
+| [Freepeoplesseacrhtool.com](https://freepeoplesearchtool.com/) | find people in Linkedin without registration |
+| [CrossLinked](https://github.com/m8r0wn/crosslinked) | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping |
+| [Linkedin Datahub](https://github.com/linkedin/datahub/blob/master/docs/faq.md) | linkedIn's generalized metadata search & discovery tool |
+| [Recruitin.net](https://recruitin.net/) | easily use Google to search profiles on LinkedIn |
+
+### [](#xing)Xing
+
+| Link | Description |
+| --- | --- |
+| [XingDumper](https://github.com/l4rm4nd/XingDumper) | The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company. |
+
+### [](#reddit)Reddit
+
+| Link | Description |
+| --- | --- |
+| [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393) | an alternative format for interacting with Reddit |
+| [Reddit Insvestigator](https://www.redditinvestigator.com/) |     |
+| [redditcommentsearch.com](http://redditcommentsearch.com) | getting a list of all comments by a Reddit user with a certain name |
+| [dashboard.laterforreddit.com/analysis](https://dashboard.laterforreddit.com/analysis) | examine popular post trends for a given subreddit |
+| [Reddit Timer](https://ebof1223-reddit-timer.netlify.app/) | Get last week's hourly activity schedule for a specific subreddit |
+| [Redditsave.com](https://redditsave.com) | Reddit video downloader |
+| [Reddit Scraper](https://apify.com/trudax/reddit-scraper) | Crawl posts, comments, communities, and users without login. |
+| [Redditsearch.io](https://redditsearch.io/) | Reddit search tool |
+| [Reddloader.com](https://reddloader.com) | Reddit video downloader |
+| [Camas Reddit Search](https://camas.github.io/reddit-search/) | Search engines for Reddit with a lot of filtres |
+| [Reditmetis](https://redditmetis.com/) | View statistics fot Reddit users's account |
+| [Repostsleuth](https://repostsleuth.com/) | Reddit trends analyzer |
+| [Redetective](https://www.redective.com/) | Reddit search tool |
+| [Unddit.com](https://www.unddit.com/) | Display deleted content in Reddit |
+| [Reveddit](https://www.reveddit.com/about/#welcome) | Reveal reddit's removed content. Search by username, subreddit (r/), link or domain. |
+| [Reddit User Extractor](https://github.com/mylk/reddit-user-extractor) | #python script that allows you to get a complete list of comments by user name on Reddit in CSV format |
+| [Better Reddit Search](https://betterredditsearch.web.app/) | Reddit search tool for posts and subreddits (with boolean filters by keywords and filters by publication date). |
+| [Reddit Post Scraping Tool](https://github.com/rly0nheart/reddit-post-scraping-tool) | Simple #python script for scraping post from #Reddit (by keywords and subreddit name) |
+
+### [](#onlyfans)Onlyfans
+
+| Link | Description |
+| --- | --- |
+| [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
+| [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
+| [onlyfinder.com](https://onlyfinder.com/) | OnlyFans profiles search engine (search by people, images and deals) |
+| [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans profiles search engine with price filter |
+| [SimilarFans](https://similarfans.com/) | A tool to find #onlyfans profiles with many filters (by country, price, category, age, etc.). |
+
+### [](#twitch)Twitch
+
+| Link | Description |
+| --- | --- |
+| [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) | downloas full followers list of any Twitch account in CSV |
+| [Twitch Tracker](https://twitchtracker.com/) | detailed analysis of #Twitch streamer stats |
+| [Sully Gnome](https://sullygnome.com/) | detailed analysis of #Twitch streamer stats |
+| [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Search streams and filter results by title, game, language, number of viewers. |
+| [Untwitch.com](https://untwitch.com) | Twitch video downloader |
+| [Twitch Overlap](https://stats.roki.sh/) | shows the viewer and audience overlap stats between different channels on Twitch. Currently tracks all channels over 1000 concurrent viewers. Data updates every 30 minutes. |
+| [Justlog](https://logs.ivr.fi/) | Enter the username and the name of the channel to see all of the user's messages in that channel. The results can be downloaded as TXT |
+| [Pogu Live](https://twitter.com/PogULive) | Tool that allows you to watch sub only or deleted VODs for free. It works because when a streamer deletes a video, iit is not deleted from Twitch's servers immediately. |
+| [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
+| [Twitch Database](https://www.twitchdatabase.com/following) | Following List + Channel Metadata + Role Lookup |
+
+### [](#fidonet)Fidonet
+
+| Link | Description |
+| --- | --- |
+| [Fidonet nodelist](https://nodehist.fidonet.org.ua/) | search by node number, sysop name and sysop location |
+
+### [](#usenet)Usenet
+
+| Link | Description |
+| --- | --- |
+| [NZBFRIENDS](http://nzbfriends.com) | usenet search engine |
+
+### [](#tumblr)Tumblr
+
+| Link | Description |
+| --- | --- |
+| [Tumblr Tool](http://labs.polsys.net/tools/tumblr/) | collected posts tagged with a specific term from Tumblr and export to .tab file (opens in Excel) and .GDF (opens in Gephi) |
+
+### [](#flickr)Flickr
+
+| Link | Description |
+| --- | --- |
+| [Flickr Photopool Contact Network](http://labs.polsys.net/tools/flickr/photopool/) | Analyzes Flickr groups and makes a list of nicknames of participants for further graph analysis in Gephi |
+
+### [](#spotify)Spotify
+
+| Link | Description |
+| --- | --- |
+| [Zspotify](https://github.com/Footsiefat/zspotify) | Spotify track downloader. Download mp3 by link or by keywords |
+| [Chosic.com](https://www.chosic.com/spotify-playlist-analyzer/) | analyze the playlist on Spotiify, calculate the prevailing mood, genres, decades and favorite artists |
+| [Spotify downloader](https://github.com/spotDL/spotify-downloader) | download spotify playlist in mp3 from YouTube |
+| [chartmasters.org/spotify-streaming-numbers-tool/](http://chartmasters.org/spotify-streaming-numbers-tool/) | report of the number of streams of a particular artist's tracks on Spotify |
+
+### [](#discord)Discord
+
+| Link | Description |
+| --- | --- |
+| [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | 14 #Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc) in one #python tool. |
+| [Discord History Tracker](https://dht.chylex.com) | A tracking script will load messages from the selected channel and save them in .txt file. |
+| [Serverse](https://extraction.team/serverse) | Search for Discord servers by keyword. |
+
+### [](#yandex)Yandex
+
+| Link | Description |
+| --- | --- |
+| [YaSeeker](https://github.com/HowToFind-bot/YaSeeker) | Get information about [http://Yandex.ru](http://Yandex.ru) account by login |
+
+### [](#instagram)Instagram
+
+| Link | Description |
+| --- | --- |
+| [Instahunt](https://instahunt.co/) | Click on the point on the world map Click "Find places" Click "Get Instagram Place Data" Copy and paste the "Place Data" into the box View Insta locations on the map with links to photos! |
+| [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) | Get the names and links to all the locations on Instagram tied to specific geographic coordinates |
+| [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.) |
+| [Terra](https://github.com/xadhrit/terra) | Collect information about twitter and Instagram accounts |
+| [Instagram analyzer and viewer](https://gramho.com/) |     |
+| [Sterraxcyl](https://github.com/novitae/sterraxcyl) | Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc) |
+| [Storysaver.net](https://www.storysaver.net) | download Instagram stories. |
+| [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper) | Scrape info about accounts, posts, stories and comment |
+| [Instagram Hashtag Scraper](https://console.apify.com/actors/reGe1ST3OBgYZSsZJ) | Enter hashtag name and scrape all post tagged it. Get caption, commentsCount, photo dimensions, URL, other hashtags and other details in CSV, JSON or XLS table. |
+| [Tenai](https://github.com/novitae/Tenai) | Simple tool that uncover some followers of a private #Instagram account |
+| [TrendHero](https://trendhero.io/) | An Instagram profile search tool with a huge number of filters and the ability to view profile statistics. |
+| [INSTALOADER](https://github.com/instaloader/instaloader) | Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram |
+| [InsFo](https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related) | The ultimate simple tool for saving followers/following an Instagram account to a table. |
+
+### [](#google)Google
+
+| Link | Description |
+| --- | --- |
+| [GHunt](https://github.com/mxrch/GHunt) | google account investigation tool |
+
+### [](#patreon)Patreon
+
+| Link | Description |
+| --- | --- |
+| [Graphtreon.com](https://graphtreon.com/) | patreon accounts earnings stats |
+
+### [](#github)Github
+
+| Link | Description |
+| --- | --- |
+| [Star History](https://star-history.com) | simple tool that shows how the number of stars a repository on #Github has changed over the past three months. |
+| [Commits.top](https://commits.top/) | Current list of the most active @Github users by country |
+| [Gitstar Ranking](https://gitstar-ranking.com/) | Unofficial GitHub star ranking for users, organizations and repositories |
+| [Github Rater](https://aykutsarac.github.io/github-rater/) | rates GitHub profile upon data received from GitHub API |
+| [Github Trending Archives](https://github.com/willin/github-trending) | Github trending archive for a specific date. |
+| [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci) | simple google chrome extension to view Github repo size |
+| [Gitcolombo](https://github.com/soxoj/gitcolombo) | simple and fast tool that collects information (edit statistics and contacts) about repository contributors on Github |
+| [Coderstats](https://coderstats.net) | enter Github username and get detailed statistics of profile: languages, issues, forks, stars and much more |
+| [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related) | it shows a visual representation of the temporal distribution of user changes in the repositories. You can visually see "productivity peaks" and see which days of the week a person is most active |
+| [Zen](https://github.com/s0md3v/Zen) | Tool for gathering emails of #Github users |
+| [GithubCompare](https://www.githubcompare.com) | When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars. |
+| [DownGit](https://minhaskamal.github.io/DownGit/#/home) | Create GitHub Resource Download Link |
+| [Profile Summary for Github](https://profile-summary-for-github.com/search) | Get detailed stats by Github username |
+| [Github Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related) | Displays a block of detailed information about the repository or user when the mouse pointer is placed over it. Save time for those who look through dozens of pages of #Github search results in search of the right tool for their tasks. |
+| [SEART Github Search](https://seart-ghs.si.usi.ch/) | Search engine for #Github with a dozen different filters. It has slightly fewer features than the standard Github advanced search, but more user-friendly. |
+| [Repos Timeline](https://repostimeline.nazifbara.com/) | Enter #Github username and click Generate to see a timeline with all of the user's repositories and forks they have made. |
+| [Gitvio](https://gitvio.vercel.app/) | A tool to quickly and easily view detailed information about a user's Github profile: the most popular repositories, number of commits, issues and , statistics of languages used, and more. |
+
+### [](#wikipedia)Wikipedia
+
+| Link | Description |
+| --- | --- |
+| [WikiStalk : Analyze Wikipedia User's Activity](https://github.com/altilunium/wistalk) |     |
+| [Wikipedia Cross-lingual Image Analysis](https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/) | A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance. |
+
+### [](#parler)Parler
+
+| Link | Description |
+| --- | --- |
+| [Parler archive](https://parler.adatascienti.st/) |     |
+
+### [](#pornhub)Pornhub
+
+| Link | Description |
+| --- | --- |
+| [Sn0int framework module for Pornhub](https://sn0int.com/r/kpcyrd/pornhub) |     |
+
+### [](#steam)Steam
+
+| Link | Description |
+| --- | --- |
+| [steamdb.info/calculator](https://steamdb.info/calculator/) | shows how much money has been spent on games in Steam by a particular user |
+| [Steam Osint Tool](https://github.com/matiash26/Steam-OSINT-TOOL) | Enter the link to the user's Steam profile to get a list of his or her closed "friends" and a list of his or her public comments. |
+
+### [](#xbox)Xbox
+
+| Link | Description |
+| --- | --- |
+| [Xboxgamertag](https://xboxgamertag.com/) | search Xbox Live users by nickname (gamertag). It's possible to view gamer's stats and his playing history. |
+
+### [](#vk)VK
+
+| Link | Description |
+| --- | --- |
+| [Vk.city4me.com](http://vk.city4me.com/) | tracking user online time |
+
+### [](#office365)Office365
+
+| Link | Description |
+| --- | --- |
+| [Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) | A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once. |
+| [o365chk](https://github.com/nixintel/o365chk) | simple #Python script to check if there is an #Office365 instance linked to a particular domain and gathering information about this instance. |
+
+### [](#onedrive)OneDrive
+
+| Link | Description |
+| --- | --- |
+| [Onedrive Enumeration Tool](https://github.com/nyxgeek/onedrive_user_enum) | A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company. |
+
+### [](#udemy)Udemy
+
+| Link | Description |
+| --- | --- |
+| [Udemy Video Playback Speed](https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related) | A simple extension that changes the speed of playing video courses on #Udemy. |
+
+### [](#universal)Universal
+
+| Link | Description |
+| --- | --- |
+| [Gallery-dl](https://github.com/mikf/gallery-dl) | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai |
+| [Kribrum.io](https://kribrum.io/search) | searchengine for different social media platforms with filters by author and time period |
+| [Auto Scroll Search](https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related) | automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it. |
+| [Social Blade](https://socialblade.com/) | help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more |
+| [ExportComments](https://exportcomments.com) | Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free |
+| [Social Media Salary Calculator](http://lickd.co/blog/social-salary-calculator) | for YouTube, TikTok, Instagram |
+| [Chat-downloader](https://github.com/xenova/chat-downloader) | download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. |
+| [FindMyBID](https://findmyfbid.in/) | Toolkit for collecting data from social networks |
+| [Social Analyzer](https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp) | extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them. |
+| [Khalil Shreateh Social Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/) | More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.) |
+| [Kworb](https://kworb.net/) | A lot of different statistics on views and listens collected from #YouTube, #iTunes, #Spotify. Ratings by country, year, music type, and more. |
+| [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd) | An extension for Chrome that allows you to find a link to Linkedin, Facebook, VK, StackOverflow, Instagram... by user Github (or other) profile |
+| [RUBY](https://github.com/jakecreps/ruby) | Simple tool for searching videos by keyword in Rumble, BitChute, YouTube and saving results (author, title, link) to CSV file. |
+
+[](#downloaders)Downloaders
+===========================
+
+| Link | Description |
+| --- | --- |
+| [Wenku](https://pypi.org/project/wenku/) | download documents from Baidu Wenku without registration |
+| [Slideshare Downloader](https://github.com/mohan3d/slideshare-go) | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) |
+| [Gdown](https://github.com/wkentaro/gdown) | When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved |
+| [Waybackpack](https://github.com/jsvine/waybackpack) | download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) |
+| [Chat-downloader](https://github.com/xenova/chat-downloader) | download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. |
+| [Gallery-dl](https://github.com/mikf/gallery-dl) | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai |
+| [Spotify downloader](https://github.com/spotDL/spotify-downloader) | download spotify playlist in mp3 from YouTube |
+| [Zspotify](https://github.com/Footsiefat/zspotify) | Spotify track downloader. Download mp3 by link or by keywords |
+| [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
+| [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
+| [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
+| [Storysaver.net](https://www.storysaver.net) | download Instagram stories |
+| [Fdown.net](https://fdown.net) | Facebook video downloader |
+| [Untwitch.com](https://untwitch.com) | Twitch video downloader |
+| [Redditsave.com](https://redditsave.com) | Reddit video downloader |
+| [DownGit](https://minhaskamal.github.io/DownGit/#/home) | Create GitHub Resource Download Link |
+| [SaveFrom.net](https://en.savefrom.net/70/) | download video from YouTube, Vimeo, VK, Odnoklassniki and dozen of others services |
+| [Gdown](https://github.com/wkentaro/gdown) | When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved. |
+| [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) | simple tool that will help set up the distribution of files with different extensions into different folders in a minute and permanently put "Downloads" folder in order. |
+| [Z History Dump](https://chrome.google.com/webstore/detail/z-history-dump/ahpkicobhkchblogldpjchdhmdnblpkm/related) | Open chrome://history/ and download all links from browser history in json. This provides tremendous opportunities for visualization and analysis of information. |
+| [Slideshare Downloader](https://github.com/mohan3d/slideshare-go) | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) |
+| [Megatools](https://megous.com/git/megatools) | The [http://Mega.nz](http://Mega.nz) file exchange contains links to many files, including various databases of leaked data. You can use the megatools command-line tool to automate your work with this file-sharing service. |
+| [You Get](https://github.com/soimort/you-get) | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
+| [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
+| [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
+
+[](#domainiplinks)Domain/IP/Links
+=================================
+
+### [](#dorkspentestvulnerabilities)Dorks/Pentest/Vulnerabilities
+
+| Link | Description |
+| --- | --- |
+| [Investigator Recon Tool](https://abhijithb200.github.io/investigator/) | web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name. |
+| [Site Dorks](https://github.com/Zarcolio/sitedorks) |     |
+| [Google (universal) Dork Builder](https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/) | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database |
+| [Hakrawler](https://github.com/hakluke/hakrawler) | Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application. |
+| [0xdork](https://github.com/rlyonheart/0xdork) | Very light and simple #Python tool for Google Dorking |
+| [FilePhish](https://cartographia.github.io/FilePhish/) | Simple online Google query builder for fast and easy document file discovery. |
+| [Snyk.io](https://snyk.io/test/website-scanner/) | Website Vulnerabilities Scanner |
+| [dorks.faisalahmed.me](https://dorks.faisalahmed.me) | online constructor of google dorks for searching "sensitive" wesite pages |
+| [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. |
+| [Dork Scanner](https://github.com/Balgogan/dorkscanner) | NOT support Google. Only Bing, ASK and [http://WoW.com](http://WoW.com) (AOL) search engines. Can work with very long lists of queries/documents (in .txt files) |
+| [ixss.warsong.pw](http://ixss.warsong.pw/xssor/) | very old service for making XSS (Cross Site Scripting) faster and easier |
+| [ReconFTW](https://github.com/six2dez/reconftw) | tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities |
+| [LFITester](https://github.com/kostas-pa/LFITester) | Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack |
+| [Oralyzer](https://github.com/r0075h3ll/Oralyzer) | Script that check website for following types of Open Redirect Vulnerabilities |
+| [RobotTester](https://github.com/p0dalirius/robotstester) | Simple Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not. |
+| [SickNerd](https://github.com/JakeWnuk/SickNerd) | tool for researching domain lists using Google Dorking. You can automatically load fresh dorks from GHDB and customize the maximum number of results |
+| [CDNStrip](https://github.com/j3ssie/cdnstrip) | Very fast #go tool, that sorts the list of IP addresses into two lists: CDN and no CDN. |
+| [H3X-CCTV](https://github.com/the-h3x/H3X-CCTV) | A simple command line tool with a Google Dorks list to find vulnerable CCTV cameras |
+| [nDorker](https://github.com/nerrorsec/nDorker) | Enter the domain name and get quick links to Google Dorks, Github dorks, Shodan dorks and quick links to get info about domain in Codepad, Codepen, Codeshare and other sites ("vendor dorking") |
+| [Scan4all](https://github.com/hktalent/scan4all) | 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzzing and many many more |
+| [Intezer Analyzer](https://analyze.intezer.com/) | Online tool for finding code injections, malware, unrecognized code and suspicious artifacts in: Files (up to 150 mb), URL, Memory dumps, Endpoints |
+| [WEBOSINT](https://github.com/C3n7ral051nt4g3ncy/webosint) | Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs. |
+| [KnockKnock](https://github.com/harleo/knockknock) | A very fast script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain (which could theoretically belong to the same person or company) |
+| [SQLI Dorks Generator](https://github.com/Zold1/sqli-dorks-generator) | python script generates Google Dorks for SQL Injections for sites from the list. |
+| [Dorks Hunter](https://github.com/six2dez/dorks_hunter) | A simple script to analyze domain using Google Dorks. It saves in file the results of checking the following categories Backup files, Database files, Exposed documents, Sub-subdomains, Login pages, SQL/PHP errors |
+
+### [](#searchers-scrapers-extractors-parsers)Searchers, scrapers, extractors, parsers
+
+| Link | Description |
+| --- | --- |
+| [Scrappy!](https://chrome.google.com/webstore/detail/scrappy/bcphfcbaecjifhiojhejdiogpanlmadm/related) | One of the easiest to learn web scrapers I've seen (and quite fast at that). It allows you to extract all URLs, table fields, lists and any elements matching the given criteria from a web page in a second. |
+| [find+](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related) | Regex Find-in-Page Tool |
+| [Google Chrome webpage Regexp search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn) |     |
+| [Regex Checker](https://chrome.google.com/webstore/detail/regex-checker/gkcnkoebkkppbapcjifgokmpcflfhbde) | Search and highlight (in webpage): Emails, Phone numbers, Dates, Prices, Addresses |
+| [moarTLS Analyzer](https://chrome.google.com/webstore/detail/moartls-analyzer/ldfbacdbackkjhclmhnjabngnppnkagh/related) | addon which check all links on the webpage and show list of non-secure links |
+| [Scrape API](https://www.scraperapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=s_proxies_for_scraping_europe&utm_term=scrape%20api&gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdnurtUihUJqiJpUAtwoPqsJ1X8lSio9etK9Mgcg-fb7qp23xUF2ZscaAqcvEALw_wcB) | Proxy API for Web Scraping |
+| [Try.jsoup.org](http://try.jsoup.org) | online version of HTML pasrer [http://github.com/jhy/jsoup](http://github.com/jhy/jsoup) |
+| [Investigo](https://github.com/tdh8316/Investigo) | A very simple and fast (written in #go) tool that searches for active links to social network accounts by username (or multiple usernames) |
+| [Extract images](https://extract.pics/) | Extract pictures from any webpage. Analyze, sort, download and search in them by keywords. |
+
+### [](#redirect-lookup)Redirect lookup
+
+| Link | Description |
+| --- | --- |
+| [Redirect Detective](https://redirectdetective.com/) | tool that allows you to do a full trace of a URL Redirect |
+| [Wheregoes.com](https://wheregoes.com/) | tool that allows you to do a full trace of a URL Redirect |
+| [Spyoffers.com](https://www.spyoffers.com/) | tool that allows you to do a full trace of a URL Redirect |
+
+### [](#cookies-analyze)Cookies analyze
+
+| Link | Description |
+| --- | --- |
+| [Determines if website is not comply with EU Cookie Law and gives you insight about cookies installed from website before the visitors consent](https://www.cookiemetrix.com/) |     |
+| [Audits website cookies, online tracking and HTTPS usage for GDPR compliance](https://2gdpr.com/) |     |
+| [Webemailextractor.com](https://www.webemailextractor.com/) | extract email's and phone numbers from the website or list of website |
+| [cookieserve.com](https://www.cookieserve.com/) | detailed website cookie analyze |
+| [What every Browser knows about you](https://webkay.robinlinus.com) | This site not only shows what information your browser provides to third-party sites, but also explains how it can be dangerous and suggests what extensions will help to ensure your anonymity. |
+| [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/) | User Agent String can be found, for example, in the logs of your site (or someone else's), in the source code of some CLI tools for #osint and many other places. |
+
+### [](#websites-files-metadata-analyze-and-files-downloads)Website's files metadata analyze and files downloads
+
+| Link | Description |
+| --- | --- |
+| [Metagoofil](https://github.com/laramies/metagoofil) | finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses |
+| [Aline](https://github.com/ferreiraklet/Aline) | a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
+| [Goblyn](https://github.com/loseys/Goblyn) | tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file |
+| [DORK DUMP](https://github.com/dievus/msdorkdump) | Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them. |
+| [VERY QUICK and SIMPLE metadata online editor and remover](https://products.groupdocs.app/metadata/total) |     |
+| [AutoExif](https://github.com/SirCryptic/autoexif) | A simple script to read and delete metadata from images and ACVH videos. |
+| [DumpsterDiver](https://github.com/securing/DumpsterDiver) | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc) |
+| [HACHOIR](https://github.com/vstinner/hachoir) | One of the most powerful tools for work with files metadata with the most detailed settings. |
+
+### [](#backlinks-analyze)Backlinks analyze
+
+| Link | Description |
+| --- | --- |
+| [SEO Spyglass Backlink checker](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html) |     |
+| [Neilpatel backlinks analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks) | find out how many sites are linking to a certain web page |
+
+### [](#website-analyze)Website analyze
+
+| Link | Description |
+| --- | --- |
+| [AppSumo Content Analyzer](https://app.buzzsumo.com/content/web) | Enter the name of the domain and find out for free its three most popular publications in social networks (for six months, a quarter, a month, or the last day) |
+| [OpenLinkProfiles](http://openlinkprofiler.org/) | Get backlinks by website URL. Filter and sort backlinks by anchor, context, trust, LIS and industry. |
+| [Lookyloo](https://lookyloo.circl.lu/) | Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc) |
+| [Core SERP Vitals](https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related) | adds a bit of information from CrUX API to the standard Google search results |
+| [BGPView](https://bgpview.io/) | web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more |
+| [Terms of Service Didn't Read](https://tosdr.org/) | find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps |
+| [analyzeid.com](https://analyzeid.com) | find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches |
+| [MMHDAN](https://mmhdan.herokuapp.com) | Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines |
+| [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
+| [Hackertarget](https://github.com/pyhackertarget/hackertarget) | 14 tools for gathering information about domain using Hackerarget API ([http://hackertarget.com](http://hackertarget.com)) |
+| [AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships) | command line #tool for to search for links between domains by Google Analytics ID |
+| [Pidrila](https://github.com/enemy-submarine/pidrila) | Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer |
+| [Adsense Identiicator Finder](https://osint.sh/adsense/) | this service finds other sites belonging to the same owner or company by Google Adsense ID |
+| [Smart ruler](https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related) | Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites |
+| [SourceWolf](https://github.com/ksharinarayanan/SourceWolf) | A tool for analyzing #javascript files. It finds all the variables, endpoints and social media links mentioned in the code in just a few seconds. |
+| [Stylifyme](http://stylifyme.com/) | Tool for analyzing the style characteristics of a particular website. In the context of #osint, it will help when analyzing links between two sites (common rare design features may indicate common owner) |
+| [Content Security Policy (CSP) Validator](https://cspvalidator.org/#url=https://cspvalidator.org/) | Online service for checking the headers and meta tags of websites for compliance with security standards. It can help determine if a site is vulnerable to common vulnerabilities (XSS, clickjacking, etc). |
+| [Nibbler](https://nibbler.insites.com/) | Free tool for comprehensive website analysis on more than ten different parameters. |
+| [WebHackUrls](https://github.com/mathis2001/WebHackUrls) | The simplest tool for URl recon with filter by keyword and saving results to file. |
+
+### [](#domainip-investigation)Domain/IP investigation
+
+| Link | Description |
+| --- | --- |
+| [@UniversalSearchBot](https://t.me/UniversalSearchBot) | telegram bot finding information about email, russian phone number, domain or IP |
+| [Domain Investigation Toolbox](http://cipher387.github.io/domain_investigation_toolbox/) | gather information about domain with 41 online tools from one page. |
+| [GoFindWhois](https://gofindwhois.com/) | More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze. |
+| [Spyfu](https://www.spyfu.com/overview/domain) | tool to collect seo information about the domain, which provide a lot of data partly for free |
+| [Spyse.com](https://spyse.com/) | domain investigation toolbox |
+| [Spyse CLI](https://github.com/spyse-com/cli) | command line client for Spyse.com |
+| [Domaintracker](https://domaintracker.app/) | webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email) |
+| [Whois Domain Search Tool](https://whois.marcaria.com/en) | A tool that allows you to query whois data for a site name in several domain zones at once. |
+| [IP Neighbors](https://www.ip-neighbors.com/host/) | Find the hosting neighbors for a specific web site or hostname |
+| [The Favicon Finder](http://besticon.herokuapp.com/) | Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly. |
+| [HostHunter](https://github.com/SpiderLabs/HostHunter) | Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames |
+| [Tor Whois](https://torwhois.com/) |     |
+| [Dnstwister](https://dnstwister.report/) | The anti-phishing domain name search engine and DNS monitoring service |
+| [Source code search engine (315 million domains indexed). Search by title, metadata, javascript files, server name, location and more.](https://domaincodex.com) | Source code search engine (315 million domains indexed). Search by title, metadata, javascript files, server name, location and more. |
+| [Dnstwist](https://github.com/elceef/dnstwist) | Command line anti-phishing domain name search engine and DNS monitoring service |
+| [Ditto](https://github.com/evilsocket/ditto) | Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered |
+| [RADB](http://radb.net/query) | Provides information collected from all the registries that form part of the Internet Routing Registry |
+| [IPinfo map](https://ipinfo.io/map) | paste up to 500,000 IPs below to see where they're located on a map |
+| [Whois XML API Whois history database](https://whois.whoisxmlapi.com/database/pricing) |     |
+| [Hakrawler](https://github.com/hakluke/hakrawler) | discover endpoints and assets |
+| [Passive DNS search](https://passivedns.mnemonic.no/) |     |
+| [Talos Intelligence Mail Server Reputation](https://talosintelligence.com/reputation_center/) |     |
+| [netbootcamp.org/websitetool.html](https://netbootcamp.org/websitetool.html) | access to 74 #tools to collect domain information from a single page |
+| [Hussh](https://github.com/harshnandwana/hussh) | shell script for domain analyzing |
+| [Check any website to see in real time if it is blocked in China](https://www.vpnmentor.com/tools/test-the-great-china-firewall/) |     |
+| [@iptools_robot](https://t.me/iptools_robot) | univsersal domain investigation Telegram bot |
+| [Raymond](https://github.com/hamza07-w/raymond) | Framework for gathering information about website |
+| [Pulsedive](https://pulsedive.com/) | A partially free website research tool. Collects detailed information about IP, whois, ssl, dns, ports, threats reports, geolocation, cookies, metadata (fb app id etc). Make screenshots and many others |
+| [Striker](https://github.com/s0md3v/Striker) | Quick and simple tool for gathering information about domain (http headers, technologies, vulnerabilities etc). |
+| [SiteBroker](https://github.com/Anon-Exploiter/SiteBroker) | Domain investigation #python tool |
+| [DNSlytics](https://dnslytics.com/) | find out everything about a domain name, IP address or provider. Discover relations between them and see historical data |
+| [FindMyAss (HostSpider)](https://github.com/h3x0crypt/HostSpider) | Domain investigations toolkit |
+| [Drishti](https://github.com/indiancyberops/Drishti) | Nodejs toolkit for OSINT |
+| [passivedns.mnemonic.no](https://passivedns.mnemonic.no) | DNS history search by IP-adress or by domain name |
+| [Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml) | Google Chrome extension. 56 tools for domain, ip and url investigation in one |
+| [Ip Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) | type ip-adress once and gather information about it with 13 tools |
+| [Crab](https://github.com/N0tA1dan/Crab) | Well done and well designed port scanner, host info gatherer (include whois). |
+| [MayorSecDNSScan](https://github.com/dievus/msdnsscan) | Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration. |
+| [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | Very quick and simple subdomain enumeration using [http://crt.sh](http://crt.sh). |
+| [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
+
+### [](#subdomains-scanbrute)Subdomains scan/brute
+
+| Link | Description |
+| --- | --- |
+| [SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute) | Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds. |
+| [Anubis](https://github.com/jonluca/Anubis) | Subdomain enumeration and information gathering tool |
+| [Turbolist3r](https://github.com/alex14324/Turbolist3r) | An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b) |
+| [DomE](https://github.com/v4d1/Dome) | Fast and reliable #python script that makes active and/or passive scan to obtain subdomains and search for open ports. Used 21 different #OSINT sources (AlienVault, ThreatCrowd, Urlscan io etc) |
+| [CloudBrute](https://github.com/0xsha/CloudBrute) | Tool to find target infrastructure, files, and apps on the popular cloud providers |
+| [dnsReaper](https://github.com/punk-security/dnsReaper) | TwiSub-domain takeover tool |
+
+### [](#cloudfare)Cloudfare
+
+| Link | Description |
+| --- | --- |
+| [Cloudmare](https://github.com/MrH0wl/Cloudmare) | Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS |
+| [CloudUnflare](https://github.com/greycatz/CloudUnflare) | Reconnaissance Real IP address for Cloudflare Bypass |
+
+### [](#databases-of-domains)Databases of domains
+
+| Link | Description |
+| --- | --- |
+| [Whois Freaks](https://whoisfreaks.com/) | API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name |
+| [Expireddomains.net](https://www.expireddomains.net/deleted-domains/) | lists of deleted and expired domains (last 7 days) |
+| [InstantDomainSearch](https://instantdomainsearch.com/domain/sale) | search for domains for sale |
+| [WhoisDS.com](http://whoisds.com/newly-registered-domains) | database of domains registered in the last day |
+| [API Domaindumper](https://api.domaindumper.com) | An interesting tool for researchers of IT history and data journalists. Just an FREE API that shows how many sites were registered in each domain zone on a given day (since January 1, 1990) |
+| [ptrarchive.com](http://ptrarchive.com/) | search by 230 billion DNS records retrieved from 2008 to the present. |
+| [PeeringDB](https://www.peeringdb.com/) | Freely available, user-maintained, database of networks, and the go-to location for interconnection data. |
+| [IQWhois](https://iqwhois.com/advanced-search) | Search whois data by address, city, name, surname, phonenumber |
+
+### [](#website-traffic-look-up)Website traffic look up
+
+| Link | Description |
+| --- | --- |
+| [SimilarWeb](https://www.similarweb.com/) | Detailed website traffic analyze |
+| [Alexa](https://www.alexa.com/) | Keyword Research, Competitive Analysis, Website Ranking |
+| [HypeStat Analyzer Plugin](https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related) | Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies. |
+| [vstat.info](https://vstat.info) | Getting detailed info about website traffic (sources, keywords, linked sites etc) |
+
+### [](#website-technology-look-up)Website technology look up
+
+| Link | Description |
+| --- | --- |
+| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related) | extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts. |
+| [Built With](https://builtwith.com/) |     |
+| [w3techs](https://w3techs.com/sites) |     |
+| [Hexometer stack checker](https://hexometer.com/stack-checker) |     |
+| [Web Tech Survey](https://webtechsurvey.com/website/) |     |
+| [Awesome Tech Stack](https://awesometechstack.com/) |     |
+| [Netcraft Site Report](https://sitereport.netcraft.com/) |     |
+| [Wappalyzer](https://www.wappalyzer.com/) |     |
+| [Larger.io](https://www.larger.io/) |     |
+| [CMLabs Tools](https://tools.cmlabs.co/en/technology-lookup) |     |
+| [Snov.io technology checker](https://app.snov.io/techcheck/main) | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it. |
+
+### [](#source-code-analyzes)Source Code Analyzes
+
+| Link | Description |
+| --- | --- |
+| [Retire.js](https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related) | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries |
+| [OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related) | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |
+| [SIngle File](https://github.com/gildas-lormeau/SingleFile) | GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file |
+| [Dirscraper](https://github.com/Cillian-Collins/dirscraper) | OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website |
+| [Ericom Page Risk Analysis](https://chrome.google.com/webstore/detail/analyzer/bmbhpmmhjkbmcachipmccnlcemaoiiji/related) | Get a detailed report with links to CSS, Javascript, Fonts, XHR, Images and domains web pages |
+| [SecretFinder](https://github.com/m4ll0k/SecretFinder) | Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files |
+| [Copy all links and image links to CSV or JSON](https://chrome.google.com/webstore/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg/related) | Download all links from current webpage in CSV (for open in #Excel) or JSON |
+| [ArchiveReady](http://archiveready.com) | OSINT specialists most often use various web archives to analyze other people's sites. But if you want your descendants to be able to find your own site, check whether the code of its pages is understandable for crawlers of web archives. |
+| [Talend API Tester Free Edition](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm/related?hl=ru) | tool that allows to quickly test requests to different APIs directly in the browser, send requests and inspect responses, validate API behavior |
+| [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf/related) | Shows all the domains to which the site connects at runtime and allows you to block different sources at will. Useful for ad blocking, tracking, data collection, and various experiments. |
+| [Open Link Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj) | View webpage details info in Google Chrome: RDFa linked data ([http://rdfa.info](http://rdfa.info)) POSH (Plain Old Semantic HTML) Microdata RSS |
+
+### [](#broken-links-checkers)Broken Links Checkers
+
+| Link | Description |
+| --- | --- |
+| [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). |
+| [Broken Link Checker](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related) | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. |
+| [Open Multiple Links ☷ One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
+| [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related) | Old and large lists of tutorials or tools often have many inactive links. This extension will help mark inactive links in red and save you time checking them out. |
+
+### [](#url-unshorteners)URL unshorteners
+
+| Link | Description |
+| --- | --- |
+| [Get Link Info](https://www.getlinkinfo.com/) |     |
+| [Unshorten.me](https://unshorten.me/) |     |
+| [Urlxray](http://urlxray.com/) |     |
+| [Unshorten.it](https://unshorten.it/) |     |
+
+### [](#text-analyze)Text Analyze
+
+| Link | Description |
+| --- | --- |
+| [Headlines.Sharethrough.com](https://headlines.sharethrough.com/) | analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100 |
+| [Wordtune.com](https://wordtune.com/read) | Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text. |
+
+[](#sound-indefication-and-analyze)Sound indefication and analyze
+=================================================================
+
+| Link | Description |
+| --- | --- |
+| [Online Loudness Meter](https://youlean.co/online-loudness-meter/) | allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file. |
+| [Voice Stress Test](https://www.cignaglobal.com/stress-care/individuals/voice-tool) | tool analyzes the voice and determines a person's stress level. |
+| [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related) | A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay) |
+| [MP3 Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) |     |
+
+[](#sound-search-and-analyze)Sound search and analyze
+=====================================================
+
+| Link | Description |
+| --- | --- |
+| [soundeffectssearch.com](https://www.soundeffectssearch.com/find-a-sound-library/) | find a sound library |
+| [Vocal Remover](https://vocalremover.org/) | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
+
+[](#video-editing-and-analyze)Video editing and analyze
+=======================================================
+
+| Link | Description |
+| --- | --- |
+| [unscreen.com](https://www.unscreen.com/) | remove the background from an uploaded video |
+| [TextGrab](https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related) | Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) |
+| [Lossless Cut](https://github.com/mifi/lossless-cut) | #javascript #opensource swiss army knife for audio/video editing. |
+
+[](#image-search-and-identification)Image Search and Identification
+===================================================================
+
+### [](#reverse-image-search-engines-and-automation-tools)Reverse Image Search Engines and automation tools
+
+| Link | Description |
+| --- | --- |
+| [News Myseldon](https://news.myseldon.com/en/) | from the photo looks for famous and little-known (like minor officials) people |
+| [Ascii2d.net](http://ascii2d.net) | Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download |
+| [Searchbyimage.app](https://searchbyimage.app/) | search clothes in online shops |
+| [Aliseeks.com](https://www.aliseeks.com/search) | search items by photo in AliExpress and Ebay |
+| [lykdat.com](https://lykdat.com/) | clothing reverse image search services |
+| [IQDB.org](https://iqdb.org/) | reverse image search specially for anime art |
+| [pic.sogou.com](https://pic.sogou.com/) | chinese reverse image search engine |
+| [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
+| [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
+| [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once |
+| [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
+| [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
+| [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
+| [DepositPhotos Reverse Image Search](https://ru.depositphotos.com/search/by-images.html) | tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). |
+| [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree) | Upload a picture of a face and get three paintings that show similar people. |
+| [Image So Search](https://image.so.com/) | Qihoo 360 Reverse Images Search |
+| [GORIS](https://github.com/tanaikech/goris) | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
+| [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
+| [Logobook](http://www.logobook.com/) | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
+| [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
+
+### [](#image-editing-tools)Image editing tools
+
+| Link | Description |
+| --- | --- |
+| [Theinpaint](https://theinpaint.com/) | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
+| [GFPGAN](https://replicate.com/tencentarc/gfpgan) | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
+| [Remini AI Photo Enhancer](https://app.remini.ai/) | Tool allows to restore blurry faces to photos. |
+| [Letsenhance](https://letsenhance.io/) | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
+
+### [](#other-image-search-engines)Other Image Search Engines
+
+| Link | Description |
+| --- | --- |
+| [SN Radar VK Photo Search](https://snradar.azurewebsites.net/) |     |
+| [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
+
+### [](#image-analyze)Image Analyze
+
+| Link | Description |
+| --- | --- |
+| [Sherloq](http://github.com/GuidoBartoli/sherloq) | open source image #forensic toolset made by profesional photograph Guido Bartoli |
+| [Image Color Picker](https://imagecolorpicker.com/) | pick color (HEX or RGB) from image or website screenshot |
+| [Find and Set Scale From Image](https://www.blocklayer.com/scale-fixereng.aspx) |     |
+| [Image Forensic (Ghiro Online)](http://www.imageforensic.org/) |     |
+| [compress-or-die.com/analyze](https://compress-or-die.com/analyze) | get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) |
+| [aperisolve.fr](https://aperisolve.fr) | Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool. |
+| [Dicom Viewer](https://www.imaios.com/en/Imaios-Dicom-Viewer) | view MRI or CT photo online (.DCM files) |
+| [Caloriemama](https://www.caloriemama.ai/api) | AI can identify the type of food from the photo and give information about its caloric value. |
+| [BetterViewer](https://chrome.google.com/webstore/detail/betterviewer/llcpfkbjgkpmapiidpnohffjmmnhpmpb) | #Google Chrome extension for work with images. Right click on the picture and open it in new tab. You will get access to the following tools: Zoom, Flip, Rotate, Color picker, Extract text, Reverse image search, QR code scanner and much more |
+| [PhotoOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted. |
+
+### [](#exif-analyze-and-editing)Exif Analyze and editing
+
+| Link | Description |
+| --- | --- |
+| [EXIF-PY](https://github.com/ianare/exif-py) | get exif data of photos thrue command line |
+| [Exif.app](http://exif.app) | Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow |
+| [Image Analyzer Addon](https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek) | View all images on a page and expose image properties, EXIF data, and one-click download |
+| [Online metadata viewer and editor](https://products.groupdocs.app/metadata/) | High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp. |
+| [Scan QR Code](https://4qrcode.com/scan-qr-code.php) | While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture |
+| [Identify plans](https://identify.plantnet.org/) |     |
+| [Forensicdots.de](https://www.forensicdots.de/) | find "yellow dots" (Machine Identification Code) in printed documents |
+| [Image Diff Checker](https://www.diffchecker.com/image-diff/) |     |
+| [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) | tool for mass geotagging of photos |
+| [exifLooter](https://github.com/aydinnyunus/exifLooter) | Quick #go tool to automate work with EXIF data |
+
+### [](#face-recognition-and-search)Face recognition and search
+
+| Link | Description |
+| --- | --- |
+| [Face Recognition](https://github.com/ageitgey/face_recognition) | facial recognition api for Python and the command line |
+| [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
+| [Search4faces.com](https://search4faces.com/) | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit |
+| [Telegram Facemath bot](https://t.me/facematch_bot) | searching for a face among the archive of photographs from public events in Kazakhstan |
+
+### [](#font-indenfication)Font Indenfication
+
+| Link | Description |
+| --- | --- |
+| [WhatTheFont](https://www.myfonts.com/WhatTheFont/) |     |
+| [WhatFontIs](https://www.whatfontis.com/) |     |
+| [Font Squirrel](https://www.fontsquirrel.com/matcherator) |     |
+| [Font Spring](https://www.fontspring.com/matcherator) |     |
+| [Identifont.com](http://www.identifont.com/) |     |
+| [LikeFont.com](https://en.likefont.com/) |     |
+
+[](#cryptocurrencies)Cryptocurrencies
+=====================================
+
+| Link | Description |
+| --- | --- |
+| [Wallet explorer](https://www.walletexplorer.com/) | bitcoin wallet transaction history |
+| [Blockpath.com](https://blockpath.com/) | viewing bitcoin wallet transactions as a graph |
+| [Cryptocurrency alerting](https://cryptocurrencyalerting.com/) | track spending and deposits in Bitcoin and Ethereum wallets |
+| [Learnmebitcoin.com](https://learnmeabitcoin.com/tools/path/) | find transactions between two Bitcoin adresses |
+| [Coinwink.com](https://coinwink.com/) | allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value |
+| [BlockCypher](https://blockcypher.herokuapp.com/) | Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin, Dash. Getting into about address, transactions and block hashes, block number or wallet name. |
+
+[](#messengers)Messengers
+=========================
+
+### [](#telegram)Telegram
+
+| Link | Description |
+| --- | --- |
+| [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
+| [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | search by Telegram comments |
+| [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
+| [@SangMataInfo_bot](https://t.me/SangMataInfo_bot) | forward a message from the user and find out the history of their name in Telegram |
+| [@tgscanrobot](https://t.me/tgscanrobot) | telegram bot to show which telegram groups a person is member of. |
+| <a href='https://t.me/telebrellabot'>@telebrellabot</a> | telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745). | 
+| [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) | Discover the location of nearby Telegram users on OpenStreetMap |
+| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts) |
+| [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
+| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number |
+| [Telegcrack.com](https://telegcrack.com/) | search in telegra.ph |
+| [@VoiceMsgBot](https://t.me/VoiceMsgBot) | telegram bot to which you can send voice messages and it converts them into text |
+| [@transcriber_bot](https://t.me/transcriber_bot) | telegram bot, which can convert to text voice messages in 24 languages (view pic) |
+| [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
+| [@YTranslateBot](https://t.me/YTranslateBot) | type text or resend messages to Telegram bot for translate it. |
+
+### [](#whatsapp)WhatsApp
+
+| Link | Description |
+| --- | --- |
+| [whatsanalyze.com](https://Whatsanalyze.com) | analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency) |
+| [chatvisualizer.com](https://chatvisualizer.com) | another #WhatsApp chat analyzer. |
+| [Watools.io](https://watools.io/download-profile-picture) | download whatsapp profile picture |
+| [WAGSCRAPER](https://github.com/riz4d/WaGpScraper) | Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images) |
+
+### [](#kik)Kik
+
+| Link | Description |
+| --- | --- |
+| [Kikusernames.com](https://kikusernames.com/search) | Kik messenger username search |
+
+### [](#slack)Slack
+
+| Link | Description |
+| --- | --- |
+| [Slack Pirate](https://github.com/emtunc/SlackPirate) | tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token |
+
+### [](#skype)Skype
+
+| Link | Description |
+| --- | --- |
+| [vedbex.com/tools/email2skype](https://www.vedbex.com/tools/email2skype) | finding a Skype account by email |
+| [SkypeHunt](https://github.com/8C/skypehunt) | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
+
+[](#code)Code
+=============
+
+| Link | Description |
+| --- | --- |
+| [Grep.app](https://grep.app/) | regExp search in Github repositories |
+| [Searchcode.com](https://searchcode.com/) | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages |
+| [Code Repository Google CSE](https://cipher387.github.io/code_repository_google_custom_search_engines/) | Google CSE for search 15 code repository services |
+| [Libraries.io](https://libraries.io) | search by 4 690 628 packages across 32 different package managers |
+| [The Scraper](https://github.com/champmq/TheScrapper) | Simple tool for scrapping emails and social media accounts from the website's source code. |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) | Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs |
+| [Complete Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper) | Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @). |
+| [Python Code Checker](https://extendsclass.com/python-tester.html) | quick find errors in code |
+| [Github Search](https://github.com/gwen001/github-search) | collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos |
+| [Sploitus](https://sploitus.com/) | exploit and hacker's tools search engine |
+| [Leakcop](https://leakcop.info/) | service that monitors in real-time the illegal use of source code from certain repositories on Github |
+| [Github Artifact Exporter](https://github.com/github/github-artifact-exporter) | provides a set of packages to make exporting Issues easier useful for those migrating information out of Github |
+| [PublicWWW](https://publicwww.com/) | webpages source code search engine |
+| [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
+| [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
+| [YouCode](https://you.com/code) | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
+| [De4js](https://lelinhtinh.github.io/de4js/) | HTML/JS deobfuscator |
+| [TIO RUN](https://tio.run) | Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser |
+| [Explain Shell](https://explainshell.com/) | this site will help you quickly understand terminal commands-lines from articles, manuals, and tutorials |
+| [Codesandbox](https://codesandbox.io/) | Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph). |
+| [shellcheck.net](https://www.shellcheck.net/) | analyzes command-line scripts and explains in detail the errors found in them |
+| [Regular Expression Analyzer](https://xenon.stanford.edu/~xusch/regexp/) | super tool for those who forget to leave comments on their code or have to deal with someone else's code. |
+| [Developer search tool](https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related) | Take the art of copy and paste from Stack Overflow to a new level of speed and productivity |
+| [HTTP Cat](https://github.com/httpcats/http.cat) | free #API to get pictures with cats for different HTTP response codes |
+| [Run PHP functions online](https://www.functions-online.com/) |     |
+| [HTTPIE.IO](https://httpie.io/run) | command-line HTTP client |
+| [The Missing Package Manager for macOS (or Linux)](https://brew.sh/) |     |
+| [Gitpod.io](https://gitpod.io/workspaces) | run code from repositories on Github directly in a browser |
+| [Thanks](https://github.com/feross/thanks) | A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers. |
+| [The Fuck](https://github.com/nvbn/thefuck) | Simple app which corrects your previous console commands. |
+| [API Guesser](https://api-guesser.netlify.app/) | Enter the API key or token to find out which service it can be used by. |
+| [Cheat․sh](https://github.com/chubin/cheat.sh) | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
+| [NGINXconfig](https://www.digitalocean.com/community/tools/nginx) | Online tool to configure stable and secure #nginx server. Select the options and then download the config files. |
+| [SPF Explainer](https://www.digitalocean.com/community/tools/spf) | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
+| [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
+| [AWK JS](https://awk.js.org/) | AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk. |
+
+[](#search-engines)Search engines
+=================================
+
+| Link | Description |
+| --- | --- |
+| [fnd.io](https://fnd.io/) | alternative search engine for the AppStore and iTunes |
+| [GlobalSpec Engineer Search Engine](https://www.globalspec.com/) |     |
+| [URVX](https://uvrx.com) | Based by Google Custom Search tool for searching in popular cloud storages service |
+| [Mac Address Search Tool](http://mac.lc) | search by full Mac adress, part of Mac adress (prefix), vendor name or brand name |
+| [Hashatit.com](https://www.hashatit.com/) | hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest |
+| [Goo.ne.jp](https://www.goo.ne.jp/) | beautiful japanese search engine |
+| [Peteyvid](https://peteyvid.com) | search engine for 70 video hosting sites |
+| [3DFindit](https://3dfindit.com/textsearch) | tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs. |
+| [Filechef](http://filechef.com) | tool for searching different type of files (videos, application, documents, audio, images) |
+| [Find Who Events](https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0) | Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor |
+| [Listennotes](https://www.listennotes.com/) | Podcast Search Engine |
+| [thereisabotforthat.com](https://thereisabotforthat.com/bots/search) | search by catalog of 5151 bots for 17 different apps and platforms |
+| [BooleanStringBank](https://www.scoperac.com/booleanstringbank/) | over 430+ strings and 3553+ keywords |
+| [Google Unlocked](https://github.com/Ibit-to/google-unlocked) | browser extension uncensor google search results |
+| [Iconfinder.com](https://www.iconfinder.com/search) | Icons Search Engine |
+| [Google Datasets Search](https://datasetsearch.research.google.com/) |     |
+| [Gifcities.org](https://gifcities.org/) | GIF Search Engine from archive.org |
+| [Presearch.org](https://presearch.org/) | privately decentralized search engine, powered by #blockchain technology |
+| [milled.com](https://milled.com/search) | search engine for searching through the texts of email marketing messages |
+| [Orion](https://github.com/Araekiel/orion) | open-Source Search Engine for social networking websites. |
+| [PacketTotal](https://packettotal.com/app/search) | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. |
+| [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
+| [Yeggi](https://www.yeggi.com/) | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
+| [Memegine](https://memegine.com/) | A search engine to find memes. Helps you find rare and obscure memes when Google fails. |
+| [ChatBottle](https://chatbottle.co/bots/) | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
+| [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
+| [DensePhrase](http://densephrases.korea.ac.kr/) | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. |
+
+### [](#universal-search-tools)Universal search tools
+
+| Link | Description |
+| --- | --- |
+| [S](https://github.com/zquestz/s) | Search from command line in 106 different sources |
+| [searchall.net](https://searchall.net) | 75 fields for quick entry of queries to different search services on one page |
+| [Query-server](https://query-server.herokuapp.com) | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. |
+| [Search Engines Scraper](https://github.com/tasos-py/Search-Engines-Scraper) | Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines. |
+| [Trufflepiggy (Context Search)](https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo) | Search selected text in different search engines and sites from Google Chrome context menu. |
+| [Search Patterns](https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001) | A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet). |
+
+### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
+
+| Link | Description |
+| --- | --- |
+| [Onion Search](https://github.com/megadose/OnionSearch) |     |
+| [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
+| [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) |     |
+| [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
+| [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
+| [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
+
+### [](#public-buckets-search-tools)Public buckets search tools
+
+| Link | Description |
+| --- | --- |
+| [buckets.grayhatwarfare.com](http://buckets.grayhatwarfare.com) | Amazon Public Buckets Search |
+| [osint.sh/buckets](http://osint.sh/buckets) | Azure Public Buckets Search |
+
+### [](#bugbountyvulnerabilities-search-tools)Bugbounty/vulnerabilities search tools
+
+| Link | Description |
+| --- | --- |
+| [Firebounty](https://firebounty.com) | Bug bounty search engine |
+| [BugBountyHunting](https://www.bugbountyhunting.com) | Bug bounty hunting search engine |
+| [Leakix](https://leakix.net/) | A search engine for web services where common types of vulnerabilities have been found. |
+| [Network Entity Reputation Database (NERD)](https://nerd.cesnet.cz/) | database of malicious entities on the Internet) It's possible to search by IP, domain, subdomain, and other parameters, including even the country code (useful for large-scale research) |
+| [Inventory Raw Pm](https://inventory.raw.pm/) | Search by best #cybersecurity tools, resources, #ctf and #bugbounty platforms. |
+| [RFC.fyi](https://rfc.fyi/) | Browseable, searchable RFC index |
+| [Hacker News Algolia](https://hn.algolia.com/) | Hacker News search engine with filters. Useful for finding all mentions of a product or person. |
+| [Control Validation Compass](https://controlcompass.github.io/) | Database of 9,000+ publicly-accessible detection rules and 2,100+ offensive security tests, aligned with over 500 common attacker techniques. |
+| [Hacking the Cloud](https://hackingthe.cloud/) | Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on cloud exploitation (#AWS, #Azure, #GoogleCloud, #Terraform,) |
+
+### [](#filesharing-search-engines)Filesharing Search Engines
+
+**I strongly recommend to use it strictly for research purposes and to search for files that cannot be legally purchased anywhere else. Respect the copyrights of others.**
+
+| Link | Description |
+| --- | --- |
+| [Napalm FTP Indexer](https://www.searchftps.net/) |     |
+| [Cloud File Search Engine](http://filesearch.link) | search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc) |
+| [Filesearching](https://filesearching.com) | old FTP servers search engine with filter by top-level domain name and filetype |
+| [Snowfl.com](https://snowfl.com) | torrent aggregator which searches various public torrent indexes in real-time |
+| [Torrents.me](https://torrends.to) | torrent aggregator with search engines and list of new torrents trackers |
+| [Open Directory Finder](https://ewasion.github.io/opendirectory-finder/#) | Tool for search files based by Google CSE |
+| [Mamont's open FTP indexer](https://www.mmnt.net) |     |
+| [Orion Media Indexer](https://orionoid.com) | Lightning Fast Link Indexer for Torrents, Usenet, and Hosters |
+| [Library Genesis](https://libgen.fun) | "search engine for articles and books, which allows free access to content that is otherwise paywalled or not digitized elsewhere" (c) |
+| [Sunxdcc](http://sunxdcc.com) | XDCC file search engine |
+| [Xdcc.eu](https://www.xdcc.eu) | XDCC search engine |
+| [URVX.com](http://www.uvrx.com) | File storage search engine based by Google CSE |
+| [DDL Search](http://ddlsearch.free.fr) | search engine for Rapidshare, Megaupload, Filefactory, Depositfile, Fileserve and a lot of other file sharing sites |
+| [Sharedigger](http://www.sharedigger.com) | search files in popular file hosting services |
+| [Xtorx](https://www.xtorx.com) | fast torrents search engine |
+| [Torrent Seeker](https://torrentseeker.com) | torrents search engine |
+| [FreeWare web FTP file search](http://www.freewareweb.com/ftpsearch.shtml) | ftp servers search engine |
+| [Search 22](https://search-22.com/ftp-search-tools) | access to 10+ ftp search tools from one page |
+| [Heystack](https://heystacks.com/) | Service for finding public files in Google Docs, Google Sheets and Google Slides. It's possible to filter results by topic group and creation date. |
+
+[](#tools-for-duckduckgo)Tools for DuckDuckGo
+=============================================
+
+| Link | Description |
+| --- | --- |
+| [DuckDuckGo !bangs](https://chrome.google.com/webstore/detail/duckduckgo-bangs/hdjfebkndhmegijlghjcdghdbealibeb/related) | extension that add DuckDuckGo bang buttons to search results and search links in the context menu |
+| [DDGR](https://github.com/jarun/ddgr) | Search in DuckDuckGo via the command line: - export the results to JSON; - bangs support - location setting |
+
+[](#tools-for-google)Tools for Google
+=====================================
+
+| Link | Description |
+| --- | --- |
+| [Google Search Scraper](https://apify.com/apify/google-search-scraper) | Crawls Google Search result pages (SERPs) and extracts a list of organic results, ads, related queries and more. It supports selection of custom country, language and location |
+| [Googler](https://github.com/jarun/googler) | command line google search tool |
+| [goosh.org](https://goosh.org/) | online google search command line tool |
+| [Web Search Navigator](https://github.com/infokiller/web-search-navigator) | extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others |
+| [Overload Search](https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related) | Advanced query builder in #Google with the possibilities: change the language and country of your search, disable safe search,disable personalization of search results ("filter bubble") |
+| [Google Autocomplete Scraper](https://tools.digitalmethods.net/beta/scrapeGoogle/autocomplete.php) | One of the best ways to learn more about a person, company, or subject is to see what people are more likely to type in a search engine along with it. |
+| [SDorker](https://github.com/TheSpeedX/SDorker) | Type the Google Dork and get the list of the pages, that came up with this query. |
+| [XGS](https://github.com/XAMFRA/XGS) | allows you to search for links to onion sites using Google Dorks (site:[http://onion.cab](http://onion.cab), site:[http://onion.city](http://onion.city) etc) |
+| [Google Email Extractor](https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related) | Extract emails from Google Search Results |
+| [SEQE.me](https://seqe.me/) | online #tool for constructing search queries using advanced search operators simultaneously for five search engines |
+| [Bright Local Search Result Checker](https://www.brightlocal.com/local-search-results-checker/) | shows what #Google search results look like for a particular query around the world (by exact address) |
+| [Auto Searcher](https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related) | One by one types words from a given list into the search bar of #Google, #Bing, or another search engine |
+| [2lingual.com](https://2lingual.com/) | google search in two languages simultaneously in one window |
+| [I search from](http://isearchfrom.com/) | allows you to customize the country, language, device, city when searching on Google |
+| [Anon Scraper](https://github.com/370rokas/anonscraper) | Search uploaded files to AnonFile using Google |
+| [Search Commands](https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related) | Google Chrome extension provides a Swiss-knife style commands tool inside your browser's address bar to enhance your search experience |
+| [Boolean Builder theBalazs](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=940516593) | Google Sheet to tool for constructing Google X-Ray search queries. |
+
+### [](#iot)IOT
+
+| Link | Description |
+| --- | --- |
+| [Greynoise.io](https://www.greynoise.io/) |     |
+| [fofa.so](https://fofa.so/) |     |
+| [Thingful.net](https://www.thingful.net/) |     |
+| [TheLordEye](https://github.com/rlyonheart/thelordseye) | Tool that searches for devices directly connected to the internet with a user specified query. It returns results for webcams, traffic lights, routers, smart TVs etc |
+
+[](#archives)Archives
+=====================
+
+| Link | Description |
+| --- | --- |
+| [Quick Cache and Archive search](https://quickcacheandarchivesearch.onrender.com/) | quick search website old versions in different search engines and archives (21 source) |
+| [Trove](http://trove.nla.gov.au/search/category/websites) | australian web archive |
+| [Vandal](https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related) | extension that makes working with [http://archive.org](http://archive.org) faster, more comfortable, and more efficient. |
+| [TheOldNet.com](https://theoldnet.com/) |     |
+| [Carbon Dating The Web](http://carbondate.cs.odu.edu/) |     |
+| [Arquivo.pt](https://arquivo.pt/) |     |
+| [Archive.md](https://archive.md/) |     |
+| [Webarchive.loc.gov](http://webarchive.loc.gov/) |     |
+| [Swap.stanford.edu](https://swap.stanford.edu/) |     |
+| [Wayback.archive-it.org](http://wayback.archive-it.org/) |     |
+| [Vefsafn.is](https://vefsafn.is/) |     |
+| [web.archive.bibalex.org](http://web.archive.bibalex.org/) |     |
+| [Archive.vn](https://archive.vn/) |     |
+| [UKWA](https://www.webarchive.org.uk/) | archive of more than half a billion saved English-language web pages (data from 2013) |
+
+### [](#tools-for-working-with-web-archives)Tools for working with web archives
+
+| Link | Description |
+| --- | --- |
+| [Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related) | extension for viewing cached web page version in 18 search engines and services |
+| [EasyCache](https://gaetanlhf.github.io/EasyCache/) | quick search website old versions in different search engines and archives |
+| [cachedview.b4your.com](https://cachedview.b4your.com/en/) | quick search website old versions in different search engines and archives |
+| [Internet Archive Wayback Machine Link Ripper](https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#) | Enter a host or URL to retrieve the links to the URL's archived versions at [http://wayback.archive.org](http://wayback.archive.org). A text file is produced which lists the archive URLs. |
+| [Waybackpack](https://github.com/jsvine/waybackpack) | download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) |
+| [TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine) | Toolkit to use [http://archive.org](http://archive.org) to search for vulnerabilities |
+| [Waybackpy](https://github.com/akamhy/waybackpy) | If you want to write your own script to work with [http://archive.org](http://archive.org), check out the #python library Wayback Machine API. You can use it to quickly automate the extraction of all sorts of website data from the webarchive. |
+| [Archivebox](https://archivebox.io) | Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files |
+| [WaybackPDF](https://github.com/Haax9/WaybackPDF) | Collects a list of saved PDFs for the given domain from [http://archive.org](http://archive.org) and downloads them into a folder. |
+| [Archive-org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) | A simple #python script for downloading books from [http://archive.org](http://archive.org) in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
+| [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
+
+[](#archives-of-documentsnewspapers)Archives of documents/newspapers
+====================================================================
+
+| Link | Description |
+| --- | --- |
+| [UK National Archives](https://nationalarchives.gov.uk/) | search in the catalogue of United Kingdom "The National Archives" |
+| [Directory of Open Access Journals](https://doaj.org/search/journals) | Search by 16 920 journals, 6, 588, 661 articles, 80 lanquages, 129 countries |
+| [National Center for Biotechnology](https://www.ncbi.nlm.nih.gov/) | unique tool to search 39 scientific databases (Pubmed, SRA, OMIN, MedGen etc) from one page |
+| [industrydocuments.ucsf.edu](http://industrydocuments.ucsf.edu/) | digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel) |
+| [Offshor Leaks](https://offshoreleaks.icij.org/) | Search through various databases of leaked documents of offshore companies |
+| [Vault.fbi.gov](https://vault.fbi.gov/search) | Vault is FOIA Library, containing 6,700 documents that have been scanned from paper |
+| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
+| [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
+| [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
+
+[](#datasets)Datasets
+=====================
+
+| Link | Description |
+| --- | --- |
+| [Afrobarometer](https://afrobarometer.org/online-data-analysis/analyse-online) | huge database of the results of sociological surveys conducted in African countries over the last 20 years |
+| [Arabbarometer](https://www.arabbarometer.org/survey-data/data-analysis-tool/) | database of the results of sociological surveys conducted in the Arab countries of Africa and the Middle East in 2007-2018 |
+| [dataset.domainsproject.org](https://dataset.domainsproject.org/) | dataset of 616 millions domains (16GB!) |
+| [Stevemorse.org](https://stevemorse.org/ssdi/ssdi.html) | Searching the Social Security Death Index |
+| [UK Census Online](https://ukcensusonline.com/search/) | Database of deaths, births, and marriages. From 1841 to the beginning of the 21st century. Only the first and last names can be searched. |
+
+[](#passwords)Passwords
+=======================
+
+| Link | Description |
+| --- | --- |
+| [CrackStation.net](https://crackstation.net/) | password hash cracker |
+| [Leak peek](https://leakpeek.com/) | by pasword search part of email and site, where this password is used |
+| [Reference of default settings of different router models (IP, username, password)](https://www.cleancss.com/router-default/) |     |
+| [Many Passwords](https://many-passwords.github.io/) | Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels) |
+| [PassHunt](https://github.com/Viralmaniar/Passhunt) | Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords |
+| [BugMenot](http://bugmenot.com) | login and passwords for public accounts in different services |
+
+[](#emails)Emails
+=================
+
+| Link | Description |
+| --- | --- |
+| [geeMail User Finder](https://github.com/dievus/geeMailUserFinder) | A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails. |
+| [Breachchecker.com](https://breachchecker.com/) | history of data leaks associated with a particular email address |
+| [Metric Sparrow email permulator](http://metricsparrow.com/toolkit/email-permutator/) |     |
+| [snov.io email finder](https://snov.io/email-finder) | find emails of company employees by domain name. |
+| [Mailfoguess](https://github.com/WildSiphon/Mailfoguess) | tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails |
+| [Hunter.io](https://hunter.io/) | can link to an article to find its author and his email address |
+| [Mailcat](https://github.com/sharsil/mailcat) | find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases |
+| [H8mail](https://github.com/khast3x/h8mail) | email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent |
+| [MailBoxLayer API](https://mailboxlayer.com/) | free api for email adress checking |
+| [EmailHippo](https://tools.emailhippo.com/email/) | Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale. |
+| [Spycloud.com](https://spycloud.com/check-your-exposure/) | check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled |
+| [Gravatar check](https://en.gravatar.com/site/check/) | Just enter email and see what the person's Gravatar avatar looks like. |
+| [Email Permutator](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0) | Google Sheet table that generate 46 variants of user email by first name, last name and domain |
+| [Have I Been Sold?](https://haveibeensold.app/) | The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. |
+| [mailMeta](https://github.com/gr33nm0nk2802/mailMeta) | Simple tool to analyze emails headers and identify spoofed emails. |
+
+[](#nicknames)Nicknames
+=======================
+
+| Link | Description |
+| --- | --- |
+| [@maigret\_osint\_bot](https://t.me/maigret_osint_bot) | check accounts by username on 1500 sites. Based on maigret CLI tool |
+| [Analyzeid.com Username Search](https://analyzeid.com/username/) | view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. |
+| [NEXFIL](https://github.com/thewhiteh4t/nexfil) | Search username by 350 social media platforms |
+| [Spy](https://github.com/CYB3R-G0D/SPY) | Just another very quick and simple account checker by username (210 sites in list). |
+| [Profil3r](https://github.com/Rog3rSm1th/Profil3r) | search for profiles in social networks by nickname |
+| [Aliens eye](https://github.com/BLINKING-IDIOT/Aliens_eye) | Find links to social media accounts in 70 websites by username |
+| [Thorndyke](https://github.com/rlyonheart/thorndyke) | Checks the availability of a specified username on over 200 websites |
+| [Marple](https://github.com/soxoj/marple) | It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results. |
+| [Holehe](https://github.com/megadose/holehe) | check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function |
+| [UserFinder](https://github.com/mishakorzik/UserFinder) | tool for finding profiles by username |
+| [](https://github.com/snooppr/snoop) | Search users profile by nickname |
+| [Pyosint](https://github.com/d8rkmind/Pyosint) | Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services |
+| [Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder) | When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. |
+| [Translit.net](https://translit.net) | Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names |
+| [NAMINT](https://seintpl.github.io/NAMINT/) | Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) |
+| [Username Availability Checker](https://username-check.herokuapp.com/) | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
+| [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
+| [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
+
+[](#phone-numbers)Phone numbers
+===============================
+
+| Link | Description |
+| --- | --- |
+| [USA Telephone Directory Collection](https://www.loc.gov/collections/united-states-telephone-directory-collection/) | 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987 |
+| [Oldphonebook](http://www.oldphonebook.com/) | USA phonenumbers database from 1994 to 2014 |
+| [Phomber](https://github.com/s41r4j/phomber) | Get information about phone number with command line. |
+| [Numverify API](https://numverify.com/) | free api for global phone number lookup and validation |
+| [FireFly](https://github.com/Lexxrt/FireFly) | Get information about phone number using Numverify API |
+| [PhoneNumber OSINT](https://github.com/spider863644/PhoneNumber-OSINT) | Simple tool for gathering basic information about phone numbers (country code, timezone, provider) |
+
+[](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
+=======================================================================================
+
+| Link | Description |
+| --- | --- |
+| [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) | Get emails, social medias, adresses of peoples using web scraping and google dorking |
+| [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile |
+| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | tool for searching nickname profiles on more than 300 sites |
+| [SovaWeb](http://sovaweb.herokuapp.com/) | web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID |
+| [BehindTheNames](https://www.behindthename.com) | when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them |
+| [My CSE for search in 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) |     |
+| [Psbdmp.ws](https://psbdmp.ws) | search sensitive user data by 25 759 511 pastebins |
+| [Cybernews RockYour2021](https://cybernews.com/personal-data-leak-check/) | check if your data has been leaked |
+| [GoFindWho People Search](https://gofindwho.com/) | More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name. |
+| [That's them people search](https://thatsthem.com/people-search) |     |
+| [Anywho](https://anywho.com/) | Search for people in #USA. Enter first and last name to get age, address, and part of phone number (free) |
+| [Usersearch.org](https://usersearch.org/index.php) | search people by nickname, phone or email |
+| [Ellis Island](http://heritage.statueofliberty.org) | online searchable database of 65 million arrivals to #NewYork between (late 19th and early 20th century). |
+| [recordsearch.naa.gov.au](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx) | National archives of #Australia |
+| [SpyDialer](https://www.spydialer.com/) | Free search contact information by phone number, name, address or email |
+| [Decoding Social Security Numbers in One Step](https://stevemorse.org/ssn/ssn.html) |     |
+| [Inmate Database Search](http://inmateinfo.indy.gov/IML) |     |
+| [Scamdigger.com](http://scamdigger.com/) | search in #scammers database by name, IP-adress, email or phone |
+| [Cloob.com](https://www.cloob.com/profile/search/index) | Iranian people search |
+| [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
+
+[](#sock-puppets)Sock Puppets
+=============================
+
+| Link | Description |
+| --- | --- |
+| [Rug](https://github.com/rly0nheart/rug) | Extreme simple tool for generating random user data. |
+| [Face Generator](https://generated.photos/face-generator/) | Face Generator for creating #sockpuppets. Customize gender, age, head position, emotions, hair and skin color, makeup and glasses. |
+| [2,682,783 free AI generated photos](https://generated.photos/faces) |     |
+| [VoiceBooking](https://www.voicebooking.com/en/free-voice-over-generator) | fake voice generator |
+| [ThisXDoesNotExist](https://thisxdoesnotexist.com) | collection of more than 30 services that generate various items using neural networks. |
+| [TheXifer](https://www.thexifer.net) | add fake metadata to photo |
+| [GeoTagOnline](https://geotagonline.com) | add fake geotags to photo |
+| [Fake ID Identity Random Name Generator](https://www.elfqrin.com/fakeid.php) | generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly. |
+| [@TempMail\_org\_bot](https://t.me/TempMail_org_bot) | telegram bot for quick creation of temporary email addresses (to receive emails when registering on different sites) |
+| [Text2img](https://deepai.org/machine-learning-model/text2img) | text to image AI generator |
+| [Face Anonimyzer](https://generated.photos/anonymizer) | Upload a face photo and get set of similar AI generated faces. |
+| [AI video generator](https://www.synthesia.io/free-ai-video-demo) | Type the text (video script). Choose a character and script template. Click the "Submit a video" button. Enter your registration data and wait for the letter with the result |
+| [AI Face maker](https://massless.io/tool/face-maker-ai/) | Just draw a person face (note that there is a separate tool for each part of the face) and the neural network will generate a realistic photo based on it. |
+| [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=ru) | multi-login browser extension |
+| [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi?hl=ru) | multi-login browser extension |
+| [FreshStart](https://chrome.google.com/webstore/detail/freshstart-cross-browser/nmidkjogcjnnlfimjcedenagjfacpobb?hl=ru) | multi-login browser extension |
+| [BoredHumans](https://boredhumans.com/faces.php) | Another tool for creating non-existent people. AI was trained using a database of 70,000 of photos of real humans. I like this service because it often makes very emotional and lively faces. |
+| [Deepfakesweb](https://deepfakesweb.com/) | Create deepfake videos ONLINE |
+| [Deep Face Live](https://github.com/iperov/DeepFaceLive) | Real-time face swap for streaming and video calls |
+| [Fakeinfo](https://fakeinfo.net/) | Online screenshot generator of fake YouTube channels, posts/profiles on Facebook, Instagram, TikTok, Twitter, chats on Telegram, Hangouts, WhatsApp, Line, Linkedin. |
+| [ThisPersonDoesNotExistAPI (unofficial)](https://github.com/David-Lor/ThisPersonDoesNotExistAPI) | #Python library that returns a random "doesnotexist" person picture generated by AI (with site [http://thispersondoesnotexist.com](http://thispersondoesnotexist.com)) |
+| [This Baseball Player Does Not Exist](https://thisbaseballplayerdoesnotexist.com/) | A non-existent personality generator that generates people who look amazingly natural. |
+
+[](#noosint-tools)NOOSINT tools
+===============================
+
+| Link | Description |
+| --- | --- |
+| [Annotely](https://annotely.com/editor) | Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. |
+| [Pramp](https://www.pramp.com/) | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
+| [RemindWhen](http://www.remindmewhen.io/) | Simple app that reminds you on email if your favorite country opens for tourists from your country. |
+| [Web--proxy](https://web--proxy.herokuapp.com/) | free web proxy |
+| [Google Docs Voice Comments](https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon) | simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms. |
+| [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | This site will help you make atmospheric lettering for your command line tool or README. |
+| [Snow](https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget) | A very simple add-on that speeds up and simplifies the formatting of #GoogleDocs. "Show" shows non-printable characters (spaces, tabs, page breaks, indents, etc.) |
+| [Wide-band WebSDR](http://websdr.ewi.utwente.nl:8901/) | Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code) |
+| [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
+| [Crontab guru](https://crontab.guru/) | Online "shedule expression" editor (for setting task times in Crontab files). |
+| [Chmod calculator](https://chmod-calculator.com/) | Calculate the octal numeric or symbolic value for a set of file or folder permissions in #Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format |
+| [Ray So](https://ray.so/) | A simple tool that allows you to beautifully design code as a picture (for social media post or article). |
+| [Windows Event Collection](https://www.ultimatewindowssecurity.com/) | A tool to help you understand #Windows, #SharePoint, #SQLServer and Exchange system security logs. |
+| [Hack This Page](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related) | A simple extension that allows you to edit the text of any web page. |
+| [Soundraw](https://soundraw.io/) | AI music generation |
+| [Screenshot - Full Page Screen Capture](https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related) | record a video of part of the screen using a very easy-to-use browser extension |
+
+### [](#visualization-tools)Visualization tools
+
+| Link | Description |
+| --- | --- |
+| [Gephi](https://github.com/gephi/gephi) | fast and easy to learn graph analytics tool with a lot of modules (plugins) |
+| [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
+| [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
+
+### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
+
+| Link | Description |
+| --- | --- |
+| [Scrapersnbots](https://www.scrapersnbots.com/webtools/) | A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more |
+| [Manytools](https://manytools.org) | Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking. |
+| [Webdext](https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related) | An intelligent and quick web data extractor for #GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc |
+| [CloudHQ](https://www.cloudhq.net/apps) | A collection of several dozen extensions for #Chrome that allow you to extend the functionality of the standard #Gmail interface and maximize your #productivity. Tracking, sorting, sharing, saving, editing and much more. |
+| [Magical. Text Expander](https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related) | Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling (lom -> Lomarrikkendd) |
+| [Online tools](https://emn178.github.io/online-tools/index.html) | 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings |
+| [CyberChef](https://gchq.github.io/CyberChef/) | collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal) |
+| [Shadowcrypt Tools](https://shadowcrypt.net/tools/) | 24 online tools for OSINT, network scanning, MD5 encryption and many others |
+
+[](#browser-analyze)Browser analyze
+===================================
+
+| Link | Description |
+| --- | --- |
+| [Web history stat](https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related) | detailed statistics of your browser history |
+| [coveryourtracks.eff.org](https://coveryourtracks.eff.org) | can tell a lot about your browser and computer, including showing a list of installed fonts on the system. |
+| [Webmapper](https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related) | Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable. |
+
+[](#files)Files
+===============
+
+| Link | Description |
+| --- | --- |
+| [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory |
+| [Diffnow.com](http://diffnow.com) | Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc). |
+| [CompressedCrack](https://github.com/mnismt/CompressedCrack) | Simple tool for brute passwords for ZIP and RAR archives |
+| [Encrytped ZIP file creator](https://www.protectedzip.com/) | Create ZIP archive online |
+| [PDFX](https://github.com/metachris/pdfx) | get meta data of PDF files thrue command line |
+| [@mediainforobot](https://t.me/mediainforobot) | telegram bot to getting metadata from different types of files |
+| [Mutagen](https://github.com/quodlibet/mutagen) | get meta data of audiofiles thrue command line |
+| [voyant-tools.org](https://voyant-tools.org/) | analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types. |
+| [Analyze file format online](https://www.aconvert.com/analyze.html) |     |
+| [ToolSley: analyze file format online](https://www.toolsley.com/file.html) |     |
+| [RecoveryToolBox](https://recoverytoolbox.com/) | recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files |
+| [Google Docs to Markdown online converter](https://mr0grog.github.io/google-docs-to-markdown/) | just copy text to the site |
+| [Binvis](https://binvis.io/) | lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool |
+| [Gdrive-copy](https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec) | The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications |
+| [Siftrss.com](https://siftrss.com/) | tool for filtering RSS feeds |
+| [JSON to CSV](https://json-csv.com/) |     |
+| [Textise.net](https://www.textise.net/) | convert the HTML code of a page to TXT |
+
+[](#imei-and-serial-numbers)IMEI and serial numbers
+===================================================
+
+| Link | Description |
+| --- | --- |
+| [Checking MI account](https://www.checkmi.info/) |     |
+| [Contex condoms serial number lookup](https://contex.com/serial-number-lookup/) |     |
+| [iPhone IMEI Checker](https://www.imeipro.info/check_imei_iphone.html) | Get information about #iPhone by International Mobile Equipment Identity |
+
+[](#nft)NFT
+===========
+
+| Link | Description |
+| --- | --- |
+| [Nonfungible.com](https://nonfungible.com) | help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time) |
+
+[](#keywords-trends-news-analytics)Keywords, trends, news analytics
+===================================================================
+
+| Link | Description |
+| --- | --- |
+| [Wordstat.yandex.ru](https://wordstat.yandex.ru/) | the estimated number of Yandex searches in the coming month for different keywords |
+| [Trends Google](https://trends.google.com/trends/) |     |
+| [Keywordtool.io](https://keywordtool.io/search/keywords/) | keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter |
+| [Google Books Ngram Viewer](https://books.google.com/ngrams/) |     |
+| [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
+| [Pinterest Trends](https://trends.pinterest.com/) |     |
+
+[](#apps-and-programs)Apps and programs
+=======================================
+
+| Link | Description |
+| --- | --- |
+| [Google Play Scraper](https://github.com/facundoolano/google-play-scraper) | get the most detailed |
+| [App Store Scraper](https://github.com/facundoolano/app-store-scraper) | get the most detailed metadata about the app from AppStore |
+
+[](#company-information-search)Company information search
+=========================================================
+
+| Link | Description |
+| --- | --- |
+| [Lei.bloomberg.com](https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118) | search information about company by Legal Identify Number |
+| [990 finder](https://candid.org/research-and-verify-nonprofits/990-finder) | Enter the company name and select the state to get a link to download its 900 form. |
+| [Open Corporates Command Line Client (Occli)](https://github.com/rlyonheart/occli) | Gathering detailed information about company through cli. |
+| [NewsBrief](https://emm.newsbrief.eu/NewsBrief/clusteredition/ru/latest.html) | Looking for recent mentions of the company in online media around the world |
+| [Related List](http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion.pet/) | find company-related contacts and confidential documents leaked online |
+| [Investing.com](https://www.investing.com/) | View a detailed investment profile of the company |
+| [FCCID.IO](https://fccid.io) | seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz) |
+| [Tradeint](https://tradint.io/tradint-researcher/) | Quick access for more than 85 tools for gathering information about company and company website, location and sector |
+| [Corporative Registry Catalog](https://cipher387.github.io/corporative_registry_worldwide_catalog/) | worldwide catalog of business registries (63 countries) |
+| [LEI search](https://search.gleif.org/#/search/) | can help find "who owned by" or "who owns" |
+| [openownership.org](http://openownership.org) | Wordwide beneficial ownership data. |
+| [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
+| [Oec World](https://oec.world/) | A tool for detailed analysis of international trade. It will show clearly which country sells which products, to which countries these products are sold and in what trade value (in $) |
+
+[](#bank-information-search)Bank information search
+===================================================
+
+| Link | Description |
+| --- | --- |
+| [FDIC search](https://banks.data.fdic.gov/bankfind-suite/bankfind) | Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it |
+| [Iban.com](https://www.iban.com/iban-checker) | Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced |
+| [Freebin Checker](https://api.freebinchecker.com/bin/658205) | easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database |
+| [Credit OSINT](https://github.com/krdsploit/Credit-OSINT) | A very simple #python tool to gather information about bank cards and validate them. |
+
+[](#brandtrademark-information-search)Brand/trademark information search
+========================================================================
+
+| Link | Description |
+| --- | --- |
+| [WIPO.int](https://www3.wipo.int/branddb/en/) | Global Brands Database (46,020,000 records) |
+| [TMDN Design View](https://www.tmdn.org/tmdsview-web/) | Search 17 684 046 products designs across the European Union and beyond |
+| [TESS](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | Search engine for #USA trademarks |
+
+[](#tendershipment-information-search)Tender/shipment information search
+========================================================================
+
+| Link | Description |
+| --- | --- |
+| [TendersInfo](https://www.tendersinfo.com) | Search tenders around the world by keywords. |
+| [Barcode lookup](https://www.barcodelookup.com/) |     |
+| [Panjiva.com](https://panjiva.com/) | search data on millions of shipments worldwide |
+| [en.52wmb.com](https://en.52wmb.com) | Search information about worldwide buyers and suppliers by product name, company name or HS code. |
+
+### [](#amazon)Amazon
+
+| Link | Description |
+| --- | --- |
+| [Amazon Scraper](https://github.com/scrapehero-code/amazon-scraper) | scraped detail information about list of items |
+| [Amazon ASIN Finder](https://amazon-asin.com/) |     |
+| [Sellerapp.com. Amazon Reverse ASIN search](https://www.sellerapp.com/amazon-reverse-asin.html) |     |
+
+[](#movies)Movies
+=================
+
+| Link | Description |
+| --- | --- |
+| [Reelgood.com](https://reelgood.com/) | search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus) |
+| [IMCDB](http://imcdb.org) | Internet Movie Cars Database |
+| [Sympsons screencaps search](https://frinkiac.com/) |     |
+| [Search Futuruma screencaps](https://morbotron.com/) |     |
+| [Rick and Morty screencaps search](https://masterofallscience.com/) |     |
+| [Subzin.com](http://www.subzin.com/) | by one phrase will find the movie, as well as the full text of the dialogue with the timing |
+| [Doesthedogdie](https://www.doesthedogdie.com/) | This is an ingenious site that lets you find out if a movie (video game) has scenes that might upset someone (death of dogs, cats and horses, animal abuse, domestic violence etc). |
+
+### [](#netflix)Netflix
+
+| Link | Description |
+| --- | --- |
+| [Unogs.com](http://unogs.com/) | Netflix search without registration |
+| [flixable.com](http://flixable.com) | alternative way to find anything interesting on Netflix |
+| [flixwatch.co](http://flixwatch.co) | alternative way to find anything interesting on Netflix |
+| [flicksurfer.com](http://flicksurfer.com) | alternative way to find anything interesting on Netflix |
+| [flixboss.com](http://flixboss.com) | alternative way to find anything interesting on Netflix |
+| [flickmetrix.com](http://flickmetrix.com) | alternative way to find anything interesting on Netflix |
+| [whatthehellshouldiwatchonnetflix.com](http://whatthehellshouldiwatchonnetflix.com) | alternative way to find anything interesting on Netflix |
+| [netflix-codes.com](http://netflix-codes.com) | alternative way to find anything interesting on Netflix |
+
+[](#tvradio)TV/Radio
+====================
+
+| Link | Description |
+| --- | --- |
+| [Radion.net](https://www.radio.net/local-stations) | view list of all radiostations near your location and search radiostations by keywords |
+| [American Archive of Public Broadcasting](https://americanarchive.org) | Discover historic programs of publicly funded radio and television across America. Watch and listen |
+| [LiveATC](https://www.liveatc.net/) | Archive of audio recordings between pilots and dispatchers. Useful for investigating incidents and for foreign language comprehension skills (if you learn to understand pilots' conversations, you will be able to understand everything). |
+| [Wideband shortware radio receiver map](http://rx.linkfanel.net/) | Online map of shortwave radio receivers available for listening in your browser at the moment. |
+| [IPTV org](https://iptv-org.github.io/) | Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream). |
+
+[](#tools-collectionstoolkits)Tools collections/toolkits
+========================================================
+
+| Link | Description |
+| --- | --- |
+| [Osint Search Tools](http://git.hopain.cyou/OSINT-Search-Tools/) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
+| [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
+| [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
+| [SEMID osint framework](https://github.com/Himatric/SEMID) | Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github |
+| [NAZAR](https://github.com/MR-NULL666/NAZAR) | universal Osint Toolkit |
+| E4GL30S1NT | ShellScript toolkit for #osint (12 tools) |
+| [Recon Spider](https://github.com/bhavsec/reconspider) | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations |
+| [Hunt Osint Framework](https://nitinpandey.in/ihunt/) | Dozens of online tools for different stages of #osint investigations |
+| [GoMapEnum](https://github.com/nodauf/GoMapEnum) | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) |
+| [ExtendClass](https://extendsclass.com/) | One of my favorite sites for #automating various routine tasks. Among the many analogues, it stands out for its quality of work and variety of functions (view pic). |
+| [FoxyRecon](https://addons.mozilla.org/ru/firefox/addon/foxyrecon/) | 44 osint tools in one add-on for #Firefox |
+| [GVNG Search](https://github.com/ByDog3r/GvngSearch) | Command line toolkit for gathering information about person (nickname search, validate email, geolocate ip) and domain (traceroute, dns lookup, tcp port scan etc). |
+| [Owasp Maryam](https://github.com/saeeddhqan/Maryam) | modular open-source framework based on OSINT and data gathering |
+| [Metabigoor](https://github.com/j3ssie/metabigor) | Simple and fast #osint framework |
+| [Geekflare Tools](https://gf.dev/toolbox) | 39 online free tools for website testing |
+| [Oryon OSINT query tool](https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221) | Construct investigations links in Google Sheet |
+| [Discover](https://github.com/leebaird/discover) | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one) |
+| [one-plus.github.io/DocumentSearch](https://one-plus.github.io/DocumentSearch) | Document Search osint Toolkit |
+| [Telegram HowToFindBot](https://t.me/HowToFindBot) |     |
+| [Harpoon](https://github.com/Te-k/harpoon) |     |
+| [Profounder](https://github.com/d8rkmind/Profounder) | searching users by nickname and scrapping url's from website |
+| [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) |     |
+| [Osintcombine Tools](https://osintcombine.tools/) |     |
+| [OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) |     |
+| [Mihari](https://github.com/ninoseki/mihari) |     |
+| [One Plus OSINT Toolkit](https://one-plus.github.io/Instagram) |     |
+| [Vichiti](https://github.com/umair9747/vichiti) |     |
+| [Sarenka](https://github.com/pawlaczyk/sarenka) |     |
+| [Vedbex.com](https://www.vedbex.com/tools/home) |     |
+| [Synapsint.com](https://synapsint.com/) |     |
+| [Ashok](https://github.com/ankitdobhal/Ashok) | Swiff knife for #osint |
+| [IVRE](https://github.com/ivre/ivre) | framework for network recon |
+| [SEARCH Investigative and Forensic Toolbar](https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related) | extension with quick access to dozens of online tools for osint, forensics and othef investigations goals. |
+| [Tenssens](https://github.com/thenurhabib/tenssens) | osint framework |
+| [Collector](https://github.com/galihap76/collector) | Universal Osint Toolkit |
+| [Randomtools](https://randomtools.io/) | Several dozen online tools for a variety of purposes. Including to facilitate gathering information on #Facebook, #Twitter, #YouTube, #Instagram |
+| [Infooze](https://github.com/devXprite/infoooze) | User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata |
+| [ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke/related) | Helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It's designed to be completely customizable and work with any rest API(c) |
+| [Osint tool](https://osint-tool.com/) | A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.). |
+| [Hackers toolkit](https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related) | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
+| [BOTSTER](https://botster.io/bots) | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
+| [Magnifier](https://github.com/TheEyeOfCyber/Magnifier) | #osint #python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
+| [Wannabe1337 Toolkit](https://wannabe1337.xyz/) | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools. |
+
+|
+
+[](#databases-and-data-analyzes)Databases and data analyzes
+===========================================================
+
+| Link | Description |
+| --- | --- |
+| [Cronodump](https://github.com/alephdata/cronodump) | When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV. |
+| [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
+| [1C Database Converter](https://github.com/soxoj/1c-database-converter) | 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files. |
+| [Insight Jini](https://insightjini.com/) | Extreme quick, extreme simple and free online tool for data visalization and analysis |
+
+[](#online-os-emulators)Online OS Emulators
+===========================================
+
+| Link | Description |
+| --- | --- |
+| [Windows 10 Online Emulator](https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init) |     |
+| [Parrot Security OS Online Emulator](https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online) |     |
+
+[](#virtual-machineslinux-distributions)Virtual Machines/Linux distributions
+============================================================================
+
+| Link | Description |
+| --- | --- |
+| [Offen Osint](https://github.com/Double2Sky/OffenOsint) |     |
+| [BlackArch Linux](https://www.blackarch.org) |     |
+| [Kali Linux](https://www.kali.org) |     |
+| [CSI Linux](https://csilinux.com) |     |
+| [Fedora Security Lab](https://labs.fedoraproject.org/security/download/index.html) |     |
+| [Huron Osint](https://github.com/HuronOsint/OsintDistro) |     |
+| [Tsurugi Linux](https://tsurugi-linux.org) |     |
+| [Osintux](http://www.osintux.org) |     |
+| [TraceLabs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm) |     |
+| [Dracos Linux](https://dracos-linux.org) |     |
+| [ArchStrike](https://archstrike.org) |     |
+| [Septor Linux](https://septor.sourceforge.io) |     |
+| [Parrot Security](https://twitter.com/ParrotSec) |     |
+| [osintBOX](https://github.com/Dimaslg/osintBOX) | Parrot OS Home edition modified with the popular OSINT tools: Dmitry, ExifTool, Maltego, Sherlock, SpiderFoot and much more. |
+| [Pentoo Linux](https://www.pentoo.ch) |     |
+| [Deft Linux](https://deftlinux.net) |     |
+| [BackBox](https://www.backbox.org) |     |
+| [Falcon Arch Linux](https://sourceforge.net/projects/falcon-archlinux/) |     |
+| [AttifyOS](https://github.com/adi0x90/attifyos) | Linux distro for pentesting IoT devices. |
+
+[](#my-projects)My Projects
+===========================
+
+| Link | Description |
+| --- | --- |
+| [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) |     |
+| [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/) |     |
+| [Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/) |     |
+| [Phone Number Search Constructor](https://cipher387.github.io/phonenumberqueryconstructor/) |     |
+| [Domain Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/) |     |
+| [IP adress Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) |     |
+| [Quick Cache and Archive search](https://cipher387.github.io/quickcacheandarchivesearch/) |     |
+| [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails |
+| [5 Google Custom Search Engine for search 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) |     |
+| [CSE for search 20 source code hosting services](https://cipher387.github.io/code_repository_google_custom_search_engines/) |     |
+| [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
+| [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
+| [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
+| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |
+| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
+| [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
+
+* * *
+
+Command line cheat sheet for this collection made by [Coordinat Cat](https://github.com/Coordinate-Cat):
+
+[OSINT TOOLS CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
+
 (Under development, In progress)
 
-<hr>
+* * *
 
-<a href="https://twitter.com/cyb_detective">Twitter</a>
+[Twitter](https://twitter.com/cyb_detective)
 
-<a href="https://t.me/cybdetective">Telegram</a>
+[Telegram](https://t.me/cybdetective)
 
-<a href="https://github.com/cipher387">Github</a>
+[Github](https://github.com/cipher387)
 
-<a href="https://cipher387.github.io/discordlink.html">Discord</a>
+[Discord](https://cipher387.github.io/discordlink.html)
 
-<hr>
-
-  
+* * *
