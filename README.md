@@ -1817,6 +1817,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 | Link | Description |
 | --- | --- |
+| [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
 | [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
 | [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
 | [SEMID osint framework](https://github.com/Himatric/SEMID) | Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github |
