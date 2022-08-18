@@ -1541,6 +1541,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Username Availability Checker](https://username-check.herokuapp.com/) | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
+| [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
+
 
 [](#phone-numbers)Phone numbers
 ===============================
