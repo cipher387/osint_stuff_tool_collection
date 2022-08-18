@@ -498,6 +498,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTokD](https://tiktokd.com/) | TikTok Video Downloader |
 | [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
+| [TikTake.net](https://tiktake.net/) | TikTok Video Downloader |
 | [Exolyt.com](https://exolyt.com/) | TikTok profile analyze |
 | [Tikbuddy](https://app.tikbuddy.com/) | TikTok profile analytics |
 | [Mavekite.com](https://mavekite.com/) | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos |
