@@ -269,7 +269,6 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | Link | Description |
 | --- | --- |
 | [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
-| [gulfpub-gisstg.esriemcs.com](https://gulfpub-gisstg.esriemcs.com/pe_chevron/) | Detailed world gas pipelines map |
 | [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages |
 | [Emporis Buildings Map](https://www.emporis.com/buildings/map) | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose |
 | [Osmbuildings.org](https://osmbuildings.org/) | world map showing notable buildings. For each object you can find out the height, type, and purpose. |
