@@ -269,7 +269,6 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | Link | Description |
 | --- | --- |
 | [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
-| [gulfpub-gisstg.esriemcs.com](https://gulfpub-gisstg.esriemcs.com/pe_chevron/) | Detailed world gas pipelines map |
 | [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages |
 | [Emporis Buildings Map](https://www.emporis.com/buildings/map) | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose |
 | [Osmbuildings.org](https://osmbuildings.org/) | world map showing notable buildings. For each object you can find out the height, type, and purpose. |
@@ -1541,6 +1540,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Username Availability Checker](https://username-check.herokuapp.com/) | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
+| [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
+
 
 [](#phone-numbers)Phone numbers
 ===============================
