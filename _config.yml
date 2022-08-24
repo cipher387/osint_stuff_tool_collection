@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
 title: Osint Stuff Tools Collection
 plugins:
