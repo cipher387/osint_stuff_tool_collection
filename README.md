@@ -1470,6 +1470,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Metawarc](https://github.com/datacoon/metawarc) | Allows you to quickly analyze the structure of the warc file and collect metadata from all the files in the archive |
 | [Webrecorder tools](https://webrecorder.net/tools) | Archiving various interesting sites is a noble and useful activity for society. To make it easier for posterity to analyze your web archives, save them in Warc format with an online tool|
 | [GRAB SITE](https://github.com/ArchiveTeam/grab-site) | Af you need to make a Warc archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible.|
+| [har2warc](https://github.com/webrecorder/har2warc) | Convert HTTP Archive (HAR) -> Web Archive (WARC) format|
 
 
 [](#archives-of-documentsnewspapers)Archives of documents/newspapers
