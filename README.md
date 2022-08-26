@@ -113,6 +113,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 - [Archives](#archives)
     - [Tools for working with web archives](#tools-for-working-with-web-archives)
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
+    - [Tools for working with WARC (WebARChive) files] (#warc)
 - [Datasets](#datasets)
 - [Passwords](#passwords)
 - [Emails](#emails)
@@ -1457,6 +1458,19 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [WaybackPDF](https://github.com/Haax9/WaybackPDF) | Collects a list of saved PDFs for the given domain from [http://archive.org](http://archive.org) and downloads them into a folder. |
 | [Archive-org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) | A simple #python script for downloading books from [http://archive.org](http://archive.org) in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
 | [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
+
+
+
+### [](#warc)Tools for working with WARC (WebARChive) files
+
+| Link | Description |
+| --- | --- |
+| [Warcat](https://github.com/chfoo/warcat) | My favorite (because it's the easiest) tool for working with Warc files. It allows you to see the list of files in the archive (command "list") and unpack it (command "extract").  |
+| [Replayweb](https://github.com/webrecorder/replayweb.page) | If the warc file is small, you can view its contents with this extreme simple online tool. Also it's possible to deploy ReplayWeb on your own server  |
+| [Metawarc](https://github.com/datacoon/metawarc) | Allows you to quickly analyze the structure of the warc file and collect metadata from all the files in the archive |
+| [Webrecorder tools](https://webrecorder.net/tools) | Archiving various interesting sites is a noble and useful activity for society. To make it easier for posterity to analyze your web archives, save them in Warc format with an online tool|
+| [GRAB SITE](https://github.com/ArchiveTeam/grab-site) | Af you need to make a Warc archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible.|
+
 
 [](#archives-of-documentsnewspapers)Archives of documents/newspapers
 ====================================================================
