@@ -1081,6 +1081,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [unscreen.com](https://www.unscreen.com/) | remove the background from an uploaded video |
 | [TextGrab](https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related) | Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) |
 | [Lossless Cut](https://github.com/mifi/lossless-cut) | #javascript #opensource swiss army knife for audio/video editing. |
+| [Movio.la](https://www.movio.la/) | Create spoken person video from text |
 
 [](#image-search-and-identification)Image Search and Identification
 ===================================================================
@@ -1613,6 +1614,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Text2img](https://deepai.org/machine-learning-model/text2img) | text to image AI generator |
 | [Face Anonimyzer](https://generated.photos/anonymizer) | Upload a face photo and get set of similar AI generated faces. |
 | [AI video generator](https://www.synthesia.io/free-ai-video-demo) | Type the text (video script). Choose a character and script template. Click the "Submit a video" button. Enter your registration data and wait for the letter with the result |
+| [Movio.la](https://www.movio.la/) | Create spoken person video from text |
 | [AI Face maker](https://massless.io/tool/face-maker-ai/) | Just draw a person face (note that there is a separate tool for each part of the face) and the neural network will generate a realistic photo based on it. |
 | [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=ru) | multi-login browser extension |
 | [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi?hl=ru) | multi-login browser extension |
