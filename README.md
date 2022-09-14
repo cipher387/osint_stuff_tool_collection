@@ -21,6 +21,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Routes](#routes)
     - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
     - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
+    - [Culture](#culture)
     - [Worldwide street webcams](#worldwide-street-webcams)
     - [Tools](#tools)
     - [Transport](#transport)
@@ -115,6 +116,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
 - [Datasets](#datasets)
+- [Science](#science)
 - [Passwords](#passwords)
 - [Emails](#emails)
 - [Nicknames](#nicknames)
@@ -265,11 +267,17 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 
+### [](#culture)Culture
+
+| Link | Description |
+| [Taste Atlas](https://www.tasteatlas.com/) | Worldwide online map of national cuisine. There are thousands of dishes typical of countries or regions as a whole, as well as small towns. |
+
 ### [](#urban-and-industrial-infrastructure)Urban and industrial infrastructure
 
 | Link | Description |
 | --- | --- |
 | [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
+| [Pedestriansfirst](https://pedestriansfirst.itdp.org/) | Evaluate the pedestrian friendliness of streets in different cities. There is a lot of detailed data that will be useful both for choosing a place to live and for a variety of research |
 | [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages |
 | [Emporis Buildings Map](https://www.emporis.com/buildings/map) | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose |
 | [Osmbuildings.org](https://osmbuildings.org/) | world map showing notable buildings. For each object you can find out the height, type, and purpose. |
@@ -319,6 +327,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [OSM Smart Menu](https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related) | Google Chrome extension to switch between dozens of different types of online maps (based on #OpenStreetMap and NOT only) |
 | [Calcmaps](https://www.calcmaps.com/) | Simple online map tools: Calculate area (triangles, quadrilaterals and complex polygons), Calculate distance (for complex routes), Measure radius, Calculate elevation |
 | [Scribble maps](https://www.scribblemaps.com/) | Partly free online tool for creating infographics (images or pdf) based on maps. |
+| [Gdal3.js.org](https://gdal3.js.org/) | One of the main problems of using geospatial data in investigations is the large number of applications for working with it, which save the result in different formats. This multifunctional online geodata converter will help to solve it. |
+| [Google Maps Timeline Exporter](https://chrome.google.com/webstore/detail/timeline-exporter/afalbippddliaaomolohcbfogogbjpkk/related) | If your Google account has once enabled collecting data about your location (link for checking https://timeline.google.com/maps/timeline), this extension will help you analyze your movement data in depth, and export it to CSV. |
 
 ### [](#transport)Transport
 
@@ -418,6 +428,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 | Link | Description |
 | --- | --- |
+| [Stweet](https://github.com/markowanga/stweet) | Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
 | [Twitter account detector](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related) | A simple and fast Chrome extension that finds all Twitter accounts on a site. |
 | [Follower Wonk/Compare](https://followerwonk.com/compare/) | this service allows you to find out how many followers two (or three) Twitter accounts have in common. |
@@ -434,6 +445,9 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
 | [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
+| [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
+| [Twitter Mentions Map](https://www.twitonomy.com/mentions-map.php) | A world map that shows the locations of users who mention you in their tweets. |
+| [Twitter URL Scraper](https://apify.com/zuzka/twitter-url-scraper) | A simple tool for analyzing twitter conversations (and other pages). Get profile pictures, user names and the text of the conversation's tweets and replies. Data can be exported to CSV, JSON, XML. |
 | [DO ES FOLLOW](https://doesfollow.com/) | quick check if one user is subscribed to another on Twitter |
 | [Sleeping Time](http://sleepingtime.org/) | determining the approximate sleeping time of a user based on analysis of the timing of a tweet |
 | [Tweet Tunnel](https://tweettunnel.com/reverse.php) | tool for quick and comfortable viewing old tweet's of someone account |
@@ -481,9 +495,12 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [YouFilter – YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
 | [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related) | Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords |
+| [YouTube channel archiver](https://github.com/dmn001/youtube_channel_archiver) | Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels). |
 | [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) | Extract and download channel name, likes, number of views, and number of subscribers. Scrape by keyword or URL. |
 | [YouTube Booster](https://chrome.google.com/webstore/detail/youtube-booster/dajnidicmkknmmbapmmmlemjdfolgjnf/related) | This extension selects frames from videos and generates quick links to find them on Google and TinEye! |
 | [YouTube Caption Searcher](https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related) | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |
+| [YouTube word search](https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related) | An extension that helps you find at what second in the video a certain word is heard. It's possible to search not only by one word, but by the loaded list of words (!). |
+| [Speak subtitles to YouTube](https://chrome.google.com/webstore/detail/speak-subtitles-for-youtu/fjoiihoancoimepbgfcmopaciegpigpa/related) | Subtitle dubbing tool with support for several dozen languages and voice variants. Useful for saving time and for education purposes. Works with glitches, try different settings to get better results. |
 | [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | [YouGlish](https://youglish.com/) | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
@@ -850,6 +867,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Try.jsoup.org](http://try.jsoup.org) | online version of HTML pasrer [http://github.com/jhy/jsoup](http://github.com/jhy/jsoup) |
 | [Investigo](https://github.com/tdh8316/Investigo) | A very simple and fast (written in #go) tool that searches for active links to social network accounts by username (or multiple usernames) |
 | [Extract images](https://extract.pics/) | Extract pictures from any webpage. Analyze, sort, download and search in them by keywords. |
+| [Contacts Details Scraper](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) | Free contact details scraper to extract and download emails, phone numbers, Facebook, Twitter, LinkedIn, and Instagram profiles from any website. |
+| [Listly](https://chrome.google.com/webstore/detail/listly-free-data-scraper/ihljmnfgkkmoikgkdkjejbkpdpbmcgeh/related) | An extension that allows to collect all the data from a website into a table, quickly filter out the excess, and export the result to Excel/Google Sheet. |
 
 ### [](#redirect-lookup)Redirect lookup
 
@@ -941,7 +960,9 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Passive DNS search](https://passivedns.mnemonic.no/) |     |
 | [Talos Intelligence Mail Server Reputation](https://talosintelligence.com/reputation_center/) |     |
 | [netbootcamp.org/websitetool.html](https://netbootcamp.org/websitetool.html) | access to 74 #tools to collect domain information from a single page |
+| [HTTPFY](https://github.com/devXprite/httpfy/) | A fast #nodejs tool for gathering information about a domain or a list of domains. Response time, main page word count, content type, redirect location and many other options (view pic). |
 | [Hussh](https://github.com/harshnandwana/hussh) | shell script for domain analyzing |
+| [OPENSQUAT](https://github.com/atenreiro/opensquat) | Search newly registered phishing domain by keywords; Check it with VirusTotal and Quad9 DNS; |
 | [Check any website to see in real time if it is blocked in China](https://www.vpnmentor.com/tools/test-the-great-china-firewall/) |     |
 | [@iptools_robot](https://t.me/iptools_robot) | univsersal domain investigation Telegram bot |
 | [Raymond](https://github.com/hamza07-w/raymond) | Framework for gathering information about website |
@@ -1120,6 +1141,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [GFPGAN](https://replicate.com/tencentarc/gfpgan) | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
 | [Remini AI Photo Enhancer](https://app.remini.ai/) | Tool allows to restore blurry faces to photos. |
 | [Letsenhance](https://letsenhance.io/) | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
+| [Media IO Watermark Remover](https://www.media.io/app/removeWatermark) | Select the area and mark the time frame in which you want to remove the object. Works for barely visible watermarks as well as for bright and large objects. |
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
@@ -1259,6 +1281,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Leakcop](https://leakcop.info/) | service that monitors in real-time the illegal use of source code from certain repositories on Github |
 | [Github Artifact Exporter](https://github.com/github/github-artifact-exporter) | provides a set of packages to make exporting Issues easier useful for those migrating information out of Github |
 | [PublicWWW](https://publicwww.com/) | webpages source code search engine |
+| [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.
+ |
 | [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
 | [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
 | [YouCode](https://you.com/code) | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
@@ -1282,6 +1306,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [SPF Explainer](https://www.digitalocean.com/community/tools/spf) | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
 | [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
 | [AWK JS](https://awk.js.org/) | AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk. |
+| [PLDB](https://pldb.com/) | A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles
+ |
 
 [](#search-engines)Search engines
 =================================
@@ -1337,6 +1363,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
 | [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
 | [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
+| [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
 
 ### [](#public-buckets-search-tools)Public buckets search tools
 
@@ -1415,6 +1442,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Anon Scraper](https://github.com/370rokas/anonscraper) | Search uploaded files to AnonFile using Google |
 | [Search Commands](https://chrome.google.com/webstore/detail/search-commands/ggjakfijchdkbmmhbfemjciidhnipgoe/related) | Google Chrome extension provides a Swiss-knife style commands tool inside your browser's address bar to enhance your search experience |
 | [Boolean Builder theBalazs](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=940516593) | Google Sheet to tool for constructing Google X-Ray search queries. |
+| [Yagooglesearch](https://github.com/opsdisk/yagooglesearch) | "Simulates real human Google search behavior to prevent rate limiting by Google and if HTTP 429 blocked by Google, logic to back off and continue trying" (c) |
 
 ### [](#iot)IOT
 
@@ -1460,6 +1488,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [WaybackPDF](https://github.com/Haax9/WaybackPDF) | Collects a list of saved PDFs for the given domain from [http://archive.org](http://archive.org) and downloads them into a folder. |
 | [Archive-org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) | A simple #python script for downloading books from [http://archive.org](http://archive.org) in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
 | [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
+| [Wayback Keywords Search](https://github.com/lorenzoromani1983/wayback-keyword-search) | A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages. |
 
 
 
@@ -1490,6 +1519,18 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
 | [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
 
+
+
+[](#science)Science
+=====================
+
+| Link | Description |
+| --- | --- |
+| [ConnectedPapers](https://www.connectedpapers.com/) | A tool for gathering information about academic papers. It shows a large graph of references to other articles that are present in the text and clearly see the connections between different authors. |
+| [AcademicTree](https://academictree.org/) | A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students
+ |
+
+
 [](#datasets)Datasets
 =====================
 
@@ -1512,6 +1553,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Many Passwords](https://many-passwords.github.io/) | Default passwords for IoT devices and for web applications (for ex. MySQL and PostgreSQL admin panels) |
 | [PassHunt](https://github.com/Viralmaniar/Passhunt) | Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords |
 | [BugMenot](http://bugmenot.com) | login and passwords for public accounts in different services |
+| [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) | Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks |
 
 [](#emails)Emails
 =================
@@ -1626,6 +1668,10 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Fakeinfo](https://fakeinfo.net/) | Online screenshot generator of fake YouTube channels, posts/profiles on Facebook, Instagram, TikTok, Twitter, chats on Telegram, Hangouts, WhatsApp, Line, Linkedin. |
 | [ThisPersonDoesNotExistAPI (unofficial)](https://github.com/David-Lor/ThisPersonDoesNotExistAPI) | #Python library that returns a random "doesnotexist" person picture generated by AI (with site [http://thispersondoesnotexist.com](http://thispersondoesnotexist.com)) |
 | [This Baseball Player Does Not Exist](https://thisbaseballplayerdoesnotexist.com/) | A non-existent personality generator that generates people who look amazingly natural. |
+| [Cardgenerator.org](https://cardgenerator.org/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
+| [VCC Generator](http://vccgenerator.org/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
+| [CardGuru](https://cardguru.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
+| [CardGenerator](https://cardgenerator.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 
 [](#noosint-tools)NOOSINT tools
 ===============================
@@ -1648,11 +1694,14 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Hack This Page](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related) | A simple extension that allows you to edit the text of any web page. |
 | [Soundraw](https://soundraw.io/) | AI music generation |
 | [Screenshot - Full Page Screen Capture](https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related) | record a video of part of the screen using a very easy-to-use browser extension |
+| [Chepy](https://github.com/securisec/chepy) | Python command line version of CyberChef |
 
 ### [](#visualization-tools)Visualization tools
 
 | Link | Description |
 | --- | --- |
+| [Jsoncrack](https://jsoncrack.com/) | Online tool for visualizing, editing and searching for text in JSON files. With the ability to save, export and share results via a link. |
+| [Time graphics](https://time.graphics/) | Powerful tool for analytics of time-based events: a large number of settings for the visualization of time periods, integration with Google Drive, YouTube, Google Maps, 12 ways to export results (PNG, JSON, PPTX etc.) |
 | [Gephi](https://github.com/gephi/gephi) | fast and easy to learn graph analytics tool with a lot of modules (plugins) |
 | [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
 | [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
@@ -1678,6 +1727,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Web history stat](https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related) | detailed statistics of your browser history |
 | [coveryourtracks.eff.org](https://coveryourtracks.eff.org) | can tell a lot about your browser and computer, including showing a list of installed fonts on the system. |
 | [Webmapper](https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related) | Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable. |
+| [Export Chrome History](https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf) | A simple extension for Googlechrome that allows you to save detailed information about links from browser history as CSV/JSON.  Useful for both personal archives and investigations using other people's computers.  |
 
 [](#files)Files
 ===============
@@ -1717,6 +1767,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | Link | Description |
 | --- | --- |
 | [Nonfungible.com](https://nonfungible.com) | help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time) |
+| [Numbers](https://nftsearch.site/) | Search NFT by Content ID, Commit hash, keywords or uploaded photo. |
 
 [](#keywords-trends-news-analytics)Keywords, trends, news analytics
 ===================================================================
@@ -1729,6 +1780,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Google Books Ngram Viewer](https://books.google.com/ngrams/) |     |
 | [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
 | [Pinterest Trends](https://trends.pinterest.com/) |     |
+| [PyTrends](https://github.com/GeneralMills/pytrends) | Simple #python library for automatically collecting data from Google Trends. |
 
 [](#apps-and-programs)Apps and programs
 =======================================
@@ -1856,6 +1908,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [one-plus.github.io/DocumentSearch](https://one-plus.github.io/DocumentSearch) | Document Search osint Toolkit |
 | [Telegram HowToFindBot](https://t.me/HowToFindBot) |     |
 | [Harpoon](https://github.com/Te-k/harpoon) |     |
+| [ResearchBuzz](https://researchbuzz.github.io/) | Google Sinker Search queries constructor (view pic), Google News Search queries constructor, Quick twitter account historical navigation in http://archive.org, Blogspace Time Machine and more tools |
 | [Profounder](https://github.com/d8rkmind/Profounder) | searching users by nickname and scrapping url's from website |
 | [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) |     |
 | [Osintcombine Tools](https://osintcombine.tools/) |     |
@@ -1879,6 +1932,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [BOTSTER](https://botster.io/bots) | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
 | [Magnifier](https://github.com/TheEyeOfCyber/Magnifier) | #osint #python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
 | [Wannabe1337 Toolkit](https://wannabe1337.xyz/) | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools. |
+| [BazzellPy](https://github.com/dmw94/bazzellpy) | Unofficial(!) #Python library for automation work with IntelTechniques Search Tools https://inteltechniques.com/tools/ |
+| [BBOT](https://github.com/blacklanternsecurity/bbot) | Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback (full list in the picture) |
 
 |
 
