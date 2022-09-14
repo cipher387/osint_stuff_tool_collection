@@ -1983,6 +1983,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 | Link | Description |
 | --- | --- |
+| [Python OSINT automation examples](https://github.com/cipher387/Python-osint-automation-examples) | In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.  |
 | [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) |     |
 | [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/) |     |
 | [Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/) |     |
