@@ -1683,7 +1683,6 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | This site will help you make atmospheric lettering for your command line tool or README. |
 | [Snow](https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget) | A very simple add-on that speeds up and simplifies the formatting of #GoogleDocs. "Show" shows non-printable characters (spaces, tabs, page breaks, indents, etc.) |
 | [Wide-band WebSDR](http://websdr.ewi.utwente.nl:8901/) | Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code) |
-| [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | [Crontab guru](https://crontab.guru/) | Online "shedule expression" editor (for setting task times in Crontab files). |
 | [Chmod calculator](https://chmod-calculator.com/) | Calculate the octal numeric or symbolic value for a set of file or folder permissions in #Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format |
 | [Ray So](https://ray.so/) | A simple tool that allows you to beautifully design code as a picture (for social media post or article). |
@@ -1698,6 +1697,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | Link | Description |
 | --- | --- |
 | [Jsoncrack](https://jsoncrack.com/) | Online tool for visualizing, editing and searching for text in JSON files. With the ability to save, export and share results via a link. |
+| [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | [Time graphics](https://time.graphics/) | Powerful tool for analytics of time-based events: a large number of settings for the visualization of time periods, integration with Google Drive, YouTube, Google Maps, 12 ways to export results (PNG, JSON, PPTX etc.) |
 | [Gephi](https://github.com/gephi/gephi) | fast and easy to learn graph analytics tool with a lot of modules (plugins) |
 | [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
@@ -1996,7 +1996,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
 | [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
 | [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
-| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
+| [Awesonoosintme grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
 | [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
 
 * * *
