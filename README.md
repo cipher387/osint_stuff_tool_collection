@@ -572,6 +572,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Reddit User Extractor](https://github.com/mylk/reddit-user-extractor) | #python script that allows you to get a complete list of comments by user name on Reddit in CSV format |
 | [Better Reddit Search](https://betterredditsearch.web.app/) | Reddit search tool for posts and subreddits (with boolean filters by keywords and filters by publication date). |
 | [Reddit Post Scraping Tool](https://github.com/rly0nheart/reddit-post-scraping-tool) | Simple #python script for scraping post from #Reddit (by keywords and subreddit name) |
+| [Subreddit Stats User-Overlap](https://subredditstats.com/subreddit-user-overlaps/) | A tool to find similar subreddits. The higher the score of a subreddit in the list, the higher the probability that users of the original subreddit (in our case r/osint) are active in it too. |
 
 ### [](#onlyfans)Onlyfans
 
