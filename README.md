@@ -268,6 +268,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 
 ### [](#culture)Culture
+
 | --- | --- |
 | Link | Description |
 | [Taste Atlas](https://www.tasteatlas.com/) | Worldwide online map of national cuisine. There are thousands of dishes typical of countries or regions as a whole, as well as small towns. |
