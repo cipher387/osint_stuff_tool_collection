@@ -1305,8 +1305,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [SPF Explainer](https://www.digitalocean.com/community/tools/spf) | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
 | [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
 | [AWK JS](https://awk.js.org/) | AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk. |
-| [PLDB](https://pldb.com/) | A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles
- |
+| [PLDB](https://pldb.com/) | A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles |
 
 [](#search-engines)Search engines
 =================================
@@ -1526,8 +1525,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | Link | Description |
 | --- | --- |
 | [ConnectedPapers](https://www.connectedpapers.com/) | A tool for gathering information about academic papers. It shows a large graph of references to other articles that are present in the text and clearly see the connections between different authors. |
-| [AcademicTree](https://academictree.org/) | A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students
- |
+| [AcademicTree](https://academictree.org/) | A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students |
 
 
 [](#datasets)Datasets
@@ -1590,7 +1588,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Marple](https://github.com/soxoj/marple) | It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results. |
 | [Holehe](https://github.com/megadose/holehe) | check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function |
 | [UserFinder](https://github.com/mishakorzik/UserFinder) | tool for finding profiles by username |
-| [](https://github.com/snooppr/snoop) | Search users profile by nickname |
+| [Snoop](https://github.com/snooppr/snoop) | Search users profile by nickname |
 | [Pyosint](https://github.com/d8rkmind/Pyosint) | Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services |
 | [Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder) | When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. |
 | [Translit.net](https://translit.net) | Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names |
@@ -1892,7 +1890,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
 | [SEMID osint framework](https://github.com/Himatric/SEMID) | Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github |
 | [NAZAR](https://github.com/MR-NULL666/NAZAR) | universal Osint Toolkit |
-| E4GL30S1NT | ShellScript toolkit for #osint (12 tools) |
+| [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) | ShellScript toolkit for #osint (12 tools) |
 | [Recon Spider](https://github.com/bhavsec/reconspider) | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations |
 | [Hunt Osint Framework](https://nitinpandey.in/ihunt/) | Dozens of online tools for different stages of #osint investigations |
 | [GoMapEnum](https://github.com/nodauf/GoMapEnum) | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) |
