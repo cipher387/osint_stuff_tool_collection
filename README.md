@@ -1281,8 +1281,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Leakcop](https://leakcop.info/) | service that monitors in real-time the illegal use of source code from certain repositories on Github |
 | [Github Artifact Exporter](https://github.com/github/github-artifact-exporter) | provides a set of packages to make exporting Issues easier useful for those migrating information out of Github |
 | [PublicWWW](https://publicwww.com/) | webpages source code search engine |
-| [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.
- |
+| [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.|
 | [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
 | [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
 | [YouCode](https://you.com/code) | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
@@ -1998,7 +1997,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
 | [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
 | [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
-| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |
+| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
 | [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
 | [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
 
