@@ -830,6 +830,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 | Link | Description |
 | --- | --- |
+| [OWASP Amass](https://github.com/OWASP/Amass) | The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques. |
 | [Investigator Recon Tool](https://abhijithb200.github.io/investigator/) | web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name. |
 | [Site Dorks](https://github.com/Zarcolio/sitedorks) |     |
 | [Google (universal) Dork Builder](https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/) | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database |
