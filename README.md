@@ -269,8 +269,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#culture)Culture
 
-| --- | --- |
 | Link | Description |
+| --- | --- |
 | [Taste Atlas](https://www.tasteatlas.com/) | Worldwide online map of national cuisine. There are thousands of dishes typical of countries or regions as a whole, as well as small towns. |
 
 ### [](#urban-and-industrial-infrastructure)Urban and industrial infrastructure
