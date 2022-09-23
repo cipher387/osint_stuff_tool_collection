@@ -330,6 +330,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Scribble maps](https://www.scribblemaps.com/) | Partly free online tool for creating infographics (images or pdf) based on maps. |
 | [Gdal3.js.org](https://gdal3.js.org/) | One of the main problems of using geospatial data in investigations is the large number of applications for working with it, which save the result in different formats. This multifunctional online geodata converter will help to solve it. |
 | [Google Maps Timeline Exporter](https://chrome.google.com/webstore/detail/timeline-exporter/afalbippddliaaomolohcbfogogbjpkk/related) | If your Google account has once enabled collecting data about your location (link for checking https://timeline.google.com/maps/timeline), this extension will help you analyze your movement data in depth, and export it to CSV. |
+| [localfocus.nl/geokit](https://www.localfocus.nl/geokit/) | geographic toolkit for investigative journalists |
+| [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps. |
 
 ### [](#transport)Transport
 
@@ -418,9 +420,8 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [OldMapsOnline](https://www.oldmapsonline.org/) | World aggregator of old maps from various sources (498,908 maps) |
 | [Whatiswhere.com](http://whatiswhere.com) | OpenStreetMap based free POI (point of interest) search. 102 types of objects |
 | [Collection of cadastral maps](https://cipher387.github.io/collection_of_cadastral_maps/) | 41 countries |
-| [localfocus.nl/geokit](https://www.localfocus.nl/geokit/) | geographic toolkit for investigative journalists |
 | [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) | Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). |
-| [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps. |
+
 
 [](#social-media)Social Media
 =============================
