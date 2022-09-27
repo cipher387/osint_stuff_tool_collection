@@ -26,6 +26,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Tools](#tools)
     - [Transport](#transport)
     - [Communications, Internet, Technologies](#communications-internet-technologies)
+    - [Anomalies and Lost Places](#anomalies-and-lost-places)
     - [Street View](#street-view)
     - [Satellite/aerial imagery](#satelliteaerial-imagery)
     - [Military tracking](#military-tracking)
@@ -358,6 +359,17 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [TorMap](https://twitter.com/cyb_detective/status/1536682540265873408) | Worldwide online map of Tor Nodes |
 | [GeoWiFi](https://github.com/GONZOsint/geowifi) | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
 | [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
+
+
+### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
+
+| Link | Description |
+| --- | --- |
+| [Argis UFO map](https://www.arcgis.com/apps/View/index.html?appid=6cd609921ebc44ff914a4e8059813b16) | UFO sightings interactive map. USA only |
+
+
+
+
 
 ### [](#street-view)Street View
 
