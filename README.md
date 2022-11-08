@@ -50,6 +50,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Flickr](#flickr)
     - [Spotify](#spotify)
     - [Discord](#discord)
+    - [Discord](#mastodon)
     - [Yandex](#yandex)
     - [Instagram](#instagram)
     - [Google](#google)
@@ -680,6 +681,19 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | 14 #Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc) in one #python tool. |
 | [Discord History Tracker](https://dht.chylex.com) | A tracking script will load messages from the selected channel and save them in .txt file. |
 | [Serverse](https://extraction.team/serverse) | Search for Discord servers by keyword. |
+
+
+
+### [](#mastodon)Mastodon
+
+| Link | Description |
+| --- | --- |
+| [MASTO ](https://github.com/C3n7ral051nt4g3ncy/Masto) | Masto searches for the users Mastodon by name  and collects information about them (profile creation date, number of subscribers and subscriptions, bio, avatar link and more).
+ |
+| [Fedifinder](https://fedifinder.glitch.me/) | Tool for finding Twitter-users in Mastodon. You can search among those who follow you, those who follow you, as well as in your lists! Results can be exported to CSV. |
+| [MastoVue](https://mastovue.glitch.me/#/) | More and more #osint and #infosec bloggers are creating Mastodon profiles these days. This tool will help you find accounts that match your interests by hashtag. |
+| [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
+
 
 ### [](#yandex)Yandex
 
