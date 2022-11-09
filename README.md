@@ -293,7 +293,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 | [Find Food Support](https://findfoodsupport.withgoogle.com/) | find places where you can get free food by address (USA) |
 | [Aqicn](https://aqicn.org/map/world/) | Air pollution gauges on the map |
 | [Average Gamma Dose Rate Map](https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) | Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries |
-A world map where you can see how different buildings look from the inside (number of floors, location of stairways, rooms, doors, etc.). The database of the service is not very large yet, but the project is constantly being developed.
+| [OpenIndoor](https://app.openindoor.io/#17/48.11915/-1.70188) | A world map where you can see how different buildings look from the inside (number of floors, location of stairways, rooms, doors, etc.). The database of the service is not very large yet, but the project is constantly being developed. |
 | [Poweroutage](https://poweroutage.com/) | Map with real-time power outage statistics by country and region. |
 | [Open Benches](https://openbenches.org/) | Worldwide map of 22,756 memorial benches (added by users). |
 | [Sondehub](https://sondehub.org/) | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
@@ -1115,8 +1115,7 @@ A world map where you can see how different buildings look from the inside (numb
 
 | Link | Description |
 | --- | --- |
-| [View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob) | The standard browser source code view did not display the actual source code. View Rendered Source extension solve this problem. 
-It shows the html code after all JavaScript functions (full page load, page scrolling, and other user actions) are executed |
+| [View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob) | The standard browser source code view did not display the actual source code. View Rendered Source extension solve this problem. It shows the html code after all JavaScript functions (full page load, page scrolling, and other user actions) are executed |
 | [Retire.js](https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related) | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries |
 | [OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related) | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |
 | [SIngle File](https://github.com/gildas-lormeau/SingleFile) | GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file |
