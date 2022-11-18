@@ -716,6 +716,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Fedifinder](https://fedifinder.glitch.me/) | Tool for finding Twitter-users in Mastodon. You can search among those who follow you, those who follow you, as well as in your lists! Results can be exported to CSV. |
 | [MastoVue](https://mastovue.glitch.me/#/) | More and more #osint and #infosec bloggers are creating Mastodon profiles these days. This tool will help you find accounts that match your interests by hashtag. |
 | [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
+| [Search.Noc.Social](https://search.noc.social/) | Good alternative to the standard Mastodon search. This service allows you to search for users on different servers by hashtags and keywords.|
 
 
 ### [](#yandex)Yandex
