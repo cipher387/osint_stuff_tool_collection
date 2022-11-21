@@ -717,6 +717,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [MastoVue](https://mastovue.glitch.me/#/) | More and more #osint and #infosec bloggers are creating Mastodon profiles these days. This tool will help you find accounts that match your interests by hashtag. |
 | [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
 | [Search.Noc.Social](https://search.noc.social/) | Good alternative to the standard Mastodon search. This service allows you to search for users on different servers by hashtags and keywords.|
+| [Instances.Social](https://instances.social/) | A tool for searching across full list of instances in #Mastodon. It can help you choose the right instance to register (matching your views on spam, advertising and pornography) and in finding illegal content to investigate crimes.|
+
 
 
 ### [](#yandex)Yandex
