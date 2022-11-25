@@ -2090,7 +2090,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
 | [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
 | [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
-| [Awesonoosintme grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
+| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
 | [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
 
 * * *
