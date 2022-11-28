@@ -718,6 +718,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Debirdify](https://pruvisto.org/debirdify/) | This tool automatically finds Fediverse/Mastodon accounts of people you follow on Twitter |
 | [Search.Noc.Social](https://search.noc.social/) | Good alternative to the standard Mastodon search. This service allows you to search for users on different servers by hashtags and keywords.|
 | [Instances.Social](https://instances.social/) | A tool for searching across full list of instances in #Mastodon. It can help you choose the right instance to register (matching your views on spam, advertising and pornography) and in finding illegal content to investigate crimes.|
+| [Fediverse Explorer](https://fediverse.info/explore/people) | Search Mastodon users by interests|
+| [Trunk](https://communitywiki.org/trunk/) | 200+ thematic lists of accounts in Mastodon. Python, JavaScript, Vim, Ruby, Privacy, Linux... There are even nudists and Tarot. The Pytrunk tool can be used to automatically following this lists https://github.com/lots-of-things/pytrunk|
+| [What goes on Mastodon](https://observablehq.com/@mauforonda/what-goes-on-in-mastodon) | Interactive real time visualisation which shows the number of new users and posts on Mastodon Instances in the last 6 hours, 24 hours, 72 hours or the entire last month.|
+
 
 
 
