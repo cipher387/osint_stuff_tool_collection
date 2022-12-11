@@ -2107,12 +2107,4 @@ Command line cheat sheet for this collection made by [Coordinat Cat](https://git
 
 * * *
 
-[Twitter](https://twitter.com/cyb_detective)
-
-[Telegram](https://t.me/cybdetective)
-
-[Github](https://github.com/cipher387)
-
-[Discord](https://cipher387.github.io/discordlink.html)
-
-* * *
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
