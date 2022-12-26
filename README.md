@@ -509,6 +509,9 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [The Twitter Stream Grab](https://archive.org/details/twitterstream) | Full archives of tweets in JSON for a particular month (from 2011, but some months are not available). |
 | [Twitter 3D](https://twitter.jeffprod.com/) | 3D viewer of relationships between twitter users. |
 | [ExportData.io](https://www.exportdata.io/) | (PAID) Download followers & followings, export historical tweets since 2016. |
+| [Twitter Circle](https://twittercircle.com/) | A tool for analyzing & visualizing Twitter user interactions (with no rate limit or queue). |
+| [Twitter Picker](https://twitterpicker.com/) | A Twitter retweet picker that lists all the retweeters of a tweet and selects a random user based on defined filters. Useful for picking winners of giveaways/raffles. |
+| [TwitterVID.com](https://twittervid.com/) | Twitter video downloader |
 
 ### [](#youtube)YouTube
 
@@ -882,6 +885,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Fdown.net](https://fdown.net) | Facebook video downloader |
 | [Untwitch.com](https://untwitch.com) | Twitch video downloader |
 | [Redditsave.com](https://redditsave.com) | Reddit video downloader |
+| [TwitterVID.com](https://twittervid.com/) | Twitter video downloader |
 | [DownGit](https://minhaskamal.github.io/DownGit/#/home) | Create GitHub Resource Download Link |
 | [SaveFrom.net](https://en.savefrom.net/70/) | download video from YouTube, Vimeo, VK, Odnoklassniki and dozen of others services |
 | [Gdown](https://github.com/wkentaro/gdown) | When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved. |
