@@ -244,6 +244,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Chronotrains](https://chronotrains-eu.vercel.app/) | A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train. |
 | [Direkht Ban Guru](https://direkt.bahn.guru/) | Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city). |
 | [Live Train Tracker](https://mobility.portal.geops.io/world.geops.transit?baselayer=world.geops.travic&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive&x=810000&y=5900000&z=5.5) | A world map showing real-time train traffic (with route point's exact geographic coordinates) and schedules on the roads of Europe, North and South America and Australia. |
+| [Railcabrides](https://railcabrides.com/en/mapsearch) | Click on a point on the railway on the world map (railways are marked in orange or red) to see a list of rail cab videos from that location. With this service you can see many places where Google Street View has not yet reached! |
 
 ### [](#routes)Routes
 
@@ -274,6 +275,9 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
+| [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
+| [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
+ |
 
 ### [](#culture)Culture
 
@@ -299,6 +303,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Sondehub](https://sondehub.org/) | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
 | [The Meddin Bike-sharing World Map](https://bikesharingworldmap.com/) | 8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities. |
 | [Rally Maps](https://www.rally-maps.com/map) | A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available). |
+| [SKYDB](https://www.skydb.net/) | Worldwide database of skyscrapers and tall buildings. |
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
 
@@ -422,6 +427,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [OpenAerialMap](https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6) | set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery |
 | [OpenAerialMap](https://map.openaerialmap.org/#/-18.632,18.47900000000001,3?_k=3za5b4) | Select an area on the map and get a list of freely available aerial images for that area. For some locations available images are many times superior in quality to conventional satellite images. |
 | [ApolloMapping Image Hunter](https://imagehunter.apollomapping.com/) | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
+| [keyhole engelsjk](https://keyhole.engelsjk.com/) | Experimental visualization tool for 1.3 million+ declassified spy satellite imagery (1960 to 1984 years). |
 
 ### [](#military-tracking)Military tracking
 
@@ -438,6 +444,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Syria Liveuamap](https://syria.liveuamap.com) | online tracking of war-related events in Syria. |
 | [NATO.int](https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1) | Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. |
 | [Understanding War Map Room](https://www.understandingwar.org/map-room) | collection of maps illustrating military conflicts in different countries. |
+| [US Military Bases Interactive Worldwide Map](https://worldbeyondwar.org/no-bases/) | Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information. |
 
 ### [](#military-visalisation)Military visalisation
 
@@ -456,6 +463,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Whatiswhere.com](http://whatiswhere.com) | OpenStreetMap based free POI (point of interest) search. 102 types of objects |
 | [Collection of cadastral maps](https://cipher387.github.io/collection_of_cadastral_maps/) | 41 countries |
 | [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) | Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). |
+| [European World Translator](https://ukdataexplorer.com/european-translator/) | Enter the word in English to see its translation into different European languages on the map. |
 
 
 [](#social-media)Social Media
@@ -509,6 +517,11 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [The Twitter Stream Grab](https://archive.org/details/twitterstream) | Full archives of tweets in JSON for a particular month (from 2011, but some months are not available). |
 | [Twitter 3D](https://twitter.jeffprod.com/) | 3D viewer of relationships between twitter users. |
 | [ExportData.io](https://www.exportdata.io/) | (PAID) Download followers & followings, export historical tweets since 2016. |
+| [Eight Dollars](https://github.com/wseagar/eight-dollars) | Browser extension that shows who really is a verified #Twitter user and who paid $8 for verification. |
+| [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) | In case your Twitter account is blocked, it's usefull to open settings and download account data. This tool extracts the most important info about tweets from archive and formats it in an easy-to-read way. |
+| [removeTweets](https://twitter-tools.rootonline.de/removeTweets) | In recent weeks, I have been seeing more and more accounts deleting their tweets in whole or in part. You can automate this process with this tool.  |
+| [TWEEDS](https://github.com/achyuthjoism/tweeds) | A very easy-to-use Python library that allows you to collect all of a user's tweets into a CSV/JSON file. Also it's possible to collect tweets by hashtag or geolocation. |
+| [BirdSQL](http://perplexity.ai/sql) | New Twitter search tool using OpenAI GPT 3.5. Type queries in simple english language to get lists of tweets or users. For example: most liked tweets abou people followed by Jeff Bezos who don't follow him back total number of users/tweet |
 
 ### [](#youtube)YouTube
 
@@ -547,6 +560,9 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [YouGlish](https://youglish.com/) | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
 | [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
+| [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
+| [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
+| [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
 
 ### [](#tiktok)TikTok
 
@@ -632,6 +648,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Better Reddit Search](https://betterredditsearch.web.app/) | Reddit search tool for posts and subreddits (with boolean filters by keywords and filters by publication date). |
 | [Reddit Post Scraping Tool](https://github.com/rly0nheart/reddit-post-scraping-tool) | Simple #python script for scraping post from #Reddit (by keywords and subreddit name) |
 | [Subreddit Stats User-Overlap](https://subredditstats.com/subreddit-user-overlaps/) | A tool to find similar subreddits. The higher the score of a subreddit in the list, the higher the probability that users of the original subreddit (in our case r/osint) are active in it too. |
+| [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) | Registration date; Activity stats; Kindness Meter; Text readability; Top subreddits; Most frequently used words; Submission and comment activity over time; Submission and comment karma over time; Best and worst comments |
 
 ### [](#onlyfans)Onlyfans
 
@@ -664,6 +681,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
 | [Twitch Database](https://www.twitchdatabase.com/following) | Following List + Channel Metadata + Role Lookup |
 | [Twitch Insights](https://twitchinsights.net/) | Account stats; Game ranking; Extensions stats; List of all Twitch bot; Check user status by nickname or ID; List of Twitch team (history before 2020) |
+| [Twitch Followage Tool](https://streamscharts.com/tools/followage) | Enter the Twitch username and get a complete list of channels he/she follows (with start dates) |
 
 ### [](#fidonet)Fidonet
 
@@ -721,6 +739,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Fediverse Explorer](https://fediverse.info/explore/people) | Search Mastodon users by interests|
 | [Trunk](https://communitywiki.org/trunk/) | 200+ thematic lists of accounts in Mastodon. Python, JavaScript, Vim, Ruby, Privacy, Linux... There are even nudists and Tarot. The Pytrunk tool can be used to automatically following this lists https://github.com/lots-of-things/pytrunk|
 | [What goes on Mastodon](https://observablehq.com/@mauforonda/what-goes-on-in-mastodon) | Interactive real time visualisation which shows the number of new users and posts on Mastodon Instances in the last 6 hours, 24 hours, 72 hours or the entire last month.|
+| [IMAGSTON](https://seintpl.github.io/imagstodon/) | A tool that searches for users by name on different #Mastodon servers and collects information about them (profile picture, account type, date of account creation, bio). |
+| [Movetodon](https://movetodon.org/) | Get a list of your Twitter followings in Mastodon. With the ability to sort by date of registration, date of last activity, and buttons for quick subscriptions. |
+| [Followgraph for Mastodon](https://followgraph.vercel.app/) | Enter any #Mastodon Handle and get a list of accounts followed by the people this profile follows. It helps to find connections between people or just interesting accounts followed by many people interested in a certain topic. |
+
 
 
 
@@ -750,6 +772,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [INSTALOADER](https://github.com/instaloader/instaloader) | Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram |
 | [InsFo](https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related) | The ultimate simple tool for saving followers/following an Instagram account to a table. |
 | [Inflact](https://inflact.com/) | Another online tool that allows you to watch Instagram, without logging in: - search users by nickname; - view last posts; - analyze profile; |
+| [Imginn](https://imginn.com/) | Free service to view Instagram profile posts without registration |
 
 ### [](#google)Google
 
@@ -784,6 +807,9 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [SEART Github Search](https://seart-ghs.si.usi.ch/) | Search engine for #Github with a dozen different filters. It has slightly fewer features than the standard Github advanced search, but more user-friendly. |
 | [Repos Timeline](https://repostimeline.nazifbara.com/) | Enter #Github username and click Generate to see a timeline with all of the user's repositories and forks they have made. |
 | [Gitvio](https://gitvio.vercel.app/) | A tool to quickly and easily view detailed information about a user's Github profile: the most popular repositories, number of commits, issues and , statistics of languages used, and more. |
+| [OSGINT](https://github.com/hippiiee/osgint) | A simple #python tool to collect information about a Github user. It can be used to gather: all available emails avatar_url twitter_username number of followers/following date of profile creation and last update and more.  |
+| [gitSome](https://github.com/chm0dx/gitSome) | A tool for gathering information from #Github: - extract all emails from commits of a particular user (top of the pic); - gathering info about repository (with forks); - search info by domain name |
+| [Open Source Software Insight](https://ossinsight.io/) | Amazing service that allows to analyze developers and repositories data based on more than 5 billion (!) Github Events. |
 
 ### [](#wikipedia)Wikipedia
 
@@ -791,6 +817,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | --- | --- |
 | [WikiStalk : Analyze Wikipedia User's Activity](https://github.com/altilunium/wistalk) |     |
 | [Wikipedia Cross-lingual Image Analysis](https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/) | A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance. |
+| [WikiMedia Cloud Page Views](https://pageviews.wmcloud.org/) | The tool shows how many times a particular page on WikiPedia has been visited within a certain period of time. It also allows you to compare 2 or more pages with each other. Who is more popular? |
+| [WikiWho](http://wikiwho.ailef.tech/) | Database of edits made to #Wikipedia using IP ranges of organizations, government agencies and companies (FBI, NATO, European Parliament, etc.) You can view both the edits history of a single article and the edits history of organization. |
 
 ### [](#parler)Parler
 
@@ -861,6 +889,9 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Kworb](https://kworb.net/) | A lot of different statistics on views and listens collected from #YouTube, #iTunes, #Spotify. Ratings by country, year, music type, and more. |
 | [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd) | An extension for Chrome that allows you to find a link to Linkedin, Facebook, VK, StackOverflow, Instagram... by user Github (or other) profile |
 | [RUBY](https://github.com/jakecreps/ruby) | Simple tool for searching videos by keyword in Rumble, BitChute, YouTube and saving results (author, title, link) to CSV file. |
+| [The Visualized](https://thevisualized.com/) | visualize profile tweets to see the most popular from the last month; get info about the use of a particular hashtag (popular tweets, related hashtags, profiles that frequently use this hashtag);
+ lists of #Twitter and #YouTube trends by country; |
+ | [CommentPicker](https://commentpicker.com/) | Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export |
 
 [](#downloaders)Downloaders
 ===========================
@@ -892,6 +923,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [You Get](https://github.com/soimort/you-get) | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
 | [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
 | [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
+| [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
 [](#domainiplinks)Domain/IP/Links
 =================================
@@ -946,6 +978,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Contacts Details Scraper](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) | Free contact details scraper to extract and download emails, phone numbers, Facebook, Twitter, LinkedIn, and Instagram profiles from any website. |
 | [linkKlipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo) | The easiest extension to collect links from an open web page: - select links with Ctrl/Command key or download all; - filter links by extension or using Regular Expressions; - download in CSV/TXT. |
 | [Listly](https://chrome.google.com/webstore/detail/listly-free-data-scraper/ihljmnfgkkmoikgkdkjejbkpdpbmcgeh/related) | An extension that allows to collect all the data from a website into a table, quickly filter out the excess, and export the result to Excel/Google Sheet. |
+| [EmailHarvester](https://github.com/4383/EmailHarvester) | A tool to collect emails registered on a certain domain from search results (google, bing, yahoo, ask) and save the results to a text file. Proxy support. |
+| [Email Finder](https://github.com/Josue87/EmailFinder) | Another tool to collect emails registered on a certain domain from search results (google, bing, baidu, yandex). Can be used in combination with EmailHarvester as the two tools produce different results. |
 
 ### [](#redirect-lookup)Redirect lookup
 
@@ -1135,6 +1169,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf/related) | Shows all the domains to which the site connects at runtime and allows you to block different sources at will. Useful for ad blocking, tracking, data collection, and various experiments. |
 | [Open Link Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj) | View webpage details info in Google Chrome: RDFa linked data ([http://rdfa.info](http://rdfa.info)) POSH (Plain Old Semantic HTML) Microdata RSS |
 | [REGEXPER](https://regexper.com/) | A simple and free online tool for visualizing regular expressions. Just copy the regular expression to the site and convert it into a detailed and understandable graphical scheme. |
+| [LinkFinder](https://github.com/GerbenJavado/LinkFinder) | Simple tool discover endpoints and their parameters in JavaScript files. It's possible to discover individual URLs, groups of URLs and directories. Supports regular expressions. |
 
 ### [](#broken-links-checkers)Broken Links Checkers
 
@@ -1216,6 +1251,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
 | [Logobook](http://www.logobook.com/) | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
 | [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
+| [Lexica](https://lexica.art/) | Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. |
 
 ### [](#image-editing-tools)Image editing tools
 
@@ -1296,6 +1332,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Learnmebitcoin.com](https://learnmeabitcoin.com/tools/path/) | find transactions between two Bitcoin adresses |
 | [Coinwink.com](https://coinwink.com/) | allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value |
 | [BlockCypher](https://blockcypher.herokuapp.com/) | Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin, Dash. Getting into about address, transactions and block hashes, block number or wallet name. |
+| [Bitcoin Abuse Database](https://www.bitcoinabuse.com/) | A simple tool to check whether a Bitcoin address has been used for ransomware, blackmailers, fraudsters and view incident reports. |
+| [BreadCrumbs](https://www.breadcrumbs.app/) | Enter your BTC or ETH wallet number to see a graph of associated wallets (with transaction history and lot of other details).  |
+| [A TON of Privacy](https://github.com/aaarghhh/a_TON_of_privacy) | Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain. |
+
 
 [](#messengers)Messengers
 =========================
@@ -1424,6 +1464,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [ChatBottle](https://chatbottle.co/bots/) | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
 | [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
 | [DensePhrase](http://densephrases.korea.ac.kr/) | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. |
+| [metaphor systems](https://metaphor.systems/) | A search engine with a new and unusual search method. This AI "trained to predict the next *link* (similar to the way GPT-3 predicts the next *word*)". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link. |
 
 ### [](#universal-search-tools)Universal search tools
 
@@ -1435,6 +1476,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Search Engines Scraper](https://github.com/tasos-py/Search-Engines-Scraper) | Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines. |
 | [Trufflepiggy (Context Search)](https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo) | Search selected text in different search engines and sites from Google Chrome context menu. |
 | [Search Patterns](https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001) | A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet). |
+| [Searcher](https://github.com/davemolk/searcher) | A very fast and simple #go tool that allows you to collect search results from a list of keywords in the following search engines:  Ask Bing Brave DuckDuckGo Yahoo Yandex |
+| [Startpage Parser](https://github.com/knassar702/startpage-parser) | Startpage.com search engine produces similar (but not identical) results to Google's, but is much less likely to get banned. This #python tool allows to scrape big amounts of results without using proxies. |
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
 
@@ -1447,6 +1490,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
 | [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
 | [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
+| [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) | Command line #python tool, which downloads all the pastes of a particular #Pastebin user. |
+| [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
 
 ### [](#public-buckets-search-tools)Public buckets search tools
 
@@ -1538,6 +1583,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [TheLordEye](https://github.com/rlyonheart/thelordseye) | Tool that searches for devices directly connected to the internet with a user specified query. It returns results for webcams, traffic lights, routers, smart TVs etc |
 | [Netlas.io](https://app.netlas.io/) | Search engine for every domain and host available on the Internet (like Shodan and Censys): - search by IP, domain DNS-servers, whois info, certificates (with filtering by ports and protocols) - 2500 requests/month free; - API and python lib "netlas". |
 | [CriminalAPI](https://www.criminalip.io/) | Search engine for all public IPs on the Internet. Search by (for ex): html title, html meta tags and html keyword tags; whois city and country; ssl expired date; CVE id and MANY more  |
+| [FullHunt](https://fullhunt.io/) | Attack surface database of the entire Internet.  Search info by domain, ip, technology, host, tag, port, city and more. |
 
 
 [](#archives)Archives
@@ -1606,6 +1652,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
 | [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
 | [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
+| [Anna's Archive](https://annas-archive.org/search) | Search engine of shadow libraries: books, papers, comics, magazines (IPFS Gateway, Library Genesis etc). |
+| [World Cat](https://worldcat.org/) | Enter the name of the paper book and find out which public libraries near you can find it.  Works for the USA, Australia and most European countries. |
 
 
 
@@ -1616,7 +1664,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | --- | --- |
 | [ConnectedPapers](https://www.connectedpapers.com/) | A tool for gathering information about academic papers. It shows a large graph of references to other articles that are present in the text and clearly see the connections between different authors. |
 | [AcademicTree](https://academictree.org/) | A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students |
-
+| [clinicaltrials.gov](https://clinicaltrials.gov/) | 433,207 research studies in 221 countries. For people who have a difficult-to-treat disease, this registry will help them learn about recently developed drugs and treatments and get contacts of organizations that are researching a particular disease. |
+| [Elicit](https://elicit.org/) | AI research assistant. Find answers to any question from 175 million papers. The results show a list of papers with summaries + Summary of the 4 most relevant papers.  |
+| [ExplainPaper](https://www.explainpaper.com/) | AI is a tool to make reading scientific articles easier. Highlight a phrase, sentence or whole paragraph to get its simple and detailed explanation with #AI. |
+| [Bielefeld Academic Search Engine](https://www.base-search.net/) | Search across 311 million 481 thousands documents (most of them with free access). Search by email, domain, first/last name, part of address or keywords. |
 
 [](#datasets)Datasets
 =====================
@@ -1663,6 +1714,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Email Permutator](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0) | Google Sheet table that generate 46 variants of user email by first name, last name and domain |
 | [Have I Been Sold?](https://haveibeensold.app/) | The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. |
 | [mailMeta](https://github.com/gr33nm0nk2802/mailMeta) | Simple tool to analyze emails headers and identify spoofed emails. |
+| [EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer) | Tool for analyzing .eml files. It analyzes and checks with VirusTotal links, attachments and headers. |
 
 [](#nicknames)Nicknames
 =======================
@@ -1688,6 +1740,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
+| [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 
 
 [](#phone-numbers)Phone numbers
@@ -1727,6 +1780,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Scamdigger.com](http://scamdigger.com/) | search in #scammers database by name, IP-adress, email or phone |
 | [Cloob.com](https://www.cloob.com/profile/search/index) | Iranian people search |
 | [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
+| [FEI Database Person Search](https://data.fei.org/Person/Search.aspx) | If the person you are researching is related to equestrian sports, check the FEI database for information about him or her. There you can find cards of riders, horse owners, grooms and fans around the world. |
 
 [](#sock-puppets)Sock Puppets
 =============================
@@ -1760,6 +1814,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [VCC Generator](http://vccgenerator.org/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [CardGuru](https://cardguru.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [CardGenerator](https://cardgenerator.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
+| [Faker](https://github.com/joke2k/faker) | Python tool for generating fake data in different languages.  Generate addresses, city names, postal codes (you can choose the country), names, meaningless texts, etc. |
+| [Generate Data](https://generatedata.com/generator) | Free tool for generating fake data. Useful for testing scripts and applications. The result can be downloaded in CSV, JSON, XML, SQL or JavaScript (PHP, TypeScript, Python) arrays. |
 
 [](#noosint-tools)NOOSINT tools
 ===============================
@@ -1785,6 +1841,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Typeit](https://www.typeit.org/) | If the text in the picture is not recognised using Google Lens or other OCR tools, try just typing it character by character using the online keyboard. This website has these for 25 different languages. |
 | [Transform Tools](https://transform.tools/) | This tool is worth knowing for developers and anyone who has to work with different data formats. It can convert: JSON to MySQL, JavaScript to JSON, TypeScript to JavaScript, Markdown to HTML |
 | [Autoregex](https://www.autoregex.xyz/) | AI regular expressions generator. Generates a pattern by verbal description. It does not work perfectly (see picture with bitcoin wallet, there is an error, it does not always start with 13). But in general the service is very impressive! |
+| [MARKMAP](https://markmap.js.org/) | A simple and free online tool to convert Markdown to Mindmap (SVG or interactive HTML). Formatting options are not too many, but enough to create an informative and clear visualization. |
+| [Xmind Works](https://xmind.works/) | Online tool for open and editing .xmind files |
+| [CLIGPT](https://github.com/paij0se/cligpt) | The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts. |
+| [MarkWhen](https://markwhen.com/) | Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link. |
 
 ### [](#visualization-tools)Visualization tools
 
@@ -1796,6 +1856,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Gephi](https://github.com/gephi/gephi) | fast and easy to learn graph analytics tool with a lot of modules (plugins) |
 | [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
 | [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
+| [JSONHero](https://jsonhero.io/) | Free online tool for visualizing data in JSON format. With tree structure display, syntax highlighting, link preview, pictures, colors and many other interesting features. |
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
 
@@ -1860,6 +1921,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | --- | --- |
 | [Nonfungible.com](https://nonfungible.com) | help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time) |
 | [Numbers](https://nftsearch.site/) | Search NFT by Content ID, Commit hash, keywords or uploaded photo. |
+| [Fingble Nftport](https://fingible.nftport.xyz/) | One of the most accurate search engines for finding NFT by uploaded image. Works well with faces. Also it's possible to search by keyword or Token ID. |
 
 [](#keywords-trends-news-analytics)Keywords, trends, news analytics
 ===================================================================
@@ -1873,6 +1935,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
 | [Pinterest Trends](https://trends.pinterest.com/) |     |
 | [PyTrends](https://github.com/GeneralMills/pytrends) | Simple #python library for automatically collecting data from Google Trends. |
+| [KeyWordPeopleUse](https://keywordspeopleuse.com/) | Type in a keyword and see what questions mentioning it are being asked on Quora and Reddit. The service is also able to analyse Google Autocomplete and "People also ask" |
 
 [](#apps-and-programs)Apps and programs
 =======================================
@@ -2028,6 +2091,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Wannabe1337 Toolkit](https://wannabe1337.xyz/) | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools. |
 | [BazzellPy](https://github.com/dmw94/bazzellpy) | Unofficial(!) #Python library for automation work with IntelTechniques Search Tools https://inteltechniques.com/tools/ |
 | [BBOT](https://github.com/blacklanternsecurity/bbot) | Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback (full list in the picture) |
+| [SLASH](https://github.com/theahmadov/slash) | Universal #cli search tool. Search email or username across social media, forums, Pastebin leaks, Github commits and more. |
+| [How to verify?](https://www.howtoverify.info/) | Visual fact checking mind maps for verification video, audio, source, text. Detailed workflows descriptions with tools, tips and tricks. |
 
 |
 
@@ -2040,6 +2105,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | [1C Database Converter](https://github.com/soxoj/1c-database-converter) | 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files. |
 | [Insight Jini](https://insightjini.com/) | Extreme quick, extreme simple and free online tool for data visalization and analysis |
+| [DIAGRAMIFY](https://diagramify.agiliq.com/) | generates flow charts from the text description. Branching and backtracking are supported  |
+| [OBSIDIAN CLI](https://github.com/Yakitrak/obsidian-cli) | Very simple #go tool that let to interact with the Obsidian using the terminal. Open, search, create and edit files. Can be combined with any other #cli #osint tools to automate your workflow. |
 
 [](#online-os-emulators)Online OS Emulators
 ===========================================
