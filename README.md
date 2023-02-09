@@ -119,7 +119,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
 - [Datasets](#datasets)
-- [Science (research papers)](#science)
+- [Science](#science)
 - [Passwords](#passwords)
 - [Emails](#emails)
 - [Nicknames](#nicknames)
