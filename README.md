@@ -1671,6 +1671,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Scite.ai](https://scite.ai/) | Enter the article title or DOI to get a list of publications that cite it. Results can be filtered by type (book, review, article), year, author, journal and other parameters.|
 | [Scholarcy](https://article-summarizer.scholarcy.com/) | AI papers summarizer. Upload the file or copy the access URL to the article to get: Key concepts; Abstract; Synopsis; Highlights; Summary; Links to download tables from paper in Excel. |
 | [Research Rabbit](https://researchrabbitapp.com/home) | Find articles and view its connections - similar works, references, citations and more|
+| [Trinka](http://trinka.ai) | A partly free online tool to help you prepare a research paper for publication: AI Grammar; Checker (made especially for scientific papers); Consistency checker; Citation checker; Plagiarism checker; Journal founder|
+| [Zendy.io](https://zendy.io) | Discover academic journals, articles, & books on one seamless platform. Search keyword, authors, titles ISBN, ISSN etc |
+| [Scinapse.io](https://scinapse.io) | Academic Search Engine. Search by 48000 journals|
+| [Argo Scholar](https://poloclub.github.io/argo-scholar/) | A tool for analysing connections between research articles |
 
 
 
