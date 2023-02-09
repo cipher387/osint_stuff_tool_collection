@@ -119,7 +119,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
 - [Datasets](#datasets)
-- [Science](#science)
+- [Science (research papers)](#science)
 - [Passwords](#passwords)
 - [Emails](#emails)
 - [Nicknames](#nicknames)
@@ -1668,6 +1668,12 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Elicit](https://elicit.org/) | AI research assistant. Find answers to any question from 175 million papers. The results show a list of papers with summaries + Summary of the 4 most relevant papers.  |
 | [ExplainPaper](https://www.explainpaper.com/) | AI is a tool to make reading scientific articles easier. Highlight a phrase, sentence or whole paragraph to get its simple and detailed explanation with #AI. |
 | [Bielefeld Academic Search Engine](https://www.base-search.net/) | Search across 311 million 481 thousands documents (most of them with free access). Search by email, domain, first/last name, part of address or keywords. |
+| [Scite.ai](https://scite.ai/) | Enter the article title or DOI to get a list of publications that cite it. Results can be filtered by type (book, review, article), year, author, journal and other parameters.|
+| [Scholarcy](https://article-summarizer.scholarcy.com/) | AI papers summarizer. Upload the file or copy the access URL to the article to get: Key concepts; Abstract; Synopsis; Highlights; Summary; Links to download tables from paper in Excel. |
+| [Research Rabbit](https://researchrabbitapp.com/home) | Find articles and view its connections - similar works, references, citations and more|
+
+
+
 
 [](#datasets)Datasets
 =====================
