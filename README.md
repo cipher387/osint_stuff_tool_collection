@@ -446,7 +446,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Understanding War Map Room](https://www.understandingwar.org/map-room) | collection of maps illustrating military conflicts in different countries. |
 | [US Military Bases Interactive Worldwide Map](https://worldbeyondwar.org/no-bases/) | Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information. |
 
-### [](#military-visalisation)Military visalisation
+### [](#military-visalisation)Military visualisation
 
 | Link | Description |
 | --- | --- |
@@ -527,6 +527,8 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 | Link | Description |
 | --- | --- |
+| [YouTube Whisperer](https://huggingface.co/spaces/jeffistyping/Youtube-Whisperer) | Transcribe YouTube video |
+| [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem: |
@@ -1219,10 +1221,19 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 | Link | Description |
 | --- | --- |
+| [Scene detection](https://t.co/jHWseS1PUP) | Determine the timecodes on which there is a change of scenery in the video and significantly save time watching it |
+| [Get text from video](https://huggingface.co/spaces/kabita-choudhary/get_text_from_video) | Transcribe uploaded video file |
+| [EfficientNetV2](https://huggingface.co/spaces/Ron0420/EfficientNetV2_Deepfakes_Video_Detector) | DeepFake Video Detector |
+| [Downsub](https://downsub.com/) | Extract subtitles from video|
+| [Subtitlevideo](https://www.subtitlevideo.com/) | Extract subtitles from video |
+| [FlexClip](https://www.flexclip.com/tools/metadata-video/) | Get video metadata |
+| [Pix2Pix-Video ](https://huggingface.co/spaces/fffiloni/Pix2Pix-Video) | Edit video by prompt|
 | [unscreen.com](https://www.unscreen.com/) | remove the background from an uploaded video |
 | [TextGrab](https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related) | Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) |
 | [Lossless Cut](https://github.com/mifi/lossless-cut) | #javascript #opensource swiss army knife for audio/video editing. |
 | [Movio.la](https://www.movio.la/) | Create spoken person video from text |
+
+
 
 [](#image-search-and-identification)Image Search and Identification
 ===================================================================
@@ -1262,6 +1273,10 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Remini AI Photo Enhancer](https://app.remini.ai/) | Tool allows to restore blurry faces to photos. |
 | [Letsenhance](https://letsenhance.io/) | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
 | [Media IO Watermark Remover](https://www.media.io/app/removeWatermark) | Select the area and mark the time frame in which you want to remove the object. Works for barely visible watermarks as well as for bright and large objects. |
+
+| [Remove.bg](https://www.remove.bg/) | Remove background from image with AI |
+| [Watermarkremover](https://www.watermarkremover.io/) | Remove watermark from image with AI |
+| [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) | Image editing with prompt|
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
