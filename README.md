@@ -1273,7 +1273,6 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Remini AI Photo Enhancer](https://app.remini.ai/) | Tool allows to restore blurry faces to photos. |
 | [Letsenhance](https://letsenhance.io/) | Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. |
 | [Media IO Watermark Remover](https://www.media.io/app/removeWatermark) | Select the area and mark the time frame in which you want to remove the object. Works for barely visible watermarks as well as for bright and large objects. |
-
 | [Remove.bg](https://www.remove.bg/) | Remove background from image with AI |
 | [Watermarkremover](https://www.watermarkremover.io/) | Remove watermark from image with AI |
 | [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) | Image editing with prompt|
