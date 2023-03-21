@@ -171,6 +171,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [COPERNIX](https://copernix.io/) | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
 | [WikiNearby](https://wikinearby.toolforge.org/?lang=en&q=55.333056%2C+27.248889) | Enter geographic coordinates, language, and get a list of Wikipedia articles about streets, towns, stations and other notable places nearby. |
 | [Huntel.io](https://www.huntintel.io/) | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
+| [Geotagging.AI](https://geotagging.ai/) | Get geo coordinates from texts. Send a text - receive an predicted location |
 
 ### [](#nature)Nature
 
