@@ -215,7 +215,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [World Aviation Accident Database 1962-2007](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx) |     |
 | [World Aviation Accident Database 2008-2021](https://data.ntsb.gov/carol-main-public/basic-search) |     |
 | [Rzjets.net](http://rzjets.net/aircraft/) | user updated online database (census) of civilian jet and turbojet aircraft |
-| [Globe.adsbexchange.com](https://globe.adsbexchange.com/) | tracking flights on a map |
+| [Globe.adsbexchange.com](https://globe.adsb.fi/) | tracking flights on a map |
 | [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) |
 | [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | An extension that displays the size of the legroom between the seats next to the flight information. |
 | [Flight Status Info](https://flight-status.info/) | - get a list of airports by city name; - view the flight schedule of a particular airport; - view the flight schedule of a particular airline; - getting detailed information about a flight and more  |
@@ -230,6 +230,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | search for voyage details by voyage number or ship name |
 | [The Shipping Database](https://theshippingdatabase.com/) | comprehensive archive of the world ships. There is even data for 1820!!!!!!! |
 | [Submarinecablemap.com](https://www.submarinecablemap.com/) | submarine communications cables map |
+| [Vesselfinder.com](https://www.vesselfinder.com/) | Examine the position of vessels |
 | [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
 | [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
@@ -1507,6 +1508,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
 | [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) | Command line #python tool, which downloads all the pastes of a particular #Pastebin user. |
 | [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
+| [TorMap](https://tormap.org/) | Search for thousands of Tor network relays |
 
 ### [](#public-buckets-search-tools)Public buckets search tools
 
@@ -1613,6 +1615,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [Carbon Dating The Web](http://carbondate.cs.odu.edu/) |     |
 | [Arquivo.pt](https://arquivo.pt/) |     |
 | [Archive.md](https://archive.md/) |     |
+| [Archive.ph/archive.today](https://archive.ph/) | (backup for archive.md)     |
 | [Webarchive.loc.gov](http://webarchive.loc.gov/) |     |
 | [Swap.stanford.edu](https://swap.stanford.edu/) |     |
 | [Wayback.archive-it.org](http://wayback.archive-it.org/) |     |
