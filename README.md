@@ -884,7 +884,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [ExportComments](https://exportcomments.com) | Export comments from social media posts to excel files (Twitter, Facebook, Instagram, Discord etc), 100 comments free |
 | [Social Media Salary Calculator](http://lickd.co/blog/social-salary-calculator) | for YouTube, TikTok, Instagram |
 | [Chat-downloader](https://github.com/xenova/chat-downloader) | download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. |
-| [FindMyBID](https://findmyfbid.in/) | Toolkit for collecting data from social networks |
+| [FindMyFBID](https://randomtools.io/) | Toolkit for collecting data from social networks |
 | [Social Analyzer](https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp) | extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them. |
 | [Khalil Shreateh Social Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/) | More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.) |
 | [SNScrape](https://github.com/JustAnotherArchivist/snscrape) | Tool for search posts and gathering information about users in Twitter, Reddit, Vkontakte, Weibo, Telegram, Facebook, Instagram, Telegram and Mastodon. |
