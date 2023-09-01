@@ -745,8 +745,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 | [IMAGSTON](https://seintpl.github.io/imagstodon/) | A tool that searches for users by name on different #Mastodon servers and collects information about them (profile picture, account type, date of account creation, bio). |
 | [Movetodon](https://movetodon.org/) | Get a list of your Twitter followings in Mastodon. With the ability to sort by date of registration, date of last activity, and buttons for quick subscriptions. |
 | [Followgraph for Mastodon](https://followgraph.vercel.app/) | Enter any #Mastodon Handle and get a list of accounts followed by the people this profile follows. It helps to find connections between people or just interesting accounts followed by many people interested in a certain topic. |
-
-
+| [Kirbstr's Mastodon search](https://cse.google.com/cse?cx=e57e14c971ef34e61) | Google CSE for some of the most popular and open mastodon instances. |
 
 
 
