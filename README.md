@@ -2203,4 +2203,4 @@ Command line cheat sheet for this collection made by [Coordinat Cat](https://git
 
 * * *
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! [@cyb_detective](https://cybdetective.com)
