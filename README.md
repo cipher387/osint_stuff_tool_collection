@@ -317,8 +317,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 | Link | Description |
 | --- | --- |
-| [Surveillance under Surveillance](https://sunders.uber.space/) | World map of surveillance camera locations (mostly Europe and neighbor countries). For some cameras detailed information is given: geo coordinates, type, mount, timestamp etc
- |
+| [Surveillance under Surveillance](https://sunders.uber.space/) | World map of surveillance camera locations (mostly Europe and neighbor countries). For some cameras detailed information is given: geo coordinates, type, mount, timestamp etc|
 | [Insecam.org](http://www.insecam.org/) |     |
 | [Earthcam](https://www.earthcam.com/) |     |
 | [Camstreamer](https://camstreamer.com/live/map) |     |
