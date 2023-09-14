@@ -1176,6 +1176,8 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 | [CloudBrute](https://github.com/0xsha/CloudBrute) | Tool to find target infrastructure, files, and apps on the popular cloud providers |
 | [dnsReaper](https://github.com/punk-security/dnsReaper) | TwiSub-domain takeover tool |
 | [ALERTX](https://github.com/projectdiscovery/alterx) | Very fast #go tool for search subdomains. For example, it fin 111 http://tesla.com subdomains in 0.003 seconds. |
+| [Columbus Project](https://columbus.elmasy.com/) | A fast, API-first subdomain discovery service with advanced queries. |
+
 
 ### [](#cloudfare)Cloudfare
 
