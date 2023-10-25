@@ -15,6 +15,13 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
+
+
+Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
+
+
+
+
 ## [](#table-of-contents) Table of contents
 - [Maps, Geolocation and Transport](#maps-geolocation-and-transport)
     - [Social media and photos](#social-media-and-photos)
