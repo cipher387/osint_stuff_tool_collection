@@ -19,6 +19,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
 
+## Most important categories
 
 
 | Section                                   | Link                                                                                                   |
@@ -36,7 +37,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Search engines                            | [Explore](#search-engines)                       |
 | IOT                                       | [Explore](#iot)                       |
 | Archives                                  | [Explore](#archives)                       |
-
+| Passwords                                  | [Explore](#passwords)                       |
+| Emails                                  | [Explore](#emails)                       |
+| Nicknames                                  | [Explore](#nicknames)                       |
 
 
 
