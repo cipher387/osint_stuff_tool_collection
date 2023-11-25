@@ -21,6 +21,25 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
+| Section                                   | Link                                                                                                   |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Maps, Geolocation and Transport           | [Explore](#maps-geolocation-and-transport)                                 |
+| Social Media                              | [Explore](#social-media) |
+| Domain/IP/Links                           | [Explore](#domainiplinks)                  |
+| Text Analyze                              | [Explore](#sound-indefication-and-analyze)          |
+| Sound indefication and analyze            | [Explore](#sound-search-and-analyze)  |
+| Video editing and analyze                 | [Explore](#video-editing-and-analyze)                              |
+| Image Search and Identification           | [Explore](#image-search-and-identification)                         |
+| Cryptocurrencies                          | [Explore](#cryptocurrencies)                       |
+| Messengers                                | [Explore](#messengers)                       |
+| Code                                      | [Explore](#code)                       |
+| Search engines                            | [Explore](#search-engines)                       |
+| IOT                                       | [Explore](#iot)                       |
+| Archives                                  | [Explore](#archives)                       |
+
+
+
+
 
 ## [](#table-of-contents) Table of contents
 - [Maps, Geolocation and Transport](#maps-geolocation-and-transport)
