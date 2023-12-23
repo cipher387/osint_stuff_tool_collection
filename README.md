@@ -1191,6 +1191,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | Very quick and simple subdomain enumeration using [http://crt.sh](http://crt.sh). |
 | [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
 | [Web Check](https://web-check.as93.net/) | Get detailed report about IP or domain: Location SSL Info Headers Domain and host names Whois DNS records Crawl riles Cookies Server Info Redirects Server status TXT Config |
+| [Whoxy](https://www.whoxy.com/) | Whois tool that also provides historical registration information |
+
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
 
