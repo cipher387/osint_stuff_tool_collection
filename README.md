@@ -1555,6 +1555,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
 | [AWK JS](https://awk.js.org/) | AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk. |
 | [PLDB](https://pldb.com/) | A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles |
+| [Pyrexp](https://pythonium.net/regex) | Online regex tester and visualizer for Python |
 
 [](#search-engines)Search engines
 =================================
