@@ -2059,6 +2059,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [ToolSley: analyze file format online](https://www.toolsley.com/file.html) |     |
 | [RecoveryToolBox](https://recoverytoolbox.com/) | recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files |
 | [Google Docs to Markdown online converter](https://mr0grog.github.io/google-docs-to-markdown/) | just copy text to the site |
+| [Microsoft Word to Markdown online converter](https://www.docstomarkdown.pro/convert-word-to-markdown/) | just copy text to the site |
 | [Binvis](https://binvis.io/) | lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool |
 | [Gdrive-copy](https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec) | The standard functionality of #GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications |
 | [Siftrss.com](https://siftrss.com/) | tool for filtering RSS feeds |
