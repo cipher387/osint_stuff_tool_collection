@@ -581,6 +581,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
 | [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related) | YouTube Subscription Manager |
 | [YouTube comment Finder](https://ytcomment.kmcat.uk/) |     |
+| [YouTube comment Sorting](https://youtube-comments.io/get-comments) |     |
 | [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
 | [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
 | [Slash Tags](https://github.com/huhmit/slashtags) | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
