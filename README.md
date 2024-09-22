@@ -536,6 +536,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
 | [Twitter Mentions Map](https://www.twitonomy.com/mentions-map.php) | A world map that shows the locations of users who mention you in their tweets. |
 | [Twitter URL Scraper](https://apify.com/zuzka/twitter-url-scraper) | A simple tool for analyzing twitter conversations (and other pages). Get profile pictures, user names and the text of the conversation's tweets and replies. Data can be exported to CSV, JSON, XML. |
+| [ModelND](https://modelnd.com) | View and download media image and video shared from twitter users |
 | [DO ES FOLLOW](https://doesfollow.com/) | quick check if one user is subscribed to another on Twitter |
 | [Sleeping Time](http://sleepingtime.org/) | determining the approximate sleeping time of a user based on analysis of the timing of a tweet |
 | [Tweet Tunnel](https://tweettunnel.com/reverse.php) | tool for quick and comfortable viewing old tweet's of someone account |
@@ -707,6 +708,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [dudjob.com](https://dudjob.com) | Most accurated and API available to search OnlyFans |
+| [lovingcreators.com](https://lovingcreators.com) | Access to the whole OnlyFans database |
+| [minimalmodels.com](https://minimalmodels.com) | OnlyFans users categorized |                                                                                             
 | [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
 | [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
 | [onlyfinder.com](https://onlyfinder.com/) | OnlyFans profiles search engine (search by people, images and deals) |
@@ -1323,6 +1327,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Scene detection](https://t.co/jHWseS1PUP) | Determine the timecodes on which there is a change of scenery in the video and significantly save time watching it |
 | [Get text from video](https://huggingface.co/spaces/kabita-choudhary/get_text_from_video) | Transcribe uploaded video file |
+| [Subsfinder](https://subsfinder.com) | Find subtitles in any language for movies and series |
 | [EfficientNetV2](https://huggingface.co/spaces/Ron0420/EfficientNetV2_Deepfakes_Video_Detector) | DeepFake Video Detector |
 | [Downsub](https://downsub.com/) | Extract subtitles from video|
 | [Subtitlevideo](https://www.subtitlevideo.com/) | Extract subtitles from video |
@@ -1562,6 +1567,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 
 | Link | Description |
 | --- | --- |
+| [Meawfy](https://meawfy.com/) | Search engine to find files in mega.nz before megaupload |
 | [fnd.io](https://fnd.io/) | alternative search engine for the AppStore and iTunes |
 | [GlobalSpec Engineer Search Engine](https://www.globalspec.com/) |     |
 | [URVX](https://uvrx.com) | Based by Google Custom Search tool for searching in popular cloud storages service |
