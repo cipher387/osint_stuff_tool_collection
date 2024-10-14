@@ -1702,6 +1702,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Yagooglesearch](https://github.com/opsdisk/yagooglesearch) | "Simulates real human Google search behavior to prevent rate limiting by Google and if HTTP 429 blocked by Google, logic to back off and continue trying" (c) |
 | [Google Word Sniper](https://googlewordsniper.eu/) | Simple tool to make easier Google queries with the advanced search operator AROUND(). |
 | [OMAIL](https://omail.io/) | An online tool that extracts and validates emails from Google and Bing search results (by keyword or domain). Partly free (200 extracts per search) |
+| [SearchApi](https://www.searchapi.io/) | SearchApi - real-time JSON API to access 50+ SERP engines like Google, Bing, Baidu, YouTube, Amazon, and more. |
 
 
 
