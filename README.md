@@ -1760,16 +1760,19 @@ Google lens is not too user friendly for investigations. But this tool will help
 
 
 
-### [](#warc)Tools for working with WARC (WebARChive) files
+### [](#warc)Tools for working with WARC (WebARChive) and WACZ (Web Archive Collection Zipped) files
 
 | Link | Description |
 | --- | --- |
-| [Warcat](https://github.com/chfoo/warcat) | My favorite (because it's the easiest) tool for working with Warc files. It allows you to see the list of files in the archive (command "list") and unpack it (command "extract").  |
-| [Replayweb](https://github.com/webrecorder/replayweb.page) | If the warc file is small, you can view its contents with this extreme simple online tool. Also it's possible to deploy ReplayWeb on your own server  |
-| [Metawarc](https://github.com/datacoon/metawarc) | Allows you to quickly analyze the structure of the warc file and collect metadata from all the files in the archive |
-| [Webrecorder tools](https://webrecorder.net/tools) | Archiving various interesting sites is a noble and useful activity for society. To make it easier for posterity to analyze your web archives, save them in Warc format with an online tool|
-| [GRAB SITE](https://github.com/ArchiveTeam/grab-site) | Af you need to make a Warc archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible.|
-| [har2warc](https://github.com/webrecorder/har2warc) | Convert HTTP Archive (HAR) -> Web Archive (WARC) format|
+| [Warcat](https://github.com/chfoo/warcat) | My favorite (because it's the easiest) tool for working with WARC files. It allows you to see the list of files in the archive (command "list") and unpack it (command "extract").  |
+| [Browsertrix](https://webrecorder.net/browsertrix/) | Browser-based crawling service that saves websites as WACZ files (containing WARCs). Hosed as SaaS by Webrecorder but can alternatively be self-deployed on your own infrastructure |
+| [ArchiveWeb.page](https://webrecorder.net/archivewebpage/) | Create WARC and WACZ files interactively as you navigate sites in your web browser. Good for saving high-fidelity |
+| [ReplayWeb.page](https://webrecorder.net/replaywebpage/) | If the WARC file is small, you can view its contents with this extremely simple online tool / desktop app. WACZ files of any size will load much faster due to their built-in index. Also it's possible to deploy ReplayWeb.page on your own server  |
+| [Metawarc](https://github.com/datacoon/metawarc) | Allows you to quickly analyze the structure of the WARC file and collect metadata from all the files in the archive |
+| [warcit](https://github.com/webrecorder/warcit) | Command line utility to convert a local directory containing website files into a WARC file |
+| [unwarcit](https://github.com/emmadickson/unwarcit) | Command line utility to convert a WARC or WACZ file to a local directory containing website files |
+| [GRAB SITE](https://github.com/ArchiveTeam/grab-site) | Af you need to make a WARC archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible.|
+| [har2warc](https://github.com/webrecorder/har2warc) | Convert HTTP Archive (HAR) → Web Archive (WARC) format|
 
 
 [](#archives-of-documentsnewspapers)Archives of documents/newspapers
