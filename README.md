@@ -1726,11 +1726,11 @@ Google lens is not too user friendly for investigations. But this tool will help
 | Link | Description |
 | --- | --- |
 | [Quick Cache and Archive search](https://quickcacheandarchivesearch.onrender.com/) | quick search website old versions in different search engines and archives (21 source) |
-| [Trove](http://trove.nla.gov.au/search/category/websites) | australian web archive |
+| [Trove](http://trove.nla.gov.au/search/category/websites) | Australian web archive |
 | [Vandal](https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related) | extension that makes working with [http://archive.org](http://archive.org) faster, more comfortable, and more efficient. |
 | [TheOldNet.com](https://theoldnet.com/) |     |
 | [Carbon Dating The Web](http://carbondate.cs.odu.edu/) |     |
-| [Arquivo.pt](https://arquivo.pt/) |     |
+| [Arquivo.pt](https://arquivo.pt/) | Portuguese web archive     |
 | [Archive.md](https://archive.md/) |     |
 | [Webarchive.loc.gov](http://webarchive.loc.gov/) |     |
 | [Swap.stanford.edu](https://swap.stanford.edu/) |     |
@@ -1739,6 +1739,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [web.archive.bibalex.org](http://web.archive.bibalex.org/) |     |
 | [Archive.vn](https://archive.vn/) |     |
 | [UKWA](https://www.webarchive.org.uk/) | archive of more than half a billion saved English-language web pages (data from 2013) |
+| [Ghostarchive](https://ghostarchive.org/) | Free web archive that uses ReplayWeb.page for viewing archived sites |
 
 ### [](#tools-for-working-with-web-archives)Tools for working with web archives
 
