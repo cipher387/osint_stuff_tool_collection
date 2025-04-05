@@ -3,8 +3,6 @@
      <h1>Cyber Detective's OSINT tools collection</h1>
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection"> <br>
-     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
-     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      <br>
      <br>
 </div>
