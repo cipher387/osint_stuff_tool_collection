@@ -17,6 +17,10 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
 
+<i>I have been working on this repository since the summer of 2021. Many tools are constantly becoming obsolete, no longer supported or working at all. But I don't remove from the list so you can use their names and descriptions to find analogues.</i>
+
+
+
 ## Most important categories
 
 
