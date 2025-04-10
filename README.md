@@ -1977,6 +1977,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Cardgenerator.org](https://cardgenerator.org/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [VCC Generator](http://vccgenerator.org/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [CardGuru](https://cardguru.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
+| [CreditCardGenerator](https://creditcardgenerator.app/) | tool for generating valid credit card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [CardGenerator](https://cardgenerator.io/) | tool for generating valid bank card numbers (useful for registering accounts to use free trial versions or to create sock puppets) |
 | [Faker](https://github.com/joke2k/faker) | Python tool for generating fake data in different languages.  Generate addresses, city names, postal codes (you can choose the country), names, meaningless texts, etc. |
 | [Generate Data](https://generatedata.com/generator) | Free tool for generating fake data. Useful for testing scripts and applications. The result can be downloaded in CSV, JSON, XML, SQL or JavaScript (PHP, TypeScript, Python) arrays. |
