@@ -709,8 +709,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [dudjob.com](http://dudjob.com) | Search engine for OnlyFans, filter profiles by category, country, etc. |
 | [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
-| [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
 | [onlyfinder.com](https://onlyfinder.com/) | OnlyFans profiles search engine (search by people, images and deals) |
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans profiles search engine with price filter |
 | [SimilarFans](https://similarfans.com/) | A tool to find OnlyFans profiles with many filters (by country, price, category, age, etc.). |
@@ -1663,6 +1663,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Sunxdcc](http://sunxdcc.com) | XDCC file search engine |
 | [Xdcc.eu](https://www.xdcc.eu) | XDCC search engine |
 | [URVX.com](http://www.uvrx.com) | File storage search engine based by Google CSE |
+| [Meawfy](https://meawfy.com) | Search engine for Mega.nz, allows users to find Mega folders using keywords contained in the files |
 | [DDL Search](http://ddlsearch.free.fr) | search engine for Rapidshare, Megaupload, Filefactory, Depositfile, Fileserve and a lot of other file sharing sites |
 | [Sharedigger](http://www.sharedigger.com) | search files in popular file hosting services |
 | [Xtorx](https://www.xtorx.com) | fast torrents search engine |
