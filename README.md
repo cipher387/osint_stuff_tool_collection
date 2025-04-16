@@ -1613,6 +1613,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | Link | Description |
 | --- | --- |
 | [Onion Search](https://github.com/megadose/OnionSearch) |     |
+| [onion-lookup](https://onion.ail-project.org/) | onion-lookup is a service (web, API) for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.|
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
 | [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) |     |
 | [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
