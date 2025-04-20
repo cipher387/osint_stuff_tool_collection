@@ -1614,6 +1614,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | --- | --- |
 | [Onion Search](https://github.com/megadose/OnionSearch) |     |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
+| [Darkweblink](https://darkweblink.com/) |Dark Web Link is a dedicated platform ushering users to the verified and anti-phishing .onion links to various websites on the darknet.|
 | [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) |     |
 | [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
 | [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
