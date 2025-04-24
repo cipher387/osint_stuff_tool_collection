@@ -615,8 +615,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
 | [YouTube Channel Crawler](https://channelcrawler.com/) | Search across 20, 625,734 channels. Search by name, category, country, number of subscribers, views, videos and creation date. |
 | [Return YouTube Comment Username](https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj) | YouTube has recently stopped showing user names in comments. There is an extension that solves this problem. |
-| [YouTube Lookup](https://youtube-lookup.vercel.app/) | A simple online tool to view YouTube video metadata: Snippet Statistics Status Content Geolocation Thumbnails
- |
+| [YouTube Lookup](https://youtube-lookup.vercel.app/) | A simple online tool to view YouTube video metadata: Snippet Statistics Status Content Geolocation Thumbnails |
+| [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
 
 ### [](#tiktok)TikTok
 
