@@ -587,7 +587,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
 | [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
 | [Slash Tags](https://github.com/huhmit/slashtags) | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
-| [YouTube playlist len](https://ytplaylist-len.herokuapp.com/) | Find out the total time of all the videos in playlist |
+| [YouTube Playlist Length](https://youtube-playlist-length-analyzer.akamhy.me) | Find out the total time of all the videos in playlist |
 | [Anylizer.com](https://anilyzer.com/) | watch frame by frame YouTube and Vimeo) |
 | [Improve YouTube](https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd) | extension with dozens of different tweaks to the standard #YouTube interface |
 | [YoTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
