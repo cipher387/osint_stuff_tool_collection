@@ -1873,6 +1873,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [What Mail?](https://github.com/z0m31en7/WhatMail) | Simple #python tool for email headers analyze and visualize them in a table. |
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
+| [Predicta Search](https//www.predictasearch.com/) | Enter an email or phone number to receive a list of associated accounts (accounts where this email or phone number was used for registration). |
 
 [](#nicknames)Nicknames
 =======================
