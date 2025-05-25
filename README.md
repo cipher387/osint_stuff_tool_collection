@@ -568,6 +568,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Spaces Down](https://spacesdown.com/) | Twitter Spaces download service (available after the broadcast ends). Works for quite a long time. It took about 5 minutes to generate an MP3 file with an audio recording of the 46-minute space. |
 | [Twitter Control Panel](https://github.com/insin/control-panel-for-twitter) | A cross-browser extension that allows you to have maximum control over your Twitter feed: Hide retweets, quote tweets, who to follow etc; Reduce "engagement"; Hide UI items; Remove algoritmic content |
 | [Wayback Tweets](https://waybacktweets.streamlit.app/) | A tool to quickly view tweets saved on http://archive.org No need to open a link to each tweet in a separate window It's possible to filter only deleted tweets |
+| [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 
 
 ### [](#youtube)YouTube
