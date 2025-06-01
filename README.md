@@ -1050,6 +1050,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DorkGPT](https://www.dorkgpt.com/) | Describe what you want to find in human language and get a Google query using advanced search operators. Suitable for "juicy info" and vulnerable sites, as well as for any other search tasks. |
 | [XURLFIND3R](https://github.com/hueristiq/xurlfind3r) | Find domain's known URLs from: AlienVault's, Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, Wayback Machine |
 | [LogSensor](https://github.com/Mr-Robert0/Logsensor) | #Python tool to discover login panels, and POST Form SQLi Scanning. Support multiple hosts scanning, targeted SQLi form scanning and proxies. |
+| [Online Port scanner](https://portscanner.online/) | User-friendly web tool for quickly scanning ports, detecting services, and performing OSINT on target systems over the internet, with customizable scan options and a recent scan history. |
 | [SOC Multi Tool](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/) | Chrome Extension for quick: IP/Domain Reputation Lookup  IP/ Domain Info Lookup Hash Reputation Lookup (Decoding of Base64 & HEX using CyberChef File Extension & Filename Lookup and more  |
 | [PyDork](https://github.com/blacknon/pydork) | Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results. |
 
