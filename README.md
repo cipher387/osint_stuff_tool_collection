@@ -1927,7 +1927,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
-
+| [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
 
 [](#phone-numbers)Phone numbers
 ===============================
