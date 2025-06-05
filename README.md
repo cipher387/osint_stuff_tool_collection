@@ -472,6 +472,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ApolloMapping Image Hunter](https://imagehunter.apollomapping.com/) | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
 | [keyhole engelsjk](https://keyhole.engelsjk.com/) | Experimental visualization tool for 1.3 million+ declassified spy satellite imagery (1960 to 1984 years). |
 | [Maxar](https://discover.maxar.com/) | Highlight an area on the world map and get dozens of satellite images of that area taken at different times (mostly 2021-2023) |
+| [Planet Gallery](https://www.planet.com/latest-satellite-imagery-gallery/) | A collection of satellite images to compare changes in specific locations before and after any significant events (fires, military actions, floods, animal migrations, etc.). Hundreds of locations around the world. |
+
+
+
 
 ### [](#military-tracking)Military tracking
 
