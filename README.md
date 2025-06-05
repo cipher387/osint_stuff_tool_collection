@@ -1268,6 +1268,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 ### [](#find-directories)Find directories
 
+| Link | Description |
+| --- | --- |
 | [Dirhunt](https://github.com/Nekmo/dirhunt) | Tool for search and analyze directories, can find interesting things if the server has the "index of" mode enabled (also useful if the directory listing is not enabled). |
 
 
