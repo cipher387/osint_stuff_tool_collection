@@ -116,6 +116,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Databases of domains](#databases-of-domains)
     - [Website traffic look up](#website-traffic-look-up)
     - [Website technology look up](#website-technology-look-up)
+    - [Find directories](#find-directories)
     - [Source Code Analyzes](#source-code-analyzes)
     - [Broken Links Checkers](#broken-links-checkers)
     - [URL unshorteners](#url-unshorteners)
@@ -1256,6 +1257,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Larger.io](https://www.larger.io/) |     |
 | [CMLabs Tools](https://tools.cmlabs.co/en/technology-lookup) |     |
 | [Snov.io technology checker](https://app.snov.io/techcheck/main) | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it. |
+
+### [](#find-directories)Find directories
+
+| [Dirhunt](https://github.com/Nekmo/dirhunt) | Tool for search and analyze directories, can find interesting things if the server has the "index of" mode enabled (also useful if the directory listing is not enabled). |
+
 
 ### [](#source-code-analyzes)Source Code Analyzes
 
