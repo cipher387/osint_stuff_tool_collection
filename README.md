@@ -1776,7 +1776,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Archive-org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) | A simple #python script for downloading books from [http://archive.org](http://archive.org) in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
 | [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
 | [Wayback Keywords Search](https://github.com/lorenzoromani1983/wayback-keyword-search) | A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages. |
-
+| [Web Archive Google Chrome Extension](https://github.com/husseinphp/web-archive) | Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API |
 
 
 ### [](#warc)Tools for working with WARC (WebARChive) files
