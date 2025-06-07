@@ -1903,7 +1903,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 
 
 
-[](#mbox) MBOX filex
+[](#mbox) MBOX files
 =================
 
 | Link | Description |
