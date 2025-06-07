@@ -157,6 +157,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Science](#science)
 - [Passwords](#passwords)
 - [Emails](#emails)
+- [MBOX files](#mbox)
 - [IDs](#ids)
 - [Nicknames](#nicknames)
 - [Phone numbers](#phone-numbers)
@@ -1899,6 +1900,18 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [What Mail?](https://github.com/z0m31en7/WhatMail) | Simple #python tool for email headers analyze and visualize them in a table. |
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
+
+
+
+[](#mbox) MBOX filex
+=================
+
+| Link | Description |
+| --- | --- |
+| [MAILTO ANALYZER](https://github.com/soxoj/mailto_analyzer) | .mbox files analyzer will show your email address exposure on various services.  Helps you find all the sites you are registered. The tool does not transfer data to third-party servers. |
+
+
+
 
 [](#nicknames)Nicknames
 =======================
