@@ -1111,6 +1111,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Metagoofil](https://github.com/laramies/metagoofil) | finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses |
+| [MetaDetective](https://github.com/franckferman/MetaDetective) | A simple tool that analyzes the metadata of files in a specific directory and extracts important information from them (names of document creators, names of users who made changes, etc.). |
 | [Aline](https://github.com/ferreiraklet/Aline) | a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
 | [Goblyn](https://github.com/loseys/Goblyn) | tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file |
 | [DORK DUMP](https://github.com/dievus/msdorkdump) | Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them. |
