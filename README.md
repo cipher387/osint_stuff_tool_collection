@@ -1780,6 +1780,8 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
 | [Wayback Keywords Search](https://github.com/lorenzoromani1983/wayback-keyword-search) | A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages. |
 | [Web Archive Google Chrome Extension](https://github.com/husseinphp/web-archive) | Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API |
+| [WAYBACK GOOGLE ANALYTICS](https://github.com/bellingcat/wayback-google-analytics) | A tool that finds all Google Analytics ID in URL (including old ones from Web Archive). |
+
 
 
 ### [](#warc)Tools for working with WARC (WebARChive) files
