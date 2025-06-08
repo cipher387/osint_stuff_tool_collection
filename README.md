@@ -2053,6 +2053,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Xmind Works](https://xmind.works/) | Online tool for open and editing .xmind files |
 | [CLIGPT](https://github.com/paij0se/cligpt) | The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts. |
 | [MarkWhen](https://markwhen.com/) | Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link. |
+| [MALWOVERVIEW](https://github.com/alexandreborges/malwoverview) | Get maximum information about potentially malicious files and links from: Virus Total, Hybrid Analysis, URLHaus, PolySwarm, Mal Share, Alien Vault, Malpedia, ThreatFox, Triage, InQuest  |
 
 ### [](#visualization-tools)Visualization tools
 
