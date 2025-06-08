@@ -1436,6 +1436,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 
 | Link | Description |
 | --- | --- |
+| [EXIFeditor.io](https://www.exifeditor.io) | In-browser EXIF viewer/editor and bulk analysis tool, and home to The EXIF Guide, and The EXIF Quiz |
 | [EXIF-PY](https://github.com/ianare/exif-py) | get exif data of photos thrue command line |
 | [Exif.app](http://exif.app) | Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow |
 | [Image Analyzer Addon](https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek) | View all images on a page and expose image properties, EXIF data, and one-click download |
