@@ -1278,6 +1278,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [CARBON14](https://github.com/Lazza/Carbon14) | A simple Python tool that helps you determine when (approximately) some content was published. It find the Last-Modified header of linked images on a particular web page. |
 | [View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob) | The standard browser source code view did not display the actual source code. View Rendered Source extension solve this problem. It shows the html code after all JavaScript functions (full page load, page scrolling, and other user actions) are executed |
 | [Retire.js](https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related) | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries |
 | [OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related) | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |
