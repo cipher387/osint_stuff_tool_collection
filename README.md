@@ -1891,6 +1891,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Gravatar check](https://en.gravatar.com/site/check/) | Just enter email and see what the person's Gravatar avatar looks like. |
 | [Email Permutator](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0) | Google Sheet table that generate 46 variants of user email by first name, last name and domain |
 | [Have I Been Sold?](https://haveibeensold.app/) | The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. |
+| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free cybercrime intelligence toolset that can indicate with a specific email address was compromised in global Infostealer attacks. 
 | [mailMeta](https://github.com/gr33nm0nk2802/mailMeta) | Simple tool to analyze emails headers and identify spoofed emails. |
 | [EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer) | Tool for analyzing .eml files. It analyzes and checks with VirusTotal links, attachments and headers. |
 | [Avatar API](https://avatarapi.com/) | Enter email address and receive an image of the avatar linked to it. Over a billion avatars in the database collected from public sources (such as Gravatar, Stackoverflow etc.) |
