@@ -1119,6 +1119,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [AutoExif](https://github.com/SirCryptic/autoexif) | A simple script to read and delete metadata from images and ACVH videos. |
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver) | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc) |
 | [HACHOIR](https://github.com/vstinner/hachoir) | One of the most powerful tools for work with files metadata with the most detailed settings. |
+| [Metadata Parser](https://github.com/jvanasco/metadata_parser) | A simple #Python library to help retrieve website metadata by URL (description, location, keywords, keywords, images, content author names, and more). |
 
 ### [](#backlinks-analyze)Backlinks analyze
 
