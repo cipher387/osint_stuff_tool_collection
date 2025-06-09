@@ -1037,6 +1037,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. |
 | [GO DORK](https://github.com/dwisiswant0/go-dork) | Fast (like most #osint scripts written in #golang) tool for automation work with Google Dorks. |
 | [Dork Scanner](https://github.com/Balgogan/dorkscanner) | NOT support Google. Only Bing, ASK and [http://WoW.com](http://WoW.com) (AOL) search engines. Can work with very long lists of queries/documents (in .txt files) |
+| [Google Bug Bounty Dorks Generator](https://taksec.github.io/google-dorks-bug-bounty/) | Generate Google Dorks for searching  juicy extensions, open redirects, code leaks, cloud storages, file upload endpoints and more. |
 | [ixss.warsong.pw](http://ixss.warsong.pw/xssor/) | very old service for making XSS (Cross Site Scripting) faster and easier |
 | [ReconFTW](https://github.com/six2dez/reconftw) | tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities |
 | [LFITester](https://github.com/kostas-pa/LFITester) | Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack |
