@@ -1817,7 +1817,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [DailyEarth](https://dailyearth.com/) | Worldwide catalog of daily newspapers (since 1999). 52 USA states. 73 countries. |
 | [visLibri](https://www.vialibri.net/) | World’s largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
-
+| [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 
 
 [](#science)Science
