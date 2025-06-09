@@ -1867,6 +1867,8 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [PassHunt](https://github.com/Viralmaniar/Passhunt) | Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords |
 | [BugMenot](http://bugmenot.com) | login and passwords for public accounts in different services |
 | [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) | Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks |
+| [Dehashed](https://dehashed.com/) | Tool for searching for data leaks (search by email, password, phone, username, domain etc)
+DeHashed API tool allows to automate this process and search large lists of input data. |
 
 [](#ids) IDs
 =======================
