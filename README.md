@@ -1989,7 +1989,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
 | [FEI Database Person Search](https://data.fei.org/Person/Search.aspx) | If the person you are researching is related to equestrian sports, check the FEI database for information about him or her. There you can find cards of riders, horse owners, grooms and fans around the world. |
 | [Name Variant Search](https://bellingcat.github.io/name-variant-search/#gsc.tab=0) | Type in a name and get a list of possible spelling options (+ quick links to Google, DuckDuckGo and Facebook searches for each option) |
-
+| [LEAKEY](https://github.com/rohsec/LEAKEY/) | #bash script which checks and validates for leaked credentials (45 types). |
 
 
 
