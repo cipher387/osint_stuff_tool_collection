@@ -1680,6 +1680,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Control Validation Compass](https://controlcompass.github.io/) | Database of 9,000+ publicly-accessible detection rules and 2,100+ offensive security tests, aligned with over 500 common attacker techniques. |
 | [Hacking the Cloud](https://hackingthe.cloud/) | Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on cloud exploitation (#AWS, #Azure, #GoogleCloud, #Terraform,) |
 | [ExploitAlert](https://exploitalert.com/) | One of the largest searchable databases of information on exploits (from October 2005 to October 2022). Updated daily. |
+| [Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/) | Bugbounty write ups search engine. A large collection of articles with examples of finding different types of vulnerabilities: XSS, SSRF, SQLI, RCE, IDOR. |
 
 ### [](#filesharing-search-engines)Filesharing Search Engines
 
