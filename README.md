@@ -1219,6 +1219,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
 | [Web Check](https://web-check.as93.net/) | Get detailed report about IP or domain: Location SSL Info Headers Domain and host names Whois DNS records Crawl riles Cookies Server Info Redirects Server status TXT Config |
 | [CheckPhishAI](https://checkphish.bolster.ai/) | An online tool that finds registered domain typosquats and analyzes them for suspicious activity. |
+| [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Tool to uncover the IP address hidden by Cloudflare (or alternatives): - IP address History, - SSL Certificate Analysis, - Subdomain Scanning |
 
 
 
