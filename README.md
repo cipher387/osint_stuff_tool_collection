@@ -2073,7 +2073,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [MarkWhen](https://markwhen.com/) | Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link. |
 | [MALWOVERVIEW](https://github.com/alexandreborges/malwoverview) | Get maximum information about potentially malicious files and links from: Virus Total, Hybrid Analysis, URLHaus, PolySwarm, Mal Share, Alien Vault, Malpedia, ThreatFox, Triage, InQuest  |
 | [LADDER](https://github.com/everywall/ladder) | A tool to enhance web browsing experience: bypass paywalls and remove ads, no tracking and logs, modify URL parameters, http-headers and HTML code of web pages and more. |
-
+| [LemmeKnow](https://github.com/swanandx/lemmeknow) | Tool for "identifying mysterious text or analyze hard-coded strings". Identifies API keys, cryptocurrency wallet numbers, encrypted strings, YouTube channel IDs, IPs, credit card numbers and much more. |
 
 
 
