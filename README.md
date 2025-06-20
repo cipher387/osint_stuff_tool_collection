@@ -1236,7 +1236,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [dnsReaper](https://github.com/punk-security/dnsReaper) | TwiSub-domain takeover tool |
 | [ALERTX](https://github.com/projectdiscovery/alterx) | Very fast #go tool for search subdomains. For example, it fin 111 http://tesla.com subdomains in 0.003 seconds. |
 | [Columbus Project](https://columbus.elmasy.com/) | A fast, API-first subdomain discovery service with advanced queries. |
-
+| [Seekolver](https://github.com/Krypteria/Seekolver) | #python tool for searching and filtering subdomains using different APIs: SecurityTrails, AlienVault, VirusTotal, SpyOnWeb, Crt sh |
 
 ### [](#cloudfare)Cloudfare
 
