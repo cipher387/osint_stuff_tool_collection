@@ -1092,6 +1092,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [USCRAPPER](https://github.com/z0m31en7/Uscrapper) | Simple #python tool for extracting different information from web pages: - email addresses - social media links - phone numbers |
 | [Auto Scroll Search](https://chrome.google.com/webstore/detail/auto-scroll-search-scroll/ieceeinfkigfaeoomfimmecebngempef/) | A simple extension for Chrome that automatically scrolls a web page until a certain word or phrase appears on it (or until the stop button is pressed). |
 | [GoGetCrawl](https://github.com/karust/gogetcrawl) | Search and download archived web pages and files from Common Crawl and Wayback Machine. |
+| [ASSAY](https://d09r.github.io/assay-url-inspection-tools/) | URL inspection toolkit: live web requests monitor, subdomains/connected domains, scam, phishing, malware detection, WHOIS, Geo IP, SafeFrame view and more. |
+
+
+
+
 
 ### [](#redirect-lookup)Redirect lookup
 
