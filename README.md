@@ -1127,7 +1127,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [HACHOIR](https://github.com/vstinner/hachoir) | One of the most powerful tools for work with files metadata with the most detailed settings. |
 | [Metadata Parser](https://github.com/jvanasco/metadata_parser) | A simple #Python library to help retrieve website metadata by URL (description, location, keywords, keywords, images, content author names, and more). |
 | [MetaFinder](https://github.com/Josue87/MetaFinder) | At first glance, it seems like just another tool that searches for documents on a company's website in search engines and analyzes their metadata. But. It searches Baidu and that makes it quite effective. |
-
+| [JSLUICE](https://github.com/BishopFox/jsluice) | #go library for extracting juicy info from JavaScript files: urls, paths, API secrets etc. |
 
 
 
