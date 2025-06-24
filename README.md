@@ -1065,7 +1065,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PyDork](https://github.com/blacknon/pydork) | Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results. |
 | [CVE Binary Tool](https://github.com/intel/cve-bin-tool) | #Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool |
 | [HakListGen](https://github.com/hakluke/haklistgen) | A simple tool written in #Go that allows you to generate a wordlist from any text (from a file or link). |
-
+| [Repolist](https://github.com/Ademking/repolist) | A very fast and simple tool that allows to generate wordlists for different CMS and frameworks (using Github repos). |
 
 
 
