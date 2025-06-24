@@ -495,7 +495,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [NATO.int](https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1) | Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. |
 | [Understanding War Map Room](https://www.understandingwar.org/map-room) | collection of maps illustrating military conflicts in different countries. |
 | [US Military Bases Interactive Worldwide Map](https://worldbeyondwar.org/no-bases/) | Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information. |
-| [Open Source Munitions Portal]() | Archive of verified images from conflict zones. Search by munition category, condition, characteristics, shapem, mechanical features, wall (thickness) |
+| [Open Source Munitions Portal](https://github.com/eremit4/favihunter) | Archive of verified images from conflict zones. Search by munition category, condition, characteristics, shapem, mechanical features, wall (thickness) |
 
 
 
