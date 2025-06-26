@@ -1164,6 +1164,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [MMHDAN](https://mmhdan.herokuapp.com) | Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines |
 | [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
 | [Favicon Hasher](https://faviconhasher.codejavu.tech/) | Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye) |
+| [FAVIHUNTER](https://github.com/eremit4/favihunter) | Generate search queries by URL for searching favicons in FOFA, ZoomEye, Shodan, Criminal IP, Censys, ODIN |
 | [FavFreak](https://github.com/devanshbatham/FavFreak) | #python tool for using favicon.ico hashes for finding new assets/IP addresses and technologies owned by a company. |
 | [Hackertarget](https://github.com/pyhackertarget/hackertarget) | 14 tools for gathering information about domain using Hackerarget API ([http://hackertarget.com](http://hackertarget.com)) |
 | [AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships) | command line #tool for to search for links between domains by Google Analytics ID |
