@@ -141,6 +141,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Skype](#skype)
 - [Code](#code)
 - [Search engines](#search-engines)
+    - [Open directories search engines](#open-directories-search)
     - [Universal search tools](#universal-search-tools)
     - [Darknet/deepweb search tools](#darknetdeepweb-search-tools)
     - [Public buckets search tools](#public-buckets-search-tools)
@@ -1641,6 +1642,12 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
 | [DensePhrase](http://densephrases.korea.ac.kr/) | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. |
 | [metaphor systems](https://metaphor.systems/) | A search engine with a new and unusual search method. This AI "trained to predict the next *link* (similar to the way GPT-3 predicts the next *word*)". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link. |
+
+
+### [](#open-directories-search)Open directories search engines
+| Link | Description |
+| --- | --- |
+| [EyeDex](https://www.eyedex.org/) | Open directory search engine: 1.3 PB, 21,178,766 files, 5,229,942 directories, 161 servers |
 
 ### [](#universal-search-tools)Universal search tools
 
