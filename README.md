@@ -105,6 +105,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Domain/IP/Links](#domainiplinks)
     - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
     - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
+    - [Wordlists generators](#wordlists-generators)
     - [Redirect lookup](#redirect-lookup)
     - [Cookies analyze](#cookies-analyze)
     - [Website's files metadata analyze and files downloads](#websites-files-metadata-analyze-and-files-downloads)
@@ -1071,6 +1072,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SOC Multi Tool](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/) | Chrome Extension for quick: IP/Domain Reputation Lookup  IP/ Domain Info Lookup Hash Reputation Lookup (Decoding of Base64 & HEX using CyberChef File Extension & Filename Lookup and more  |
 | [PyDork](https://github.com/blacknon/pydork) | Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results. |
 | [CVE Binary Tool](https://github.com/intel/cve-bin-tool) | #Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool |
+
+
+
+
+### [](#wordlists-generators)Wordlists generators
+
+| Link | Description |
+| --- | --- |
 | [HakListGen](https://github.com/hakluke/haklistgen) | A simple tool written in #Go that allows you to generate a wordlist from any text (from a file or link). |
 | [Repolist](https://github.com/Ademking/repolist) | A very fast and simple tool that allows to generate wordlists for different CMS and frameworks (using Github repos). |
 
