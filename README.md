@@ -110,6 +110,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Website's files metadata analyze and files downloads](#websites-files-metadata-analyze-and-files-downloads)
     - [Backlinks analyze](#backlinks-analyze)
     - [Website analyze](#website-analyze)
+    - [Favicon search](#favicon-search)
     - [Domain/IP investigation](#domainip-investigation)
     - [Subdomains scan/brute](#subdomains-scanbrute)
     - [Cloudfare](#cloudfare)
@@ -1163,9 +1164,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Terms of Service Didn't Read](https://tosdr.org/) | find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps |
 | [analyzeid.com](https://analyzeid.com) | find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches |
 | [MMHDAN](https://mmhdan.herokuapp.com) | Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines |
-| [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
-| [Favicon Hasher](https://faviconhasher.codejavu.tech/) | Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye) |
-| [FAVIHUNTER](https://github.com/eremit4/favihunter) | Generate search queries by URL for searching favicons in FOFA, ZoomEye, Shodan, Criminal IP, Censys, ODIN |
+
 | [FavFreak](https://github.com/devanshbatham/FavFreak) | #python tool for using favicon.ico hashes for finding new assets/IP addresses and technologies owned by a company. |
 | [Hackertarget](https://github.com/pyhackertarget/hackertarget) | 14 tools for gathering information about domain using Hackerarget API ([http://hackertarget.com](http://hackertarget.com)) |
 | [AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships) | command line #tool for to search for links between domains by Google Analytics ID |
@@ -1180,6 +1179,17 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WebHackUrls](https://github.com/mathis2001/WebHackUrls) | The simplest tool for URl recon with filter by keyword and saving results to file. |
 | [Visual Site Mapper](https://visualsitemapper.com/) | A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number. |
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
+
+
+### [](#favicon-search)Favicon search
+
+| Link | Description |
+| --- | --- |
+| [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
+| [Favicon Hasher](https://faviconhasher.codejavu.tech/) | Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye) |
+| [FAVIHUNTER](https://github.com/eremit4/favihunter) | Generate search queries by URL for searching favicons in FOFA, ZoomEye, Shodan, Criminal IP, Censys, ODIN |
+
+
 
 ### [](#domainip-investigation)Domain/IP investigation
 
