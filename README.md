@@ -1082,7 +1082,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [HakListGen](https://github.com/hakluke/haklistgen) | A simple tool written in #Go that allows you to generate a wordlist from any text (from a file or link). |
 | [Repolist](https://github.com/Ademking/repolist) | A very fast and simple tool that allows to generate wordlists for different CMS and frameworks (using Github repos). |
-
+| [MKSUB](https://github.com/trickest/mksub) | A simple #go tool that generates multi-level subdomain names based on wordlists.  Used in combination with subdomain brute-force tools (Sublist3r, Amass, Gobuster etc). |
 
 
 
