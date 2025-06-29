@@ -36,9 +36,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Search engines                            | [Explore](#search-engines)                       |
 | IOT                                       | [Explore](#iot)                       |
 | Archives                                  | [Explore](#archives)                       |
-| Passwords                                  | [Explore](#passwords)                       |
-| Emails                                  | [Explore](#emails)                       |
-| Nicknames                                  | [Explore](#nicknames)                       |
+| Passwords                                 | [Explore](#passwords)                       |
+| Emails                                    | [Explore](#emails)                       |
+| Nicknames                                 | [Explore](#nicknames)                       |
 
 
 
@@ -381,6 +381,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GPS Visualizer](https://www.gpsvisualizer.com/) | show gpx and tcx files on map |
 | [Map Checking](https://www.mapchecking.com/) | tool for measuring the number of people in a crowd of different area and density. |
 | [OSM Finder](https://osm-finder.herokuapp.com/) | A tool for automate work with Overpass Turbo. Upload a photo, mark a line on the map roads, railroads, power lines and get a ready-made query to find sections of the map corresponding to the photo. |
+| [OpenStreetMap (OverPass Turbo) TagInfo database](https://taginfo.openstreetmap.org/tags) | 694 tags for different objects (buildings, trees, streams etc), 5684 keys, 45 relations (routes, streets etc) |
+| [Python Overpy](https://github.com/DinoTools/python-overpy) | Old (but it's still working) and simple command line #python tool for access Overpass Turbo API. |
 | [Mapnificent](https://www.mapnificent.net/) | Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) |
 | [Cesium ion](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe) | scalable and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device |
 | [OpenSwitchMapsWeb](https://tankaru.github.io/OpenSwitchMapsWeb/index.html) | One of the most powerful map switches I've ever seen. It allows you to see data for the same location in 160+ different services (some of them in Japanese). |
@@ -395,7 +397,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FELT](https://felt.com/) | FREE online tool for creating map-based visualizations: - put labels with names and descriptions - draw lines and routes - choose from hundreds of backgrounds - download your work as PDF, image, GeoJSON or share link to online version |
 | [Bellingcat OSM Search](https://osm-search.bellingcat.com/) | A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description. |
 | [Smappen](https://www.smappen.com/app/) | Online tool to calculate the distance a person can travel from a given point in a given time (on foot, by car, by bicycle, by train, by truck). |
-| [Python Overpy](https://github.com/DinoTools/python-overpy) | Old (but it's still working) and simple command line #python tool for access Overpass Turbo API. |
 
 ### [](#transport)Transport
 
