@@ -456,6 +456,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Mapillary](https://www.mapillary.com/app/) | street panoramas over the world |
 | [360cities.net/map](https://360cities.net/map) | world map of panoramic (360 degrees) images |
 | [Earthviewer360.com](http://earthviewer360.com) | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) |
+| [Maps Video](https://maps.video/) | Google street view alternative. Online YouTube video driving map for different routes. Worldwide, but most videos in the USA and Europe. |
 
 ### [](#satelliteaerial-imagery)Satellite/aerial imagery
 
