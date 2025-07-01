@@ -346,6 +346,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [The Meddin Bike-sharing World Map](https://bikesharingworldmap.com/) | 8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities. |
 | [Rally Maps](https://www.rally-maps.com/map) | A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available). |
 | [SKYDB](https://www.skydb.net/) | Worldwide database of skyscrapers and tall buildings. |
+| [Street Art Cities](https://streetartcities.com/) | Worldwide street artworks online map: 1,443 cities and counting, 51,510 artworks, 100 countries and 260 verified artists |
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
 
