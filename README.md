@@ -1694,7 +1694,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Searcher](https://github.com/davemolk/searcher) | A very fast and simple #go tool that allows you to collect search results from a list of keywords in the following search engines:  Ask Bing Brave DuckDuckGo Yahoo Yandex |
 | [Startpage Parser](https://github.com/knassar702/startpage-parser) | Startpage.com search engine produces similar (but not identical) results to Google's, but is much less likely to get banned. This #python tool allows to scrape big amounts of results without using proxies. |
 | [BigSearch](https://github.com/garywill/BigSearch) | Google Chrome and Firefox addon  for quick access to dozens of online search tools: general search engines, video hosts, programming forums, translators and much more. |
-
+| [AI Search Whisper](https://google.digitaldigging.org/index2.html) | Enter your problem and get a list of links to Google and Bing queries (using advanced search operators) that will help you solve it. |
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
 
