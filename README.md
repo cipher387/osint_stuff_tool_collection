@@ -1081,7 +1081,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SOC Multi Tool](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/) | Chrome Extension for quick: IP/Domain Reputation Lookup  IP/ Domain Info Lookup Hash Reputation Lookup (Decoding of Base64 & HEX using CyberChef File Extension & Filename Lookup and more  |
 | [PyDork](https://github.com/blacknon/pydork) | Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results. |
 | [CVE Binary Tool](https://github.com/intel/cve-bin-tool) | #Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool |
-
+| [CVE MAP](https://github.com/projectdiscovery/cvemap) | Simple #go command line tool for getting information about CVEs: by ID, by vendor, by product, by severity, by cvss score and much more. |
 
 
 
