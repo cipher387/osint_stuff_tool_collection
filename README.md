@@ -1447,8 +1447,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
 | [Lexica](https://lexica.art/) | Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. |
 | [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) | The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. |
-| [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | 
-Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
+| [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
+| [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
+
 
 
 ### [](#image-editing-tools)Image editing tools
