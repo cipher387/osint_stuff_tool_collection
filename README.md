@@ -1261,8 +1261,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Web Check](https://web-check.as93.net/) | Get detailed report about IP or domain: Location SSL Info Headers Domain and host names Whois DNS records Crawl riles Cookies Server Info Redirects Server status TXT Config |
 | [CheckPhishAI](https://checkphish.bolster.ai/) | An online tool that finds registered domain typosquats and analyzes them for suspicious activity. |
 | [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Tool to uncover the IP address hidden by Cloudflare (or alternatives): - IP address History, - SSL Certificate Analysis, - Subdomain Scanning |
-| [WEBCOPILOT](https://github.com/h4r5h1t/webcopilot) | All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities
- |
+| [WEBCOPILOT](https://github.com/h4r5h1t/webcopilot) | All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities |
+| [DNS History ](https://completedns.com/dns-history/) | A tool to track the history of DNS servers associated with a particular domain. Data since 2002 year for 2.2 billion nameservers. |
 
 
 
