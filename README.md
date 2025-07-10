@@ -837,6 +837,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Private Media Viewer](https://github.com/obitouka/privateMediaViewer/) |   Views Instagram private/public accounts collaborated media without login  |
 | [IMGINN](http://imginn.com/) | This service allows you to do the following without logging in to Instagram account: - search for accounts containing a keyword in the profile name; - view all of the user's photos; - view photos in which the profile has been tagged by other users |
 | [Instahunt](https://instahunt.co/) | Click on the point on the world map Click "Find places" Click "Get Instagram Place Data" Copy and paste the "Place Data" into the box View Insta locations on the map with links to photos! |
 | [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) | Get the names and links to all the locations on Instagram tied to specific geographic coordinates |
