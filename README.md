@@ -1083,7 +1083,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CVE Binary Tool](https://github.com/intel/cve-bin-tool) | #Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool |
 | [CVE MAP](https://github.com/projectdiscovery/cvemap) | Simple #go command line tool for getting information about CVEs: by ID, by vendor, by product, by severity, by cvss score and much more. |
 | [Tiny Scan](https://www.tiny-scan.com/) | Free URL inspection online tool: ip, location, desktop/mobile screenshots, number of links, javascript files and stylesheets, technology profile, number of request and bytes transferred and more. |
-
+| [CVECrowd](https://cvecrowd.com) | Alternative to Cvetrends (stopped working due to Twitter API restrictions). Shows the most popular CVEs in Fidverse for the last 24 h. |
 
 ### [](#wordlists-generators)Wordlists generators
 
