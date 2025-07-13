@@ -594,6 +594,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Wayback Tweets](https://waybacktweets.streamlit.app/) | A tool to quickly view tweets saved on http://archive.org No need to open a link to each tweet in a separate window It's possible to filter only deleted tweets |
 | [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 | [TweetFeed](https://tweetfeed.live/) | List of IOCs shared today by the #infosec community at Twitter:  domains, URLs, IPs, SHA256/MD5 hashes |
+| [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
+
+
+
 
 ### [](#youtube)YouTube
 
