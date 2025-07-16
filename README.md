@@ -102,6 +102,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Duolingo](#duolingo)
     - [Universal](#universal)
     - [Downloaders](#downloaders)
+- [Messengers](#messengers)
+    - [Telegram](#telegram)
+    - [WhatsApp](#whatsapp)
+    - [Kik](#kik)
+    - [Slack](#slack)
+    - [Skype](#skype)
 - [Domain/IP/Links](#domainiplinks)
     - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
     - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
@@ -135,12 +141,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Face recognition and search](#face-recognition-and-search)
     - [Font Indenfication](#font-indenfication)
 - [Cryptocurrencies](#cryptocurrencies)
-- [Messengers](#messengers)
-    - [Telegram](#telegram)
-    - [WhatsApp](#whatsapp)
-    - [Kik](#kik)
-    - [Slack](#slack)
-    - [Skype](#skype)
 - [Code](#code)
 - [Search engines](#search-engines)
     - [Open directories search engines](#open-directories-search)
@@ -1038,6 +1038,72 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
+
+[](#messengers)Messengers
+=========================
+
+### [](#telegram)Telegram
+
+| Link | Description |
+| --- | --- |
+| [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
+| [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | search by Telegram comments |
+| [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
+| [@SangMataInfo_bot](https://t.me/SangMataInfo_bot) | forward a message from the user and find out the history of their name in Telegram |
+| [@tgscanrobot](https://t.me/tgscanrobot) | telegram bot to show which telegram groups a person is member of. |
+| <a href='https://t.me/telebrellabot'>@telebrellabot</a> | telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745). | 
+| [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) | Discover the location of nearby Telegram users on OpenStreetMap |
+| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts) |
+| [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
+| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number |
+| [Telegcrack.com](https://telegcrack.com/) | search in telegra.ph |
+| [@VoiceMsgBot](https://t.me/VoiceMsgBot) | telegram bot to which you can send voice messages and it converts them into text |
+| [@transcriber_bot](https://t.me/transcriber_bot) | telegram bot, which can convert to text voice messages in 24 languages (view pic) |
+| [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
+| [@YTranslateBot](https://t.me/YTranslateBot) | type text or resend messages to Telegram bot for translate it. |
+| [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
+
+
+
+### [](#whatsapp)WhatsApp
+
+| Link | Description |
+| --- | --- |
+| [whatsanalyze.com](https://Whatsanalyze.com) | analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency) |
+| [chatvisualizer.com](https://chatvisualizer.com) | another #WhatsApp chat analyzer. |
+| [Watools.io](https://watools.io/download-profile-picture) | download whatsapp profile picture |
+| [WAGSCRAPER](https://github.com/riz4d/WaGpScraper) | Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images) |
+
+### [](#kik)Kik
+
+| Link | Description |
+| --- | --- |
+| [Kikusernames.com](https://kikusernames.com/search) | Kik messenger username search |
+
+### [](#slack)Slack
+
+| Link | Description |
+| --- | --- |
+| [Slack Pirate](https://github.com/emtunc/SlackPirate) | tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token |
+
+### [](#skype)Skype
+
+| Link | Description |
+| --- | --- |
+| [vedbex.com/tools/email2skype](https://www.vedbex.com/tools/email2skype) | finding a Skype account by email |
+| [SkypeHunt](https://github.com/8C/skypehunt) | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
+
+
+
+
+
+
+
+
+
+
+
+
 [](#domainiplinks)Domain/IP/Links
 =================================
 
@@ -1550,60 +1616,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [A TON of Privacy](https://github.com/aaarghhh/a_TON_of_privacy) | Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain. |
 | [Wallet Labels](https://www.walletlabels.xyz/) | Search across more than 7.5M #Ethereum addresses labeled to easily identify wallets and exchange |
 
-
-[](#messengers)Messengers
-=========================
-
-### [](#telegram)Telegram
-
-| Link | Description |
-| --- | --- |
-| [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
-| [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | search by Telegram comments |
-| [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
-| [@SangMataInfo_bot](https://t.me/SangMataInfo_bot) | forward a message from the user and find out the history of their name in Telegram |
-| [@tgscanrobot](https://t.me/tgscanrobot) | telegram bot to show which telegram groups a person is member of. |
-| <a href='https://t.me/telebrellabot'>@telebrellabot</a> | telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745). | 
-| [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) | Discover the location of nearby Telegram users on OpenStreetMap |
-| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts) |
-| [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
-| [Telescan](https://github.com/pielco11/telescan) | search users in groups (and in which groups is the user) by id, username or phone number |
-| [Telegcrack.com](https://telegcrack.com/) | search in telegra.ph |
-| [@VoiceMsgBot](https://t.me/VoiceMsgBot) | telegram bot to which you can send voice messages and it converts them into text |
-| [@transcriber_bot](https://t.me/transcriber_bot) | telegram bot, which can convert to text voice messages in 24 languages (view pic) |
-| [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
-| [@YTranslateBot](https://t.me/YTranslateBot) | type text or resend messages to Telegram bot for translate it. |
-| [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
-
-
-
-### [](#whatsapp)WhatsApp
-
-| Link | Description |
-| --- | --- |
-| [whatsanalyze.com](https://Whatsanalyze.com) | analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency) |
-| [chatvisualizer.com](https://chatvisualizer.com) | another #WhatsApp chat analyzer. |
-| [Watools.io](https://watools.io/download-profile-picture) | download whatsapp profile picture |
-| [WAGSCRAPER](https://github.com/riz4d/WaGpScraper) | Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images) |
-
-### [](#kik)Kik
-
-| Link | Description |
-| --- | --- |
-| [Kikusernames.com](https://kikusernames.com/search) | Kik messenger username search |
-
-### [](#slack)Slack
-
-| Link | Description |
-| --- | --- |
-| [Slack Pirate](https://github.com/emtunc/SlackPirate) | tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token |
-
-### [](#skype)Skype
-
-| Link | Description |
-| --- | --- |
-| [vedbex.com/tools/email2skype](https://www.vedbex.com/tools/email2skype) | finding a Skype account by email |
-| [SkypeHunt](https://github.com/8C/skypehunt) | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
 
 [](#code)Code
 =============
