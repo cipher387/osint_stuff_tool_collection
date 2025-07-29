@@ -1994,7 +1994,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [What Mail?](https://github.com/z0m31en7/WhatMail) | Simple #python tool for email headers analyze and visualize them in a table. |
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
-
+| [InfoStealers](https://infostealers.info/en/info) | Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals. |
 
 
 [](#mbox) MBOX files
