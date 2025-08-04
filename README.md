@@ -640,6 +640,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
 | [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
+| [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
 | [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
 | [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
 | [YouTube Channel Crawler](https://channelcrawler.com/) | Search across 20, 625,734 channels. Search by name, category, country, number of subscribers, views, videos and creation date. |
