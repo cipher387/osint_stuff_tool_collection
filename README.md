@@ -2174,6 +2174,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Online tools](https://emn178.github.io/online-tools/index.html) | 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings |
 | [CyberChef](https://gchq.github.io/CyberChef/) | collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal) |
 | [Shadowcrypt Tools](https://shadowcrypt.net/tools/) | 24 online tools for OSINT, network scanning, MD5 encryption and many others |
+| [Rostral.io](https://github.com/alfablend/rostral.io) | Semantic monitoring tool using LLMs and YAML templates. Automates tracking of public documents, regulations, and structured updates across multilingual sources. |
 
 [](#browser-analyze)Browser analyze
 ===================================
