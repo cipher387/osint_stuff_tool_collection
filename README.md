@@ -196,6 +196,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [InstagramPrivSniffer](https://github.com/narkopolo/fb_friend_list_scraper) | Views Instagram PRIVATE ACCOUNT'S media without login 😱 |
 | [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
 | [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
 | [Snapchat map](https://map.snapchat.com/) |     |
@@ -842,6 +843,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [IMGINN](http://imginn.com/) | This service allows you to do the following without logging in to Instagram account: - search for accounts containing a keyword in the profile name; - view all of the user's photos; - view photos in which the profile has been tagged by other users |
+| [InstagramPrivSniffer](https://github.com/narkopolo/fb_friend_list_scraper) | Views Instagram PRIVATE ACCOUNT'S media without login 😱 |
 | [Instahunt](https://instahunt.co/) | Click on the point on the world map Click "Find places" Click "Get Instagram Place Data" Copy and paste the "Place Data" into the box View Insta locations on the map with links to photos! |
 | [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) | Get the names and links to all the locations on Instagram tied to specific geographic coordinates |
 | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.) |
@@ -988,6 +990,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [InstagramPrivSniffer](https://github.com/narkopolo/fb_friend_list_scraper) | Views Instagram PRIVATE ACCOUNT'S media without login 😱 |
 | [Gallery-dl](https://github.com/mikf/gallery-dl) | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai |
 | [Kribrum.io](https://kribrum.io/search) | searchengine for different social media platforms with filters by author and time period |
 | [Auto Scroll Search](https://chrome.google.com/webstore/detail/auto-scroll-search/ieceeinfkigfaeoomfimmecebngempef/related) | automatically scrolls the page down (and loads the ribbon) until the specified keyword appears on it. |
@@ -2349,6 +2352,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 | Link | Description |
 | --- | --- |
+| [InstagramPrivSniffer](https://github.com/narkopolo/fb_friend_list_scraper) | Views Instagram PRIVATE ACCOUNT'S media without login 😱 |
 | [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
 | [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
 | [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
