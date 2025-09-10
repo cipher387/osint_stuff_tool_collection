@@ -152,6 +152,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Tools for DuckDuckGo](#tools-for-duckduckgo)
     - [Tools for Google](#tools-for-google)
 - [IOT](#iot)
+    - - [CompliMate AI – AI compliance suite for privacy policies, cookie banners, terms & conditions, and global regulations](https://complimate-ai.com)
 - [Archives](#archives)
     - [Tools for working with web archives](#tools-for-working-with-web-archives)
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
