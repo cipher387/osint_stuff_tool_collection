@@ -595,6 +595,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 | [TweetFeed](https://tweetfeed.live/) | List of IOCs shared today by the #infosec community at Twitter:  domains, URLs, IPs, SHA256/MD5 hashes |
 | [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
+| [Twitter Search API](https://desearch.ai/twitter-api) | Decentrilzed Twitter Search API. |
 
 
 
@@ -1813,9 +1814,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Yagooglesearch](https://github.com/opsdisk/yagooglesearch) | "Simulates real human Google search behavior to prevent rate limiting by Google and if HTTP 429 blocked by Google, logic to back off and continue trying" (c) |
 | [Google Word Sniper](https://googlewordsniper.eu/) | Simple tool to make easier Google queries with the advanced search operator AROUND(). |
 | [OMAIL](https://omail.io/) | An online tool that extracts and validates emails from Google and Bing search results (by keyword or domain). Partly free (200 extracts per search) |
-
-
-
+| [Web Search (SERP)](https://desearch.ai/docs/api-reference/get-web) | Decentralized Real-Time Web Search (SERP) 
+| [AI Search](https://desearch.ai/) | Decentrilized Real-Time AI Search and Summary
 
 ### [](#iot)IOT (ip search engines)
 
