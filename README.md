@@ -1203,6 +1203,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Redirect Detective](https://redirectdetective.com/) | tool that allows you to do a full trace of a URL Redirect |
 | [Wheregoes.com](https://wheregoes.com/) | tool that allows you to do a full trace of a URL Redirect |
+| [Redirect Checker](https://redirect-checker.autocompany.workers.dev) | Open source tool to analyze HTTP redirect chains, detect loops, and measure response times with multiple User-Agent support |
 | [Spyoffers.com](https://www.spyoffers.com/) | tool that allows you to do a full trace of a URL Redirect |
 
 ### [](#cookies-analyze)Cookies analyze
