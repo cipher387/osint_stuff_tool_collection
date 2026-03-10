@@ -1871,6 +1871,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Web Archive Google Chrome Extension](https://github.com/husseinphp/web-archive) | Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API |
 | [WAYBACK GOOGLE ANALYTICS](https://github.com/bellingcat/wayback-google-analytics) | A tool that finds all Google Analytics ID in URL (including old ones from Web Archive). |
 | [GAU](https://github.com/lc/gau) | Simple #golang tool to fetch all known website URLs from: WayBackMachine, AlienVault's Open Threat Exchange, Common Crawl, URLScan |
+| [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) | Download complete websites from the Wayback Machine with full asset preservation for offline viewing. #python GPL-3.0 |
 
 ### [](#warc)Tools for working with WARC (WebARChive) files
 
