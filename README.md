@@ -2035,6 +2035,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
+| [Lullar](https://com.lullar.com) | Free web-based username and email search tool that checks 149+ platforms simultaneously (social media, messaging, gaming, forums, developer sites, etc). No signup or installation required. |
 
 [](#phone-numbers)Phone numbers
 ===============================
