@@ -410,7 +410,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Openrailwaymap](https://openrailwaymap.org/) | Map of the world with information about the railroad tracks. It's possible to visualize maximum speed, electrification, track gauge, and other parameters. |
 | [Waze](https://www.waze.com/en-GB/live-map/) | Online map (+mobile app) for information about various problems on the roads (accidents, street closures, police parking, etc.) around the world. Waze especially interesting because it stores the marks users left a few days or weeks ago. |
 | [OpenStreetMap Public Transport](https://wadouk.github.io/osm-public-transports/#3/27.29/5.45) | Select an area on the map (if the square around it is green, then data for that location is available) and download data (buttons on the right) for tram, bus, metro and train routes. |
-
+| [License Plate Owner API](https://license-plate-owner.com/) | DPPA-compliant vehicle lookup API built by a licensed private investigator |
 
 
 
