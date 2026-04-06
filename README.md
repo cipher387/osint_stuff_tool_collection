@@ -398,6 +398,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FELT](https://felt.com/) | FREE online tool for creating map-based visualizations: - put labels with names and descriptions - draw lines and routes - choose from hundreds of backgrounds - download your work as PDF, image, GeoJSON or share link to online version |
 | [Bellingcat OSM Search](https://osm-search.bellingcat.com/) | A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description. |
 | [Smappen](https://www.smappen.com/app/) | Online tool to calculate the distance a person can travel from a given point in a given time (on foot, by car, by bicycle, by train, by truck). |
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including OSINT, deep research, and multi-source intelligence gathering with automated analysis. MIT licensed.
 
 ### [](#transport)Transport
 
