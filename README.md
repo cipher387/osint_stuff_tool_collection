@@ -238,6 +238,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Soar.earth](https://soar.earth/) | big collection satellite, drone and ecological maps |
 | [Geodesics on the Earth](https://academo.org/demos/geodesics/) | finding the shortest path between two points |
 | [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
+| [The OSINT Vault](https://theosintvault.io) | Curated OSINT search tools and resources. |
 | [Everymountainintheworld](http://everymountainintheworld.com/) | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
 | [Rivermap](https://rivermap.org/map/#sprache=en) | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
 | [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |
