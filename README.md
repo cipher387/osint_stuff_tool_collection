@@ -595,6 +595,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 | [TweetFeed](https://tweetfeed.live/) | List of IOCs shared today by the #infosec community at Twitter:  domains, URLs, IPs, SHA256/MD5 hashes |
 | [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
+| [Xquik](https://xquik.com) | X (Twitter) data API for OSINT: tweet search, user profile lookup by handle or ID, follower/following extraction, engagement metrics (likes, retweets, quoters), reply trees, account monitoring with HMAC webhooks, trending topics, communities and Spaces metadata. 100+ REST endpoints plus an MCP server for AI agents. Pay-per-use, no subscription. |
 
 
 
