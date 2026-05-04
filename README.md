@@ -1994,6 +1994,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [What Mail?](https://github.com/z0m31en7/WhatMail) | Simple #python tool for email headers analyze and visualize them in a table. |
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
+| [OsintCat](https://www.osintcat.net/) | Quickly check if an email, username, or phone number has appeared in a data breach. Fast, reliable results — an essential tool for any OSINT investigation. |
 
 
 
