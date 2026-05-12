@@ -175,7 +175,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [NFT](#nft)
 - [Keywords, trends, news analytics](#keywords-trends-news-analytics)
 - [Apps and programs](#apps-and-programs)
-- [Real estate](#realestate)
+- [Real estate](#real-estate)
 - [Company information search](#company-information-search)
 - [Bank information search](#bank-information-search)
 - [Brand/trademark information search](#brandtrademark-information-search)
@@ -2251,7 +2251,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [App Store Scraper](https://github.com/facundoolano/app-store-scraper) | get the most detailed metadata about the app from AppStore |
 
 
-[](#realestate)Real estate
+[](#real-estate)Real estate
 
 | Link | Description |
 | --- | --- |
