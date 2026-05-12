@@ -2183,6 +2183,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Online tools](https://emn178.github.io/online-tools/index.html) | 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings |
 | [CyberChef](https://gchq.github.io/CyberChef/) | collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal) |
 | [Shadowcrypt Tools](https://shadowcrypt.net/tools/) | 24 online tools for OSINT, network scanning, MD5 encryption and many others |
+| [pyWhat](https://github.com/bee-san/pyWhat) | Python tool to help identify different text strings like wallet numbers, API keys, emails, and more. It is convenient for working with .pcap and other files and has many customization options. |
 
 [](#browser-analyze)Browser analyze
 ===================================
