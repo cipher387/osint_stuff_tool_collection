@@ -78,6 +78,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Snapchat](#snapchat)
     - [Twitch](#twitch)
     - [Fidonet](#fidonet)
+    - [4chan](#4chan)
     - [Usenet](#usenet)
     - [Tumblr](#tumblr)
     - [Flickr](#flickr)
@@ -774,6 +775,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Fidonet nodelist](https://nodehist.fidonet.org.ua/) | search by node number, sysop name and sysop location |
+
+
+### [](#4chan)4chan
+
+| Link | Description |
+|---|---|
+| [archive.4plebs.org](https://archive.4plebs.org) | 4plebs is an unofficial archive of certain boards of 4chan.org, including 11 boards. It offers a large number of searchable discussions with many different parameters. |
 
 ### [](#usenet)Usenet
 
