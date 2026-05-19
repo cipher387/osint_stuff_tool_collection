@@ -559,6 +559,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
 | [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
+| [PeekVault](https://peekvault.com/) | Search public X/Twitter captures from the Internet Archive CDX index, preview archived snapshots, and export results. |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
 | [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
