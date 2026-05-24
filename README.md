@@ -276,7 +276,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
 | [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
-| [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) | cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections |
+| [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) | Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections |
 
 ### [](#railway)Railway
 
