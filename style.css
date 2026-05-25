@@ -70,8 +70,8 @@ a
   
 }
 .cipher-387-button {
-    color: #fff;
-    background: red;
+    color: #000000;
+    background:Black;
     padding: 3px 7px;
     font-weight: 500;
     font-size: 18px;
@@ -82,8 +82,8 @@ a
 }
 .mainsite-button
 {
-   color: #fff;
-    background: red;
+   color: #000000;
+    background:Black;
     padding: 3px 7px;
     font-weight: 500;
     font-size: 18px;
@@ -95,7 +95,7 @@ a
 
 
 .telegram-follow-button {
-    color: #fff;
+    color: #000000;
     background: #1e97d7;
     padding: 3px 7px;
     font-weight: 500;
@@ -105,7 +105,7 @@ a
     text-align: center;
 }
 .linkedin-follow-button {
-    color: #fff;
+    color: #000000;
     background: #2867B2;
     padding: 3px 7px;
     font-weight: 500;
@@ -116,7 +116,7 @@ a
 }
 .github-follow-button {
     color: black;
-    background: silver;
+    background: White;
     padding: 3px 7px;
     font-weight: 500;
     font-size: 18px;
@@ -125,7 +125,7 @@ a
     text-align: center;
 }
 .revue-follow-button {
-    color: #fff;
+    color: #000000;
     background: #FFA500;
     padding: 3px 7px;
     font-weight: 500;
@@ -143,11 +143,11 @@ a
     vertical-align: middle;
 }
 .twitter-follow-button-2 {
-    color: #fff;
+    color: #000000;
     background: #1DA1F2;
-    padding: 3px 7px;
+    padding: 3px 27px;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 118px;
     border-radius: 4px;
     vertical-align: middle;
     text-align: center;
