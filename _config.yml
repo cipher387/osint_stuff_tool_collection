@@ -1,14 +1,14 @@
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: true
-  collections: true
+ Disable: True
+  collections: false
 include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - CONTRIBUTING.md Disable
+  - README.md Disable
+  - LICENSE.md Disable
+  - COPYING.md Disable
+  - CODE_OF_CONDUCT.md Disable
+  - CONTRIBUTING.md Disable
+  - ISSUE_TEMPLATE.md Disable
+  - PULL_REQUEST_TEMPLATE.md Disable
