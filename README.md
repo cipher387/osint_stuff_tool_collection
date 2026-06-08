@@ -653,6 +653,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Tiktok Stalker](https://tiktok.einzzcookie.org/) | Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts and much more |
 | [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
 | [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
