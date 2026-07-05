@@ -867,6 +867,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Inflact](https://inflact.com/) | Another online tool that allows you to watch Instagram, without logging in: - search users by nickname; - view last posts; - analyze profile; |
 | [Imginn](https://imginn.com/) | Free service to view Instagram profile posts without registration |
 | [Instagram Explorer](https://www.osintcombine.com/instagram-explorer) | Click on a point on the map. Follow the instructions on the left. Get a link to view Instagram posts made at this location on a specific date range |
+| [InstagramOSINT](https://github.com/usualdork/InstagramOSINT) | AI-powered Instagram OSINT CLI with natural language queries. Profile analysis, social graph mapping, engagement metrics, media download, bulk data export (CSV/JSON/YAML), and AI chat via Gemini/Groq/OpenAI |
 
 ### [](#google)Google
 
