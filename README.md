@@ -374,6 +374,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 | Link | Description |
 | --- | --- |
 | [Calculator IPVM](https://calculator.ipvm.com/) | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
