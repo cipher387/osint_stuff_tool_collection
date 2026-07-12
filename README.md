@@ -746,6 +746,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans profiles search engine with price filter |
 | [SimilarFans](https://similarfans.com/) | A tool to find OnlyFans profiles with many filters (by country, price, category, age, etc.). |
 | [FanSearch](https://www.fansearch.com/) | Search OnlyFans profiles by countries, price or category. |
+| [VerifiedHer](https://verifiedher.com/) | Verification registry for creators — sourced per-person verdicts (real / AI persona / unverified) with official account lists and impersonation warnings |
 
 ### [](#snapchat)Snapchat
 
