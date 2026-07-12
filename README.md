@@ -2063,6 +2063,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 | Link | Description |
 | --- | --- |
+| [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) | Scan your own digital footprint in one sweep: username, email, breach and data broker exposure. ~30 modular tools wrapping Sherlock, Maigret, holehe and HIBP, evidence graph, AI-written report (Claude or local Ollama). Runs fully locally. |
 | [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) | Get emails, social medias, adresses of peoples using web scraping and google dorking |
 | [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile |
 | [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | tool for searching nickname profiles on more than 300 sites |
