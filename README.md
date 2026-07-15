@@ -1298,6 +1298,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [@UniversalSearchBot](https://t.me/UniversalSearchBot) | telegram bot finding information about email, russian phone number, domain or IP |
 | [Domain Investigation Toolbox](http://cipher387.github.io/domain_investigation_toolbox/) | gather information about domain with 41 online tools from one page. |
+| [Argos OSINT](https://argos-osint.com) | Free Spanish-language OSINT suite (26 tools). Includes unified domain dashboard (WHOIS/RDAP + DoH DNS + subdomains via crt.sh in one panel), IP geolocation, IP reputation via Shodan InternetDB, pwned password check via HIBP k-anonymity, email header analyzer (SPF/DKIM/DMARC), EXIF analyzer, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat statistics, JWT decoder, QR/base64/hash/URL cleaner. Client-side, no signup, PWA installable. |
 | [GoFindWhois](https://gofindwhois.com/) | More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze. |
 | [Spyfu](https://www.spyfu.com/overview/domain) | tool to collect seo information about the domain, which provide a lot of data partly for free |
 | [Spyse.com](https://spyse.com/) | domain investigation toolbox |
