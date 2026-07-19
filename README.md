@@ -578,8 +578,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Unfollower Stats](https://unfollowerstats.com/) | iOS App that tracking unfollowers and show nofollowersback and unactive followers for your Twitter account |
 | [Twish](https://chrome.google.com/webstore/detail/twish/afpegchfbaddfmenhkajjggbnjfjejeh/related) | very simple, quick, comfortable and nicely designed advanced #Twitter search query builder for #GoogleChrome. |
 | [Twitter Scraper](https://console.apify.com/actors/u6ppkMWAx2E2MpEuF) | Scrape any #Twitter user profile. Creates an unofficial Twitter API to extract tweets, retweets, replies, favorites, and conversation threads with no Twitter API limits. |
-| [Twiiter Trending Archive](http://archive.twitter-trending.com/) | A wide range of options for analyzing #Twitter trending history: 1. See what was popular on a particular day in a particular country or in the world as a whole. 2. Enter a keyword and find out when it was in the global/particular country trends. |
-| [Tweeview](https://tweeview.ml/) | Twitter conversation visualization (beta) |
+| [Twitter Trending Archive](https://archive.twitter-trending.com/) | A wide range of options for analyzing #Twitter trending history: 1. See what was popular on a particular day in a particular country or in the world as a whole. 2. Enter a keyword and find out when it was in the global/particular country trends. |
 | [Tweeplers](https://www.tweeplers.com/?cc=GB) | Trending Twitter users and hashtags (map/list) Top twitted cities and countries Realtime Tweet Map |
 | [FlockNet](https://www.flock.network/) | A tool for finding and filtering your own #Twitter followers. It allows you to find all the people from a certain city or with certain interests. And then quickly view their profiles in a convenient format. |
 | [Orbit livasch](https://orbit.livasch.com/) | A tool for analyzing connections between Twitter accounts (based on the number of likes, retweets, tweet citations, and mentions). |
@@ -597,6 +596,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 | [TweetFeed](https://tweetfeed.live/) | List of IOCs shared today by the #infosec community at Twitter:  domains, URLs, IPs, SHA256/MD5 hashes |
 | [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
+| [Xquik](https://xquik.com) | X data platform for OSINT workflows with REST, Streamable HTTP MCP, webhooks and SDKs for tweet search, profiles, social graphs, engagement, replies, monitoring, trends, communities and Spaces metadata. |
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 
 
@@ -1904,7 +1906,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [industrydocuments.ucsf.edu](http://industrydocuments.ucsf.edu/) | digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel) |
 | [Offshor Leaks](https://offshoreleaks.icij.org/) | Search through various databases of leaked documents of offshore companies |
 | [Vault.fbi.gov](https://vault.fbi.gov/search) | Vault is FOIA Library, containing 6,700 documents that have been scanned from paper |
-| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
+| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | The name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
 | [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
 | [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
 | [Anna's Archive](https://annas-archive.org/search) | Search engine of shadow libraries: books, papers, comics, magazines (IPFS Gateway, Library Genesis etc). |
