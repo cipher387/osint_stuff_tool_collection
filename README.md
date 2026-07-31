@@ -1608,6 +1608,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Font Spring](https://www.fontspring.com/matcherator) |     |
 | [Identifont.com](http://www.identifont.com/) |     |
 | [LikeFont.com](https://en.likefont.com/) |     |
+| [What Font Finder](https://whatfontfinder.com/) | Upload a screenshot to identify the font, then browse free lookalikes with their licences stated. |
 
 [](#cryptocurrencies)Cryptocurrencies
 =====================================
