@@ -1399,6 +1399,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related) | extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts. |
 | [Built With](https://builtwith.com/) |     |
+| [StackScan](https://www.stackscan.com/) | search by technology, keyword or served asset, with country and industry breakdowns |
 | [w3techs](https://w3techs.com/sites) |     |
 | [Hexometer stack checker](https://hexometer.com/stack-checker) |     |
 | [Web Tech Survey](https://webtechsurvey.com/website/) |     |
