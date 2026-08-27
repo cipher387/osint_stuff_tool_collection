@@ -1596,6 +1596,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Face Recognition](https://github.com/ageitgey/face_recognition) | facial recognition api for Python and the command line |
 | [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
 | [Search4faces.com](https://search4faces.com/) | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit |
+| [Face2social](https://face2social.com/) | face recognition search engine that finds matching public profiles on Instagram, Facebook, TikTok and X by photo (freemium, free preview) |
 | [Telegram Facemath bot](https://t.me/facematch_bot) | searching for a face among the archive of photographs from public events in Kazakhstan |
 
 ### [](#font-indenfication)Font Indenfication
