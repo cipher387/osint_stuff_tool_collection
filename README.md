@@ -2080,7 +2080,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [SpyDialer](https://www.spydialer.com/) | Free search contact information by phone number, name, address or email |
 | [Decoding Social Security Numbers in One Step](https://stevemorse.org/ssn/ssn.html) |     |
 | [Inmate Database Search](http://inmateinfo.indy.gov/IML) |     |
-| [Offendersearch](https://offendersearch.app) | Search all 58 US state, territory and tribal sex offender registries in one query; scored results with official record links. Free API + open data. |
+| [Offendersearch](https://offendersearch.app) | Search 58 US sex offender registries — the 50 states, DC and US territories — in one query; scored results with links to the official record. Free trial, paid API beyond it. |
 | [Scamdigger.com](http://scamdigger.com/) | search in #scammers database by name, IP-adress, email or phone |
 | [Cloob.com](https://www.cloob.com/profile/search/index) | Iranian people search |
 | [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
