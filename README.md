@@ -1616,6 +1616,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Wallet explorer](https://www.walletexplorer.com/) | bitcoin wallet transaction history |
 | [Blockpath.com](https://blockpath.com/) | viewing bitcoin wallet transactions as a graph |
+| [PolymarketScan](https://polymarketscan.org/whale-tracker) | Independent Polymarket explorer for wallet records and whale prints |
 | [Cryptocurrency alerting](https://cryptocurrencyalerting.com/) | track spending and deposits in Bitcoin and Ethereum wallets |
 | [Learnmebitcoin.com](https://learnmeabitcoin.com/tools/path/) | find transactions between two Bitcoin adresses |
 | [Coinwink.com](https://coinwink.com/) | allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value |
