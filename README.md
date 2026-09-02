@@ -1647,6 +1647,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.|
 | [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
 | [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
+| [SearchWebCode](https://www.searchwebcode.com/) | webpages source code search engine (regex + full matched source, 127M homepages) |
 | [YouCode](https://you.com/code) | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
 | [De4js](https://lelinhtinh.github.io/de4js/) | HTML/JS deobfuscator |
 | [TIO RUN](https://tio.run) | Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser |
