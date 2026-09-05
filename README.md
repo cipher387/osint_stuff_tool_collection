@@ -1473,6 +1473,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 [](#sound-search-and-analyze)Sound search and analyze
 =====================================================
+
 | Link | Description |
 | --- | --- |
 | [soundeffectssearch.com](https://www.soundeffectssearch.com/find-a-sound-library/) | find a sound library |
