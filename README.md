@@ -1561,6 +1561,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Aperislove](https://www.aperisolve.com/) | Online steganography tool: PngCheck,Strings,Foremost,Binwalk,ExifTool,Outguess,Steghide,Zsteg,Blue/Green/Red/Superimposed |
 | [Sherloq](http://github.com/GuidoBartoli/sherloq) | open source image #forensic toolset made by profesional photograph Guido Bartoli |
 | [Image Color Picker](https://imagecolorpicker.com/) | pick color (HEX or RGB) from image or website screenshot |
+| [Image Color Picker AI](https://imagecolorpickerai.com/) | pick color values (HEX, RGB, HSL) from uploaded images or screenshots |
 | [Find and Set Scale From Image](https://www.blocklayer.com/scale-fixereng.aspx) |     |
 | [Image Forensic (Ghiro Online)](http://www.imageforensic.org/) |     |
 | [compress-or-die.com/analyze](https://compress-or-die.com/analyze) | get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) |
