@@ -899,7 +899,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Open Source Software Insight](https://ossinsight.io/) | Amazing service that allows to analyze developers and repositories data based on more than 5 billion (!) Github Events. |
 | [Map of Github](https://anvaka.github.io/map-of-github/) | Enter the name of the repository, see its links to other projects, and its place on the map of all Github repositories. Notice how small 1337 island is. |
 | [Github Release Stats](https://tooomm.github.io/github-release-stats/) | Estimate popularity of Github repo. Tool displays the number of downloads for each project release + some additional information. |
-
+| [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
 
 
 ### [](#wikipedia)Wikipedia
