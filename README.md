@@ -1564,6 +1564,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Find and Set Scale From Image](https://www.blocklayer.com/scale-fixereng.aspx) |     |
 | [Image Forensic (Ghiro Online)](http://www.imageforensic.org/) |     |
 | [compress-or-die.com/analyze](https://compress-or-die.com/analyze) | get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) |
+| [isGenAI](https://isgenai.com/ai-image-detector) | Free web tool to read saved AI generation settings and prompts in supported original PNG, JPEG and WebP images, including AUTOMATIC1111 and ComfyUI workflows. Upload limit: 20 MB; editable metadata does not establish authorship. |
 | [aperisolve.fr](https://aperisolve.fr) | Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool. |
 | [Dicom Viewer](https://www.imaios.com/en/Imaios-Dicom-Viewer) | view MRI or CT photo online (.DCM files) |
 | [Caloriemama](https://www.caloriemama.ai/api) | AI can identify the type of food from the photo and give information about its caloric value. |
