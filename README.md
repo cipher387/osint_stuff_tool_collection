@@ -2287,6 +2287,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
 | [Oec World](https://oec.world/) | A tool for detailed analysis of international trade. It will show clearly which country sells which products, to which countries these products are sold and in what trade value (in $) |
 | [Skymem](https://skymem.info/) | A free tool to search for employees' emails by company domain. Partially free (only 25 emails can be viewed) |
+| [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier (the 18-character ID on a mainland China business licence). Runs in the browser, no account. It does not query any registry - it only catches transcription errors before you search. |
 
 [](#bank-information-search)Bank information search
 ===================================================
