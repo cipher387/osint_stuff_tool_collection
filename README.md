@@ -558,6 +558,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
+| [Fuxux Twitter Shadowban Checker](https://www.fuxux.com/tools/twitter-shadowban-checker) | Free tool to check if an X/Twitter account is shadowbanned — no login or API key required. |
 | [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
