@@ -657,7 +657,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTok Downloader](https://tiktokdownloader.com/) | TikTok Video Downloader |
-| [TikTokD](https://tiktokd.com/) | TikTok Video Downloader |
+| [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) | full-size profile picture and the latest public videos from a profile link; downloads public videos, photo posts and stories without an account |
 | [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
 | [TikTake.net](https://tiktake.net/) | TikTok Video Downloader |
 | [Exolyt.com](https://exolyt.com/) | TikTok profile analyze |
