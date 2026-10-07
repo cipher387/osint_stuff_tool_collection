@@ -752,6 +752,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the “Grab Images!” button and your browser will make “maximum value” requests for the images of that user’s Bitmoji. Those images will be displayed below. |
+| [SnapDataHub](https://snapdatahub.com/) | look up any public Snapchat profile without logging in: subscriber count, Spotlight views and engagement. Also a daily list of the fastest-growing creators. Free lookups, some features paid |
 
 ### [](#twitch)Twitch
 
