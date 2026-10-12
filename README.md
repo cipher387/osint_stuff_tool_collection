@@ -2427,6 +2427,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) | Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more. |
 | [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
 | [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USA🇺🇸 and International), Email Search, Phone Number Search🇺🇸, Username Permutator, Email Permutator, Vehicle License Plate Search🇺🇸, Vehicle,VIN No. Search🇺🇸, Facebook User/Page/Posts Search |
+| [otinstaller](https://github.com/OSINTVerseHQ/OTinstaller) | Free, open-source #Linux CLI that installs, runs, updates and removes 47 open-source #osint tools by name (Sherlock, Maigret, Holehe, theHarvester, SpiderFoot, BBOT and more), each in its own virtualenv. One input syntax for every tool (u:username, e:email, p:phone, d:domain), `--all` runs every matching tool in parallel, results saved with metadata. Install: `pipx install otinstaller` |
 
 
 [](#databases-and-data-analyzes)Databases and data analyzes
