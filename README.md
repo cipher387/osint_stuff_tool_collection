@@ -1316,6 +1316,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Ditto](https://github.com/evilsocket/ditto) | Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered |
 | [RADB](http://radb.net/query) | Provides information collected from all the registries that form part of the Internet Routing Registry |
 | [IPinfo map](https://ipinfo.io/map) | paste up to 500,000 IPs below to see where they're located on a map |
+| [ipapi.is](https://ipapi.is) | IP address lookup: geolocation, ASN, company, abuse contact, and whether the address belongs to a VPN (and which one), proxy, Tor exit or datacenter |
 | [Whois XML API Whois history database](https://whois.whoisxmlapi.com/database/pricing) |     |
 | [Hakrawler](https://github.com/hakluke/hakrawler) | discover endpoints and assets |
 | [Passive DNS search](https://passivedns.mnemonic.no/) |     |
