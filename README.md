@@ -1517,6 +1517,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
 | [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
 | [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once |
+| [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
 | [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
 | [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
 | [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
