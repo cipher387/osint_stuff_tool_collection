@@ -2073,6 +2073,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Cybernews RockYour2021](https://cybernews.com/personal-data-leak-check/) | check if your data has been leaked |
 | [GoFindWho People Search](https://gofindwho.com/) | More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name. |
 | [That's them people search](https://thatsthem.com/people-search) |     |
+| [OSINT Pro](https://www.osintpro.dev/) | (PAID, one free full lookup) breach and exposure search by email, username, phone, name, domain, IP, crypto address, Discord ID and more. Each result shows which source it came from |
 | [Anywho](https://anywho.com/) | Search for people in #USA. Enter first and last name to get age, address, and part of phone number (free) |
 | [Usersearch.org](https://usersearch.org/index.php) | search people by nickname, phone or email |
 | [Ellis Island](http://heritage.statueofliberty.org) | online searchable database of 65 million arrivals to #NewYork between (late 19th and early 20th century). |
