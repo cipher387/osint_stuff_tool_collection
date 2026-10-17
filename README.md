@@ -2040,7 +2040,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
-| [WhatsMyName Apps](https://whatsmynameapps.us/) | Free username search across 3,165 sites, no sign-up, with Android app. |
+| [WhatsMyName Apps](https://whatsmynameapps.us/) | Free username search across 3,165 sites, no sign-up. Android app: [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us). |
 
 
 
