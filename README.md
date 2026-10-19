@@ -548,6 +548,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Stweet](https://github.com/markowanga/stweet) | Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED. |
+| [Twitter/X viewer](https://twitee.co/) | Twitee is a browser-based OSINT viewer for public Twitter/X activity without signing in. Researchers can inspect profiles, posts, replies, conversation threads and media, search public posts, and download images or videos for offline analysis. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
 | [Twitter account detector](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related) | A simple and fast Chrome extension that finds all Twitter accounts on a site. |
 | [Follower Wonk/Compare](https://followerwonk.com/compare/) | this service allows you to find out how many followers two (or three) Twitter accounts have in common. |
