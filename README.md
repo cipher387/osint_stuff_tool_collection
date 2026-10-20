@@ -1579,6 +1579,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Perceptual image analysis](https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/) | Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis |
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
 | [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️) |
+| [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
