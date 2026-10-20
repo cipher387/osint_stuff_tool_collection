@@ -18,7 +18,7 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 If you need to gather information as quickly as possible using a username, email address or phone number, try starting with Consensus. This command-line tool includes over 7,900 lookup modules from 19 open-source projects.
 
 [Consensus OSINT Github page](https://github.com/OSINT-Experts-Society)
-1500
+
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
 
