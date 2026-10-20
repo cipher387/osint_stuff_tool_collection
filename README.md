@@ -2003,6 +2003,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) | Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks |
 | [Dehashed](https://dehashed.com/) | Tool for searching for data leaks (search by email, password, phone, username, domain etc)
 DeHashed API tool allows to automate this process and search large lists of input data. |
+| [CheckLeaked](https://checkleaked.cc/) | Check if an email, username or phone appears in a data breach, with the sources shown. Free searches, a developer API and Telegram/Discord bots |
 
 [](#ids) IDs
 =======================
