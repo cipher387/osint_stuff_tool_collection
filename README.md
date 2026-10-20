@@ -1355,6 +1355,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml) | Google Chrome extension. 56 tools for domain, ip and url investigation in one |
 | [Ip Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) | type ip-adress once and gather information about it with 13 tools |
 | [Crab](https://github.com/N0tA1dan/Crab) | Well done and well designed port scanner, host info gatherer (include whois). |
+| [CC.LA](https://cc.la) | Free domain research toolkit: WHOIS, RDAP, DNS records, IP WHOIS, nameserver history, SSL certificates, ping/traceroute/MTR diagnostics, expiring domain calendars, and TLD library. No sign-up required. |
 | [MayorSecDNSScan](https://github.com/dievus/msdnsscan) | Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration. |
 | [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | Very quick and simple subdomain enumeration using [http://crt.sh](http://crt.sh). |
 | [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
