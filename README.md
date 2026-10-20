@@ -1695,6 +1695,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Github Artifact Exporter](https://github.com/github/github-artifact-exporter) | provides a set of packages to make exporting Issues easier useful for those migrating information out of Github |
 | [PublicWWW](https://publicwww.com/) | webpages source code search engine |
 | [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.|
+| [Sourcebot](https://www.sourcebot.dev/) | Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 | [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
 | [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
 | [SearchWebCode](https://www.searchwebcode.com/) | webpages source code search engine (regex + full matched source, 127M homepages) |
