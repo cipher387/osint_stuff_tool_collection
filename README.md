@@ -1318,6 +1318,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Spyse.com](https://spyse.com/) | domain investigation toolbox |
 | [Spyse CLI](https://github.com/spyse-com/cli) | command line client for Spyse.com |
 | [Domaintracker](https://domaintracker.app/) | webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email) |
+| [Vacato](https://vacato.io) | RDAP domain availability watchlist — scheduled checks + Telegram/email alerts when a taken name looks available (free 10; alerts only, not a drop-catcher) |
 | [Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related) | Chrome extension for quick gathering info about IP, domain, hash or URL in dozens of different services: Censys, GreyNoise, VirusTotal, Shodan, ThreatMiner and many others. |
 | [Whois Domain Search Tool](https://whois.marcaria.com/en) | A tool that allows you to query whois data for a site name in several domain zones at once. |
 | [IP Neighbors](https://www.ip-neighbors.com/host/) | Find the hosting neighbors for a specific web site or hostname |
