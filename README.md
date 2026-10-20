@@ -2045,6 +2045,12 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
+| [WhatsMyName Apps](https://whatsmynameapps.us/) | Free username search across 3,165 sites, no sign-up. Android app: [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us). |
+
+
+
+
+
 | [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
