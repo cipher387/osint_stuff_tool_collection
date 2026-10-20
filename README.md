@@ -2091,6 +2091,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Lullar](https://com.lullar.com) | Free online people search by username, email or name across 170+ social media platforms. Returns direct profile links, no sign-up, works in 22 languages. Online since 2008. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
+| [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 
 [](#phone-numbers)Phone numbers
 ===============================
