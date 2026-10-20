@@ -443,6 +443,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
 | [Infrapedia](https://www.infrapedia.com/) | Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges |
 | [OONI Explorer](https://explorer.ooni.org/search) | World biggest open data resource on internet censorship around the world. 1.6+ million measurements in 241 countries since 2012. |
+| [Palimpsest](https://palimpsest.info/) | Public-source censorship observatory and verifiable AI-evaluation registry, with source links, append-only records, and an offline verifier for detecting changes to published evidence. |
 
 
 ### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
