@@ -13,6 +13,11 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
+![Consensus OSINT](https://raw.githubusercontent.com/OSINT-Experts-Society/Consensus-OSINT/main/consensus_osint/templates/consensus-home-redacted.png)
+
+If you need to gather information as quickly as possible using a username, email address or phone number, try starting with Consensus. This command-line tool includes over 7,900 lookup modules from 19 open-source projects.
+
+[Consensus OSINT Github page](https://github.com/OSINT-Experts-Society)
 
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
@@ -318,10 +323,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
+| [World Monitor](https://www.worldmonitor.app/) | free real-time world map combining conflict events, military aviation, maritime chokepoints, infrastructure outages and news feeds in one dashboard |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 | [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
 | [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
  |
+| [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 
 ### [](#culture)Culture
 
@@ -436,6 +443,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
 | [Infrapedia](https://www.infrapedia.com/) | Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges |
 | [OONI Explorer](https://explorer.ooni.org/search) | World biggest open data resource on internet censorship around the world. 1.6+ million measurements in 241 countries since 2012. |
+| [Palimpsest](https://palimpsest.info/) | Public-source censorship observatory and verifiable AI-evaluation registry, with source links, append-only records, and an offline verifier for detecting changes to published evidence. |
 
 
 ### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
@@ -657,7 +665,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTok Downloader](https://tiktokdownloader.com/) | TikTok Video Downloader |
-| [TikTokD](https://tiktokd.com/) | TikTok Video Downloader |
+| [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) | full-size profile picture and the latest public videos from a profile link; downloads public videos, photo posts and stories without an account |
 | [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
 | [TikTake.net](https://tiktake.net/) | TikTok Video Downloader |
 | [Exolyt.com](https://exolyt.com/) | TikTok profile analyze |
@@ -743,6 +751,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
 | [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
 | [onlyfinder.com](https://onlyfinder.com/) | OnlyFans profiles search engine (search by people, images and deals) |
+| [onlyfansfinders.com](https://onlyfansfinders.com/) | OnlyFans profiles search by city, category and price; 8,700+ profiles re-checked monthly |
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans profiles search engine with price filter |
 | [SimilarFans](https://similarfans.com/) | A tool to find OnlyFans profiles with many filters (by country, price, category, age, etc.). |
 | [FanSearch](https://www.fansearch.com/) | Search OnlyFans profiles by countries, price or category. |
@@ -752,6 +761,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the “Grab Images!” button and your browser will make “maximum value” requests for the images of that user’s Bitmoji. Those images will be displayed below. |
+| [SnapDataHub](https://snapdatahub.com/) | look up any public Snapchat profile without logging in: subscriber count, Spotlight views and engagement. Also a daily list of the fastest-growing creators. Free lookups, some features paid |
 
 ### [](#twitch)Twitch
 
@@ -1164,6 +1174,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tiny Scan](https://www.tiny-scan.com/) | Free URL inspection online tool: ip, location, desktop/mobile screenshots, number of links, javascript files and stylesheets, technology profile, number of request and bytes transferred and more. |
 | [CVECrowd](https://cvecrowd.com) | Alternative to Cvetrends (stopped working due to Twitter API restrictions). Shows the most popular CVEs in Fidverse for the last 24 h. |
 | [Nmap Formatter](https://github.com/vdjagilev/nmap-formatter) | A tool to convert NMAP scan results into different formats: html, csv, Markdown, json, svg (Graphviz), sqlite |
+|[ICHI Internet Cyber Health Index](https://ichi.global/) | Search CVEs, incidents, actors, researchs. |
 
 
 
@@ -1316,6 +1327,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Ditto](https://github.com/evilsocket/ditto) | Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered |
 | [RADB](http://radb.net/query) | Provides information collected from all the registries that form part of the Internet Routing Registry |
 | [IPinfo map](https://ipinfo.io/map) | paste up to 500,000 IPs below to see where they're located on a map |
+| [ipapi.is](https://ipapi.is) | IP address lookup: geolocation, ASN, company, abuse contact, and whether the address belongs to a VPN (and which one), proxy, Tor exit or datacenter |
 | [Whois XML API Whois history database](https://whois.whoisxmlapi.com/database/pricing) |     |
 | [Hakrawler](https://github.com/hakluke/hakrawler) | discover endpoints and assets |
 | [Passive DNS search](https://passivedns.mnemonic.no/) |     |
@@ -1347,6 +1359,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DNS History ](https://completedns.com/dns-history/) | A tool to track the history of DNS servers associated with a particular domain. Data since 2002 year for 2.2 billion nameservers. |
 | [Chismodon](https://github.com/chiasmod0n/chiasmodon) | Command line #osint toolkit for domain information gathering. Search by domain name, Google Play Store ID, CIDR/ASN, email/username/password. Partly free. |
 | [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
+| [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier. |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
@@ -1518,6 +1531,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
 | [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
 | [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once |
+| [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
 | [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
 | [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
 | [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
@@ -1573,6 +1587,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Perceptual image analysis](https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/) | Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis |
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
 | [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️) |
+| [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
@@ -1589,6 +1604,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) | tool for mass geotagging of photos |
 | [exifLooter](https://github.com/aydinnyunus/exifLooter) | Quick #go tool to automate work with EXIF data |
 | [PYMETA](https://github.com/m8sec/pymeta) | A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format. |
+| [Narqo Photo Metadata](https://narqo.com/tools/photo-metadata) | View, edit or remove EXIF, GPS and camera data of a photo. Runs in the browser, nothing is uploaded, no account |
 
 ### [](#face-recognition-and-search)Face recognition and search
 
@@ -2283,6 +2299,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [FCCID.IO](https://fccid.io) | seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz) |
 | [Tradeint](https://tradint.io/tradint-researcher/) | Quick access for more than 85 tools for gathering information about company and company website, location and sector |
 | [Corporative Registry Catalog](https://cipher387.github.io/corporative_registry_worldwide_catalog/) | worldwide catalog of business registries (63 countries) |
+| [AtlasForgeX](https://atlasforgex.com) | desktop tool that reads official national company registers live (18 countries live, data for 90+) to find newly registered and low-visibility companies |
 | [LEI search](https://search.gleif.org/#/search/) | can help find "who owned by" or "who owns" |
 | [openownership.org](http://openownership.org) | Wordwide beneficial ownership data. |
 | [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
