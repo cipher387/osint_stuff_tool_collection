@@ -2291,6 +2291,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Keywordtool.io](https://keywordtool.io/search/keywords/) | keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter |
 | [Google Books Ngram Viewer](https://books.google.com/ngrams/) |     |
 | [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
+| [Albis](https://www.albis.news/?utm_source=cipher387_osint_collection&utm_medium=github_pr&utm_campaign=albis_public_launch) | News-discovery/context tool for comparing story prominence, coverage gaps, sources, and framing across public global news. |
 | [Pinterest Trends](https://trends.pinterest.com/) |     |
 | [PyTrends](https://github.com/GeneralMills/pytrends) | Simple #python library for automatically collecting data from Google Trends. |
 | [KeyWordPeopleUse](https://keywordspeopleuse.com/) | Type in a keyword and see what questions mentioning it are being asked on Quora and Reddit. The service is also able to analyse Google Autocomplete and "People also ask" |
