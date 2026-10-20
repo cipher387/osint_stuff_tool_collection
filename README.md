@@ -13,6 +13,11 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
+![Consensus OSINT](https://raw.githubusercontent.com/OSINT-Experts-Society/Consensus-OSINT/main/consensus_osint/templates/consensus-home-redacted.png)
+
+If you need to gather information as quickly as possible using a username, email address or phone number, try starting with Consensus. This command-line tool includes over 7,900 lookup modules from 19 open-source projects.
+
+[Consensus OSINT Github page](https://github.com/OSINT-Experts-Society)
 
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
@@ -78,6 +83,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Snapchat](#snapchat)
     - [Twitch](#twitch)
     - [Fidonet](#fidonet)
+    - [4chan](#4chan)
     - [Usenet](#usenet)
     - [Tumblr](#tumblr)
     - [Flickr](#flickr)
@@ -175,6 +181,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [NFT](#nft)
 - [Keywords, trends, news analytics](#keywords-trends-news-analytics)
 - [Apps and programs](#apps-and-programs)
+- [Real estate](#real-estate)
 - [Company information search](#company-information-search)
 - [Bank information search](#bank-information-search)
 - [Brand/trademark information search](#brandtrademark-information-search)
@@ -311,15 +318,18 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Native-land.ca](https://native-land.ca/) | click on the point on the map and find out: - what nation this area used to belong to; - what language was once spoken there; - a historical event that resulted in a nation losing their territory. |
 | [RiskMap](https://www.riskmap.com/) |     |
 | [Liveuamap](https://liveuamap.com/) |     |
+| [ARGUS](https://argus.prototipo.nl) | free, no-login dashboard: live conflict map (ADS-B flights incl. notable military aircraft, ships at chokepoints, NASA FIRMS thermal detections, DeepState frontline, NGA navigational warnings, Ukraine air-raid alerts), 165 news feeds grouped by viewpoint (West/Russia/Ukraine/Middle East/Asia), 46 live video channels, per-situation pages, national terror threat levels |
 | [Crisisgroup](https://www.crisisgroup.org/crisiswatch) |     |
 | [Hate Map](https://www.splcenter.org/hate-map) |     |
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
+| [World Monitor](https://www.worldmonitor.app/) | free real-time world map combining conflict events, military aviation, maritime chokepoints, infrastructure outages and news feeds in one dashboard |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 | [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
 | [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
  |
+| [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 
 ### [](#culture)Culture
 
@@ -434,6 +444,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
 | [Infrapedia](https://www.infrapedia.com/) | Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges |
 | [OONI Explorer](https://explorer.ooni.org/search) | World biggest open data resource on internet censorship around the world. 1.6+ million measurements in 241 countries since 2012. |
+| [Palimpsest](https://palimpsest.info/) | Public-source censorship observatory and verifiable AI-evaluation registry, with source links, append-only records, and an offline verifier for detecting changes to published evidence. |
 
 
 ### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
@@ -541,6 +552,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Stweet](https://github.com/markowanga/stweet) | Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED. |
+| [TwitterAPI.io](https://twitterapi.io) | Real-time Twitter/X data API: fetch tweets, user profiles, followers, advanced search results and the live tweet stream via REST endpoints. |
+| [GetXAPI](https://www.getxapi.com) | Twitter/X data API: tweet search, user profiles, follower graph, mentions, lists, communities, and trends via REST endpoints. Public OpenAPI 3.1 spec at docs.getxapi.com/openapi.json. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
 | [Twitter account detector](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related) | A simple and fast Chrome extension that finds all Twitter accounts on a site. |
 | [Follower Wonk/Compare](https://followerwonk.com/compare/) | this service allows you to find out how many followers two (or three) Twitter accounts have in common. |
@@ -556,7 +569,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
+| [Fuxux Twitter Shadowban Checker](https://www.fuxux.com/tools/twitter-shadowban-checker) | Free tool to check if an X/Twitter account is shadowbanned â no login or API key required. |
 | [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
+| [PeekVault](https://peekvault.com/) | Search public X/Twitter captures from the Internet Archive CDX index, preview archived snapshots, and export results. |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
 | [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
@@ -595,6 +610,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 | [TweetFeed](https://tweetfeed.live/) | List of IOCs shared today by the #infosec community at Twitter:  domains, URLs, IPs, SHA256/MD5 hashes |
 | [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
+| [twtData X Trends Archive](https://twtdata.com/twitter-trends/) | free archive of X (Twitter) trending topics by day for each country and many cities, with older/newer day navigation; recent days also show best position and hours on the list. Follower export and the bot audit are paid |
 
 
 
@@ -607,6 +623,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
+| [AudienceCue YouTube Comment Downloader](https://audiencecue.com/en/tools/youtube-comment-downloader) | Download public YouTube video or Shorts comments as CSV for research. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem: |
 | [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | youtube channels comparing |
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
@@ -626,7 +643,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Search Chrome Extension](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related) |     |
 | [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. |
 | [Jump Cutter](https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related) | An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed... |
-| [YouFilter – YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
+| [YouFilter â YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
 | [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related) | Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords |
 | [YouTube channel archiver](https://github.com/dmn001/youtube_channel_archiver) | Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels). |
@@ -640,6 +657,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
 | [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
+| [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
 | [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
 | [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
 | [YouTube Channel Crawler](https://channelcrawler.com/) | Search across 20, 625,734 channels. Search by name, category, country, number of subscribers, views, videos and creation date. |
@@ -651,19 +669,19 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Tiktok Stalker](https://tiktok.einzzcookie.org/) | User Info, User Like Activity, User Post Activity, User Private Video Info, User Analytics, User Repost Scanner, User Comment Scanner, Video Info, Video Downloader, Sharing Link Info, Fake Sharing Link, Anonym Sharing Link, User QR Generator and more |
 | [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
-| [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTok Downloader](https://tiktokdownloader.com/) | TikTok Video Downloader |
-| [TikTokD](https://tiktokd.com/) | TikTok Video Downloader |
+| [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) | full-size profile picture and the latest public videos from a profile link; downloads public videos, photo posts and stories without an account |
 | [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
 | [TikTake.net](https://tiktake.net/) | TikTok Video Downloader |
 | [Exolyt.com](https://exolyt.com/) | TikTok profile analyze |
 | [Tikbuddy](https://app.tikbuddy.com/) | TikTok profile analytics |
 | [Mavekite.com](https://mavekite.com/) | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos |
 | [Tiktok Scraper](https://github.com/sauermar/Tiktok-Scraper) | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. |
-| [Tikrank.com](https://tikrank.com) | free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database) |
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
+| [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
 
 ### [](#protonmail)Protonmail
 
@@ -741,15 +759,19 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
 | [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
 | [onlyfinder.com](https://onlyfinder.com/) | OnlyFans profiles search engine (search by people, images and deals) |
+| [onlyfansfinders.com](https://onlyfansfinders.com/) | OnlyFans profiles search by city, category and price; 8,700+ profiles re-checked monthly |
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans profiles search engine with price filter |
 | [SimilarFans](https://similarfans.com/) | A tool to find OnlyFans profiles with many filters (by country, price, category, age, etc.). |
 | [FanSearch](https://www.fansearch.com/) | Search OnlyFans profiles by countries, price or category. |
+| [onlyseeka.com](https://www.onlyseeka.com) | Search OnlyFans creators by name, niche, price and location. |
+| [VerifiedHer](https://verifiedher.com/) | Verification registry for creators — sourced per-person verdicts (real / AI persona / unverified) with official account lists and impersonation warnings |
 
 ### [](#snapchat)Snapchat
 
 | Link | Description |
 | --- | --- |
-| [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the “Grab Images!” button and your browser will make “maximum value” requests for the images of that user’s Bitmoji. Those images will be displayed below. |
+| [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the âGrab Images!â button and your browser will make âmaximum valueâ requests for the images of that userâs Bitmoji. Those images will be displayed below. |
+| [SnapDataHub](https://snapdatahub.com/) | look up any public Snapchat profile without logging in: subscriber count, Spotlight views and engagement. Also a daily list of the fastest-growing creators. Free lookups, some features paid |
 
 ### [](#twitch)Twitch
 
@@ -773,6 +795,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Fidonet nodelist](https://nodehist.fidonet.org.ua/) | search by node number, sysop name and sysop location |
+
+
+### [](#4chan)4chan
+
+| Link | Description |
+|---|---|
+| [archive.4plebs.org](https://archive.4plebs.org) | 4plebs is an unofficial archive of certain boards of 4chan.org, including 11 boards. It offers a large number of searchable discussions with many different parameters. |
 
 ### [](#usenet)Usenet
 
@@ -858,6 +887,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Inflact](https://inflact.com/) | Another online tool that allows you to watch Instagram, without logging in: - search users by nickname; - view last posts; - analyze profile; |
 | [Imginn](https://imginn.com/) | Free service to view Instagram profile posts without registration |
 | [Instagram Explorer](https://www.osintcombine.com/instagram-explorer) | Click on a point on the map. Follow the instructions on the left. Get a link to view Instagram posts made at this location on a specific date range |
+| [ViewIGStory](https://www.view-ig-story.com) | Anonymous Instagram story viewer and downloader for public profiles — no account, no login, no trace left in the target's viewer list. |
 
 ### [](#google)Google
 
@@ -999,6 +1029,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Social Analyzer](https://chrome.google.com/webstore/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp) | extension for Google Chrome that simplifies and speeds up daily monitoring of social networks. Create your own list of keywords and regularly check what's new and related to them. |
 | [Khalil Shreateh Social Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/) | More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.) |
 | [SNScrape](https://github.com/JustAnotherArchivist/snscrape) | Tool for search posts and gathering information about users in Twitter, Reddit, Vkontakte, Weibo, Telegram, Facebook, Instagram, Telegram and Mastodon. |
+| [Jev Social](https://github.com/socai-io/jev-social) | Read-only Instagram, TikTok and LinkedIn research app where Jev selects bounded operations, the local socai CLI runs them in the user's Chrome, and captured evidence becomes cited reports; TikTok media is optional and explicit-request only. |
 | [TalkWalker](https://app.talkwalker.com/app/login) | You can enter a tag (keyword and brand name) and then see which people have used it most often: - gender; - age; - language; - profession; - interests. |
 | [Kworb](https://kworb.net/) | A lot of different statistics on views and listens collected from #YouTube, #iTunes, #Spotify. Ratings by country, year, music type, and more. |
 | [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd) | An extension for Chrome that allows you to find a link to Linkedin, Facebook, VK, StackOverflow, Instagram... by user Github (or other) profile |
@@ -1155,6 +1186,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tiny Scan](https://www.tiny-scan.com/) | Free URL inspection online tool: ip, location, desktop/mobile screenshots, number of links, javascript files and stylesheets, technology profile, number of request and bytes transferred and more. |
 | [CVECrowd](https://cvecrowd.com) | Alternative to Cvetrends (stopped working due to Twitter API restrictions). Shows the most popular CVEs in Fidverse for the last 24 h. |
 | [Nmap Formatter](https://github.com/vdjagilev/nmap-formatter) | A tool to convert NMAP scan results into different formats: html, csv, Markdown, json, svg (Graphviz), sqlite |
+|[ICHI Internet Cyber Health Index](https://ichi.global/) | Search CVEs, incidents, actors, researchs. |
 
 
 
@@ -1203,6 +1235,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Redirect Detective](https://redirectdetective.com/) | tool that allows you to do a full trace of a URL Redirect |
 | [Wheregoes.com](https://wheregoes.com/) | tool that allows you to do a full trace of a URL Redirect |
+| [Redirect Checker](https://redirect-checker.autocompany.workers.dev) | Open source tool to analyze HTTP redirect chains, detect loops, and measure response times with multiple User-Agent support |
 | [Spyoffers.com](https://www.spyoffers.com/) | tool that allows you to do a full trace of a URL Redirect |
 
 ### [](#cookies-analyze)Cookies analyze
@@ -1268,6 +1301,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Stylifyme](http://stylifyme.com/) | Tool for analyzing the style characteristics of a particular website. In the context of #osint, it will help when analyzing links between two sites (common rare design features may indicate common owner) |
 | [Content Security Policy (CSP) Validator](https://cspvalidator.org/#url=https://cspvalidator.org/) | Online service for checking the headers and meta tags of websites for compliance with security standards. It can help determine if a site is vulnerable to common vulnerabilities (XSS, clickjacking, etc). |
 | [Nibbler](https://nibbler.insites.com/) | Free tool for comprehensive website analysis on more than ten different parameters. |
+| [PageGuard](https://pageguard.org) | Free all-in-one website health analyzer. Checks accessibility (WCAG/ADA compliance), SEO score, performance metrics, and best practices with AI-powered reports. Useful for analyzing a target website's quality and compliance posture. |
 | [WebHackUrls](https://github.com/mathis2001/WebHackUrls) | The simplest tool for URl recon with filter by keyword and saving results to file. |
 | [Visual Site Mapper](https://visualsitemapper.com/) | A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number. |
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
@@ -1289,11 +1323,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [@UniversalSearchBot](https://t.me/UniversalSearchBot) | telegram bot finding information about email, russian phone number, domain or IP |
 | [Domain Investigation Toolbox](http://cipher387.github.io/domain_investigation_toolbox/) | gather information about domain with 41 online tools from one page. |
+| [Argos OSINT](https://argos-osint.com) | Free Spanish-language OSINT platform with 31 client-side tools + 7 step-by-step guides + 10 curated OSINT prompts for Claude/LLM. Includes unified domain dashboard (WHOIS/RDAP + DoH DNS + subdomains via crt.sh in one panel), IP geolocation, IP reputation via Shodan InternetDB, pwned password check via HIBP k-anonymity, email header analyzer (SPF/DKIM/DMARC + separate SPF/DMARC auditor), EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat statistics, JWT decoder, regex/color/UA parser/QR/base64/hash/timestamp/URL cleaner. Client-side, no signup, PWA installable. |
 | [GoFindWhois](https://gofindwhois.com/) | More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze. |
 | [Spyfu](https://www.spyfu.com/overview/domain) | tool to collect seo information about the domain, which provide a lot of data partly for free |
 | [Spyse.com](https://spyse.com/) | domain investigation toolbox |
 | [Spyse CLI](https://github.com/spyse-com/cli) | command line client for Spyse.com |
 | [Domaintracker](https://domaintracker.app/) | webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email) |
+| [Vacato](https://vacato.io) | RDAP domain availability watchlist  scheduled checks + Telegram/email alerts when a taken name looks available (free 10; alerts only, not a drop-catcher) |
 | [Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related) | Chrome extension for quick gathering info about IP, domain, hash or URL in dozens of different services: Censys, GreyNoise, VirusTotal, Shodan, ThreatMiner and many others. |
 | [Whois Domain Search Tool](https://whois.marcaria.com/en) | A tool that allows you to query whois data for a site name in several domain zones at once. |
 | [IP Neighbors](https://www.ip-neighbors.com/host/) | Find the hosting neighbors for a specific web site or hostname |
@@ -1307,6 +1343,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Ditto](https://github.com/evilsocket/ditto) | Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered |
 | [RADB](http://radb.net/query) | Provides information collected from all the registries that form part of the Internet Routing Registry |
 | [IPinfo map](https://ipinfo.io/map) | paste up to 500,000 IPs below to see where they're located on a map |
+| [ipapi.is](https://ipapi.is) | IP address lookup: geolocation, ASN, company, abuse contact, and whether the address belongs to a VPN (and which one), proxy, Tor exit or datacenter |
 | [Whois XML API Whois history database](https://whois.whoisxmlapi.com/database/pricing) |     |
 | [Hakrawler](https://github.com/hakluke/hakrawler) | discover endpoints and assets |
 | [Passive DNS search](https://passivedns.mnemonic.no/) |     |
@@ -1328,6 +1365,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml) | Google Chrome extension. 56 tools for domain, ip and url investigation in one |
 | [Ip Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) | type ip-adress once and gather information about it with 13 tools |
 | [Crab](https://github.com/N0tA1dan/Crab) | Well done and well designed port scanner, host info gatherer (include whois). |
+| [CC.LA](https://cc.la) | Free domain research toolkit: WHOIS, RDAP, DNS records, IP WHOIS, nameserver history, SSL certificates, ping/traceroute/MTR diagnostics, expiring domain calendars, and TLD library. No sign-up required. |
 | [MayorSecDNSScan](https://github.com/dievus/msdnsscan) | Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration. |
 | [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | Very quick and simple subdomain enumeration using [http://crt.sh](http://crt.sh). |
 | [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
@@ -1336,7 +1374,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Tool to uncover the IP address hidden by Cloudflare (or alternatives): - IP address History, - SSL Certificate Analysis, - Subdomain Scanning |
 | [WEBCOPILOT](https://github.com/h4r5h1t/webcopilot) | All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities |
 | [DNS History ](https://completedns.com/dns-history/) | A tool to track the history of DNS servers associated with a particular domain. Data since 2002 year for 2.2 billion nameservers. |
-
+| [Frostbyte IP & DNS](https://agent-gateway-kappa.vercel.app) | Free IP geolocation and DNS lookup API. Returns country, city, ISP, timezone for any IP. DNS lookup returns A, AAAA, MX, NS, TXT records. No signup or API key required for basic lookups. |
+| [Chismodon](https://github.com/chiasmod0n/chiasmodon) | Command line #osint toolkit for domain information gathering. Search by domain name, Google Play Store ID, CIDR/ASN, email/username/password. Partly free. |
+| [DNSai](https://dnsai.com/dns-tools/) | DNS, WHOIS, DKIM selector discovery, SPF/DMARC and blacklist lookups with plain-English AI explanations. Free, no signup |
+| [DomScan](https://domscan.net/tools/security) | Domain and website reconnaissance for DNS, WHOIS/RDAP, public subdomains, certificates, technology, reputation and typosquatting. |
+| [DNS Lookup](https://www.wtoolskit.com/en/dns-lookup) | check A, AAAA, MX, TXT, CNAME and NS records for any domain name in the browser |
+| [IP & Subnet Tool](https://www.wtoolskit.com/en/ip-tool) | calculate IPv4 subnet masks, IP ranges, broadcast addresses and host counts; works fully client-side |
+| [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
+| [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT â 44.1M domains indexed, free API tier. |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
@@ -1390,6 +1435,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related) | extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts. |
 | [Built With](https://builtwith.com/) |     |
+| [StackScan](https://www.stackscan.com/) | search by technology, keyword or served asset, with country and industry breakdowns |
 | [w3techs](https://w3techs.com/sites) |     |
 | [Hexometer stack checker](https://hexometer.com/stack-checker) |     |
 | [Web Tech Survey](https://webtechsurvey.com/website/) |     |
@@ -1433,7 +1479,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). |
 | [Broken Link Checker](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related) | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. |
-| [Open Multiple Links ☷ One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
+| [Open Multiple Links â· One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
 | [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related) | Old and large lists of tutorials or tools often have many inactive links. This extension will help mark inactive links in red and save you time checking them out. |
 
 ### [](#url-unshorteners)URL unshorteners
@@ -1469,6 +1515,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [soundeffectssearch.com](https://www.soundeffectssearch.com/find-a-sound-library/) | find a sound library |
 | [Vocal Remover](https://vocalremover.org/) | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
+| [AudioForges](https://www.audioforges.com/voice-clean) | Free browser tools to clean up noisy recordings (noise/echo removal), separate vocals from music, and transcribe audio with timestamps. No signup. |
 
 [](#video-editing-and-analyze)Video editing and analyze
 =======================================================
@@ -1508,6 +1555,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
 | [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
 | [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once |
+| [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
 | [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
 | [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
 | [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
@@ -1537,6 +1585,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Remove.bg](https://www.remove.bg/) | Remove background from image with AI |
 | [Watermarkremover](https://www.watermarkremover.io/) | Remove watermark from image with AI |
 | [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) | Image editing with prompt|
+| [BulkPicTools](https://bulkpictools.com) | Free browser-based bulk image toolkit with local AI. Batch face blur (WebGPU/WASM, no upload), EXIF data removal, background removal, format conversion, and image compression — all processed locally on your device. Files never leave your browser. No account required, works offline. |
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
@@ -1552,9 +1601,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Aperislove](https://www.aperisolve.com/) | Online steganography tool: PngCheck,Strings,Foremost,Binwalk,ExifTool,Outguess,Steghide,Zsteg,Blue/Green/Red/Superimposed |
 | [Sherloq](http://github.com/GuidoBartoli/sherloq) | open source image #forensic toolset made by profesional photograph Guido Bartoli |
 | [Image Color Picker](https://imagecolorpicker.com/) | pick color (HEX or RGB) from image or website screenshot |
+| [Image Color Picker AI](https://imagecolorpickerai.com/) | pick color values (HEX, RGB, HSL) from uploaded images or screenshots |
 | [Find and Set Scale From Image](https://www.blocklayer.com/scale-fixereng.aspx) |     |
 | [Image Forensic (Ghiro Online)](http://www.imageforensic.org/) |     |
 | [compress-or-die.com/analyze](https://compress-or-die.com/analyze) | get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) |
+| [isGenAI](https://isgenai.com/ai-image-detector) | Free web tool to read saved AI generation settings and prompts in supported original PNG, JPEG and WebP images, including AUTOMATIC1111 and ComfyUI workflows. Upload limit: 20 MB; editable metadata does not establish authorship. |
 | [aperisolve.fr](https://aperisolve.fr) | Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool. |
 | [Dicom Viewer](https://www.imaios.com/en/Imaios-Dicom-Viewer) | view MRI or CT photo online (.DCM files) |
 | [Caloriemama](https://www.caloriemama.ai/api) | AI can identify the type of food from the photo and give information about its caloric value. |
@@ -1562,7 +1613,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PhotoOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted. |
 | [Perceptual image analysis](https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/) | Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis |
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
-| [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️) |
+| [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photoâ ï¸) |
+| [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
@@ -1571,6 +1623,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [EXIF-PY](https://github.com/ianare/exif-py) | get exif data of photos thrue command line |
 | [Exif.app](http://exif.app) | Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow |
 | [Image Analyzer Addon](https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek) | View all images on a page and expose image properties, EXIF data, and one-click download |
+| [MetadataRemover.ai](https://metadataremover.ai/) | Inspect, remove, edit and verify supported image metadata locally in the browser without uploading files or creating an account. |
 | [Online metadata viewer and editor](https://products.groupdocs.app/metadata/) | High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp. |
 | [Scan QR Code](https://4qrcode.com/scan-qr-code.php) | While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture |
 | [Identify plans](https://identify.plantnet.org/) |     |
@@ -1579,6 +1632,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) | tool for mass geotagging of photos |
 | [exifLooter](https://github.com/aydinnyunus/exifLooter) | Quick #go tool to automate work with EXIF data |
 | [PYMETA](https://github.com/m8sec/pymeta) | A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format. |
+| [EXIF Reader](https://www.wtoolskit.com/en/exif-reader) | extract EXIF metadata (GPS coordinates, camera model, timestamps) from photos in the browser â images are analyzed locally and never uploaded |
+| [Narqo Photo Metadata](https://narqo.com/tools/photo-metadata) | View, edit or remove EXIF, GPS and camera data of a photo. Runs in the browser, nothing is uploaded, no account |
 
 ### [](#face-recognition-and-search)Face recognition and search
 
@@ -1599,6 +1654,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Font Spring](https://www.fontspring.com/matcherator) |     |
 | [Identifont.com](http://www.identifont.com/) |     |
 | [LikeFont.com](https://en.likefont.com/) |     |
+| [What Font Finder](https://whatfontfinder.com/) | Upload a screenshot to identify the font, then browse free lookalikes with their licences stated. |
 
 [](#cryptocurrencies)Cryptocurrencies
 =====================================
@@ -1638,6 +1694,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SayHello](https://beta.sayhello.so/) | #AI Search engine for developers.  Type a question (e.g. how to do something) in normal human language and get code examples in response.|
 | [SourceGraph](https://about.sourcegraph.com/) | universal code search engine |
 | [NerdyData](https://www.nerdydata.com/) | html/css/code search engine |
+| [SearchWebCode](https://www.searchwebcode.com/) | webpages source code search engine (regex + full matched source, 127M homepages) |
 | [YouCode](https://you.com/code) | Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks |
 | [De4js](https://lelinhtinh.github.io/de4js/) | HTML/JS deobfuscator |
 | [TIO RUN](https://tio.run) | Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser |
@@ -1654,7 +1711,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Thanks](https://github.com/feross/thanks) | A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers. |
 | [The Fuck](https://github.com/nvbn/thefuck) | Simple app which corrects your previous console commands. |
 | [API Guesser](https://api-guesser.netlify.app/) | Enter the API key or token to find out which service it can be used by. |
-| [Cheat․sh](https://github.com/chubin/cheat.sh) | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
+| [Cheatâ¤sh](https://github.com/chubin/cheat.sh) | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
 | [NGINXconfig](https://www.digitalocean.com/community/tools/nginx) | Online tool to configure stable and secure #nginx server. Select the options and then download the config files. |
 | [SPF Explainer](https://www.digitalocean.com/community/tools/spf) | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
 | [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
@@ -1871,6 +1928,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Web Archive Google Chrome Extension](https://github.com/husseinphp/web-archive) | Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API |
 | [WAYBACK GOOGLE ANALYTICS](https://github.com/bellingcat/wayback-google-analytics) | A tool that finds all Google Analytics ID in URL (including old ones from Web Archive). |
 | [GAU](https://github.com/lc/gau) | Simple #golang tool to fetch all known website URLs from: WayBackMachine, AlienVault's Open Threat Exchange, Common Crawl, URLScan |
+| [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) | Download complete websites from the Wayback Machine with full asset preservation for offline viewing. #python |
 
 ### [](#warc)Tools for working with WARC (WebARChive) files
 
@@ -1895,13 +1953,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [industrydocuments.ucsf.edu](http://industrydocuments.ucsf.edu/) | digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel) |
 | [Offshor Leaks](https://offshoreleaks.icij.org/) | Search through various databases of leaked documents of offshore companies |
 | [Vault.fbi.gov](https://vault.fbi.gov/search) | Vault is FOIA Library, containing 6,700 documents that have been scanned from paper |
-| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
+| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | â the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
 | [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
 | [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
 | [Anna's Archive](https://annas-archive.org/search) | Search engine of shadow libraries: books, papers, comics, magazines (IPFS Gateway, Library Genesis etc). |
 | [World Cat](https://worldcat.org/) | Enter the name of the paper book and find out which public libraries near you can find it.  Works for the USA, Australia and most European countries. |
 | [DailyEarth](https://dailyearth.com/) | Worldwide catalog of daily newspapers (since 1999). 52 USA states. 73 countries. |
-| [visLibri](https://www.vialibri.net/) | World’s largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
+| [visLibri](https://www.vialibri.net/) | Worldâs largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
 | [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 
@@ -1956,6 +2014,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) | Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks |
 | [Dehashed](https://dehashed.com/) | Tool for searching for data leaks (search by email, password, phone, username, domain etc)
 DeHashed API tool allows to automate this process and search large lists of input data. |
+| [CheckLeaked](https://checkleaked.cc/) | Check if an email, username or phone appears in a data breach, with the sources shown. Free searches, a developer API and Telegram/Discord bots |
 
 [](#ids) IDs
 =======================
@@ -1995,6 +2054,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
 | [InfoStealers](https://infostealers.info/en/info) | Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals. |
+| [uChecker](https://uchecker.net/tools) | Bulk email list verification plus 13 free DNS tools (SPF, DKIM, DMARC, BIMI generators and checkers) without registration. |
+
 
 
 [](#mbox) MBOX files
@@ -2031,10 +2092,12 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
-| [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
+| [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlockâ¦). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
+| [Lullar](https://com.lullar.com) | Free online people search by username, email or name across 170+ social media platforms. Returns direct profile links, no sign-up, works in 22 languages. Online since 2008. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
+| [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 
 [](#phone-numbers)Phone numbers
 ===============================
@@ -2048,12 +2111,14 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [FireFly](https://github.com/Lexxrt/FireFly) | Get information about phone number using Numverify API |
 | [PhoneNumber OSINT](https://github.com/spider863644/PhoneNumber-OSINT) | Simple tool for gathering basic information about phone numbers (country code, timezone, provider) |
 | [Phunter](https://github.com/N0rz3/Phunter) | Phone number #osint command line #python tool. Gather different info: operator, possible(s) location(s), line type, reputation, various scraped information, spammer or not, connect to amazon or not |
+| [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) | #python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses |
 
 [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
 =======================================================================================
 
 | Link | Description |
 | --- | --- |
+| [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) | Scan your own digital footprint in one sweep: username, email, breach and data broker exposure. ~30 modular tools wrapping Sherlock, Maigret, holehe and HIBP, evidence graph, AI-written report (Claude or local Ollama). Runs fully locally. |
 | [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) | Get emails, social medias, adresses of peoples using web scraping and google dorking |
 | [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile |
 | [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | tool for searching nickname profiles on more than 300 sites |
@@ -2071,6 +2136,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [SpyDialer](https://www.spydialer.com/) | Free search contact information by phone number, name, address or email |
 | [Decoding Social Security Numbers in One Step](https://stevemorse.org/ssn/ssn.html) |     |
 | [Inmate Database Search](http://inmateinfo.indy.gov/IML) |     |
+| [Offendersearch](https://offendersearch.app) | Search 58 US sex offender registries — the 50 states, DC and US territories — in one query; scored results with links to the official record. Free trial, paid API beyond it. |
 | [Scamdigger.com](http://scamdigger.com/) | search in #scammers database by name, IP-adress, email or phone |
 | [Cloob.com](https://www.cloob.com/profile/search/index) | Iranian people search |
 | [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
@@ -2174,6 +2240,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Online tools](https://emn178.github.io/online-tools/index.html) | 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings |
 | [CyberChef](https://gchq.github.io/CyberChef/) | collection of more than a hundred online #tools for automating a wide variety of tasks (string coding, text comparison, double-space removal) |
 | [Shadowcrypt Tools](https://shadowcrypt.net/tools/) | 24 online tools for OSINT, network scanning, MD5 encryption and many others |
+| [Rostral.io](https://github.com/alfablend/rostral.io) | Semantic monitoring tool using LLMs and YAML templates. Automates tracking of public documents, regulations, and structured updates across multilingual sources. |
+| [pyWhat](https://github.com/bee-san/pyWhat) | Python tool to help identify different text strings like wallet numbers, API keys, emails, and more. It is convenient for working with .pcap and other files and has many customization options. |
 
 [](#browser-analyze)Browser analyze
 ===================================
@@ -2237,6 +2305,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Keywordtool.io](https://keywordtool.io/search/keywords/) | keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter |
 | [Google Books Ngram Viewer](https://books.google.com/ngrams/) |     |
 | [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
+| [Albis](https://www.albis.news/) | News-discovery/context tool for comparing story prominence, coverage gaps, sources, and framing across public global news. |
 | [Pinterest Trends](https://trends.pinterest.com/) |     |
 | [PyTrends](https://github.com/GeneralMills/pytrends) | Simple #python library for automatically collecting data from Google Trends. |
 | [KeyWordPeopleUse](https://keywordspeopleuse.com/) | Type in a keyword and see what questions mentioning it are being asked on Quora and Reddit. The service is also able to analyse Google Autocomplete and "People also ask" |
@@ -2248,6 +2317,15 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | --- | --- |
 | [Google Play Scraper](https://github.com/facundoolano/google-play-scraper) | get the most detailed |
 | [App Store Scraper](https://github.com/facundoolano/app-store-scraper) | get the most detailed metadata about the app from AppStore |
+
+
+[](#real-estate)Real estate
+=======================================
+
+| Link | Description |
+| --- | --- |
+| [Homemetry](https://homemetry.com) | Large USA real estate registry with lots of information on homeowners and residents, including full names, phones, part of emails, job, and education. |
+
 
 [](#company-information-search)Company information search
 =========================================================
@@ -2263,11 +2341,16 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [FCCID.IO](https://fccid.io) | seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz) |
 | [Tradeint](https://tradint.io/tradint-researcher/) | Quick access for more than 85 tools for gathering information about company and company website, location and sector |
 | [Corporative Registry Catalog](https://cipher387.github.io/corporative_registry_worldwide_catalog/) | worldwide catalog of business registries (63 countries) |
+| [AtlasForgeX](https://atlasforgex.com) | desktop tool that reads official national company registers live (18 countries live, data for 90+) to find newly registered and low-visibility companies |
 | [LEI search](https://search.gleif.org/#/search/) | can help find "who owned by" or "who owns" |
 | [openownership.org](http://openownership.org) | Wordwide beneficial ownership data. |
 | [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
 | [Oec World](https://oec.world/) | A tool for detailed analysis of international trade. It will show clearly which country sells which products, to which countries these products are sold and in what trade value (in $) |
 | [Skymem](https://skymem.info/) | A free tool to search for employees' emails by company domain. Partially free (only 25 emails can be viewed) |
+| [Companexia](https://companexia.com) | Corporate intelligence search tool for checking companies, directors, ownership, filings, financials, addresses and connected entities using official registry data across the UK and Europe.|
+| [Fylings](https://www.fylings.com) | Search and verify companies across 18+ official African national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record |
+| [Company Records](https://records.knowyourcustomer.com/) | Free anonymous company search across 149 jurisdictions. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19). |
+| [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
 
 [](#bank-information-search)Bank information search
 ===================================================
@@ -2305,6 +2388,9 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Amazon Scraper](https://github.com/scrapehero-code/amazon-scraper) | scraped detail information about list of items |
 | [Amazon ASIN Finder](https://amazon-asin.com/) |     |
 | [Sellerapp.com. Amazon Reverse ASIN search](https://www.sellerapp.com/amazon-reverse-asin.html) |     |
+
+
+
 
 [](#movies)Movies
 =================
@@ -2349,6 +2435,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 | Link | Description |
 | --- | --- |
+| [Vortimo](https://find.osint-tool.com/) | An online tool for quickly searching hundreds of different sources and then processing the information found. As an entry point you can use email, domain, hash, phone number, image and more. Now rebrended as Ubikron. |
 | [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
 | [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
 | [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
@@ -2403,7 +2490,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [ShrewdEye](https://shrewdeye.app/) | Online versions of popular command line #osint tools: Amass, SubFinder, AssetFinder, GAU, DNSX |
 | [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) | Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more. |
 | [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
-| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USA🇺🇸 and International), Email Search, Phone Number Search🇺🇸, Username Permutator, Email Permutator, Vehicle License Plate Search🇺🇸, Vehicle,VIN No. Search🇺🇸, Facebook User/Page/Posts Search |
+| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USAðºð¸ and International), Email Search, Phone Number Searchðºð¸, Username Permutator, Email Permutator, Vehicle License Plate Searchðºð¸, Vehicle,VIN No. Searchðºð¸, Facebook User/Page/Posts Search |
+| [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
 
 
 [](#databases-and-data-analyzes)Databases and data analyzes
