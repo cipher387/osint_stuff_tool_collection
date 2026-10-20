@@ -318,6 +318,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Native-land.ca](https://native-land.ca/) | click on the point on the map and find out: - what nation this area used to belong to; - what language was once spoken there; - a historical event that resulted in a nation losing their territory. |
 | [RiskMap](https://www.riskmap.com/) |     |
 | [Liveuamap](https://liveuamap.com/) |     |
+| [ARGUS](https://argus.prototipo.nl) | free, no-login dashboard: live conflict map (ADS-B flights incl. notable military aircraft, ships at chokepoints, NASA FIRMS thermal detections, DeepState frontline, NGA navigational warnings, Ukraine air-raid alerts), 165 news feeds grouped by viewpoint (West/Russia/Ukraine/Middle East/Asia), 46 live video channels, per-situation pages, national terror threat levels |
 | [Crisisgroup](https://www.crisisgroup.org/crisiswatch) |     |
 | [Hate Map](https://www.splcenter.org/hate-map) |     |
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
