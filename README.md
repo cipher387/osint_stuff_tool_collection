@@ -2295,6 +2295,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [FCCID.IO](https://fccid.io) | seacrh by FCC ID, Country, Date, Company name or Frequency ( in Mhz) |
 | [Tradeint](https://tradint.io/tradint-researcher/) | Quick access for more than 85 tools for gathering information about company and company website, location and sector |
 | [Corporative Registry Catalog](https://cipher387.github.io/corporative_registry_worldwide_catalog/) | worldwide catalog of business registries (63 countries) |
+| [AtlasForgeX](https://atlasforgex.com) | desktop tool that reads official national company registers live (18 countries live, data for 90+) to find newly registered and low-visibility companies |
 | [LEI search](https://search.gleif.org/#/search/) | can help find "who owned by" or "who owns" |
 | [openownership.org](http://openownership.org) | Wordwide beneficial ownership data. |
 | [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
