@@ -567,7 +567,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
-| [Fuxux Twitter Shadowban Checker](https://www.fuxux.com/tools/twitter-shadowban-checker) | Free tool to check if an X/Twitter account is shadowbanned — no login or API key required. |
+| [Fuxux Twitter Shadowban Checker](https://www.fuxux.com/tools/twitter-shadowban-checker) | Free tool to check if an X/Twitter account is shadowbanned â no login or API key required. |
 | [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
@@ -639,7 +639,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Search Chrome Extension](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related) |     |
 | [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. |
 | [Jump Cutter](https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related) | An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed... |
-| [YouFilter – YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
+| [YouFilter â YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
 | [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related) | Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords |
 | [YouTube channel archiver](https://github.com/dmn001/youtube_channel_archiver) | Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels). |
@@ -763,7 +763,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the “Grab Images!” button and your browser will make “maximum value” requests for the images of that user’s Bitmoji. Those images will be displayed below. |
+| [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the âGrab Images!â button and your browser will make âmaximum valueâ requests for the images of that userâs Bitmoji. Those images will be displayed below. |
 | [SnapDataHub](https://snapdatahub.com/) | look up any public Snapchat profile without logging in: subscriber count, Spotlight views and engagement. Also a daily list of the fastest-growing creators. Free lookups, some features paid |
 
 ### [](#twitch)Twitch
@@ -1318,7 +1318,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Spyse.com](https://spyse.com/) | domain investigation toolbox |
 | [Spyse CLI](https://github.com/spyse-com/cli) | command line client for Spyse.com |
 | [Domaintracker](https://domaintracker.app/) | webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email) |
-| [Vacato](https://vacato.io) | RDAP domain availability watchlist � scheduled checks + Telegram/email alerts when a taken name looks available (free 10; alerts only, not a drop-catcher) |
+| [Vacato](https://vacato.io) | RDAP domain availability watchlist  scheduled checks + Telegram/email alerts when a taken name looks available (free 10; alerts only, not a drop-catcher) |
 | [Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related) | Chrome extension for quick gathering info about IP, domain, hash or URL in dozens of different services: Censys, GreyNoise, VirusTotal, Shodan, ThreatMiner and many others. |
 | [Whois Domain Search Tool](https://whois.marcaria.com/en) | A tool that allows you to query whois data for a site name in several domain zones at once. |
 | [IP Neighbors](https://www.ip-neighbors.com/host/) | Find the hosting neighbors for a specific web site or hostname |
@@ -1366,7 +1366,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DNS Lookup](https://www.wtoolskit.com/en/dns-lookup) | check A, AAAA, MX, TXT, CNAME and NS records for any domain name in the browser |
 | [IP & Subnet Tool](https://www.wtoolskit.com/en/ip-tool) | calculate IPv4 subnet masks, IP ranges, broadcast addresses and host counts; works fully client-side |
 | [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
-| [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier. |
+| [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT â 44.1M domains indexed, free API tier. |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
@@ -1463,7 +1463,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). |
 | [Broken Link Checker](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related) | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. |
-| [Open Multiple Links ☷ One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
+| [Open Multiple Links â· One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
 | [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related) | Old and large lists of tutorials or tools often have many inactive links. This extension will help mark inactive links in red and save you time checking them out. |
 
 ### [](#url-unshorteners)URL unshorteners
@@ -1596,7 +1596,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PhotoOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted. |
 | [Perceptual image analysis](https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/) | Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis |
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
-| [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️) |
+| [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photoâ ï¸) |
 | [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
@@ -1614,7 +1614,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) | tool for mass geotagging of photos |
 | [exifLooter](https://github.com/aydinnyunus/exifLooter) | Quick #go tool to automate work with EXIF data |
 | [PYMETA](https://github.com/m8sec/pymeta) | A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format. |
-| [EXIF Reader](https://www.wtoolskit.com/en/exif-reader) | extract EXIF metadata (GPS coordinates, camera model, timestamps) from photos in the browser — images are analyzed locally and never uploaded |
+| [EXIF Reader](https://www.wtoolskit.com/en/exif-reader) | extract EXIF metadata (GPS coordinates, camera model, timestamps) from photos in the browser â images are analyzed locally and never uploaded |
 | [Narqo Photo Metadata](https://narqo.com/tools/photo-metadata) | View, edit or remove EXIF, GPS and camera data of a photo. Runs in the browser, nothing is uploaded, no account |
 
 ### [](#face-recognition-and-search)Face recognition and search
@@ -1692,7 +1692,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Thanks](https://github.com/feross/thanks) | A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers. |
 | [The Fuck](https://github.com/nvbn/thefuck) | Simple app which corrects your previous console commands. |
 | [API Guesser](https://api-guesser.netlify.app/) | Enter the API key or token to find out which service it can be used by. |
-| [Cheat․sh](https://github.com/chubin/cheat.sh) | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
+| [Cheatâ¤sh](https://github.com/chubin/cheat.sh) | Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation). |
 | [NGINXconfig](https://www.digitalocean.com/community/tools/nginx) | Online tool to configure stable and secure #nginx server. Select the options and then download the config files. |
 | [SPF Explainer](https://www.digitalocean.com/community/tools/spf) | Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain. |
 | [TLDR](https://github.com/tldr-pages/tldr) | A tool that is a great time-saver when working with the command line. Enter "tldr command name" and get a brief description with examples of how to use it. |
@@ -1933,13 +1933,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [industrydocuments.ucsf.edu](http://industrydocuments.ucsf.edu/) | digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel) |
 | [Offshor Leaks](https://offshoreleaks.icij.org/) | Search through various databases of leaked documents of offshore companies |
 | [Vault.fbi.gov](https://vault.fbi.gov/search) | Vault is FOIA Library, containing 6,700 documents that have been scanned from paper |
-| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | — the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
+| [Lux Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html) | â the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story |
 | [RootsSearch](https://rootssearch.io/search) | Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials) |
 | [Newspaper navigator](https://news-navigator.labs.loc.gov/search) | Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state. |
 | [Anna's Archive](https://annas-archive.org/search) | Search engine of shadow libraries: books, papers, comics, magazines (IPFS Gateway, Library Genesis etc). |
 | [World Cat](https://worldcat.org/) | Enter the name of the paper book and find out which public libraries near you can find it.  Works for the USA, Australia and most European countries. |
 | [DailyEarth](https://dailyearth.com/) | Worldwide catalog of daily newspapers (since 1999). 52 USA states. 73 countries. |
-| [visLibri](https://www.vialibri.net/) | World’s largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
+| [visLibri](https://www.vialibri.net/) | Worldâs largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
 | [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 
@@ -2069,7 +2069,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
-| [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
+| [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlockâ¦). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
@@ -2317,6 +2317,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [opensanctions.org](https://opensanctions.org) | Open source data on sanctioned people and companies in various countries from 35 (!) different sources. |
 | [Oec World](https://oec.world/) | A tool for detailed analysis of international trade. It will show clearly which country sells which products, to which countries these products are sold and in what trade value (in $) |
 | [Skymem](https://skymem.info/) | A free tool to search for employees' emails by company domain. Partially free (only 25 emails can be viewed) |
+| [Company Records](https://records.knowyourcustomer.com/) | Free anonymous company search across 149 jurisdictions. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19). |
 | [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
 
 [](#bank-information-search)Bank information search
@@ -2457,7 +2458,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [ShrewdEye](https://shrewdeye.app/) | Online versions of popular command line #osint tools: Amass, SubFinder, AssetFinder, GAU, DNSX |
 | [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) | Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more. |
 | [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
-| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USA🇺🇸 and International), Email Search, Phone Number Search🇺🇸, Username Permutator, Email Permutator, Vehicle License Plate Search🇺🇸, Vehicle,VIN No. Search🇺🇸, Facebook User/Page/Posts Search |
+| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USAðºð¸ and International), Email Search, Phone Number Searchðºð¸, Username Permutator, Email Permutator, Vehicle License Plate Searchðºð¸, Vehicle,VIN No. Searchðºð¸, Facebook User/Page/Posts Search |
 | [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
 
 
