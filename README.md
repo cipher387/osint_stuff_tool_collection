@@ -1537,6 +1537,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Movio.la](https://www.movio.la/) | Create spoken person video from text |
 | [Tagrum](https://targum.video/) | Upload a video file to the site or leave a link to the video. Wait a few minutes. Get a subtitled version of the video in English (other languages will probably be available later). |
 | [Scene Edit Detection](https://huggingface.co/spaces/fffiloni/scene-edit-detection) | A tool to help speed up and automate your video viewing. It highlights the frames where a new scene begins and allows you to quickly analyze the key semantic parts of the video. |
+| [Yap Audio to Text](https://yapapp.cc/audio-to-text) | Free in-browser transcription of video and audio files into text or SRT/VTT subtitles. Files are processed on your own computer and never uploaded, useful for sensitive recordings. |
 
 
 
