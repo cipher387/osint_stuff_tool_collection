@@ -1367,6 +1367,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WEBCOPILOT](https://github.com/h4r5h1t/webcopilot) | All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities |
 | [DNS History ](https://completedns.com/dns-history/) | A tool to track the history of DNS servers associated with a particular domain. Data since 2002 year for 2.2 billion nameservers. |
 | [Chismodon](https://github.com/chiasmod0n/chiasmodon) | Command line #osint toolkit for domain information gathering. Search by domain name, Google Play Store ID, CIDR/ASN, email/username/password. Partly free. |
+| [DNSai](https://dnsai.com/dns-tools/) | DNS, WHOIS, DKIM selector discovery, SPF/DMARC and blacklist lookups with plain-English AI explanations. Free, no signup |
 | [DomScan](https://domscan.net/tools/security) | Domain and website reconnaissance for DNS, WHOIS/RDAP, public subdomains, certificates, technology, reputation and typosquatting. |
 | [DNS Lookup](https://www.wtoolskit.com/en/dns-lookup) | check A, AAAA, MX, TXT, CNAME and NS records for any domain name in the browser |
 | [IP & Subnet Tool](https://www.wtoolskit.com/en/ip-tool) | calculate IPv4 subnet masks, IP ranges, broadcast addresses and host counts; works fully client-side |
