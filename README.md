@@ -1362,6 +1362,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WEBCOPILOT](https://github.com/h4r5h1t/webcopilot) | All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities |
 | [DNS History ](https://completedns.com/dns-history/) | A tool to track the history of DNS servers associated with a particular domain. Data since 2002 year for 2.2 billion nameservers. |
 | [Chismodon](https://github.com/chiasmod0n/chiasmodon) | Command line #osint toolkit for domain information gathering. Search by domain name, Google Play Store ID, CIDR/ASN, email/username/password. Partly free. |
+| [DNS Lookup](https://www.wtoolskit.com/en/dns-lookup) | check A, AAAA, MX, TXT, CNAME and NS records for any domain name in the browser |
+| [IP & Subnet Tool](https://www.wtoolskit.com/en/ip-tool) | calculate IPv4 subnet masks, IP ranges, broadcast addresses and host counts; works fully client-side |
 | [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
 | [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier. |
 
@@ -1611,6 +1613,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) | tool for mass geotagging of photos |
 | [exifLooter](https://github.com/aydinnyunus/exifLooter) | Quick #go tool to automate work with EXIF data |
 | [PYMETA](https://github.com/m8sec/pymeta) | A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format. |
+| [EXIF Reader](https://www.wtoolskit.com/en/exif-reader) | extract EXIF metadata (GPS coordinates, camera model, timestamps) from photos in the browser — images are analyzed locally and never uploaded |
 | [Narqo Photo Metadata](https://narqo.com/tools/photo-metadata) | View, edit or remove EXIF, GPS and camera data of a photo. Runs in the browser, nothing is uploaded, no account |
 
 ### [](#face-recognition-and-search)Face recognition and search
