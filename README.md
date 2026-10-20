@@ -894,6 +894,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Imginn](https://imginn.com/) | Free service to view Instagram profile posts without registration |
 | [Instagram Explorer](https://www.osintcombine.com/instagram-explorer) | Click on a point on the map. Follow the instructions on the left. Get a link to view Instagram posts made at this location on a specific date range |
 | [ViewIGStory](https://www.view-ig-story.com) | Anonymous Instagram story viewer and downloader for public profiles — no account, no login, no trace left in the target's viewer list. |
+| [IGDataHub](https://igdatahub.com/) | follower count history for the Instagram accounts it tracks (a reading about once a day, shown as a growth chart on each profile report), plus engagement rate and top posts per profile and weekly follower-growth rankings. Free to view without login; the full per-reading CSV is paid |
 
 ### [](#google)Google
 
