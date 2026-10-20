@@ -665,8 +665,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Tiktok Stalker](https://tiktok.einzzcookie.org/) | User Info, User Like Activity, User Post Activity, User Private Video Info, User Analytics, User Repost Scanner, User Comment Scanner, Video Info, Video Downloader, Sharing Link Info, Fake Sharing Link, Anonym Sharing Link, User QR Generator and more |
 | [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
-| [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTok Downloader](https://tiktokdownloader.com/) | TikTok Video Downloader |
 | [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) | full-size profile picture and the latest public videos from a profile link; downloads public videos, photo posts and stories without an account |
@@ -676,7 +676,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tikbuddy](https://app.tikbuddy.com/) | TikTok profile analytics |
 | [Mavekite.com](https://mavekite.com/) | Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos |
 | [Tiktok Scraper](https://github.com/sauermar/Tiktok-Scraper) | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. |
-| [Tikrank.com](https://tikrank.com) | free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database) |
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
 | [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
 
