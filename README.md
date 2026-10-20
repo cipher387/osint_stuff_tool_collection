@@ -323,6 +323,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
+| [World Monitor](https://www.worldmonitor.app/) | free real-time world map combining conflict events, military aviation, maritime chokepoints, infrastructure outages and news feeds in one dashboard |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 | [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
 | [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
