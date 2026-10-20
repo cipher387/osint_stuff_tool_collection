@@ -1495,6 +1495,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [soundeffectssearch.com](https://www.soundeffectssearch.com/find-a-sound-library/) | find a sound library |
 | [Vocal Remover](https://vocalremover.org/) | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
+| [AudioForges](https://www.audioforges.com/voice-clean) | Free browser tools to clean up noisy recordings (noise/echo removal), separate vocals from music, and transcribe audio with timestamps. No signup. |
 
 [](#video-editing-and-analyze)Video editing and analyze
 =======================================================
