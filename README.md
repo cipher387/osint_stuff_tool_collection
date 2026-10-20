@@ -620,6 +620,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
+| [AudienceCue YouTube Comment Downloader](https://audiencecue.com/en/tools/youtube-comment-downloader) | Download public YouTube video or Shorts comments as CSV for research. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem: |
 | [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | youtube channels comparing |
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
