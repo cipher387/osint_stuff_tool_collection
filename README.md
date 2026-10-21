@@ -621,6 +621,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [YouTube Transcript Scraper](https://apify.com/harshmaur/youtube-transcript-scraper) | Collect public YouTube captions with time-linked segments, video metadata and optional translation. Supports video, channel and playlist links plus text, SRT or VTT exports. Paid per successful transcript; no YouTube login. |
 | [YouTube Whisperer](https://huggingface.co/spaces/jeffistyping/Youtube-Whisperer) | Transcribe YouTube video |
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
