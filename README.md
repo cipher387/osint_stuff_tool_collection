@@ -2257,6 +2257,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
 | [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
 | [JSONHero](https://jsonhero.io/) | Free online tool for visualizing data in JSON format. With tree structure display, syntax highlighting, link preview, pictures, colors and many other interesting features. |
+| [TRACEZ](https://tracez.no-do.dev/) | OSINT investigation platform: 32 open sources feed an entity graph you can expand with AI, monitors keep watching for changes, and evidence is signed with Ed25519 so anyone can verify it without an account. Free plan, paid plans from 19 EUR/month. |
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
 
