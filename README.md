@@ -1500,6 +1500,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Unshorten.me](https://unshorten.me/) |     |
 | [Urlxray](http://urlxray.com/) |     |
 | [Unshorten.it](https://unshorten.it/) |     |
+| [Peekray](https://peekray.com) | Shows where a short or redirecting link really ends up, following up to 4 redirects on its server, and flags known phishing links. Free website and Chrome extension, no account. |
 
 ### [](#text-analyze)Text Analyze
 
