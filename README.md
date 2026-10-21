@@ -1390,6 +1390,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [IP & Subnet Tool](https://www.wtoolskit.com/en/ip-tool) | calculate IPv4 subnet masks, IP ranges, broadcast addresses and host counts; works fully client-side |
 | [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
 | [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT â 44.1M domains indexed, free API tier. |
+| [Pharos Email Domain Health](https://pharos.email/tools/domain-health) | Checks SPF, DKIM, DMARC, BIMI, MX and forward-confirmed reverse DNS for a domain in one pass. Free, no signup |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
