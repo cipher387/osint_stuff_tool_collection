@@ -707,6 +707,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Facebook Latest Comments Scraper](https://console.apify.com/actors/w8bYllu7Jq18uWz99) | Enter link to the #Facebook post and get comments comments to it (text, timestamp and other info). |
 | [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) | Scrape names and usernames from large friend lists on Facebook, without being rate limited" |
 
+| [Facebook Ads Library Scraper](https://apify.com/harshmaur/facebook-ads-library-scraper) | Collect public Meta ads with ad text, media links, advertiser details and dates. Includes reach and spend where Meta discloses them. No Facebook login; paid per ad on Apify. |
+
 ### [](#clubhouse)Clubhouse
 
 | Link | Description |
