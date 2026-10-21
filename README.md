@@ -2278,6 +2278,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [coveryourtracks.eff.org](https://coveryourtracks.eff.org) | can tell a lot about your browser and computer, including showing a list of installed fonts on the system. |
 | [Webmapper](https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related) | Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable. |
 | [Export Chrome History](https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf) | A simple extension for Googlechrome that allows you to save detailed information about links from browser history as CSV/JSON.  Useful for both personal archives and investigations using other people's computers.  |
+| [Spoof Me](https://spoof-me.com/) | free Chrome/Firefox extension that shows which fingerprinting signals a site reads (canvas, WebGL, fonts, audio and more) and lets you switch your browser identity: user agent, language, timezone, screen size |
 
 [](#files)Files
 ===============
