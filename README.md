@@ -1319,6 +1319,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WebHackUrls](https://github.com/mathis2001/WebHackUrls) | The simplest tool for URl recon with filter by keyword and saving results to file. |
 | [Visual Site Mapper](https://visualsitemapper.com/) | A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number. |
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
+| [CurlShot](https://curlshot.com/) | Online tool and API that captures a full-page screenshot of any URL as PNG, JPEG, WebP, PDF or scrolling video, with desktop/mobile device presets and optional cookie banner and ad hiding. Useful for saving a snapshot of a website as evidence. Free plan: 100 captures/month. |
 
 
 ### [](#favicon-search)Favicon search
