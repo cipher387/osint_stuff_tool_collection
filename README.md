@@ -1429,6 +1429,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ptrarchive.com](http://ptrarchive.com/) | search by 230 billion DNS records retrieved from 2008 to the present. |
 | [PeeringDB](https://www.peeringdb.com/) | Freely available, user-maintained, database of networks, and the go-to location for interconnection data. |
 | [IQWhois](https://iqwhois.com/advanced-search) | Search whois data by address, city, name, surname, phonenumber |
+| [GetDomainLists](https://getdomainlists.com/tld/?ref=awesome-cipher387) | (PAID) plain-text lists of registrable domain names and subdomains, one name per line, sold once per release. Free samples on each TLD page and free Python scripts in [getdomainlists/dataset](https://github.com/getdomainlists/dataset). |
 
 ### [](#website-traffic-look-up)Website traffic look up
 
