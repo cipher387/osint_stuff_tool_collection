@@ -1698,6 +1698,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Related Repos](https://relatedrepos.com/) | Discover related open source projects. Find alternatives and other similar repositories. Updated daily. |
 | [Grep.app](https://grep.app/) | regExp search in Github repositories |
 | [Searchcode.com](https://searchcode.com/) | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages |
 | [Code Repository Google CSE](https://cipher387.github.io/code_repository_google_custom_search_engines/) | Google CSE for search 15 code repository services |
