@@ -1314,6 +1314,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WebHackUrls](https://github.com/mathis2001/WebHackUrls) | The simplest tool for URl recon with filter by keyword and saving results to file. |
 | [Visual Site Mapper](https://visualsitemapper.com/) | A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number. |
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
+| [WebToolBench HTTP Header Checker](https://www.webtoolbench.com/http-header-checker) | free online check of any site's HTTP response headers. Shows HSTS, CSP, X-Frame-Options and other security headers, plus server details and response time |
 
 
 ### [](#favicon-search)Favicon search
