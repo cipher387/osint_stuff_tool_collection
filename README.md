@@ -1625,6 +1625,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
 | [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photoâ ï¸) |
 | [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
+| [GeoInfer](https://geoinfer.com/) | AI that predicts where a photo was taken from its visual content (landmarks, architecture, terrain), no EXIF needed. Free daily trial and API. |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
