@@ -1769,6 +1769,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PacketTotal](https://packettotal.com/app/search) | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. |
 | [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
 | [Yeggi](https://www.yeggi.com/) | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
+| [PrintWhat](https://printwhat.app/search) | free search engine for 3D-printable and CAD models across 39 public sources (printable model libraries, engineering part catalogs, scan collections). No account required; results link to the original source page. |
 | [Memegine](https://memegine.com/) | A search engine to find memes. Helps you find rare and obscure memes when Google fails. |
 | [ChatBottle](https://chatbottle.co/bots/) | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
 | [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
