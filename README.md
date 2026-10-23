@@ -197,7 +197,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [My Projects](#my-projects)
 
 [](#maps-geolocation-and-transport)Maps, Geolocation and Transport
-==================================================================
 
 ### [](#social-media-and-photos)Social media and photos
 
@@ -546,7 +545,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#social-media)Social Media
-=============================
 
 ### [](#twitter)Twitter
 
@@ -1050,7 +1048,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
  | [CommentPicker](https://commentpicker.com/) | Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export |
 
 [](#downloaders)Downloaders
-===========================
 
 | Link | Description |
 | --- | --- |
@@ -1083,7 +1080,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#messengers)Messengers
-=========================
 
 ### [](#telegram)Telegram
 
@@ -1148,7 +1144,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#domainiplinks)Domain/IP/Links
-=================================
 
 ### [](#dorkspentestvulnerabilities)Dorks/Pentest/Vulnerabilities
 
@@ -1492,7 +1487,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). |
+| [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links |
 | [Broken Link Checker](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related) | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. |
 | [Open Multiple Links â· One Click](https://www.scrapersnbots.com/webtools/open-multiple-links-one-click.php) |     |
 | [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related) | Old and large lists of tutorials or tools often have many inactive links. This extension will help mark inactive links in red and save you time checking them out. |
@@ -1515,17 +1510,16 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Wordtune.com](https://wordtune.com/read) | Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text. |
 
 [](#sound-indefication-and-analyze)Sound indefication and analyze
-=================================================================
 
 | Link | Description |
 | --- | --- |
 | [Online Loudness Meter](https://youlean.co/online-loudness-meter/) | allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file. |
-| [Voice Stress Test](https://www.cignaglobal.com/stress-care/individuals/voice-tool) | tool analyzes the voice and determines a person's stress level. |
+| [Voice Stress Test](https://www.cignaglobal.com/stress-care/individuals/voice-tool) | tool analyzes the voice and determines a person s stress level. |
 | [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related) | A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay) |
 | [MP3 Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) |     |
 
 [](#sound-search-and-analyze)Sound search and analyze
-=====================================================
+
 
 | Link | Description |
 | --- | --- |
@@ -1534,7 +1528,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [AudioForges](https://www.audioforges.com/voice-clean) | Free browser tools to clean up noisy recordings (noise/echo removal), separate vocals from music, and transcribe audio with timestamps. No signup. |
 
 [](#video-editing-and-analyze)Video editing and analyze
-=======================================================
 
 | Link | Description |
 | --- | --- |
@@ -1557,7 +1550,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#image-search-and-identification)Image Search and Identification
-===================================================================
 
 ### [](#reverse-image-search-engines-and-automation-tools)Reverse Image Search Engines and automation tools
 
@@ -1676,7 +1668,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [What Font Finder](https://whatfontfinder.com/) | Upload a screenshot to identify the font, then browse free lookalikes with their licences stated. |
 
 [](#cryptocurrencies)Cryptocurrencies
-=====================================
 
 | Link | Description |
 | --- | --- |
@@ -1694,7 +1685,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#code)Code
-=============
+
 
 | Link | Description |
 | --- | --- |
@@ -1741,7 +1732,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Pyrexp](https://pythonium.net/regex) | Online regex tester and visualizer for Python |
 
 [](#search-engines)Search engines
-=================================
+
 
 | Link | Description |
 | --- | --- |
@@ -1866,7 +1857,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Heystack](https://heystacks.com/) | Service for finding public files in Google Docs, Google Sheets and Google Slides. It's possible to filter results by topic group and creation date. |
 
 [](#tools-for-duckduckgo)Tools for DuckDuckGo
-=============================================
+
 
 | Link | Description |
 | --- | --- |
@@ -1874,7 +1865,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DDGR](https://github.com/jarun/ddgr) | Search in DuckDuckGo via the command line: - export the results to JSON; - bangs support - location setting |
 
 [](#tools-for-google)Tools for Google
-=====================================
+
 
 | Link | Description |
 | --- | --- |
@@ -1917,7 +1908,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#archives)Archives
-=====================
+
 
 | Link | Description |
 | --- | --- |
@@ -1976,7 +1967,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#archives-of-documentsnewspapers)Archives of documents/newspapers
-====================================================================
 
 | Link | Description |
 | --- | --- |
@@ -1998,7 +1988,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#science)Science
-=====================
+
 
 | Link | Description |
 | --- | --- |
@@ -2022,7 +2012,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 [](#datasets)Datasets
-=====================
+
 
 | Link | Description |
 | --- | --- |
@@ -2034,7 +2024,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [IPUMS Variable Search](https://variable-search.ipums.org/#/) | A service for finding variables in data from sociological surveys in 157 countries from 1960 to 2022. You can find completely rare and surprising things there, like a survey to count the number of bananaboat owners in Zambia. |
 
 [](#passwords)Passwords
-=======================
+
 
 | Link | Description |
 | --- | --- |
@@ -2050,7 +2040,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [CheckLeaked](https://checkleaked.cc/) | Check if an email, username or phone appears in a data breach, with the sources shown. Free searches, a developer API and Telegram/Discord bots |
 
 [](#ids) IDs
-=======================
+
 
 | Link | Description |
 | --- | --- |
@@ -2059,7 +2049,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#emails)Emails
-=================
+
 
 | Link | Description |
 | --- | --- |
@@ -2093,7 +2083,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#mbox) MBOX files
-=================
+
 
 | Link | Description |
 | --- | --- |
@@ -2103,7 +2093,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#nicknames)Nicknames
-=======================
+
 
 | Link | Description |
 | --- | --- |
@@ -2134,7 +2124,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 
 [](#phone-numbers)Phone numbers
-===============================
+
 
 | Link | Description |
 | --- | --- |
@@ -2148,7 +2138,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) | #python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses |
 
 [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
-=======================================================================================
+
 
 | Link | Description |
 | --- | --- |
@@ -2181,7 +2171,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#sock-puppets)Sock Puppets
-=============================
+
 
 | Link | Description |
 | --- | --- |
@@ -2217,7 +2207,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Generate Data](https://generatedata.com/generator) | Free tool for generating fake data. Useful for testing scripts and applications. The result can be downloaded in CSV, JSON, XML, SQL or JavaScript (PHP, TypeScript, Python) arrays. |
 
 [](#noosint-tools)NOOSINT tools
-===============================
+
 
 | Link | Description |
 | --- | --- |
@@ -2279,7 +2269,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [pyWhat](https://github.com/bee-san/pyWhat) | Python tool to help identify different text strings like wallet numbers, API keys, emails, and more. It is convenient for working with .pcap and other files and has many customization options. |
 
 [](#browser-analyze)Browser analyze
-===================================
+
 
 | Link | Description |
 | --- | --- |
@@ -2290,7 +2280,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Spoof Me](https://spoof-me.com/) | free Chrome/Firefox extension that shows which fingerprinting signals a site reads (canvas, WebGL, fonts, audio and more) and lets you switch your browser identity: user agent, language, timezone, screen size |
 
 [](#files)Files
-===============
+
 
 | Link | Description |
 | --- | --- |
@@ -2314,7 +2304,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Textise.net](https://www.textise.net/) | convert the HTML code of a page to TXT |
 
 [](#imei-and-serial-numbers)IMEI and serial numbers
-===================================================
 
 | Link | Description |
 | --- | --- |
@@ -2324,7 +2313,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [SNDeepInfo](https://sndeep.info/en) | Find information about devices (phones, smartphones, cameras, household appliances) by - IMEI; - MEID; - ICCID; - serial number; - Apple Part Number. |
 
 [](#nft)NFT
-===========
+
 
 | Link | Description |
 | --- | --- |
@@ -2333,7 +2322,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Fingble Nftport](https://fingible.nftport.xyz/) | One of the most accurate search engines for finding NFT by uploaded image. Works well with faces. Also it's possible to search by keyword or Token ID. |
 
 [](#keywords-trends-news-analytics)Keywords, trends, news analytics
-===================================================================
 
 | Link | Description |
 | --- | --- |
@@ -2348,7 +2336,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [KeyWordPeopleUse](https://keywordspeopleuse.com/) | Type in a keyword and see what questions mentioning it are being asked on Quora and Reddit. The service is also able to analyse Google Autocomplete and "People also ask" |
 
 [](#apps-and-programs)Apps and programs
-=======================================
+
 
 | Link | Description |
 | --- | --- |
@@ -2357,7 +2345,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#real-estate)Real estate
-=======================================
+
 
 | Link | Description |
 | --- | --- |
@@ -2365,7 +2353,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#company-information-search)Company information search
-=========================================================
 
 | Link | Description |
 | --- | --- |
@@ -2389,10 +2376,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Company Records](https://records.knowyourcustomer.com/) | Free anonymous company search across 149 jurisdictions. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19). |
 | [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
 | [ChineseCheck](https://chinesecheck.com) | Look up a Chinese company by English name, Chinese name or Unified Social Credit Code and read its registration record in English, free. Paid English reports add court enforcement, litigation, administrative penalty and tax credit records (from US$299). |
+| [UK Companies House (Apify)](https://apify.com/agentic_solutions/uk-companies-house) | Bulk search and export of UK companies from the official Companies House API, filtered by SIC code, incorporation date, status or location, with optional officers and PSCs. Needs an Apify account and a free Companies House API key. Paid per result on Apify. |
+
 
 [](#bank-information-search)Bank information search
-===================================================
-
 | Link | Description |
 | --- | --- |
 | [FDIC search](https://banks.data.fdic.gov/bankfind-suite/bankfind) | Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it |
@@ -2401,8 +2388,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Credit OSINT](https://github.com/krdsploit/Credit-OSINT) | A very simple #python tool to gather information about bank cards and validate them. |
 
 [](#brandtrademark-information-search)Brand/trademark information search
-========================================================================
-
 | Link | Description |
 | --- | --- |
 | [WIPO.int](https://www3.wipo.int/branddb/en/) | Global Brands Database (46,020,000 records) |
@@ -2410,8 +2395,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [TESS](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | Search engine for #USA trademarks |
 
 [](#tendershipment-information-search)Tender/shipment information search
-========================================================================
-
 | Link | Description |
 | --- | --- |
 | [TendersInfo](https://www.tendersinfo.com) | Search tenders around the world by keywords. |
@@ -2431,8 +2414,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#movies)Movies
-=================
-
 | Link | Description |
 | --- | --- |
 | [Reelgood.com](https://reelgood.com/) | search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus) |
@@ -2458,7 +2439,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [netflix-codes.com](http://netflix-codes.com) | alternative way to find anything interesting on Netflix |
 
 [](#tvradio)TV/Radio
-====================
 
 | Link | Description |
 | --- | --- |
@@ -2469,7 +2449,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [IPTV org](https://iptv-org.github.io/) | Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream). |
 
 [](#tools-collectionstoolkits)Tools collections/toolkits
-========================================================
 
 | Link | Description |
 | --- | --- |
@@ -2533,7 +2512,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 [](#databases-and-data-analyzes)Databases and data analyzes
-===========================================================
 
 | Link | Description |
 | --- | --- |
@@ -2545,7 +2523,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [OBSIDIAN CLI](https://github.com/Yakitrak/obsidian-cli) | Very simple #go tool that let to interact with the Obsidian using the terminal. Open, search, create and edit files. Can be combined with any other #cli #osint tools to automate your workflow. |
 
 [](#online-os-emulators)Online OS Emulators
-===========================================
 
 | Link | Description |
 | --- | --- |
@@ -2553,7 +2530,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Parrot Security OS Online Emulator](https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online) |     |
 
 [](#virtual-machineslinux-distributions)Virtual Machines/Linux distributions
-============================================================================
+
 
 | Link | Description |
 | --- | --- |
@@ -2578,7 +2555,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [AttifyOS](https://github.com/adi0x90/attifyos) | Linux distro for pentesting IoT devices. |
 
 [](#my-projects)My Projects
-===========================
+
 
 | Link | Description |
 | --- | --- |
