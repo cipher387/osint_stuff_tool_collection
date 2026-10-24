@@ -686,6 +686,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tiktok Scraper](https://github.com/sauermar/Tiktok-Scraper) | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. |
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
 | [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
+| [TTAnon](https://ttanon.com/) | view public TikTok profiles (ttanon.com/@username), videos, photo posts and hashtags without a TikTok account or login. Pages are server-rendered, so TikTok's scripts do not load in your browser; videos still play from TikTok's CDN, and the site uses Google Analytics and Cloudflare Web Analytics. Free |
 
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
 
@@ -900,6 +901,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Instagram Explorer](https://www.osintcombine.com/instagram-explorer) | Click on a point on the map. Follow the instructions on the left. Get a link to view Instagram posts made at this location on a specific date range |
 | [ViewIGStory](https://www.view-ig-story.com) | Anonymous Instagram story viewer and downloader for public profiles — no account, no login, no trace left in the target's viewer list. |
 | [IGDataHub](https://igdatahub.com/) | follower count history for the Instagram accounts it tracks (a reading about once a day, shown as a growth chart on each profile report), plus engagement rate and top posts per profile and weekly follower-growth rankings. Free to view without login; the full per-reading CSV is paid |
+| [PicMany](https://picmany.com/) | view public Instagram profiles (picmany.com/username), posts, reels, stories and story highlights without an Instagram account or login. Photos and profile pictures are fetched by the site's server; videos, stories and highlights load from Instagram's CDN in your browser, and the site uses Google Analytics and Cloudflare Web Analytics. Free |
 
 ### [](#google)Google
 
