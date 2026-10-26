@@ -2098,6 +2098,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
 | [InfoStealers](https://infostealers.info/en/info) | Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals. |
 | [uChecker](https://uchecker.net/tools) | Bulk email list verification plus 13 free DNS tools (SPF, DKIM, DMARC, BIMI generators and checkers) without registration. |
+| [Opsis](https://useopsis.com/) | Enter an email address, username or domain and get a list of accounts linked to it, checked across 1000+ source modules. Free account with 3 searches a month, paid plans from $14.99/mo. |
 
 
 
