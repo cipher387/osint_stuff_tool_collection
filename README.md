@@ -2388,6 +2388,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Fylings](https://www.fylings.com) | Search and verify companies across 18+ official African national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record |
 | [Company Records](https://records.knowyourcustomer.com/) | Free anonymous company search across 149 jurisdictions. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19). |
 | [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
+| [UK Companies House (Apify)](https://apify.com/agentic_solutions/uk-companies-house) | Bulk search and export of UK companies from the official Companies House API, filtered by SIC code, incorporation date, status or location, with optional officers and PSCs. Needs an Apify account and a free Companies House API key. Paid per result on Apify. |
 
 [](#bank-information-search)Bank information search
 ===================================================
