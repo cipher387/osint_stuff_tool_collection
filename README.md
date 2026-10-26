@@ -1320,6 +1320,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Visual Site Mapper](https://visualsitemapper.com/) | A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number. |
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
 | [WebToolBench HTTP Header Checker](https://www.webtoolbench.com/http-header-checker) | free online check of any site's HTTP response headers. Shows HSTS, CSP, X-Frame-Options and other security headers, plus server details and response time |
+| [CurlShot](https://curlshot.com/) | Online tool and API that captures a full-page screenshot of any URL as PNG, JPEG, WebP, PDF or scrolling video, with desktop/mobile device presets and optional cookie banner and ad hiding. Useful for saving a snapshot of a website as evidence. Free plan: 100 captures/month. |
 
 
 ### [](#favicon-search)Favicon search
@@ -1398,6 +1399,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [pureip.app](https://pureip.app/) | Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, plus per-provider availability checks for ChatGPT, Claude and Gemini across cloud vendors. No signup required. |
 | [cl0q](https://cl0q.com) | Open search engine for domain research & OSINT â 44.1M domains indexed, free API tier. |
 | [Pharos Email Domain Health](https://pharos.email/tools/domain-health) | Checks SPF, DKIM, DMARC, BIMI, MX and forward-confirmed reverse DNS for a domain in one pass. Free, no signup |
+| [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) | Enter a brand domain to see which lookalike names (brand plus words like login or pay, and .shop variants) are already registered and resolving. Free, no signup |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
@@ -1634,6 +1636,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Plate Recognizer](https://platerecognizer.com/) | Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. |
 | [Street clip](https://www.plugger.ai/models/street-clip) | AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photoâ ï¸) |
 | [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
+| [GeoInfer](https://geoinfer.com/) | AI that predicts where a photo was taken from its visual content (landmarks, architecture, terrain), no EXIF needed. Free daily trial and API. |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
@@ -1692,6 +1695,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [A TON of Privacy](https://github.com/aaarghhh/a_TON_of_privacy) | Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain. |
 | [Wallet Labels](https://www.walletlabels.xyz/) | Search across more than 7.5M #Ethereum addresses labeled to easily identify wallets and exchange |
 |[SpyderLab AML](https://spyderlab.org) | Spyderlab.org offers blockchain forensics, crypto AML solutions, and OSINT tools for comprehensive investigative analysis.
+| [Iris](https://iriscan.app/) | Paste a wallet, token or transaction to see who funded it, its counterparties and where its money went, with a cited source for each label (640,000+ known addresses). Traces through privacy pools, bridges and instant swaps. Solana, Ethereum, Base, Arbitrum, BNB Chain, Bitcoin, Tron and more. First 10 checks free, no account. |
 
 
 [](#code)Code
@@ -1699,6 +1703,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Related Repos](https://relatedrepos.com/) | Discover related open source projects. Find alternatives and other similar repositories. Updated daily. |
 | [Grep.app](https://grep.app/) | regExp search in Github repositories |
 | [Searchcode.com](https://searchcode.com/) | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages |
 | [Code Repository Google CSE](https://cipher387.github.io/code_repository_google_custom_search_engines/) | Google CSE for search 15 code repository services |
@@ -1770,6 +1775,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PacketTotal](https://packettotal.com/app/search) | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. |
 | [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
 | [Yeggi](https://www.yeggi.com/) | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
+| [PrintWhat](https://printwhat.app/search) | free search engine for 3D-printable and CAD models across 39 public sources (printable model libraries, engineering part catalogs, scan collections). No account required; results link to the original source page. |
 | [Memegine](https://memegine.com/) | A search engine to find memes. Helps you find rare and obscure memes when Google fails. |
 | [ChatBottle](https://chatbottle.co/bots/) | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
 | [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
@@ -2389,6 +2395,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Fylings](https://www.fylings.com) | Search and verify companies across 18+ official African national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record |
 | [Company Records](https://records.knowyourcustomer.com/) | Free anonymous company search across 149 jurisdictions. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19). |
 | [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
+| [UK Companies House (Apify)](https://apify.com/agentic_solutions/uk-companies-house) | Bulk search and export of UK companies from the official Companies House API, filtered by SIC code, incorporation date, status or location, with optional officers and PSCs. Needs an Apify account and a free Companies House API key. Paid per result on Apify. |
 
 [](#bank-information-search)Bank information search
 ===================================================
