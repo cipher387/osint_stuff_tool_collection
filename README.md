@@ -1659,6 +1659,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [EXIF Reader](https://www.wtoolskit.com/en/exif-reader) | extract EXIF metadata (GPS coordinates, camera model, timestamps) from photos in the browser â images are analyzed locally and never uploaded |
 | [Narqo Photo Metadata](https://narqo.com/tools/photo-metadata) | View, edit or remove EXIF, GPS and camera data of a photo. Runs in the browser, nothing is uploaded, no account |
 | [CreatorPrivacyKit](https://creatorprivacykit.com) | Open-source (MIT) browser tools to view and remove EXIF/GPS/XMP/C2PA metadata from photos, videos and PDFs locally, no upload; image-by-URL fetch and AI-image verify use its server API ([repo](https://github.com/ggggghhhhyyyy/creatorprivacykit-public)) |
+| [Metadata Remover AI (metadataremoverai.com)](https://metadataremoverai.com/exif-viewer) | View and strip EXIF, GPS, XMP, IPTC and C2PA metadata in JPEG, PNG, WebP, HEIC, AVIF, TIFF, MP4 and MOV in the browser without re-encoding; nothing is uploaded, no account. Open-source engine (MIT, [repo](https://github.com/fazal-bhinder/lossless-metadata)) |
 
 ### [](#face-recognition-and-search)Face recognition and search
 
