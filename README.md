@@ -1608,6 +1608,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Watermarkremover](https://www.watermarkremover.io/) | Remove watermark from image with AI |
 | [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) | Image editing with prompt|
 | [BulkPicTools](https://bulkpictools.com) | Free browser-based bulk image toolkit with local AI. Batch face blur (WebGPU/WASM, no upload), EXIF data removal, background removal, format conversion, and image compression — all processed locally on your device. Files never leave your browser. No account required, works offline. |
+| [Image Upscaler (Apify)](https://apify.com/plainrecordlabs/image-upscaler) | Upscales photos 2x, 3x or 4x with Real-ESRGAN running on CPU. Paid on Apify per image and per output megapixel. |
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
