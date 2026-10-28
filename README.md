@@ -263,6 +263,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [World Aviation Accident Database 2008-2021](https://data.ntsb.gov/carol-main-public/basic-search) |     |
 | [Rzjets.net](http://rzjets.net/aircraft/) | user updated online database (census) of civilian jet and turbojet aircraft |
 | [Globe.adsbexchange.com](https://globe.adsb.fi/) | tracking flights on a map |
+| [Velocity](https://github.com/AndrewCTF/velocity) | self-hosted map of live aircraft (ADS-B) and ships (AIS) from public feeds that records every position to your own disk, so you can rewind what was flying or sailing near a place and time. Free, open source, no API keys |
 | [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) |
 | [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | An extension that displays the size of the legroom between the seats next to the flight information. |
 | [Flight Status Info](https://flight-status.info/) | - get a list of airports by city name; - view the flight schedule of a particular airport; - view the flight schedule of a particular airline; - getting detailed information about a flight and more  |
