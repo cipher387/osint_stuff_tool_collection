@@ -1240,6 +1240,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [APK Url Grep](https://github.com/ndelphit/apkurlgrep) | A tool for extracting URLs from Android apps, which can help identify domains and subdomains associated with an organization. |
+| [Free Online APK Analyzer](https://sisik.eu/apk-tool) | Upload an Android APK to inspect its requested permissions, activities, content providers, broadcast receivers, services, and other details. |
 
 
 ### [](#wordlists-generators)Wordlists generators
