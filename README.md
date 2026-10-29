@@ -1233,7 +1233,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Backup Files Finder](https://github.com/valaDevs/nuclei-backupfile-finder) | A Nuclei vulnerability scanner template for searching for backup files on a target site. |
 | [PyHTools](https://github.com/dmdhrumilmistry/pyhtools) | A Python toolkit with various cybersecurity utilities, including network and web security scanning features. |
 | [DORKI](http://dorki.io) | A partially free online tool for collecting search results from multiple search engines and exporting them to JSON or TXT. |
-
+| [Dork King](https://dorkking.blindf.com) | Enter your target domain and get quick links to find pages with SQL Errors, backup files, backdoors, open redirects, log files and more. |
 
 
 
