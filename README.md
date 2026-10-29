@@ -1817,7 +1817,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DensePhrase](http://densephrases.korea.ac.kr/) | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. |
 | [WhiteIntel](https://whiteintel.io/) | A dark-web based search engine for detecting data breaches from malicious malware networks. |
 | [metaphor systems](https://metaphor.systems/) | A search engine with a new and unusual search method. This AI "trained to predict the next *link* (similar to the way GPT-3 predicts the next *word*)". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link. |
-
+| [Hackyx](https://hackyx.io) | A cybersecurity search engine indexing CTF write-ups and bug bounty reports. |
 
 ### [](#open-directories-search)Open directories search engines
 | Link | Description |
