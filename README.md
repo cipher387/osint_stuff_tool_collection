@@ -2270,7 +2270,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Name Variant Search](https://bellingcat.github.io/name-variant-search/#gsc.tab=0) | Type in a name and get a list of possible spelling options (+ quick links to Google, DuckDuckGo and Facebook searches for each option) |
 | [LEAKEY](https://github.com/rohsec/LEAKEY/) | #bash script which checks and validates for leaked credentials (45 types). |
 | [OSINT.SX](https://osint.sx/) | (PAID) Enter an email, phone number, username or full name and check hundreds of sites at once for registered accounts, with the names, photos and other details each site shows. Also has an API. Credits from $10, card or crypto, no subscription. |
-
+| [LittleSis](http://littlesis.org) | A free database mapping connections between public figures and organizations, with 10,930,620 citations, 1,798,375 relationships, 295,011 people, and 130,615 organizations. |
 
 [](#sock-puppets)Sock Puppets
 =============================
