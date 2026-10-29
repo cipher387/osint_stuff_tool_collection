@@ -669,6 +669,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Return YouTube Comment Username](https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj) | YouTube has recently stopped showing user names in comments. There is an extension that solves this problem. |
 | [YouTube Lookup](https://youtube-lookup.vercel.app/) | A simple online tool to view YouTube video metadata: Snippet Statistics Status Content Geolocation Thumbnails |
 | [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
+| [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
+
+
+
 
 ### [](#tiktok)TikTok
 ,
