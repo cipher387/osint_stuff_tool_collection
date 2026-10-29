@@ -253,6 +253,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c).](https://macrostrat.org/) | Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c). |
 | [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
 | [Gaisma](https://www.gaisma.com/en/) | A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler. |
+| [My Ocean Pro](https://data.marine.copernicus.eu/viewer/expert) | An online map tool for exploring seas and oceans, with more than 277 datasets, including temperature, salinity, wave height, sea ice, acidity, and oxygen concentration. |
+
+
 
 ### [](#aviation)Aviation
 
