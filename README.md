@@ -2416,6 +2416,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Barcode lookup](https://www.barcodelookup.com/) |     |
 | [Panjiva.com](https://panjiva.com/) | search data on millions of shipments worldwide |
 | [en.52wmb.com](https://en.52wmb.com) | Search information about worldwide buyers and suppliers by product name, company name or HS code. |
+| [Barcodepedia](https://barcodepedia.com/) | Free product encyclopedia by barcode: brand owner, licensee and GS1 registrant behind a product, every fact cited |
 
 ### [](#amazon)Amazon
 
