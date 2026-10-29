@@ -162,6 +162,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Tools for working with web archives](#tools-for-working-with-web-archives)
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
+- [Factchecking](#factchecking)
 - [Datasets](#datasets)
 - [Science](#science)
 - [Passwords](#passwords)
@@ -2028,6 +2029,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
 | [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 
+[](#factchecking)Factchecking
+=====================
+
+| Link | Description |
+| --- | --- |
+| [FEAT (Factcheck Explorer Analysis Tool)](https://feat.onrender.com) | Analyzes information across a wide variety of queries, including tag/source volume, claim timelines, fact-check details, and statistics. |
 
 [](#science)Science
 =====================
