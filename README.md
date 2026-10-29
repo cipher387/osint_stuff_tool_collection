@@ -1216,6 +1216,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GRIMZ](https://grimz.no-do.dev/) | (PAID) Armitage-style attack console for Linux: nmap, a live host map and ranked exploit suggestions with CVE and Metasploit in one window. 7-day free trial, then from 19.99 EUR/month. For authorized testing only. |
 | [InfoHound](https://github.com/Fundacio-i2CAT/InfoHound) | Given a domain name it gathers a lot of information: emails, people, usernames, subdomains, registered services and more. All done by using passive analysis where also dorks have an important role. I have recently added a feature where you can export all the collected data to graphml so it can be visualized with yED or Gephi. |
 | [Backup Files Finder](https://github.com/valaDevs/nuclei-backupfile-finder) | A Nuclei vulnerability scanner template for searching for backup files on a target site. |
+| [Hurricane Electric BGP Toolkit](https://bgp.he.net) | Searches for IPs, domains, and ASNs associated with specific companies by company name. |
+
+
+
+
+
 
 ### [](#wordlists-generators)Wordlists generators
 
