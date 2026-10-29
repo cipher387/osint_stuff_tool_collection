@@ -683,7 +683,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
 | [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
 | [Return YouTube Comment Username](https://github.com/yakisova41/return-youtube-comment-username) | A browser extension that displays the full names of channels commenting on YouTube, restoring a feature that was available a few years ago. |
-
+| [YouTube Comments Search](http://youtube-comments.io) | Paste a YouTube video link to search its comments by keyword and sort them by likes, replies, or date. |
 
 
 ### [](#tiktok)TikTok
