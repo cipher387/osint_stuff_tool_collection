@@ -1803,6 +1803,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [EyeDex](https://www.eyedex.org/) | Open directory search engine: 1.3 PB, 21,178,766 files, 5,229,942 directories, 161 servers |
+| [Open Directory Finder](http://ewasion.github.io/opendirectory-finder/) | Generates queries for different search engines, including Google, StartPage, and FilePursuit, to find direct download links to files such as movies, books, videos, and images. |
 
 ### [](#universal-search-tools)Universal search tools
 
