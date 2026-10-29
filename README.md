@@ -1368,7 +1368,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Extractify](https://github.com/SharokhAtaie/extractify) | A very fast and simple Go tool that extracts URLs, parameters, and endpoints from a URL, a list of URLs, or a local file. |
 | [FindeMail](https://findemail.io) | A partially free service for searching email addresses by company domain, with standard, leaks, and logs search options. |
 | [Content Security Policy Evaluator](https://csp-evaluator.withgoogle.com) | Enter website URLs to check whether their Content Security Policy (CSP) may be vulnerable to cross-site scripting (XSS) attacks. |
-
+| [URLDNA](https://urldna.io) | A free online tool for gathering information about a URL, including screenshots, SSL certificates, IP addresses, page text, cookies, technologies, HTTP requests, headers, console messages, and metadata. |
 
 ### [](#favicon-search)Favicon search
 
