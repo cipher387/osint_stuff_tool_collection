@@ -1892,6 +1892,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
 | [TorMap](https://tormap.org/) | Search for thousands of Tor network relays |
 | [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
+| [ExoneraTor](https://metrics.torproject.org/exonerator.html) | An online tool for checking whether an IP address was used as a Tor relay on a particular date. |
+
+
+
+
 
 ### [](#public-buckets-search-tools)Public buckets search tools
 
