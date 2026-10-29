@@ -1449,7 +1449,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) | Enter a brand domain to see which lookalike names (brand plus words like login or pay, and .shop variants) are already registered and resolving. Free, no signup |
 | [Hurricane Electric BGP Toolkit](https://bgp.he.net) | Searches for IPs, domains, and ASNs associated with specific companies by company name. |
 | [SquatSquasher](https://github.com/Stuub/SquatSquasher) | A tool for identifying lookalike domains that could be used in typosquatting or phishing. Useful for defensive monitoring of domains you own or are authorized to assess. |
-
+| [BigDomainData Reverse WHOIS Database](http://bigdomaindata.com/reverse-whois/) | A reverse WHOIS database with over 265 million current domain records and over 561 million historical records. Search across more than 50 WHOIS fields, including creation date and registrant name. |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
