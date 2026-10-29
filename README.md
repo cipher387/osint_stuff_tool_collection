@@ -2571,6 +2571,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [LiveATC](https://www.liveatc.net/) | Archive of audio recordings between pilots and dispatchers. Useful for investigating incidents and for foreign language comprehension skills (if you learn to understand pilots' conversations, you will be able to understand everything). |
 | [Wideband shortware radio receiver map](http://rx.linkfanel.net/) | Online map of shortwave radio receivers available for listening in your browser at the moment. |
 | [IPTV org](https://iptv-org.github.io/) | Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream). |
+| [TV News Archive](http://archive.org/details/tv) | An archive of 2,976,000 videos dating back to 2009, searchable by keywords in captions, with fact-checks and special collections. |
+
+
+
 
 [](#tools-collectionstoolkits)Tools collections/toolkits
 ========================================================
