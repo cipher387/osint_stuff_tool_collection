@@ -1235,8 +1235,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DORKI](http://dorki.io) | A partially free online tool for collecting search results from multiple search engines and exporting them to JSON or TXT. |
 | [Dork King](https://dorkking.blindf.com) | Enter your target domain and get quick links to find pages with SQL Errors, backup files, backdoors, open redirects, log files and more. |
 
-
-
 ### [](#apk-analysis)APK analysis
 
 | Link | Description |
@@ -1367,6 +1365,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FindeMail](https://findemail.io) | A partially free service for searching email addresses by company domain, with standard, leaks, and logs search options. |
 | [Content Security Policy Evaluator](https://csp-evaluator.withgoogle.com) | Enter website URLs to check whether their Content Security Policy (CSP) may be vulnerable to cross-site scripting (XSS) attacks. |
 | [URLDNA](https://urldna.io) | A free online tool for gathering information about a URL, including screenshots, SSL certificates, IP addresses, page text, cookies, technologies, HTTP requests, headers, console messages, and metadata. |
+| [DPulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) | A Python tool that gathers domain information and generates PDF or XLSX reports covering WHOIS, social media links, subdomains, DNS, SSL certificates, internet database results, and website technologies. |
+
+
+
 
 ### [](#favicon-search)Favicon search
 
