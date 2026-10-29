@@ -1655,6 +1655,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
 | [CopySeeker](https://copyseeker.net/discovery) | A reverse image search tool that looks for exact copies of an image and may help identify when it first appeared online. |
 | [Search by Image](https://github.com/dessant/search-by-image) | A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines. |
+| [Archivarix Retrace](https://retrace.archivarix.net/) | Reverse image search that traces where a picture came from: earlier copies on the open web, the date it first appeared, text and landmarks in the frame and the place on a map when it can be named. Every claim links to its source. Free without an account. |
 
 ### [](#image-editing-tools)Image editing tools
 
