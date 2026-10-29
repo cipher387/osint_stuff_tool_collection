@@ -2163,6 +2163,9 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [PhoneNumber OSINT](https://github.com/spider863644/PhoneNumber-OSINT) | Simple tool for gathering basic information about phone numbers (country code, timezone, provider) |
 | [Phunter](https://github.com/N0rz3/Phunter) | Phone number #osint command line #python tool. Gather different info: operator, possible(s) location(s), line type, reputation, various scraped information, spammer or not, connect to amazon or not |
 | [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) | #python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses |
+| [Phone Variant Search](https://no-nonsense-intel.com/phone-variant-search) | Generates search queries for multiple variations of a single phone number, with quick links to Google, Bing, Baidu, and Yandex search. |
+
+
 
 [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
 
