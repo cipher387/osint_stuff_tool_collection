@@ -551,7 +551,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Collection of cadastral maps](https://cipher387.github.io/collection_of_cadastral_maps/) | 41 countries |
 | [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) | Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). |
 | [European World Translator](https://ukdataexplorer.com/european-translator/) | Enter the word in English to see its translation into different European languages on the map. |
-
+| [Apple Maps Online](http://beta.maps.apple.com) | Apple Maps is available on the web. It can provide additional information about places, including Getty Images photos and Wikipedia content for some locations. |
 
 [](#social-media)Social Media
 =============================
