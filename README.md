@@ -417,7 +417,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Bellingcat OSM Search](https://osm-search.bellingcat.com/) | A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description. |
 | [Smappen](https://www.smappen.com/app/) | Online tool to calculate the distance a person can travel from a given point in a given time (on foot, by car, by bicycle, by train, by truck). |
 | [Search Grid Generator](https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/bellingcat/search-grid-generator.ipynb) | An online tool that generates a KML grid from geographic coordinates for use in Google Earth Pro to explore satellite imagery and other information about an area. |
-
+| [Atlas](http://app.atlas.co) | A free online tool for visualizing geospatial data. Add datasets from downloaded files or Atlas Data Hub, place drawings, photos, and diagrams on the map, and analyze mapped data, such as counting objects by type. |
 
 
 
