@@ -624,7 +624,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Machine ](https://github.com/0xcyberpj/tweet-machine) | Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine. |
 | [twtData X Trends Archive](https://twtdata.com/twitter-trends/) | free archive of X (Twitter) trending topics by day for each country and many cities, with older/newer day navigation; recent days also show best position and hours on the list. Follower export and the bot audit are paid |
 | [Twitter Tools](http://twitter.lolarchiver.com) | A partly free tool for viewing the username, display-name, and bio history of Twitter users. Results may be incomplete or inaccurate. |
-
+| [Deleted Tweet Finder V1.7](https://cache.digitaldigging.org) | A tool that searches sources such as Google Cache, the Wayback Machine, Archive.is, Ghost Archive, and UserSearch for archived copies of deleted tweets. |
 
 
 ### [](#youtube)YouTube
