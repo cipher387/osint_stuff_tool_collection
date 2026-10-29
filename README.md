@@ -1439,6 +1439,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Pharos Email Domain Health](https://pharos.email/tools/domain-health) | Checks SPF, DKIM, DMARC, BIMI, MX and forward-confirmed reverse DNS for a domain in one pass. Free, no signup |
 | [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) | Enter a brand domain to see which lookalike names (brand plus words like login or pay, and .shop variants) are already registered and resolving. Free, no signup |
 | [Hurricane Electric BGP Toolkit](https://bgp.he.net) | Searches for IPs, domains, and ASNs associated with specific companies by company name. |
+| [SquatSquasher](https://github.com/Stuub/SquatSquasher) | A tool for identifying lookalike domains that could be used in typosquatting or phishing. Useful for defensive monitoring of domains you own or are authorized to assess. |
+
+
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
 
