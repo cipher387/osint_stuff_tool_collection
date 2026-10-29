@@ -1357,6 +1357,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SiteData](https://sitedata.dev) | Web-based investigation tool for domains, AdSense Publisher IDs, and Google Ads advertisers. It can reveal connected websites, traffic signals, SEO keywords, WHOIS/domain data, advertiser activity, and monetization relationships. |
 | [Extractify](https://github.com/SharokhAtaie/extractify) | A very fast and simple Go tool that extracts URLs, parameters, and endpoints from a URL, a list of URLs, or a local file. |
 | [FindeMail](https://findemail.io) | A partially free service for searching email addresses by company domain, with standard, leaks, and logs search options. |
+| [Content Security Policy Evaluator](https://csp-evaluator.withgoogle.com) | Enter website URLs to check whether their Content Security Policy (CSP) may be vulnerable to cross-site scripting (XSS) attacks. |
+
 
 ### [](#favicon-search)Favicon search
 
