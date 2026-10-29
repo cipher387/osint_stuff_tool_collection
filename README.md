@@ -2042,6 +2042,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [FEAT (Factcheck Explorer Analysis Tool)](https://feat.onrender.com) | Analyzes information across a wide variety of queries, including tag/source volume, claim timelines, fact-check details, and statistics. |
+| [Google Fact Check Explorer](https://toolbox.google.com/factcheck/) | Upload an image or paste its link to check which articles it was used in and how factually accurate those articles are. |
+
+
+
 
 [](#science)Science
 =====================
