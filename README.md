@@ -1346,7 +1346,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CurlShot](https://curlshot.com/) | Online tool and API that captures a full-page screenshot of any URL as PNG, JPEG, WebP, PDF or scrolling video, with desktop/mobile device presets and optional cookie banner and ad hiding. Useful for saving a snapshot of a website as evidence. Free plan: 100 captures/month. |
 | [SiteData](https://sitedata.dev) | Web-based investigation tool for domains, AdSense Publisher IDs, and Google Ads advertisers. It can reveal connected websites, traffic signals, SEO keywords, WHOIS/domain data, advertiser activity, and monetization relationships. |
 | [Extractify](https://github.com/SharokhAtaie/extractify) | A very fast and simple Go tool that extracts URLs, parameters, and endpoints from a URL, a list of URLs, or a local file. |
-
+| [FindeMail](https://findemail.io) | A partially free service for searching email addresses by company domain, with standard, leaks, and logs search options. |
 
 
 
