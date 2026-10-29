@@ -13,7 +13,7 @@ Hello! On my Twitter account [@cyb_detective](https://linktr.ee/cyb_detective) I
 
 Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
-![Consensus OSINT](https://raw.githubusercontent.com/OSINT-Experts-Society/Consensus-OSINT/main/consensus_osint/templates/consensus-home-redacted.png)
+![Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT)
 
 If you need to gather information as quickly as possible using a username, email address or phone number, try starting with Consensus. This command-line tool includes over 7,900 lookup modules from 19 open-source projects.
 
