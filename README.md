@@ -115,7 +115,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Slack](#slack)
     - [Skype](#skype)
 - [Domain/IP/Links](#domainiplinks)
-    - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
+    - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)]
+    - [APK analysis](#apk-analysis)
     - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
     - [Wordlists generators](#wordlists-generators)
     - [Redirect lookup](#redirect-lookup)
@@ -1227,6 +1228,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DORKI](http://dorki.io) | A partially free online tool for collecting search results from multiple search engines and exporting them to JSON or TXT. |
 
 
+
+
+### [](#apk-analysis)APK analysis
+
+| Link | Description |
+| --- | --- |
+| [APK Url Grep](https://github.com/ndelphit/apkurlgrep) | A tool for extracting URLs from Android apps, which can help identify domains and subdomains associated with an organization. |
 
 
 ### [](#wordlists-generators)Wordlists generators
