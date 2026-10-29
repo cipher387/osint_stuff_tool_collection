@@ -1140,7 +1140,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
 | [@YTranslateBot](https://t.me/YTranslateBot) | type text or resend messages to Telegram bot for translate it. |
 | [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
-
+| [TOSINT (Telegram OSINT)](https://github.com/drego85/tosint) | A tool for collecting and organizing information from Telegram bots and channels. |
 
 
 ### [](#whatsapp)WhatsApp
