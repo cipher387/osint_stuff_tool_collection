@@ -808,6 +808,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitch Database](https://www.twitchdatabase.com/following) | Following List + Channel Metadata + Role Lookup |
 | [Twitch Insights](https://twitchinsights.net/) | Account stats; Game ranking; Extensions stats; List of all Twitch bot; Check user status by nickname or ID; List of Twitch team (history before 2020) |
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage) | Enter the Twitch username and get a complete list of channels he/she follows (with start dates) |
+| [BadgeBase](https://badgebase.co/) | Complete database of global badges and emotes of Twitch chat. Updates automatically and sends notifications when new items appear. |
+
+
+
 
 ### [](#fidonet)Fidonet
 
