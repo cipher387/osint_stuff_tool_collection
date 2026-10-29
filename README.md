@@ -1324,6 +1324,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WEBPALM](https://github.com/Malwarize/webpalm) | Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex. |
 | [WebToolBench HTTP Header Checker](https://www.webtoolbench.com/http-header-checker) | free online check of any site's HTTP response headers. Shows HSTS, CSP, X-Frame-Options and other security headers, plus server details and response time |
 | [CurlShot](https://curlshot.com/) | Online tool and API that captures a full-page screenshot of any URL as PNG, JPEG, WebP, PDF or scrolling video, with desktop/mobile device presets and optional cookie banner and ad hiding. Useful for saving a snapshot of a website as evidence. Free plan: 100 captures/month. |
+| [SiteData](https://sitedata.dev) | Web-based investigation tool for domains, AdSense Publisher IDs, and Google Ads advertisers. It can reveal connected websites, traffic signals, SEO keywords, WHOIS/domain data, advertiser activity, and monetization relationships. |
+
+
+
 
 
 ### [](#favicon-search)Favicon search
