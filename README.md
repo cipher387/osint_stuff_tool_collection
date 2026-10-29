@@ -1836,6 +1836,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Startpage Parser](https://github.com/knassar702/startpage-parser) | Startpage.com search engine produces similar (but not identical) results to Google's, but is much less likely to get banned. This #python tool allows to scrape big amounts of results without using proxies. |
 | [BigSearch](https://github.com/garywill/BigSearch) | Google Chrome and Firefox addon  for quick access to dozens of online search tools: general search engines, video hosts, programming forums, translators and much more. |
 | [AI Search Whisper](https://google.digitaldigging.org/index2.html) | Enter your problem and get a list of links to Google and Bing queries (using advanced search operators) that will help you solve it. |
+| [Adverse Media Search](https://no-nonsense-intel.com/adverse-media-search-tool) | Select a type of person and one or more information categories, and the service generates a search query with relevant keywords. |
+
+
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
 
