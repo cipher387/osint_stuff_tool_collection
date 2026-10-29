@@ -1289,9 +1289,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GoGetCrawl](https://github.com/karust/gogetcrawl) | Search and download archived web pages and files from Common Crawl and Wayback Machine. |
 | [ASSAY](https://d09r.github.io/assay-url-inspection-tools/) | URL inspection toolkit: live web requests monitor, subdomains/connected domains, scam, phishing, malware detection, WHOIS, Geo IP, SafeFrame view and more. |
 | [Monolith](https://github.com/Y2Z/monolith) | A Rust tool for saving a web page along with its associated JavaScript, CSS, images, and other files. |
-
-
-
+| [LucidRows](https://chromewebstore.google.com/detail/lucidrows/leehomocpccgghcibfnapadclololioh?utm_source=github&utm_medium=directory&utm_campaign=osint_stuff_tool_collection) | Free #GoogleChrome extension for lists and tables: click one item and it collects every matching row, even across pages (follows Next links on the same site, up to 50 pages), then exports to CSV, Excel (.xlsx) or JSON. No code, no account, runs locally in the browser. |
 
 ### [](#redirect-lookup)Redirect lookup
 
