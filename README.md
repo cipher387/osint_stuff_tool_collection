@@ -671,7 +671,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Lookup](https://youtube-lookup.vercel.app/) | A simple online tool to view YouTube video metadata: Snippet Statistics Status Content Geolocation Thumbnails |
 | [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
 | [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
-
+| [Return YouTube Comment Username](https://github.com/yakisova41/return-youtube-comment-username) | A browser extension that displays the full names of channels commenting on YouTube, restoring a feature that was available a few years ago. |
 
 
 
