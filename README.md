@@ -339,6 +339,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 | [Lanes](https://lanes.news/) | Compares how each side's press, and third-country press, report the same events in eight conflicts, and labels claims as corroborated, disputed or single-source. Free, no account. |
 | [IRWatch](https://irwatch.org) | Free live Iran conflict intelligence dashboard with real-time OSINT feed, AI categorization, military mapping, and Hormuz strait monitoring. | 
+| [Insider Express (Canada)](https://insiderexpress.ca) | Canadian public filings cross-linked by person and company: SEDI insider trades, MP and senator disclosed holdings, federal lobbying, political donations, and federal contracts and grants (free to read, a free account is required after a few pages) |
 
 ### [](#culture)Culture
 
