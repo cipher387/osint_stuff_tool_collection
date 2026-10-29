@@ -491,6 +491,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Earthviewer360.com](http://earthviewer360.com) | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) |
 | [Maps Video](https://maps.video/) | Google street view alternative. Online YouTube video driving map for different routes. Worldwide, but most videos in the USA and Europe. |
 | [Panoramax](http://panoramax.openstreetmap.fr) | A Google Street View alternative based on OpenStreetMap. |
+| [EarthKit Agent](http://agent.earthkit.app) | A tool for identifying locations by combining GeoClip results with Google Lens analysis, then comparing the findings and displaying the result in Google Street View. |
 
 ### [](#satelliteaerial-imagery)Satellite/aerial imagery
 
