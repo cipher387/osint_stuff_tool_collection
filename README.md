@@ -1725,6 +1725,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
 | [Search4faces.com](https://search4faces.com/) | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit |
 | [Telegram Facemath bot](https://t.me/facematch_bot) | searching for a face among the archive of photographs from public events in Kazakhstan |
+| [Faceagle](https://faceagle.com) | A face-search service that claims to compare an uploaded photo against a database of 4,190,655 face images.|
 
 ### [](#font-indenfication)Font Indenfication
 
