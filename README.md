@@ -1764,6 +1764,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Wallet Labels](https://www.walletlabels.xyz/) | Search across more than 7.5M #Ethereum addresses labeled to easily identify wallets and exchange |
 |[SpyderLab AML](https://spyderlab.org) | Spyderlab.org offers blockchain forensics, crypto AML solutions, and OSINT tools for comprehensive investigative analysis.
 | [Iris](https://iriscan.app/) | Paste a wallet, token or transaction to see who funded it, its counterparties and where its money went, with a cited source for each label (640,000+ known addresses). Traces through privacy pools, bridges and instant swaps. Solana, Ethereum, Base, Arbitrum, BNB Chain, Bitcoin, Tron and more. First 10 checks free, no account. |
+| [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) | Paste a wallet or token address, a link or a message to check it for scam signals: addresses flagged for theft or phishing, honeypot tokens, phishing and drainer sites. Free, no sign-up, English and Spanish |
 
 
 [](#code)Code
