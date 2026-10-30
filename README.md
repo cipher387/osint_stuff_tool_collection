@@ -1289,6 +1289,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GoGetCrawl](https://github.com/karust/gogetcrawl) | Search and download archived web pages and files from Common Crawl and Wayback Machine. |
 | [ASSAY](https://d09r.github.io/assay-url-inspection-tools/) | URL inspection toolkit: live web requests monitor, subdomains/connected domains, scam, phishing, malware detection, WHOIS, Geo IP, SafeFrame view and more. |
 | [Monolith](https://github.com/Y2Z/monolith) | A Rust tool for saving a web page along with its associated JavaScript, CSS, images, and other files. |
+| [Free Proxy List](https://github.com/proxifly/free-proxy-list) | Free HTTP, SOCKS4 and SOCKS5 proxies, tested and refreshed every 5 minutes, as plain text, CSV and JSON files split by country and protocol. Handy for rotating a scraper across IPs when a site rate-limits one |
 
 
 
