@@ -214,6 +214,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
 | [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
 | [Pastvu.com](https://pastvu.com/) | View historical photos taken at a particular location on a map. |
+| [Oceanir](https://oceanir.ai/) | Estimates where a photo was taken from visual clues when GPS metadata is unavailable. Results are estimates that require verification. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
 | [WikiShootMe](https://wikishootme.toolforge.org/) | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
 | [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
