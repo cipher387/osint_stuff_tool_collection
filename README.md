@@ -1456,6 +1456,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Hurricane Electric BGP Toolkit](https://bgp.he.net) | Searches for IPs, domains, and ASNs associated with specific companies by company name. |
 | [SquatSquasher](https://github.com/Stuub/SquatSquasher) | A tool for identifying lookalike domains that could be used in typosquatting or phishing. Useful for defensive monitoring of domains you own or are authorized to assess. |
 | [BigDomainData Reverse WHOIS Database](http://bigdomaindata.com/reverse-whois/) | A reverse WHOIS database with over 265 million current domain records and over 561 million historical records. Search across more than 50 WHOIS fields, including creation date and registrant name. |
+| [Profundis](https://profundis.io/tools/subdomains) | Find subdomains from indexed DNS records and export the results. Free web tier; API access requires a paid plan or purchased credits. |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
