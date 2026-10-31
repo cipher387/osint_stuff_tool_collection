@@ -930,6 +930,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [IGDataHub](https://igdatahub.com/) | follower count history for the Instagram accounts it tracks (a reading about once a day, shown as a growth chart on each profile report), plus engagement rate and top posts per profile and weekly follower-growth rankings. Free to view without login; the full per-reading CSV is paid |
 | [iFollowTracker](https://www.ifollowtracker.com/) | Enter a public Instagram username to view its visible following and follower lists and recent-follow signals without logging in to Instagram; repeat checks compare snapshots to spot new follows and unfollows. Public accounts only; free preview, full lookups need a paid membership |
 | [ExportGram](https://exportgram.net) | An online tool for exporting Instagram post comments, usernames, and like counts to CSV, Excel, or JSON. Up to 100 comments are free. |
+| [iStoryTracker](https://istorytracker.com/) | Enter a public Instagram username to view its currently available Stories (and public posts) without logging in to Instagram or connecting an account; available Story media can be downloaded. Public accounts only; free searches with usage limits, paid plans add hourly tracking of one account with a Story archive and email alerts |
 
 
 
