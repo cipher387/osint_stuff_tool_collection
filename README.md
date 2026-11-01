@@ -707,6 +707,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tiktok Scraper](https://github.com/sauermar/Tiktok-Scraper) | Extract data about videos, users, and channels based on hashtags, profiles and individual posts. |
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
 | [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
+| [TikTok Comment Viewer (LurkAPI)](https://lurkapi.com/free-tools/tiktok-comment-viewer) | Paste a TikTok video link to read and search its comments and replies, see which the creator pinned, and export them to CSV, without the app. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
 
@@ -749,6 +750,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CrossLinked](https://github.com/m8r0wn/crosslinked) | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping |
 | [Linkedin Datahub](https://github.com/linkedin/datahub/blob/master/docs/faq.md) | linkedIn's generalized metadata search & discovery tool |
 | [Recruitin.net](https://recruitin.net/) | easily use Google to search profiles on LinkedIn |
+| [LinkedIn Profile Viewer (LurkAPI)](https://lurkapi.com/free-tools/linkedin-profile-viewer) | Paste a linkedin.com/in/ link to see what logged-out visitors see (about, experience, education, posts) without signing in, so you don't appear in their profile views. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 
 ### [](#xing)Xing
 
@@ -809,6 +811,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Bitmoji Avatar History Enumerator](https://webbreacher.github.io/osinttools/) | BACKMOJI takes a Bitmoji ID, version (usually the number 5), and a maximum value. Press the âGrab Images!â button and your browser will make âmaximum valueâ requests for the images of that userâs Bitmoji. Those images will be displayed below. |
 | [SnapDataHub](https://snapdatahub.com/) | look up any public Snapchat profile without logging in: subscriber count, Spotlight views and engagement. Also a daily list of the fastest-growing creators. Free lookups, some features paid |
+| [Snapchat Story Viewer (LurkAPI)](https://lurkapi.com/free-tools/snapchat-story-viewer) | Enter a Snapchat username to watch its current public story, highlights and recent Spotlight videos without an account, so your name never shows in the viewers list. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 
 ### [](#twitch)Twitch
 
