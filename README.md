@@ -1500,6 +1500,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PeeringDB](https://www.peeringdb.com/) | Freely available, user-maintained, database of networks, and the go-to location for interconnection data. |
 | [IQWhois](https://iqwhois.com/advanced-search) | Search whois data by address, city, name, surname, phonenumber |
 | [GetDomainLists](https://getdomainlists.com/tld/?ref=awesome-cipher387) | (PAID) plain-text lists of registrable domain names and subdomains, one name per line, sold once per release. Free samples on each TLD page and free Python scripts in [getdomainlists/dataset](https://github.com/getdomainlists/dataset). |
+| [NetAPI](https://netapi.com/) | Lists of registered domains for 1,500+ TLDs with nameservers, IP, hostname and WHOIS dates, daily lists of newly registered and deleted domains, domain and reverse IP lookup, free feeds of compromised domains and IPs. API and MCP server |
 
 ### [](#website-traffic-look-up)Website traffic look up
 
@@ -1507,6 +1508,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [SimilarWeb](https://www.similarweb.com/) | Detailed website traffic analyze |
 | [Alexa](https://www.alexa.com/) | Keyword Research, Competitive Analysis, Website Ranking |
+| [NetAPI Top 1M](https://netapi.com/top-1-mln-websites/) | Free list of the 1,000,000 most popular websites, rebuilt daily (CSV), the top websites by country, and a free JSON method for the rank of a domain |
 | [HypeStat Analyzer Plugin](https://chrome.google.com/webstore/detail/hypestat-analyzer-plugin/fmebbkhpaallipfibkfnajnlimgaoefp/related) | Shows estimate daily website traffic, Alexa rank, average visit duration and used techhologies. |
 | [vstat.info](https://vstat.info) | Getting detailed info about website traffic (sources, keywords, linked sites etc) |
 | [w3snoop](http://w3snoop.com/) | Getting detailed information about website: - general domain info; - valuation ($); - popularity; - traffic; - revenue; - security (WOT rating, McAfee WebAdvisor Rating etc) and more. |
