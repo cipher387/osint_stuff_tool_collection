@@ -57,6 +57,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Railway](#railway)
     - [Routes](#routes)
     - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
+    - [Iran vs USA conflict monitoring](#iran-monitoring)
+    - [Worldwide events monitoring](#worldwide-events-monitoring)
     - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
     - [Culture](#culture)
     - [Worldwide street webcams](#worldwide-street-webcams)
@@ -330,14 +332,38 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
-| [World Monitor](https://www.worldmonitor.app/) | free real-time world map combining conflict events, military aviation, maritime chokepoints, infrastructure outages and news feeds in one dashboard |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 | [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
 | [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
  |
 | [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 | [Lanes](https://lanes.news/) | Compares how each side's press, and third-country press, report the same events in eight conflicts, and labels claims as corroborated, disputed or single-source. Free, no account. |
+
+
+### [](#iran-monitoring) Iran vs USA conflict monitoring
+
+| Link | Description |
+| --- | --- |
+| [Strike Radar](https://usstrikeradar.com/) | Real-time geopolitical risk monitor tracking USA-Iran tension indicators. Live data from news, aviation, oil prices, Hormuz shipping incidents. |
+| [Iran Strike Map](https://iranstrikemap.com/) | Live interactive map tracking 115+ confirmed strikes in the US-Israel-Iran conflict. |
+| [USIranMonitor](https://usiranmonitor.com/) | US-IRAN MONITOR helps US and European companies read the daily reality of US‑Iran relations and prepare, lawfully and confidently, for one of the world's largest untapped markets, guided by counsel who knows both sides first-hand: the culture and language, the domestic politics, the legal system, and the political economy that move the market. |
+| [Iran Monitor](https://www.iranmonitor.org/) | Track Iran in real-time: news sentiment, X/Twitter feeds, flight radar, prediction markets, and internet connectivity.   |
 | [IRWatch](https://irwatch.org) | Free live Iran conflict intelligence dashboard with real-time OSINT feed, AI categorization, military mapping, and Hormuz strait monitoring. | 
+
+
+### [](#worldwide-events-monitoring) Worldwide events monitoring
+
+| Link | Description |
+| --- | --- |
+| [World Monitor](https://www.worldmonitor.app/) | 59 Map layer types, 468 News & OSINT feeds, 815 Attributed providers, 5 Independent alert origins |
+| [Monitor the situation](https://monitor-the-situation.com/) | Live world news map and OSINT conflict tracker: source-linked reports, aircraft, ships, GPS interference, internet outages and regional crisis views. |
+| [Glint Trade Terminal](https://glint.trade/terminal) | A real-time intelligence terminal for prediction markets. |
+| [WorldwatchUK](https://worldwatch.uk/) | Logistic, militaty, economic, disaster, government and environment events monitoring. |
+| [NearMe](https://github.com/mcasrom/nearme-osint) | A real-time geographic OSINT aggregator that combines 15 public and official data sources into a single interactive map with severity levels, continuous measurements, and customizable alerts. Spain focused. |
+| [Polyglobe](https://www.pizzint.watch/polyglobe/app) | Maps live global events, military installations, and regional hot spots directly onto an interactive 3D globe interface. |
+| [WAR ROOM Global Monitor](https://retrosheep.com/global-monitor) | Publicly sourced data, 24/7 real-time monitoring, 6 OSINT data categories, 28 live feeds. Paid. |
+
+
 
 ### [](#culture)Culture
 
@@ -387,6 +413,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [MangolinkWorld](https://www.mangolinkworld.com/) |     |
 | [FoxMonitor](https://www.foxmonitor.com/) |     |
 | [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Google Custom Search Engine for search in 10 online street webcam catalogs |
+
+
+
+
+
+
+
 
 ### [](#tools)Tools
 
