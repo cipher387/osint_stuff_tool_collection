@@ -2228,7 +2228,9 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [uChecker](https://uchecker.net/tools) | Bulk email list verification plus 13 free DNS tools (SPF, DKIM, DMARC, BIMI generators and checkers) without registration. |
 | [Opsis](https://useopsis.com/) | Enter an email address, username or domain and get a list of accounts linked to it, checked across 1000+ source modules. Free account with 3 searches a month, paid plans from $14.99/mo. |
 | [Hashtray](https://github.com/balestek/hashtray) | A tool for finding publicly available Gravatar profile information associated with an email address or nickname. |
+| [BreachDetect](https://breachdetect.net/domain-breach-check) | Free check, no signup: enter a company domain and see how many of its logins appear in stealer logs (44B+ records from 37M infected machines) and breached databases (808 dumps), which of the company's own sign-in pages they were for, and a masked sample. Full results and API are paid, for businesses only. |
 | [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
+
 
 
 [](#mbox) MBOX files
