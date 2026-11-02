@@ -334,8 +334,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
 | [Safe Airspace](https://safeairspace.net/) | (Conflict Zone & Risk Database) worldwide map showing the countries where flying over may be dangerous; detailed history of incidents and official warnings for each country |
-| [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists.
- |
+| [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists. |
 | [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 | [Lanes](https://lanes.news/) | Compares how each side's press, and third-country press, report the same events in eight conflicts, and labels claims as corroborated, disputed or single-source. Free, no account. |
 
