@@ -316,6 +316,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Pentagon Pizza Index](https://www.pizzint.watch/) | The Pentagon Pizza Index tracks real-time pizza activity near the Pentagon as an OSINT indicator of military tension. |
 | [Global Terriorism Database](https://twitter.com/cyb_detective/status/1578772549919559681) | Info about more than 200,000 terrorist incidents from 1970 to 2020 (worldwide): - dozens of advanced search options; - statistical data for each group of incidents; - many details on each incident, with sources; |
 | [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) |
 | [Crimemapping.com](https://www.crimemapping.com/) | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. |
