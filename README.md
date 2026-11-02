@@ -2227,6 +2227,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [uChecker](https://uchecker.net/tools) | Bulk email list verification plus 13 free DNS tools (SPF, DKIM, DMARC, BIMI generators and checkers) without registration. |
 | [Opsis](https://useopsis.com/) | Enter an email address, username or domain and get a list of accounts linked to it, checked across 1000+ source modules. Free account with 3 searches a month, paid plans from $14.99/mo. |
 | [Hashtray](https://github.com/balestek/hashtray) | A tool for finding publicly available Gravatar profile information associated with an email address or nickname. |
+| [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
 
 
 [](#mbox) MBOX files
@@ -2320,6 +2321,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [OSINT.SX](https://osint.sx/) | (PAID) Enter an email, phone number, username or full name and check hundreds of sites at once for registered accounts, with the names, photos and other details each site shows. Also has an API. Credits from $10, card or crypto, no subscription. |
 | [LittleSis](http://littlesis.org) | A free database mapping connections between public figures and organizations, with 10,930,620 citations, 1,798,375 relationships, 295,011 people, and 130,615 organizations. |
 | [NPD Breach Check](http://npd.pentester.com) | A tool claiming to check whether personal data was affected by the National Public Data breach.|
+| [Breach House](https://breach.house/) | Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email. |
 
 
 
