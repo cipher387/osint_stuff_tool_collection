@@ -742,6 +742,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | List of most popular hashtags; songs; creators; videos for different countries and periods. |
 | [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
 | [TikTok Comment Viewer (LurkAPI)](https://lurkapi.com/free-tools/tiktok-comment-viewer) | Paste a TikTok video link to read and search its comments and replies, see which the creator pinned, and export them to CSV, without the app. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
+| [TTAnon](https://ttanon.com/) | Paste a TikTok profile or video link to check account creation dates, plot follower history over time, and export date-filtered video lists to CSV. Also pulls speech transcripts, technical video metadata (resolution, FPS, region, language), and comments without the app. Free |
 
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
 
@@ -970,7 +971,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [iFollowTracker](https://www.ifollowtracker.com/) | Enter a public Instagram username to view its visible following and follower lists and recent-follow signals without logging in to Instagram; repeat checks compare snapshots to spot new follows and unfollows. Public accounts only; free preview, full lookups need a paid membership |
 | [ExportGram](https://exportgram.net) | An online tool for exporting Instagram post comments, usernames, and like counts to CSV, Excel, or JSON. Up to 100 comments are free. |
 | [iStoryTracker](https://istorytracker.com/) | Enter a public Instagram username to view its currently available Stories (and public posts) without logging in to Instagram or connecting an account; available Story media can be downloaded. Public accounts only; free searches with usage limits, paid plans add hourly tracking of one account with a Story archive and email alerts |
-
+| [PicMany](https://picmany.com/) | Inspects public Instagram accounts to track follower changes on a graph, calculate posting intervals, and map out connections through tagged handles, collaborations, and related profiles. Also browses story highlights and reels without logging in. Free |
 
 
 
