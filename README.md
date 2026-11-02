@@ -340,7 +340,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Lanes](https://lanes.news/) | Compares how each side's press, and third-country press, report the same events in eight conflicts, and labels claims as corroborated, disputed or single-source. Free, no account. |
 
 
-### [](#iran-monitoring) Iran vs USA conflict monitoring
+### [](#iran-monitoring)Iran vs USA conflict monitoring
 
 | Link | Description |
 | --- | --- |
@@ -351,7 +351,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [IRWatch](https://irwatch.org) | Free live Iran conflict intelligence dashboard with real-time OSINT feed, AI categorization, military mapping, and Hormuz strait monitoring. | 
 
 
-### [](#worldwide-events-monitoring) Worldwide events monitoring
+### [](#worldwide-events-monitoring)Worldwide events monitoring
 
 | Link | Description |
 | --- | --- |
