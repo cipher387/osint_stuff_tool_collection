@@ -1215,14 +1215,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-
-
-
-
-
-
-
-
 [](#domainiplinks)Domain/IP/Links
 
 ### [](#dorkspentestvulnerabilities)Dorks/Pentest/Vulnerabilities
@@ -1620,7 +1612,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Headlines.Sharethrough.com](https://headlines.sharethrough.com/) | analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100 |
 | [Wordtune.com](https://wordtune.com/read) | Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text. |
 
-[](#sound-indefication-and-analyze)Sound indefication and analyze
+### [](#sound-indefication-and-analyze)Sound indefication and analyze
 
 | Link | Description |
 | --- | --- |
@@ -1629,7 +1621,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related) | A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay) |
 | [MP3 Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) |     |
 
-[](#sound-search-and-analyze)Sound search and analyze
+### [](#sound-search-and-analyze)Sound search and analyze
 
 
 | Link | Description |
@@ -1638,7 +1630,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vocal Remover](https://vocalremover.org/) | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
 | [AudioForges](https://www.audioforges.com/voice-clean) | Free browser tools to clean up noisy recordings (noise/echo removal), separate vocals from music, and transcribe audio with timestamps. No signup. |
 
-[](#video-editing-and-analyze)Video editing and analyze
+### [](#video-editing-and-analyze)Video editing and analyze
 
 | Link | Description |
 | --- | --- |
@@ -1661,7 +1653,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-[](#image-search-and-identification)Image Search and Identification
+## [](#image-search-and-identification)Image Search and Identification
 
 ### [](#reverse-image-search-engines-and-automation-tools)Reverse Image Search Engines and automation tools
 
