@@ -786,6 +786,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Linkedin Datahub](https://github.com/linkedin/datahub/blob/master/docs/faq.md) | linkedIn's generalized metadata search & discovery tool |
 | [Recruitin.net](https://recruitin.net/) | easily use Google to search profiles on LinkedIn |
 | [LinkedIn Profile Viewer (LurkAPI)](https://lurkapi.com/free-tools/linkedin-profile-viewer) | Paste a linkedin.com/in/ link to see what logged-out visitors see (about, experience, education, posts) without signing in, so you don't appear in their profile views. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
+| [LinkedIn Profile API](https://alphaosint.com/sources/linkedin-profile-api/) | Pulls a public LinkedIn profile by URL: experience, education, skills and location as structured JSON |
 
 ### [](#xing)Xing
 
