@@ -338,6 +338,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Worldwide Detention Centres Map](https://www.globaldetentionproject.org/detention-centres/map-view) | This service will help in investigations related to illegal emigration, human trafficking, missing refugees and tourists. |
 | [OppIntell](https://oppintell.com/) | Nonpartisan opposition research software. Organizes public records on 24,000+ U.S. candidates (FEC and state filings, votes, court records, disclosures, statements) into profiles where every claim links to its source. Public profiles are free to browse (paid app). |
 | [Lanes](https://lanes.news/) | Compares how each side's press, and third-country press, report the same events in eight conflicts, and labels claims as corroborated, disputed or single-source. Free, no account. |
+| [Legistar Council Meetings (Apify)](https://apify.com/publicrecords/legistar-meetings-scraper) | City council meetings, agenda items, votes and attached documents for any city that publishes on Legistar, each with a link back to the official record. Runs on Apify. |
 
 
 ### [](#iran-monitoring)Iran vs USA conflict monitoring
@@ -2540,6 +2541,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [AIHIT Data Company Database](http://aihitdata.com) | A database for searching more than 13 million companies by name, description, location, contact details, clients, partners, or investors. Partial-value searches are supported. |
 | [ExportGenius](http://exportgenius.in) | A trade-data service with information on imports by country, including trade partners, ports, importing companies, and shipment records such as product descriptions, quantities, and countries. |
 | [looot](https://looot.ai) | Company enrichment by domain and company search across 300+ data providers, through an API or a remote MCP server. |
+| [USAspending Awards (Apify)](https://apify.com/publicrecords/usaspending-awards-scraper) | Federal contract and grant awards from USAspending.gov by agency, recipient, NAICS code and period: who was paid, how much and for what, with award IDs and source links. Runs on Apify. |
 
 
 
@@ -2568,6 +2570,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Panjiva.com](https://panjiva.com/) | search data on millions of shipments worldwide |
 | [en.52wmb.com](https://en.52wmb.com) | Search information about worldwide buyers and suppliers by product name, company name or HS code. |
 | [Barcodepedia](https://barcodepedia.com/) | Free product encyclopedia by barcode: brand owner, licensee and GS1 registrant behind a product, every fact cited |
+| [UK Find a Tender (Apify)](https://apify.com/publicrecords/uk-find-a-tender-scraper) | UK government tenders from Find a Tender and Contracts Finder with buyer, value, deadline and source link. Runs on Apify. |
+| [TED EU Tenders (Apify)](https://apify.com/publicrecords/eu-ted-notices-scraper) | EU procurement notices from TED (Tenders Electronic Daily) with buyer, CPV code, value, deadline and source link. Runs on Apify. |
 
 ### [](#amazon)Amazon
 
