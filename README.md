@@ -2563,6 +2563,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | Link | Description |
 | --- | --- |
 | [TendersInfo](https://www.tendersinfo.com) | Search tenders around the world by keywords. |
+| [Contratero](https://contratero.es/) | Free search of Spanish public tenders and award history, with buyer and contractor profiles, from official PLACSP open data. |
 | [Barcode lookup](https://www.barcodelookup.com/) |     |
 | [Panjiva.com](https://panjiva.com/) | search data on millions of shipments worldwide |
 | [en.52wmb.com](https://en.52wmb.com) | Search information about worldwide buyers and suppliers by product name, company name or HS code. |
