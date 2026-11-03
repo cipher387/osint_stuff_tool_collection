@@ -1536,6 +1536,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [IQWhois](https://iqwhois.com/advanced-search) | Search whois data by address, city, name, surname, phonenumber |
 | [GetDomainLists](https://getdomainlists.com/tld/?ref=awesome-cipher387) | (PAID) plain-text lists of registrable domain names and subdomains, one name per line, sold once per release. Free samples on each TLD page and free Python scripts in [getdomainlists/dataset](https://github.com/getdomainlists/dataset). |
 | [NetAPI](https://netapi.com/) | Lists of registered domains for 1,500+ TLDs with nameservers, IP, hostname and WHOIS dates, daily lists of newly registered and deleted domains, domain and reverse IP lookup, free feeds of compromised domains and IPs. API and MCP server |
+| [PendingDelete.net](https://pendingdelete.net/) | Free daily lists of domains in redemption and pending delete, with drop times confirmed by the registry for .com, .net and most extensions. WHOIS and RDAP lookups, free CSV/TXT/JSON downloads, no signup |
 
 ### [](#website-traffic-look-up)Website traffic look up
 
