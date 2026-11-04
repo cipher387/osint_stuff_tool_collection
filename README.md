@@ -2268,6 +2268,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
+| [ProfileTrace](https://www.profiletrace.ai/) | Web app that checks one username across ~4,000 sites. First search free after sign-up, then pay-per-search credit packs from $2, no subscription. Results are leads to verify, not proof of identity. |
 
 ### [](#phone-numbers)Phone numbers
 
