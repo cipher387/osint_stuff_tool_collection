@@ -1558,6 +1558,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Larger.io](https://www.larger.io/) |     |
 | [CMLabs Tools](https://tools.cmlabs.co/en/technology-lookup) |     |
 | [Snov.io technology checker](https://app.snov.io/techcheck/main) | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it. |
+| [WhosBuilt](https://whosbuilt.com/) | Website technology and hosting lookup with source-linked clues to likely builders and owners. Anonymous preview; sign-in for full reports. |
 
 ### [](#find-directories)Find directories
 
