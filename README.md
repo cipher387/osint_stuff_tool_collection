@@ -288,6 +288,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Vesselfinder.com](https://www.vesselfinder.com/) | Examine the position of vessels |
 | [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
 | [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
+| [Finnish Port Calls & Congestion (Apify)](https://apify.com/itulo/digitraffic-port-calls-marine) | Vessel arrivals, departures and per-port congestion for Finnish ports from Fintraffic Digitraffic marine open data (CC BY 4.0). Paid per result on Apify. |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
 
 ### [](#railway)Railway
@@ -2532,6 +2533,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) | Check the format and check digit of a Chinese Unified Social Credit Identifier offline. Catches transcription errors before you spend a lookup. |
 | [ChineseCheck](https://chinesecheck.com) | Look up a Chinese company by English name, Chinese name or Unified Social Credit Code and read its registration record in English, free. Paid English reports add court enforcement, litigation, administrative penalty and tax credit records (from US$299). |
 | [UK Companies House (Apify)](https://apify.com/agentic_solutions/uk-companies-house) | Bulk search and export of UK companies from the official Companies House API, filtered by SIC code, incorporation date, status or location, with optional officers and PSCs. Needs an Apify account and a free Companies House API key. Paid per result on Apify. |
+| [Finnish PRH Company Events (Apify)](https://apify.com/itulo/prh-company-events) | Daily Finnish Trade Register events (new companies, liquidations, bankruptcies, name changes) and Business ID watchlist diffs from PRH open data; optional Norwegian Brreg mode. Company-level fields only. Paid per result on Apify. |
 | [AIHIT Data Company Database](http://aihitdata.com) | A database for searching more than 13 million companies by name, description, location, contact details, clients, partners, or investors. Partial-value searches are supported. |
 | [ExportGenius](http://exportgenius.in) | A trade-data service with information on imports by country, including trade partners, ports, importing companies, and shipment records such as product descriptions, quantities, and countries. |
 | [looot](https://looot.ai) | Company enrichment by domain and company search across 300+ data providers, through an API or a remote MCP server. |
