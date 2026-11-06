@@ -2271,6 +2271,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
 | [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
+| [Username Search & Lookup (Apify)](https://apify.com/ntriqpro/sherlock-username-osint) | Hosted wrapper of the open-source Sherlock engine: check a list of usernames across 400+ sites and get one JSON row per confirmed account. Runs on Apify, no local install. |
+| [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
 
 ### [](#phone-numbers)Phone numbers
 
