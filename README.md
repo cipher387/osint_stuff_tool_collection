@@ -723,6 +723,15 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
 | [Return YouTube Comment Username](https://github.com/yakisova41/return-youtube-comment-username) | A browser extension that displays the full names of channels commenting on YouTube, restoring a feature that was available a few years ago. |
 | [YouTube Comments Search](http://youtube-comments.io) | Paste a YouTube video link to search its comments by keyword and sort them by likes, replies, or date. |
+| [RecentReborn](https://recentreborn.com/) | Search Instagram, TikTok and YouTube recent posts in one place. Partly free. |
+| [Mirrortube](https://archive.org/details/mirrortube) | Web archive YouTube videos collection |
+| [Unsorted or Miscellaneous Social Media Video](https://archive.org/details/social-media-video-unsorted) | Web archive YouTube videos collection |
+| [YouTubeCrawl](https://archive.org/details/youtubecrawl) | Web archive YouTube videos collection |
+| [Videosearch.io](https://videosearch.io/) | Free online tool to search for videos on different platforms: YouTube, TikTok, VK, Youku, Netflix, Vimeo and many others. |
+| [Quite a playlist](https://quiteaplaylist.com/) | A free online service for finding the titles, descriptions, and thumbnails of deleted YouTube videos (and for all deleted videos from a single playlist). Most of data from Filmot and Wayback Machine. |
+| [HashCut](https://www.hashcut.com/) | Free online tool for making YouTube video annotations.Select a video clip, add text or a sticker to it, and share the link with someone (no registration required). |
+| [PreverseTube](https://preservetube.com/) | A free online tool that allows you to save copies of YouTube videos to an archive and search for videos and channels saved by other users.  |
+| [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search video info (thumbnails, metadata) by ID in different sources: Wayback Machine, GhostArchive, Distributed YouTube Archive, Hobune Stream, Filmot, RemovedEDM, Odysee and PreserveTube |
 
 
 ### [](#tiktok)TikTok
