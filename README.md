@@ -710,7 +710,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | [YouGlish](https://youglish.com/) | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them. |
-| [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
+| [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 1.33+ billion transcripts, 1.18+ billion videos, 72+ million channels |
 | [Arcmira](https://arcmira.com) | Search indexed YouTube and podcast transcripts for spoken mentions and timestamped quotes. Free tier available. |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
 | [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
@@ -732,6 +732,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [HashCut](https://www.hashcut.com/) | Free online tool for making YouTube video annotations.Select a video clip, add text or a sticker to it, and share the link with someone (no registration required). |
 | [PreverseTube](https://preservetube.com/) | A free online tool that allows you to save copies of YouTube videos to an archive and search for videos and channels saved by other users.  |
 | [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search video info (thumbnails, metadata) by ID in different sources: Wayback Machine, GhostArchive, Distributed YouTube Archive, Hobune Stream, Filmot, RemovedEDM, Odysee and PreserveTube |
+| [First YouTube Comment Finder](https://tubepilot.ai/tools/first-comment-finder/) | Free online tool, show exact time and author nickname. The first comments on posts and videos are often left by the author's close friends. Therefore, finding them can be useful for investigations on all social networks.  |
+| [OSINT Tube](https://github.com/rdWei/OsintTube) | #Python tool to automate the collection of YouTube channel info by ID: date of registration, number of views/subscribers/videos, earnings and other details. Use in combination with XARGS and other Python tools for YouTube #osint. |
+| [Quick YouTube Advanced Search](https://playlists.at/youtube/search/) | YouTube doesn't have many advanced search operators and they're easy to remember. But for those who haven't yet, there's this very simple and free online tool. |
+
+
+
+
+
 
 
 ### [](#tiktok)TikTok
