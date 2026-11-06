@@ -675,41 +675,41 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Transcript Scraper](https://apify.com/harshmaur/youtube-transcript-scraper) | Collect public YouTube captions with time-linked segments, video metadata and optional translation. Supports video, channel and playlist links plus text, SRT or VTT exports. Paid per successful transcript; no YouTube login. |
 | [YouTube Whisperer](https://huggingface.co/spaces/jeffistyping/Youtube-Whisperer) | Transcribe YouTube video |
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
-| [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
+| [YouTube Unlisted Video](https://unlistedvideos.com/) | Search for videos available only by link on youtube |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
 | [AudienceCue YouTube Comment Downloader](https://audiencecue.com/en/tools/youtube-comment-downloader) | Download public YouTube video or Shorts comments as CSV for research. |
-| [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem: |
-| [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | youtube channels comparing |
-| [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
+| [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem. |
+| [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | Youtube channels comparing |
+| [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |  Really old YouTube vide metadata viewer (It’s been offline for ages and probably won’t work again.)   |
 | [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related) | YouTube Subscription Manager |
-| [YouTube comment Finder](https://ytcomment.kmcat.uk/) |     |
-| [YouTube comment Sorting](https://youtube-comments.io/get-comments) |     |
-| [YouTube comment Finder and Downloader](https://ytbcomments.com) | Easy to find any youtube video comments and download it free     |
-| [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
+| [YouTube comment finder](https://ytcomment.kmcat.uk/) |  Online tool  |
+| [YouTube comment sorting](https://youtube-comments.io/get-comments) |  Online tool   |
+| [YouTube comment finder and downloader](https://ytbcomments.com) | Easy to find any youtube video comments and download it free     |
+| [YouTube comment downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
 | [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
-| [Slash Tags](https://github.com/huhmit/slashtags) | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
+| [Slash Tags](https://github.com/huhmit/slashtags) | Tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
 | [YouTube playlist len](https://ytplaylist-len.herokuapp.com/) | Find out the total time of all the videos in playlist |
-| [Anylizer.com](https://anilyzer.com/) | watch frame by frame YouTube and Vimeo) |
-| [Improve YouTube](https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd) | extension with dozens of different tweaks to the standard #YouTube interface |
-| [YoTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
-| [watchframebyframe.com](http://www.watchframebyframe.com/) | watch frame by frame YouTube and Vimeo |
+| [Anylizer.com](https://anilyzer.com/) | Watch frame by frame and slow motion YouTube and Vimeo) |
+| [Improve YouTube](https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd) | Extension with dozens of different tweaks to the standard #YouTube interface |
+| [YouTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
+| [watchframebyframe.com](http://www.watchframebyframe.com/) | Watch frame by frame YouTube and Vimeo |
 | [Hadzy.com](https://hadzy.com/) | YouTube comment search) |
 | [Ytcs](https://github.com/lettapp/ytcs) | google chrome extension to search YouTube comments without leaving the site (link to source code) |
-| [YouTube Comment Search Chrome Extension](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related) |     |
+| [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related) |  Chrome Extension   |
 | [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. |
 | [Jump Cutter](https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related) | An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed... |
-| [YouFilter â YouTube Advanced Search Filter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
-| [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
+| [YouFilter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
+| [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | Extension finds all the timestamps in YouTube video comments and arranges them in chronological order. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related) | Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords |
 | [YouTube channel archiver](https://github.com/dmn001/youtube_channel_archiver) | Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels). |
 | [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) | Extract and download channel name, likes, number of views, and number of subscribers. Scrape by keyword or URL. |
 | [YouTube Booster](https://chrome.google.com/webstore/detail/youtube-booster/dajnidicmkknmmbapmmmlemjdfolgjnf/related) | This extension selects frames from videos and generates quick links to find them on Google and TinEye! |
 | [YouTube Caption Searcher](https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related) | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |
-| [YouTube word search](https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related) | An extension that helps you find at what second in the video a certain word is heard. It's possible to search not only by one word, but by the loaded list of words (!). |
+| [YouTube word search](https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related) | An extension that helps you find at what second in the video a certain word is heard. It's possible to search not only by one word, but by the loaded list of words. |
 | [Speak subtitles to YouTube](https://chrome.google.com/webstore/detail/speak-subtitles-for-youtu/fjoiihoancoimepbgfcmopaciegpigpa/related) | Subtitle dubbing tool with support for several dozen languages and voice variants. Useful for saving time and for education purposes. Works with glitches, try different settings to get better results. |
 | [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | [YouGlish](https://youglish.com/) | Type a random phrase in English and listen to native speakers pronounce it in YouTube videos. |
-| [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them |
+| [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them. |
 | [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 573 million captions/528 million videos/45 million channels. |
 | [Arcmira](https://arcmira.com) | Search indexed YouTube and podcast transcripts for spoken mentions and timestamped quotes. Free tier available. |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
