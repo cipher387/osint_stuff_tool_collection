@@ -69,7 +69,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Street View](#street-view)
     - [Satellite/aerial imagery](#satelliteaerial-imagery)
     - [Military tracking](#military-tracking)
-    - [Military visalisation](#military-visalisation)
+    - [Military visualisation](#military-visalisation)
     - [Other](#other)
 - [Social Media](#social-media)
     - [Twitter](#twitter)
