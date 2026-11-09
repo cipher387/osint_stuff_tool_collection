@@ -2097,6 +2097,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GAU](https://github.com/lc/gau) | Simple #golang tool to fetch all known website URLs from: WayBackMachine, AlienVault's Open Threat Exchange, Common Crawl, URLScan |
 | [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) | Download complete websites from the Wayback Machine with full asset preservation for offline viewing. #python |
 | [Wayback Keyword Search](https://github.com/lorenzoromani1983/wayback-keyword-search) | A Python tool for downloading archived pages from a website over a selected period and searching them for keywords. |
+| [PageWitness](https://sentinelforensic.app/) | Paid. Captures a web page or social media post in an isolated browser as an evidence pack (screenshot, WARC, HAR, PDF and media) with SHA-256 hashes, an Ed25519 signature and two RFC 3161 timestamps. Packs can be checked offline with an open-source #python verifier. |
 
 
 
