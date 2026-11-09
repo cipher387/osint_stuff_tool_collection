@@ -1889,6 +1889,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Gifcities.org](https://gifcities.org/) | GIF Search Engine from archive.org |
 | [Presearch.org](https://presearch.org/) | privately decentralized search engine, powered by #blockchain technology |
 | [milled.com](https://milled.com/search) | search engine for searching through the texts of email marketing messages |
+| [They Sent It](https://theysentit.com/) | searchable archive of marketing emails from 60,000+ brands; look up which platform a company uses and how often it sends |
 | [Orion](https://github.com/Araekiel/orion) | open-Source Search Engine for social networking websites. |
 | [PacketTotal](https://packettotal.com/app/search) | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. |
 | [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
