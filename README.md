@@ -1505,6 +1505,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Profundis](https://profundis.io/tools/subdomains) | Find subdomains from indexed DNS records and export the results. Free web tier; API access requires a paid plan or purchased credits. |
 | [Warnwell](https://warnwell.com/) | Bulk domain health check: SPF, DKIM, DMARC, spoofing risk, DNSSEC, expiry dates, SSL certificates and parked domains for many domains at once. Free, no signup |
 | [IPGeolocation.io](https://ipgeolocation.io/) | IP lookup API: geolocation, ASN, time zone and abuse contact, plus VPN, proxy, Tor and bot detection with a threat score. Partly free (1,000 requests a day; security data on paid plans) |
+| [VPNDetection](https://vpndetection.io/) | Checks whether an IP is a VPN, proxy, Tor exit or hosting address, with its country and network. Free, no signup. Also a [Chrome extension](https://chromewebstore.google.com/detail/vpndetection-ip-address-l/kfljannoobgfmbcjobeionephndlnhgi) that looks up an IP you select on any page |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
