@@ -2347,6 +2347,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 | [Username Search & Lookup (Apify)](https://apify.com/ntriqpro/sherlock-username-osint) | Hosted wrapper of the open-source Sherlock engine: check a list of usernames across 400+ sites and get one JSON row per confirmed account. Runs on Apify, no local install. |
 | [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
+| [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
+
+
+
 
 ### [](#phone-numbers)Phone numbers
 
