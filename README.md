@@ -243,6 +243,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Rain Alarm](http://rain-alarm.com) | shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app) |
 | [Cyclocane](https://cyclocane.com) | click on the hurricane on the map and get detailed information about it |
 | [MeteoBlue](https://www.meteoblue.com/) | Weather stats data |
+| [PastClimate](https://www.pastclimate.com/) | weather on a past date and month-by-month climate for tens of thousands of cities (ERA5 reanalysis, hourly records from 2016) |
 | [Zoom.earth](https://zoom.earth/) | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas |
 | [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | worldwide detailed interactive bathymetry map |
 | [Soar.earth](https://soar.earth/) | big collection satellite, drone and ecological maps |
