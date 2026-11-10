@@ -144,7 +144,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Video editing and analyze](#video-editing-and-analyze)
 - [Image Search and Identification](#image-search-and-identification)
     - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
-    - [Video search engines](#video-search-engines)
+    - [Video search engines and tools](#video-search-engines)
     - [Image editing tools](#image-editing-tools)
     - [Other Image Search Engines](#other-image-search-engines)
     - [Image Analyze](#image-analyze)
@@ -1731,13 +1731,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
 
 
-### [](#video-search-engines)Video search engines
+### [](#video-search-engines)Video search engines and tools
 
 
 | Link | Description |
 | --- | --- |
 | [Google advanced video search](https://google.com/advanced_video_search) | When you search for videos on search engines, don't forget that there, as on and YouTube, there are advanced search filters. For example, #Google has filters for language, duration, subtitles, and domain. |
-
+| [Video Text Search](https://huggingface.co/spaces/Pixeltable/Text-image-similarity-search-on-video-frames-embedding-indexes) | A tool that allows to quickly and accurately find a frame in a video by text description. For very long videos, authorize on HuggingFace and duplicate the space. |
 
 ### [](#image-editing-tools)Image editing tools
 
