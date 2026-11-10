@@ -1327,6 +1327,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PyHTools](https://github.com/dmdhrumilmistry/pyhtools) | A Python toolkit with various cybersecurity utilities, including network and web security scanning features. |
 | [DORKI](http://dorki.io) | A partially free online tool for collecting search results from multiple search engines and exporting them to JSON or TXT. |
 | [Dork King](https://dorkking.blindf.com) | Enter your target domain and get quick links to find pages with SQL Errors, backup files, backdoors, open redirects, log files and more. |
+| [WebScout](https://webscout.io/) | Online tool to collect domain/IP information: - list of emails of domain (a very long list is given out upon free request) - general domain info - subdomains - certificates - similar domains Partly free. |
+
+
 
 ### [](#apk-analysis)APK analysis
 
