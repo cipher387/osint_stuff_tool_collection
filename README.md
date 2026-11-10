@@ -96,6 +96,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Instagram](#instagram)
     - [Google](#google)
     - [Patreon](#patreon)
+    - [Pinterest](#pinterest)
     - [Github](#github)
     - [Wikipedia](#wikipedia)
     - [Parler](#parler)
@@ -1002,6 +1003,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Graphtreon.com](https://graphtreon.com/) | patreon accounts earnings stats |
+
+
+### [](#pinterest)Pinterest
+
+| Link | Description |
+| --- | --- |
+| [PinClicks](http://pinclicks.com) | New tool to find content on Pinterest (500+ million users worldwide) by keywords and rate its popularity (saves, reactions, comments, creation date). Free trial. |
 
 ### [](#github)Github
 
