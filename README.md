@@ -190,6 +190,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Apps and programs](#apps-and-programs)
 - [Real estate](#real-estate)
 - [Company information search](#company-information-search)
+- [Advertisment intelligence](#adint)
 - [Bank information search](#bank-information-search)
 - [Brand/trademark information search](#brandtrademark-information-search)
 - [Tender/shipment information search](#tendershipment-information-search)
@@ -2624,6 +2625,12 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Free Clutch․co Scraper](https://thewebscrapingguy.com/free-tools/clutch-scraper) | Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks. |
 
 
+
+### [Advertisment intelligence](#adint)
+
+| Link | Description |
+| --- | --- |
+| [GlimpseHG](http://glimpsehq.io) | View active Ads in Google, Linkedin and Meta (Facebook) for target domain. Free. |
 
 
 ### [](#bank-information-search)Bank information search
