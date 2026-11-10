@@ -176,7 +176,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Phone numbers](#phone-numbers)
 - [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
 - [Sock Puppets](#sock-puppets)
-- [Language/translation tools]((#language-translation)
+- [Language/translation tools](#language-translation)
 - [NOOSINT tools](#noosint-tools)
 - [Visualization tools](#visualization-tools)
 - [Routine/Data Extraction Automation](#routinedata-extraction-automation)
