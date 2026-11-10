@@ -779,6 +779,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 #### Other tools
 
+
+| Link | Description |
+| --- | --- |
 | [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | Youtube channels comparing |
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |  Really old YouTube vide metadata viewer (It’s been offline for ages and probably won’t work again.)   |
 | [YouTube playlist len](https://ytplaylist-len.herokuapp.com/) | Find out the total time of all the videos in playlist |
