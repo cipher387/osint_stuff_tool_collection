@@ -2191,6 +2191,11 @@ You also may interested [Awesome IP Search Engines Github repo](https://github.c
 | [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 | [British🇬🇧 Newspaper Archive](https://britishnewspaperarchive.co.uk) | 85M+ newspaper's pages from the 1700s. England🏴󠁧󠁢󠁥󠁮󠁧󠁿, Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿, Ireland🇮🇪 and Wales🏴󠁧󠁢󠁷󠁬󠁳󠁿. |
 | [FEDERAl TRADE COMMISSION DATABASE](http://ftc.gov/legal-library/browse/cases-proceedings) | A lot of PDF documents that uncover fraud, scams, and deceptive practices by companies in USA🇺🇸 Search by company name or keyword. |
+| [Scribd](https://www.scribd.com/) | 195 million+ PDF documents library |
+| [Slideshare](https://www.slideshare.net/) | 28M+ PDF files library |
+
+
+
 
 
 
