@@ -259,7 +259,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
 | [Gaisma](https://www.gaisma.com/en/) | A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler. |
 | [My Ocean Pro](https://data.marine.copernicus.eu/viewer/expert) | An online map tool for exploring seas and oceans, with more than 277 datasets, including temperature, salinity, wave height, sea ice, acidity, and oxygen concentration. |
-
+| [INaturalist](http://inaturalist.org) | An online map that provides a huge database of observations about animals and plants around the world. 214M+ observations 3M+ observes |
 
 
 ### [](#aviation)Aviation
@@ -291,6 +291,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
 | [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
+| [Track Trace](https://track-trace.com/container) | A free online tool that uses a shipping container number to determine which company it belongs to and automatically redirects to company's website to track it. |
+
+
 
 ### [](#railway)Railway
 
@@ -395,6 +398,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SKYDB](https://www.skydb.net/) | Worldwide database of skyscrapers and tall buildings. |
 | [Street Art Cities](https://streetartcities.com/) | Worldwide street artworks online map: 1,443 cities and counting, 51,510 artworks, 100 countries and 260 verified artists |
 | [All Text in NYC](http://alltext.nyc) | A text-search service for finding inscriptions on walls in Brooklyn. |
+| [15 min city platform](https://whatif.sonycsl.it/15mincity/) | A global map of how cities fit the 15-minute city concept (walking distance to vital facilities such as grocery stores, schools, hospitals, places for walking etc). Useful for: - hotel search - apartment search - all kinds of research |
 
 
 
@@ -416,10 +420,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [MangolinkWorld](https://www.mangolinkworld.com/) |     |
 | [FoxMonitor](https://www.foxmonitor.com/) |     |
 | [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Google Custom Search Engine for search in 10 online street webcam catalogs |
-
-
-
-
 
 
 
@@ -458,6 +458,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Search Grid Generator](https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/bellingcat/search-grid-generator.ipynb) | An online tool that generates a KML grid from geographic coordinates for use in Google Earth Pro to explore satellite imagery and other information about an area. |
 | [Atlas](http://app.atlas.co) | A free online tool for visualizing geospatial data. Add datasets from downloaded files or Atlas Data Hub, place drawings, photos, and diagrams on the map, and analyze mapped data, such as counting objects by type. |
 | [Maps Link Converter](https://maps.xuedo.ng/) | Free, open source online tool that converts a Google Maps link into the same place, pin, search or route in Apple Maps, and back. The open source JavaScript library and iPhone shortcut also expand maps.app.goo.gl short links. |
+| [Orhyginal Maps](http://map.orhyginal.fr) | Select location on map and open info about it in 400+ maps/geodata tools and services.- dozens of OSM maps -  transport/routring - meteo - history - webcams and more. |
+| [Bellingcat Filename Finder](https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaachejkipcghppfnnfdmp) | Extension that shows the filenames of Google Maps photos. Sometimes they allow to find out the exact date of the photo, and sometimes other details like the user's name or phone model. |
+| [Google Earth Web Historical View](http://earth.google.com/web/) | Google has updated the web version of Google Earth and now there you can look at satellite images of a particular place in different years. Data from 1985. |
+| [MAPTILER](http://maptiler.com) | 1. Detailed worldwide 3D + 3D satellite +aerial photo maps 2.  A lot of additional tools (real-time weather, elevation profile etc) 3. SDK for creating your own interactive 3D maps with incredibly wide functionality |
 
 
 
@@ -497,6 +501,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Infrapedia](https://www.infrapedia.com/) | Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges |
 | [OONI Explorer](https://explorer.ooni.org/search) | World biggest open data resource on internet censorship around the world. 1.6+ million measurements in 241 countries since 2012. |
 | [Palimpsest](https://palimpsest.info/) | Public-source censorship observatory and verifiable AI-evaluation registry, with source links, append-only records, and an offline verifier for detecting changes to published evidence. |
+| [Global "Internet health" map](http://thousandeyes.com/outages/) | "Tracking Internet outages across ISPs, top application providers, public clouds, and edge service networks". Live 24 hours data. |
+
+
 
 
 ### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
@@ -529,6 +536,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Maps Video](https://maps.video/) | Google street view alternative. Online YouTube video driving map for different routes. Worldwide, but most videos in the USA and Europe. |
 | [Panoramax](http://panoramax.openstreetmap.fr) | A Google Street View alternative based on OpenStreetMap. |
 | [EarthKit Agent](http://agent.earthkit.app) | A tool for identifying locations by combining GeoClip results with Google Lens analysis, then comparing the findings and displaying the result in Google Street View. |
+| [Street View Tracker](https://chromewebstore.google.com/detail/street-view-tracker/nlngoiabgfhbklfnidbhhcaakkojcocf) | A simple extension to create KML files of routes using Google Street View. They can be used both for visualizing investigative data and for planning walks/travels. |
 
 ### [](#satelliteaerial-imagery)Satellite/aerial imagery
 
@@ -1049,6 +1057,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WikiMedia Cloud Page Views](https://pageviews.wmcloud.org/) | The tool shows how many times a particular page on WikiPedia has been visited within a certain period of time. It also allows you to compare 2 or more pages with each other. Who is more popular? |
 | [WikiWho](http://wikiwho.ailef.tech/) | Database of edits made to #Wikipedia using IP ranges of organizations, government agencies and companies (FBI, NATO, European Parliament, etc.) You can view both the edits history of a single article and the edits history of organization. |
 | [WIKIT](https://github.com/KorySchneider/wikit) | A tool for searching and reading #Wikipedia articles from the #CLI. The main benefit of it is fewer distractions from work.  You don't have to open browser (with Facebook, YouTube and other time eaters) to find out about something. |
+| [Wikipedia Semantic Search](http://wikipedia-semantic-search.vercel.app) | A search engine that does NOT look for word matches and does NOT generate answers using AI, but simply picks up relevant Wikipedia articles that potentially contain information related to the question. |
+
+
+
 
 ### [](#parler)Parler
 
@@ -1390,6 +1402,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SEO Spyglass Backlink checker](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html) |     |
 | [Neilpatel backlinks analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks) | find out how many sites are linking to a certain web page |
 | [Webmeup](https://webmeup.com/) | Service for collecting information about backlinks to the site. Without registering an account it shows not everything, but a lot. To see more data (full text of link anchors, etc) for free, use the View Rendered Source extension: |
+| [backlinko.com/tools/people-also-ask](https://backlinko.com/tools/people-also-ask) | Free online tool for more information about the domain or URL. It shows which search queries people use to find the domain/URL, as well as the popularity index for that query. Keyword search can be used to gather information by company name, nickname, etc. |
+
+
+
 
 ### [](#website-analyze)Website analyze
 
@@ -1711,6 +1727,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
 | [CopySeeker](https://copyseeker.net/discovery) | A reverse image search tool that looks for exact copies of an image and may help identify when it first appeared online. |
 | [Search by Image](https://github.com/dessant/search-by-image) | A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines. |
+| [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
+
+
+
 
 ### [](#image-editing-tools)Image editing tools
 
@@ -1758,7 +1778,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Sealed Rose](https://sealedrose.com/verify-image) | AI-generated image, video deepfake, and audio voice-clone forensic analyzer (EXIF metadata, C2PA provenance, spectral frequency analysis, and reverse face search) |
 | [GeoInfer](https://geoinfer.com/) | AI that predicts where a photo was taken from its visual content (landmarks, architecture, terrain), no EXIF needed. Free daily trial and API. |
 | [Florence-2](https://huggingface.co/spaces/gokaygokay/Florence-2) | A free online tool for recognizing handwritten text. Select “More detailed caption” for handwriting recognition. |
-
+| [ZEROX OCR](https://github.com/getomni-ai/zerox) | A quality open source text recognition tool that works very well with complex infographics.|
+| [Ovis1.6-Gemma2-9B](https://huggingface.co/spaces/AIDC-AI/Ovis1.6-Gemma2-9B) | A language model that is good at image identification (handwriting translation, photo geolocation, multiple symbol recognition, etc.) It is open source and can be implemented in different tools. |
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
@@ -1833,6 +1854,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Related Repos](https://relatedrepos.com/) | Discover related open source projects. Find alternatives and other similar repositories. Updated daily. |
 | [Grep.app](https://grep.app/) | regExp search in Github repositories |
 | [Searchcode.com](https://searchcode.com/) | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages |
+| [Searchcode SDK by rly0nheart](https://github.com/rly0nheart/searchcode-sdk) | Simple #python library for search 75 billion lines of code from 40 million projects in http://searchcode.com. |
 | [Code Repository Google CSE](https://cipher387.github.io/code_repository_google_custom_search_engines/) | Google CSE for search 15 code repository services |
 | [Libraries.io](https://libraries.io) | search by 4 690 628 packages across 32 different package managers |
 | [The Scraper](https://github.com/champmq/TheScrapper) | Simple tool for scrapping emails and social media accounts from the website's source code. |
@@ -1873,7 +1895,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [PLDB](https://pldb.com/) | A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles |
 | [Pyrexp](https://pythonium.net/regex) | Online regex tester and visualizer for Python |
 
-[](#search-engines)Search engines
+## [](#search-engines)Search engines
 
 
 | Link | Description |
@@ -1921,6 +1943,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [EyeDex](https://www.eyedex.org/) | Open directory search engine: 1.3 PB, 21,178,766 files, 5,229,942 directories, 161 servers |
 | [Open Directory Finder](http://ewasion.github.io/opendirectory-finder/) | Generates queries for different search engines, including Google, StartPage, and FilePursuit, to find direct download links to files such as movies, books, videos, and images. |
+| [Open Directory Search Tool](http://opendirsearch.abifog.com) | A simple online tool that generates queries to Google to search for audio, video, ebooks and archives in open directories on different servers. |
+| [Files-Explorer](https://chromewebstore.google.com/detail/files-explorer/cmibdnmeihbjkdgnohgjeelkofcnfhid) | Do you use Google dork "intitle:index of site:*.yourtarget.com"? This extension allows you to make viewing files in open directories more convenient. For example, it displays images as thumbnails without downloading them. |
+
 
 ### [](#universal-search-tools)Universal search tools
 
@@ -1938,7 +1963,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [AI Search Whisper](https://google.digitaldigging.org/index2.html) | Enter your problem and get a list of links to Google and Bing queries (using advanced search operators) that will help you solve it. |
 | [Adverse Media Search](https://no-nonsense-intel.com/adverse-media-search-tool) | Select a type of person and one or more information categories, and the service generates a search query with relevant keywords. |
 | [Search Deck](http://searchdeck.onrender.com) | - quickly search Google/Bing using advanced search operators<br>- bookmark search queries and results |
-
+| [Search Result Previews](https://chromewebstore.google.com/detail/search-result-previews/cedcejfiniojnlhlfhcppenochinijfo) | Have you ever had an article you're looking for that you can't remember the title or the name of the site it was published on, but remember the keyword and color scheme of that site? Add-on for such situations. |
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
 
@@ -2063,7 +2088,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FullHunt](https://fullhunt.io/) | Attack surface database of the entire Internet.  Search info by domain, ip, technology, host, tag, port, city and more. |
 | [Hunter](https://hunter.how/) | Search engine for security researchers (analog Shodan, Censys, Netlas). Search by domain, page title, protocol, location, certificates, http headers, ASN, product name and more. |
 | [Whatoblock](https://whatoblock.com/) | Threat intelligence search engine built on honeypot data. Search scanners, botnet C2 servers, abusive proxies, Tor exit nodes and DDoS sources by IP, port, ASN and country. |
+| [ODIN](http://search.odin.io) | IP search engine. Search by ip, domain name, ASN, geolocation, BGP prefix, ASN number, WHOIS updated date and other parameters. |
 
+
+You also may interested [Awesome IP Search Engines Github repo](https://github.com/cipher387/awesome-ip-search-engines).
 
 ## [](#archives)Archives
 
@@ -2147,6 +2175,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [visLibri](https://www.vialibri.net/) | Worldâs largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
 | [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
+| [British🇬🇧 Newspaper Archive](https://britishnewspaperarchive.co.uk) | 85M+ newspaper's pages from the 1700s. England🏴󠁧󠁢󠁥󠁮󠁧󠁿, Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿, Ireland🇮🇪 and Wales🏴󠁧󠁢󠁷󠁬󠁳󠁿. |
+| [FEDERAl TRADE COMMISSION DATABASE](http://ftc.gov/legal-library/browse/cases-proceedings) | A lot of PDF documents that uncover fraud, scams, and deceptive practices by companies in USA🇺🇸 Search by company name or keyword. |
+
+
 
 ### [](#factchecking)Factchecking
 =====================
@@ -2156,7 +2188,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FEAT (Factcheck Explorer Analysis Tool)](https://feat.onrender.com) | Analyzes information across a wide variety of queries, including tag/source volume, claim timelines, fact-check details, and statistics. |
 | [Google Fact Check Explorer](https://toolbox.google.com/factcheck/) | Upload an image or paste its link to check which articles it was used in and how factually accurate those articles are. |
 | [AllYouCanRead](http://allyoucanread.com) | A directory of news sites organized by country, with additional directories for dating, real estate, jobs, cars, and more. |
-
+| [AskNews](http://asknews.app) | Online tool for search and analyze last news from 50,000+ sources ( 14 languages). Sources filters, keywords stats, relationship graphs, statistics, visualizations, AI chat and more. Partly free. |
 
 
 ### [](#science)Science
@@ -2400,7 +2432,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | --- | --- |
 | [spokenai.io](https://spokenai.io) | AI translator that can translate different dialects.<br><br>140 Languages+<br>130 Dialects+ |
 | [Arabic Dialects Translator](https://klemy.qodek.net/staging) | Online tool for translating texts from 20+ different Arabic dialects. |
-
+| [Image Translation Assistant](https://chromewebstore.google.com/detail/image-translation-assista/jkhebkocllcbjacmdmkgapgfiiedfgef) | A simple and quick Chrome extension that uploads any image to Google Translate and translates it in two clicks. |
 
 ### [](#noosint-tools)NOOSINT tools
 
@@ -2449,6 +2481,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
 | [JSONHero](https://jsonhero.io/) | Free online tool for visualizing data in JSON format. With tree structure display, syntax highlighting, link preview, pictures, colors and many other interesting features. |
 | [TRACEZ](https://tracez.no-do.dev/) | OSINT investigation platform: 32 open sources feed an entity graph you can expand with AI, monitors keep watching for changes, and evidence is signed with Ed25519 so anyone can verify it without an account. Free plan, paid plans from 19 EUR/month. |
+| [Predicta Graph](http://predictagraph.com) | Online tool for visualizing investigations: 278 types of nodes Import from JSON Export to JSON/PNG Timelines Investigation logs (!) Partly free. |
+| [MyMapAI](http://mymap.ai) | An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation. |
+
+
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
 
@@ -2578,7 +2614,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [ExportGenius](http://exportgenius.in) | A trade-data service with information on imports by country, including trade partners, ports, importing companies, and shipment records such as product descriptions, quantities, and countries. |
 | [looot](https://looot.ai) | Company enrichment by domain and company search across 300+ data providers, through an API or a remote MCP server. |
 | [USAspending Awards (Apify)](https://apify.com/publicrecords/usaspending-awards-scraper) | Federal contract and grant awards from USAspending.gov by agency, recipient, NAICS code and period: who was paid, how much and for what, with award IDs and source links. Runs on Apify. |
-
+| [Free Clutch․co Scraper](https://thewebscrapingguy.com/free-tools/clutch-scraper) | Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks. |
 
 
 
