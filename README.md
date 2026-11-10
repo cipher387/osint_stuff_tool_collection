@@ -144,6 +144,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Video editing and analyze](#video-editing-and-analyze)
 - [Image Search and Identification](#image-search-and-identification)
     - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
+    - [Video search engines](#video-search-engines)
     - [Image editing tools](#image-editing-tools)
     - [Other Image Search Engines](#other-image-search-engines)
     - [Image Analyze](#image-analyze)
@@ -1730,6 +1731,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
 
 
+### [](#video-search-engines)Video search engines
+
+
+| Link | Description |
+| --- | --- |
+| [Google advanced video search](https://google.com/advanced_video_search) | When you search for videos on search engines, don't forget that there, as on and YouTube, there are advanced search filters. For example, #Google has filters for language, duration, subtitles, and domain. |
 
 
 ### [](#image-editing-tools)Image editing tools
@@ -1826,7 +1833,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [LikeFont.com](https://en.likefont.com/) |     |
 | [What Font Finder](https://whatfontfinder.com/) | Upload a screenshot to identify the font, then browse free lookalikes with their licences stated. |
 
-[](#cryptocurrencies)Cryptocurrencies
+# [](#cryptocurrencies)Cryptocurrencies
 
 | Link | Description |
 | --- | --- |
@@ -1846,7 +1853,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FreezeRadar](https://freezeradar.com/) | Free, no sign-up: check whether a wallet address was frozen/blacklisted by a stablecoin issuer (USDT, USDC, PAXG, XAUt) and see sanctions exposure and freeze/release history |
 
 
-[](#code)Code
+# [](#code)Code
 
 
 | Link | Description |
