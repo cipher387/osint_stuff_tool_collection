@@ -1595,6 +1595,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Warnwell](https://warnwell.com/) | Bulk domain health check: SPF, DKIM, DMARC, spoofing risk, DNSSEC, expiry dates, SSL certificates and parked domains for many domains at once. Free, no signup |
 | [IPGeolocation.io](https://ipgeolocation.io/) | IP lookup API: geolocation, ASN, time zone and abuse contact, plus VPN, proxy, Tor and bot detection with a threat score. Partly free (1,000 requests a day; security data on paid plans) |
 | [VPNDetection](https://vpndetection.io/) | Checks whether an IP is a VPN, proxy, Tor exit or hosting address, with its country and network. Free, no signup. Also a [Chrome extension](https://chromewebstore.google.com/detail/vpndetection-ip-address-l/kfljannoobgfmbcjobeionephndlnhgi) that looks up an IP you select on any page |
+| [APIFreaks Tools](https://apifreaks.com/tools) | Free browser tools for domain and IP checks: ASN lookup (owner, BGP peers, announced IP ranges), IP to ASN, ISP and hostname, VPN and proxy detection, SSL certificate checker, domain age, MX, DNSSEC and reverse NS lookups, email header analyzer and SPF/DMARC checks. Most work without signup; the same data is also available as an API (10,000 free credits) |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
