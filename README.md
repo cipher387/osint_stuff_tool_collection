@@ -1595,6 +1595,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Warnwell](https://warnwell.com/) | Bulk domain health check: SPF, DKIM, DMARC, spoofing risk, DNSSEC, expiry dates, SSL certificates and parked domains for many domains at once. Free, no signup |
 | [IPGeolocation.io](https://ipgeolocation.io/) | IP lookup API: geolocation, ASN, time zone and abuse contact, plus VPN, proxy, Tor and bot detection with a threat score. Partly free (1,000 requests a day; security data on paid plans) |
 | [VPNDetection](https://vpndetection.io/) | Checks whether an IP is a VPN, proxy, Tor exit or hosting address, with its country and network. Free, no signup. Also a [Chrome extension](https://chromewebstore.google.com/detail/vpndetection-ip-address-l/kfljannoobgfmbcjobeionephndlnhgi) that looks up an IP you select on any page |
+| [APIFreaks](https://apifreaks.com/) | One API key for 100+ APIs: WHOIS (live, historical, reverse), DNS, IP geolocation and reputation, SSL, email and phone validation, screenshots and web scraping. Has an MCP server for AI agents. Partly free (10,000 credits on signup, no card) |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
@@ -1914,6 +1915,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Iris](https://iriscan.app/) | Paste a wallet, token or transaction to see who funded it, its counterparties and where its money went, with a cited source for each label (640,000+ known addresses). Traces through privacy pools, bridges and instant swaps. Solana, Ethereum, Base, Arbitrum, BNB Chain, Bitcoin, Tron and more. First 10 checks free, no account. |
 | [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) | Free web tool, no sign-up: paste a wallet or token address, a link or a suspicious message and it checks for scam signals such as addresses flagged for theft or phishing, honeypot tokens and phishing or drainer sites. |
 | [FreezeRadar](https://freezeradar.com/) | Free, no sign-up: check whether a wallet address was frozen/blacklisted by a stablecoin issuer (USDT, USDC, PAXG, XAUt) and see sanctions exposure and freeze/release history |
+| [CurrencyFreaks](https://currencyfreaks.com/) | Exchange rate API for 166 fiat currencies, 876 cryptocurrencies and 4 precious metals, with history back to 1984, so you can check what an amount was worth on a given date. Also detects currency by IP. Partly free (1,000 requests a month, daily USD rates) |
 
 
 # [](#code)Code
@@ -2733,6 +2735,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Barcodepedia](https://barcodepedia.com/) | Free product encyclopedia by barcode: brand owner, licensee and GS1 registrant behind a product, every fact cited |
 | [UK Find a Tender (Apify)](https://apify.com/publicrecords/uk-find-a-tender-scraper) | UK government tenders from Find a Tender and Contracts Finder with buyer, value, deadline and source link. Runs on Apify. |
 | [TED EU Tenders (Apify)](https://apify.com/publicrecords/eu-ted-notices-scraper) | EU procurement notices from TED (Tenders Electronic Daily) with buyer, CPV code, value, deadline and source link. Runs on Apify. |
+| [CommodityPriceAPI](https://commoditypriceapi.com/) | Prices for 520+ commodities (metals, energy, agriculture) in 150+ currencies, with history back to 1990. Useful for checking a shipment's declared value against market prices. (PAID) free trial, no card |
 
 ### [](#amazon)Amazon
 
