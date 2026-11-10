@@ -1436,6 +1436,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [WhoisFreaks](https://whoisfreaks.com/) | Live, historical and reverse WHOIS (search by owner, company, email or keyword), DNS history, subdomains, SSL and IP reputation lookups. 7,800+ TLDs, 4.6B+ WHOIS records. Free web lookups without signup; API partly free (500 credits on signup) |
 | [@UniversalSearchBot](https://t.me/UniversalSearchBot) | telegram bot finding information about email, russian phone number, domain or IP |
 | [Domain Investigation Toolbox](http://cipher387.github.io/domain_investigation_toolbox/) | gather information about domain with 41 online tools from one page. |
 | [Argos OSINT](https://argos-osint.com) | Free Spanish-language OSINT platform with 31 client-side tools + 7 step-by-step guides + 10 curated OSINT prompts for Claude/LLM. Includes unified domain dashboard (WHOIS/RDAP + DoH DNS + subdomains via crt.sh in one panel), IP geolocation, IP reputation via Shodan InternetDB, pwned password check via HIBP k-anonymity, email header analyzer (SPF/DKIM/DMARC + separate SPF/DMARC auditor), EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat statistics, JWT decoder, regex/color/UA parser/QR/base64/hash/timestamp/URL cleaner. Client-side, no signup, PWA installable. |
@@ -1534,7 +1535,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [RansomLook](https://www.ransomlook.io/) | "Yet another Ransomware gang tracker" (c) Group profiles, recent updates, forums and markets list + some stats. A real treasure cybercrime researchers. |
-| [WhoisFreaks](https://whoisfreaks.com/) | Live, historical and reverse WHOIS (search by owner, company, email or keyword), DNS history, subdomains, SSL and IP reputation lookups. 7,800+ TLDs, 4.6B+ WHOIS records. Free web lookups without signup; API partly free (500 credits on signup) |
 | [Expireddomains.net](https://www.expireddomains.net/deleted-domains/) | lists of deleted and expired domains (last 7 days) |
 | [InstantDomainSearch](https://instantdomainsearch.com/domain/sale) | search for domains for sale |
 | [WhoisDS.com](http://whoisds.com/newly-registered-domains) | database of domains registered in the last day |
