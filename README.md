@@ -202,7 +202,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Virtual Machines/Linux distributions](#virtual-machineslinux-distributions)
 - [My Projects](#my-projects)
 
-[](#maps-geolocation-and-transport)Maps, Geolocation and Transport
+# [](#maps-geolocation-and-transport)Maps, Geolocation and Transport
 
 ### [](#social-media-and-photos)Social media and photos
 
