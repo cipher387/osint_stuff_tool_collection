@@ -401,7 +401,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Street Art Cities](https://streetartcities.com/) | Worldwide street artworks online map: 1,443 cities and counting, 51,510 artworks, 100 countries and 260 verified artists |
 | [All Text in NYC](http://alltext.nyc) | A text-search service for finding inscriptions on walls in Brooklyn. |
 | [15 min city platform](https://whatif.sonycsl.it/15mincity/) | A global map of how cities fit the 15-minute city concept (walking distance to vital facilities such as grocery stores, schools, hospitals, places for walking etc). Useful for: - hotel search - apartment search - all kinds of research |
-
+| [ArchiveGrid](https://researchworks.oclc.org/archivegrid/) | - Worldwide map of 1400+ archives (libraries, universities, museums etc) with contact info - Search by 7M+ archival materials records |
 
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
@@ -441,6 +441,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GPS Visualizer](https://www.gpsvisualizer.com/) | show gpx and tcx files on map |
 | [Map Checking](https://www.mapchecking.com/) | tool for measuring the number of people in a crowd of different area and density. |
 | [OSM Finder](https://osm-finder.herokuapp.com/) | A tool for automate work with Overpass Turbo. Upload a photo, mark a line on the map roads, railroads, power lines and get a ready-made query to find sections of the map corresponding to the photo. |
+| [Find That Spot](http://findthatspot.io) | A tool that allows to search the map for objects that match a text description. Based on OverPass Turbo, but does not require knowledge of query language, works faster and with large areas. |
 | [OpenStreetMap (OverPass Turbo) TagInfo database](https://taginfo.openstreetmap.org/tags) | 694 tags for different objects (buildings, trees, streams etc), 5684 keys, 45 relations (routes, streets etc) |
 | [Python Overpy](https://github.com/DinoTools/python-overpy) | Old (but it's still working) and simple command line #python tool for access Overpass Turbo API. |
 | [Mapnificent](https://www.mapnificent.net/) | Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) |
@@ -524,7 +525,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [URBEX database map](https://www.urbex.nl/map/) | Europe lost places map based by Urbex database |
 | [Lostplace atlas](https://www.google.com/maps/d/viewer?mid=1yRkY_mc-IpSVTfQgR3G6Pvjno3w&hl=en_US&ll=36.86911339765801%2C22.7511350249344&z=4) | Google map of lost places in Germany and other Europe countries |
 | [Virtual Globe Trotting](https://virtualglobetrotting.com/) | Add latitude and longitude to the URL to see the nearby : Unusual and funny images from Google Street View; Interesting parts of the satellite map |
-
+| [UAP Disclosure GPT](https://chatgpt.com/g/g-Yfj4suiG1-uap-disclosure-gpt) | AI chatbot built with a knowledge base of 11 high quality datasets/ reports/PDFs regarding #UAP (unidentified anomalous phenomena), #UFO (unidentified flying object) and #NHI (Non-human intelligence). |
 
 
 ### [](#street-view)Street View
@@ -708,6 +709,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Caption Searcher](https://chrome.google.com/webstore/detail/youtube-caption-searcher/aagdogpbnlhfcaaendmehjmdnepolaap/related) | Well down tool for searching in #YouTube video subtitles by keyword. Use Enter to move forward and Shift+Enter to move back. |
 | [YouTube word search](https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related) | An extension that helps you find at what second in the video a certain word is heard. It's possible to search not only by one word, but by the loaded list of words. |
 | [Speak subtitles to YouTube](https://chrome.google.com/webstore/detail/speak-subtitles-for-youtu/fjoiihoancoimepbgfcmopaciegpigpa/related) | Subtitle dubbing tool with support for several dozen languages and voice variants. Useful for saving time and for education purposes. Works with glitches, try different settings to get better results. |
+| [ChannelGPT](https://github.com/a2ashraf/ChannelGPT/) | Selfhosted #python a tool that converts the latest YouTube channel videos into text, creates a knowledge base from it, and allows to access it with an AI chatbot. |
 | [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
 | [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
@@ -811,6 +813,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Linkedin Datahub](https://github.com/linkedin/datahub/blob/master/docs/faq.md) | linkedIn's generalized metadata search & discovery tool |
 | [Recruitin.net](https://recruitin.net/) | easily use Google to search profiles on LinkedIn |
 | [LinkedIn Profile Viewer (LurkAPI)](https://lurkapi.com/free-tools/linkedin-profile-viewer) | Paste a linkedin.com/in/ link to see what logged-out visitors see (about, experience, education, posts) without signing in, so you don't appear in their profile views. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
+| [Linkedin Profile Viewer](https://nubela.co/proxycurl/demo/linkedin-profile-viewer) | Free shows profile picture and description in full + some information about experience and education. Useful for those who do not have a Linkedin account. |
+
+
 
 ### [](#xing)Xing
 
@@ -2122,6 +2127,7 @@ You also may interested [Awesome IP Search Engines Github repo](https://github.c
 | [Archive.vn](https://archive.vn/) |     |
 | [UKWA](https://www.webarchive.org.uk/) | archive of more than half a billion saved English-language web pages (data from 2013) |
 | [Ghostarchive](https://ghostarchive.org/) | Free web archive that uses ReplayWeb.page for viewing archived sites |
+| [Common Crawl Archive](https://commoncrawl.org) | Common Crawl Archive (https://commoncrawl.org) allows to get a saved copy of most pages on the internet for every week since October 2014 + less regular data since 2008. |
 
 ### [](#tools-for-working-with-web-archives)Tools for working with web archives
 
@@ -2197,7 +2203,7 @@ You also may interested [Awesome IP Search Engines Github repo](https://github.c
 | [Google Fact Check Explorer](https://toolbox.google.com/factcheck/) | Upload an image or paste its link to check which articles it was used in and how factually accurate those articles are. |
 | [AllYouCanRead](http://allyoucanread.com) | A directory of news sites organized by country, with additional directories for dating, real estate, jobs, cars, and more. |
 | [AskNews](http://asknews.app) | Online tool for search and analyze last news from 50,000+ sources ( 14 languages). Sources filters, keywords stats, relationship graphs, statistics, visualizations, AI chat and more. Partly free. |
-
+| [FLINFO](http://flinfo.com) | A partially free tool to monitor, search and quickly analyze news from many different sources in Mandarin, Russian, Arabic, French, Persian, Vietnamese (the tool automatically translates them into English) |
 
 ### [](#science)Science
 
