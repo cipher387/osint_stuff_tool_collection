@@ -176,6 +176,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Phone numbers](#phone-numbers)
 - [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
 - [Sock Puppets](#sock-puppets)
+- [Language/translation tools]((#language-translation)
 - [NOOSINT tools](#noosint-tools)
 - [Visualization tools](#visualization-tools)
 - [Routine/Data Extraction Automation](#routinedata-extraction-automation)
@@ -1928,7 +1929,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [BigSearch](https://github.com/garywill/BigSearch) | Google Chrome and Firefox addon  for quick access to dozens of online search tools: general search engines, video hosts, programming forums, translators and much more. |
 | [AI Search Whisper](https://google.digitaldigging.org/index2.html) | Enter your problem and get a list of links to Google and Bing queries (using advanced search operators) that will help you solve it. |
 | [Adverse Media Search](https://no-nonsense-intel.com/adverse-media-search-tool) | Select a type of person and one or more information categories, and the service generates a search query with relevant keywords. |
-
+| [Search Deck](http://searchdeck.onrender.com) | - quickly search Google/Bing using advanced search operators<br>- bookmark search queries and results |
 
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
@@ -2384,6 +2385,15 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Faker](https://github.com/joke2k/faker) | Python tool for generating fake data in different languages.  Generate addresses, city names, postal codes (you can choose the country), names, meaningless texts, etc. |
 | [Generate Data](https://generatedata.com/generator) | Free tool for generating fake data. Useful for testing scripts and applications. The result can be downloaded in CSV, JSON, XML, SQL or JavaScript (PHP, TypeScript, Python) arrays. |
 
+
+### [](#language-translation)Language/translation tools
+
+| Link | Description |
+| --- | --- |
+| [spokenai.io](https://spokenai.io) | AI translator that can translate different dialects.<br><br>140 Languages+<br>130 Dialects+ |
+| [Arabic Dialects Translator](https://klemy.qodek.net/staging) | Online tool for translating texts from 20+ different Arabic dialects. |
+
+
 ### [](#noosint-tools)NOOSINT tools
 
 
@@ -2601,7 +2611,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Amazon Scraper](https://github.com/scrapehero-code/amazon-scraper) | scraped detail information about list of items |
 | [Amazon ASIN Finder](https://amazon-asin.com/) |     |
 | [Sellerapp.com. Amazon Reverse ASIN search](https://www.sellerapp.com/amazon-reverse-asin.html) |     |
-
+| [Amazon Wedding](https://amazon.com/wedding/search) | Allows to use a person's name to find their wedding date, their partner's name and a list of gifts they would like to receive.<br><br>Surprisingly, this service is used by a huge number of people. |
 
 
 
