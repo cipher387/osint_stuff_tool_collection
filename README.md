@@ -1841,6 +1841,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Search4faces.com](https://search4faces.com/) | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit |
 | [Telegram Facemath bot](https://t.me/facematch_bot) | searching for a face among the archive of photographs from public events in Kazakhstan |
 | [Faceagle](https://faceagle.com) | A face-search service that claims to compare an uploaded photo against a database of 4,190,655 face images.|
+| [Face Detection and comprasion](https://6mzld2.csb.app/) | Sometimes it can be difficult to determine if photos taken at different ages belong to the same person. In such a situation, this tool will help.  | 
 
 ### [](#font-indenfication)Font Indenfication
 
