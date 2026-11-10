@@ -55,6 +55,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Aviation](#aviation)
     - [Maritime](#maritime)
     - [Seafloor](#seafloor)
+    - [Ski areas](#skiareas)
     - [Railway](#railway)
     - [Routes](#routes)
     - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
@@ -306,6 +307,15 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [International Hydrographic Organization](https://www.ncei.noaa.gov/maps/iho_dcdb/) | Bathymetric Data Viewer (worldwide map) |
 | [GBPlates portal](https://portal.gplates.org/cesium/?view=seabed) | Seabed Lithology Map |
 | [Arcgis Living Atlas](https://livingatlas.arcgis.com/emu/#viewpoint=358,1934667,102100,-6700760.335,5209373.047,-6.883&camera=2,50,102100,-6720824.116,4607338.592,371299.140) | Ecological Marine Unit Explorer |
+
+
+
+### [](#skiareas)Ski areas
+
+| Link | Description |
+| --- | --- |
+| [Skimap](https://skimap.org/) | Archive of over 32000 maps from around the world, with content dating back over 90 years.  |
+| [OpenSkiMap](https://openskimap.org/) | Search ski areas, lists and runs |
 
 
 
