@@ -1450,7 +1450,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Content Security Policy Evaluator](https://csp-evaluator.withgoogle.com) | Enter website URLs to check whether their Content Security Policy (CSP) may be vulnerable to cross-site scripting (XSS) attacks. |
 | [URLDNA](https://urldna.io) | A free online tool for gathering information about a URL, including screenshots, SSL certificates, IP addresses, page text, cookies, technologies, HTTP requests, headers, console messages, and metadata. |
 | [DPulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) | A Python tool that gathers domain information and generates PDF or XLSX reports covering WHOIS, social media links, subdomains, DNS, SSL certificates, internet database results, and website technologies. |
-
+| [Robofinder](https://github.com/Spix0r/robofinder) | A tool to analyze the history of robots.txt. It analyzes all versions of the file from the wayback machine and displays a list of all found directories. |
 
 
 
