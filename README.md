@@ -705,6 +705,22 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 ### [](#youtube)YouTube
 
+
+#### Channels and videos search
+| Link | Description |
+| --- | --- |
+| [Videosearch.io](https://videosearch.io/) | Free online tool to search for videos on different platforms: YouTube, TikTok, VK, Youku, Netflix, Vimeo and many others. |
+| [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
+| [YouTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
+| [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
+| [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
+| [YouTube Channel Crawler](https://channelcrawler.com/) | Search across 20, 625,734 channels. Search by name, category, country, number of subscribers, views, videos and creation date. |
+| [RecentReborn](https://recentreborn.com/) | Search Instagram, TikTok and YouTube recent posts in one place. Partly free. |
+| [Quick YouTube Advanced Search](https://playlists.at/youtube/search/) | YouTube doesn't have many advanced search operators and they're easy to remember. But for those who haven't yet, there's this very simple and free online tool. |
+| [YouFilter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
+
+#### Search deleted and unlisted videos
+
 | Link | Description |
 | --- | --- |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | Search for videos available only by link on youtube |
@@ -714,17 +730,17 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Unsorted or Miscellaneous Social Media Video](https://archive.org/details/social-media-video-unsorted) | Web archive YouTube videos collection |
 | [YouTubeCrawl](https://archive.org/details/youtubecrawl) | Web archive YouTube videos collection |
 | [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search video info (thumbnails, metadata) by ID in different sources: Wayback Machine, GhostArchive, Distributed YouTube Archive, Hobune Stream, Filmot, RemovedEDM, Odysee and PreserveTube |
-| [Videosearch.io](https://videosearch.io/) | Free online tool to search for videos on different platforms: YouTube, TikTok, VK, Youku, Netflix, Vimeo and many others. |
-| [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
-| [YouTube Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php) | Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos |
+
+
+
+
+
+#### Transcript and subtitles
+
+| Link | Description |
+| --- | --- |
 | [Filmot](https://filmot.com/) | YouTube subtitles search engine. Search across 1.33+ billion transcripts, 1.18+ billion videos, 72+ million channels |
 | [Arcmira: YouTube Transcript Search](https://arcmira.com) | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. |
-| [YouFilter](https://chrome.google.com/webstore/detail/youfilter-â-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru) | An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV. |
-| [YouTube Reverse Order Search Tool](http://activetk.jp/tools/yt-not-well-known) | Sorts YouTube search results in reverse order by views or likes, helping surface lesser-known content with few or zero views. |
-| [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) | An online tool that searches for information on YouTube videos by ID in the following sources: Wayback Machine; GhostArchive; #youtubearchive; Filmot |
-| [YouTube Channel Crawler](https://channelcrawler.com/) | Search across 20, 625,734 channels. Search by name, category, country, number of subscribers, views, videos and creation date. |
-| [RecentReborn](https://recentreborn.com/) | Search Instagram, TikTok and YouTube recent posts in one place. Partly free. |
-| [Quick YouTube Advanced Search](https://playlists.at/youtube/search/) | YouTube doesn't have many advanced search operators and they're easy to remember. But for those who haven't yet, there's this very simple and free online tool. |
 | [YouTube Transcript Scraper](https://apify.com/harshmaur/youtube-transcript-scraper) | Collect public YouTube captions with time-linked segments, video metadata and optional translation. Supports video, channel and playlist links plus text, SRT or VTT exports. Paid per successful transcript; no YouTube login. |
 | [YouTube Whisperer](https://huggingface.co/spaces/jeffistyping/Youtube-Whisperer) | Transcribe YouTube video |
 | [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) | Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles. |
@@ -735,6 +751,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
 | [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
+
+
+#### Comments
+
+
+| Link | Description |
+| --- | --- |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
 | [AudienceCue YouTube Comment Downloader](https://audiencecue.com/en/tools/youtube-comment-downloader) | Download public YouTube video or Shorts comments as CSV for research. |
 | [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem. |
@@ -752,6 +775,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
 | [YouTube Comments Search](http://youtube-comments.io) | Paste a YouTube video link to search its comments by keyword and sort them by likes, replies, or date. |
 | [First YouTube Comment Finder](https://tubepilot.ai/tools/first-comment-finder/) | Free online tool, show exact time and author nickname. The first comments on posts and videos are often left by the author's close friends. Therefore, finding them can be useful for investigations on all social networks.  |
+
+
+#### Other tools
+
 | [Noxinluencer](https://noxinfluencer.com/youtube/channel-compare) | Youtube channels comparing |
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |  Really old YouTube vide metadata viewer (It’s been offline for ages and probably won’t work again.)   |
 | [YouTube playlist len](https://ytplaylist-len.herokuapp.com/) | Find out the total time of all the videos in playlist |
@@ -766,7 +793,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube channel archiver](https://github.com/dmn001/youtube_channel_archiver) | Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels). |
 | [YouTube Screen Capture](https://github.com/mrwnwttk/youtube_stream_capture) | allows you to download a stream in pieces and then merge them. |
 | [YouTube Scraper](https://apify.com/bernardo/youtube-scraper) | Extract and download channel name, likes, number of views, and number of subscribers. Scrape by keyword or URL. |
-| [HashCut](https://www.hashcut.com/) | Free online tool for making YouTube video annotations.Select a video clip, add text or a sticker to it, and share the link with someone (no registration required). |
+| [HashCut](https://www.hashcut.com/) | Free online tool for making YouTube video annotations. Select a video clip, add text or a sticker to it, and share the link with someone (no registration required). |
 | [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
 | [OSINT Tube](https://github.com/rdWei/OsintTube) | #Python tool to automate the collection of YouTube channel info by ID: date of registration, number of views/subscribers/videos, earnings and other details. Use in combination with XARGS and other Python tools for YouTube #osint. |
