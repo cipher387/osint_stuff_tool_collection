@@ -1534,7 +1534,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [RansomLook](https://www.ransomlook.io/) | "Yet another Ransomware gang tracker" (c) Group profiles, recent updates, forums and markets list + some stats. A real treasure cybercrime researchers. |
-| [Whois Freaks](https://whoisfreaks.com/) | API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name |
+| [WhoisFreaks](https://whoisfreaks.com/) | Live, historical and reverse WHOIS (search by owner, company, email or keyword), DNS history, subdomains, SSL and IP reputation lookups. 7,800+ TLDs, 4.6B+ WHOIS records. Free web lookups without signup; API partly free (500 credits on signup) |
 | [Expireddomains.net](https://www.expireddomains.net/deleted-domains/) | lists of deleted and expired domains (last 7 days) |
 | [InstantDomainSearch](https://instantdomainsearch.com/domain/sale) | search for domains for sale |
 | [WhoisDS.com](http://whoisds.com/newly-registered-domains) | database of domains registered in the last day |
