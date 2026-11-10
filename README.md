@@ -281,6 +281,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) |
 | [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | An extension that displays the size of the legroom between the seats next to the flight information. |
 | [Flight Status Info](https://flight-status.info/) | - get a list of airports by city name; - view the flight schedule of a particular airport; - view the flight schedule of a particular airline; - getting detailed information about a flight and more  |
+| [WhatFliesWhere](https://whatflieswhere.com/airports) | nonstop routes from 3,000+ airports on a map, with airlines, days flown and seasonal start and end dates; route pages show flight times and aircraft |
 
 ### [](#maritime)Maritime
 
