@@ -2695,6 +2695,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [looot](https://looot.ai) | Company enrichment by domain and company search across 300+ data providers, through an API or a remote MCP server. |
 | [USAspending Awards (Apify)](https://apify.com/publicrecords/usaspending-awards-scraper) | Federal contract and grant awards from USAspending.gov by agency, recipient, NAICS code and period: who was paid, how much and for what, with award IDs and source links. Runs on Apify. |
 | [Free Clutch․co Scraper](https://thewebscrapingguy.com/free-tools/clutch-scraper) | Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks. |
+| [LitigationWatch](https://litigationwatch.dev) | (PAID) Daily litigation monitoring for any Australian company: checks courts and tribunals in every Australian jurisdiction, and all courts in Hong Kong and Singapore, and emails an alert when a watched company is named in a case. From US$9 a month. |
 
 
 
