@@ -1288,6 +1288,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WhatsApp Checker](http://2chat.co/tools/whatsapp-checker) | An online tool and API that claims to retrieve a WhatsApp profile image using a phone number.|
 
 
+### [](#wechat)WeChat
+
+| Link | Description |
+| --- | --- |
+| [ReadGZH](https://readgzh.site/) | Turns a public WeChat Official Account article link (mp.weixin.qq.com/s/...) into clean full text/Markdown with title, account name and publish date, readable without the WeChat app. Free daily quota, plus an API and remote MCP. |
 
 
 ### [](#kik)Kik
