@@ -1923,6 +1923,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Iris](https://iriscan.app/) | Paste a wallet, token or transaction to see who funded it, its counterparties and where its money went, with a cited source for each label (640,000+ known addresses). Traces through privacy pools, bridges and instant swaps. Solana, Ethereum, Base, Arbitrum, BNB Chain, Bitcoin, Tron and more. First 10 checks free, no account. |
 | [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) | Free web tool, no sign-up: paste a wallet or token address, a link or a suspicious message and it checks for scam signals such as addresses flagged for theft or phishing, honeypot tokens and phishing or drainer sites. |
 | [FreezeRadar](https://freezeradar.com/) | Free, no sign-up: check whether a wallet address was frozen/blacklisted by a stablecoin issuer (USDT, USDC, PAXG, XAUt) and see sanctions exposure and freeze/release history |
+| [XMRList](https://xmrlist.com/) | Free, no sign-up: look up a service that accepts Monero (XMR) before paying it, with its KYC policy, .onion address, uptime, scam warnings and user reports |
 
 
 # [](#code)Code
