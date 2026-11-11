@@ -116,6 +116,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Messengers](#messengers)
     - [Telegram](#telegram)
     - [WhatsApp](#whatsapp)
+    - [WeChat](#wechat)
     - [Kik](#kik)
     - [Slack](#slack)
     - [Skype](#skype)
