@@ -1537,7 +1537,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related) | Chrome extension for quick gathering info about IP, domain, hash or URL in dozens of different services: Censys, GreyNoise, VirusTotal, Shodan, ThreatMiner and many others. |
 | [Whois Domain Search Tool](https://whois.marcaria.com/en) | A tool that allows you to query whois data for a site name in several domain zones at once. |
 | [IP Neighbors](https://www.ip-neighbors.com/host/) | Find the hosting neighbors for a specific web site or hostname |
-| [The Favicon Finder](http://besticon.herokuapp.com/) | Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly. |
+| [FaviconDL](https://favicondl.com/) | Finds the favicon and touch icons a site actually declares (HTML, manifest, /favicon.ico) and lets you download them as PNG/ICO at 16–512px; also has a free no-key JSON API. Replaces The Favicon Finder (besticon.herokuapp.com), which now returns HTTP 500. |
 | [HostHunter](https://github.com/SpiderLabs/HostHunter) | Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames |
 | [Tor Whois](https://torwhois.com/) |     |
 | [Dnstwister](https://dnstwister.report/) | The anti-phishing domain name search engine and DNS monitoring service |
