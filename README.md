@@ -184,6 +184,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Language/translation tools](#language-translation)
 - [NOOSINT tools](#noosint-tools)
 - [Visualization tools](#visualization-tools)
+- [Web capturing tools](#capturing-casemanagement)
 - [Routine/Data Extraction Automation](#routinedata-extraction-automation)
 - [Browser analyze](#browser-analyze)
 - [Files](#files)
@@ -2155,7 +2156,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-### [](#iot)IOT (ip search engines)
+### [](#iot)IOT (IP search engines)
 
 | Link | Description |
 | --- | --- |
@@ -2574,6 +2575,42 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Predicta Graph](http://predictagraph.com) | Online tool for visualizing investigations: 278 types of nodes Import from JSON Export to JSON/PNG Timelines Investigation logs (!) Partly free. |
 | [MyMapAI](http://mymap.ai) | An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation. |
 
+
+
+### [](#capturing-casemanagement)Web capturing tools
+
+#### Tools developed specifically for OSINT and forensic
+
+| Link | Description |
+| --- | --- |
+| [Forensic OSINT](https://www.forensicosint.com/) | Capture pages exactly as seen, expand comments automatically, and generate digitally signed PDF evidence in seconds. |
+| [Ubikron](https://www.ubikron.com/)  | Records every page you visit, connects what you find on a graph, enrich using any API. |
+| [Hunchly](https://hunch.ly/) | Capture, organize, and preserve information from online research, safely, quickly, and easily. |
+| [Forensic Web Capture: Court-Grade Evidence for OSINT](https://chromewebstore.google.com/detail/forensic-web-capture-cour/ncgfnhacjiahmclmephmjaceeeamdama)  |  Saves web pages and social media posts as tamper-evident records for online investigations and OSINT. Full-page screenshots, screen recordings and page-source snapshots are each SHA-256 hashed, sealed and independently timestamped the moment you save them. |
+| [OSINT Webpage Capture V1-1 Lite](https://chromewebstore.google.com/detail/osint-webpage-capture-v1/jnkicaijglnfbibbniohdkinjpbopofn)  | Local browser extension for capturing webpages as visual evidence. It allows users to save visible or full-page screenshots as an image or PDF, create selected-area snips, and add basic case context such as a case reference and investigation name. |
+| [OSINT Receipts Capture](https://chromewebstore.google.com/detail/osint-receipts-capture/kapooffadpjdgannmlhdibjiphknlgel)  | Capture digital evidence for OSINT Receipts investigations. |
+| [Veriscope - Forensic Web Capture](https://chromewebstore.google.com/detail/veriscope-forensic-web-ca/ijjejokcddmckknnanngagjclndngefp)  | Professional-grade Chrome extension designed to help you capture, preserve, and document web content with court-ready precision. Whether you’re collecting evidence for legal cases, compliance reviews, investigations, or audits, Veriscope ensures every capture is authentic, timestamped, and verifiable.   |
+| [PageVault](https://chromewebstore.google.com/detail/pagevault/oncabioldblaemefiaiplemoeigklaai)  | Capture, organize, and research web pages. Your personal OSINT toolkit for saving and annotating anything you find online. |
+
+
+#### Simple web content saving tools
+
+| Link | Description |
+| --- | --- |
+| [Single file](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en)  | Extension that helps you to save a complete page (with CSS, images, fonts, frames, etc.) as a single HTML file.  |
+| [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)  | https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en |
+| [Save Page WE](https://chromewebstore.google.com/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof)  | Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.  |
+| [FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)  | Take FULL webpage screenshots. Capture, edit and save them to PDF/JPEG/GIF/PNG, upload, print, send to OneNote, clipboard or email. |
+| [Chrome Capture - Screenshot & GIF](https://chromewebstore.google.com/detail/chrome-capture-screenshot/ggaabchcecdbomdcnbahdfddfikjmphe)  | All-in-one screenshot + GIF capture! Take screenshots (area, full page), record screen & edit instantly. |
+| [Full Page Screen Capture](https://chromewebstore.google.com/detail/full-page-screen-capture/pmabjgjpcbofkbbeiphkiaanogobokgg)  | Capture full-page, visible-area, or custom-crop screenshots — then annotate, blur, watermark & export as PNG/JPG/PDF. |
+
+#### Proof & Evidence Verification Tools
+
+| Link | Description |
+| --- | --- |
+| [Evidence Capture — Webpage Archive & Proof](https://chromewebstore.google.com/detail/evidence-capture-%E2%80%94-webpag/ejlmloaheelhdaagibcmimahgmhfhnja)  | Save any web page as a timestamped, hash-verified archive (SHA-256) in one click. Tamper-evident webpage capture and chain-of-custody proof, saved locall  |
+| [ProofSnap](https://chromewebstore.google.com/detail/proofsnap/pmofaiaefjjnfphfdhjaeogelolnikho)  | ProofSnap turns your browser into a trust engine—capturing screenshots that can be proven real, time-bound, and untampered, all anchored on the Numbers Protocol decentralized media network.  |
+| [GetProofAnchor](https://chromewebstore.google.com/detail/getproofanchor/pnbphfjdieoklgdadpnmipaijeaegcch)  | Save web pages as evidence with an eIDAS qualified timestamp: server capture for public pages, browser capture for logged-in pages. |
 
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
