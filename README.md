@@ -22,7 +22,7 @@ If you need to gather information as quickly as possible using a username, email
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
 
-<i>I have been working on this repository since the summer of 2021. Many tools are constantly becoming obsolete, no longer supported or working at all. But I don't remove from the list so you can use their names and descriptions to find analogues.</i>
+<i>I have been working on this repository since the summer of 2021. Many tools are constantly becoming obsolete, no longer supported or working at all. But I don't remove from the list so you can use their names and descriptions to find analogues. Recently, I started marking dead services with the 🪦 emoji, but I’ll never manage to mark them all. </i>
 
 
 
@@ -212,21 +212,21 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| 🪦[Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
-| 🪦[photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
-| 🪦[Snapchat map](https://map.snapchat.com/) |     |
-| 🌐[YouTube Geofind](https://mattw.io/youtube-geofind/) | View YouTube geottaged video on map |
-| [Flickr Photo Map](https://www.flickr.com/map) |     |
-| [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
-| [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
-| [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
-| [Pastvu.com](https://pastvu.com/) | View historical photos taken at a particular location on a map. |
-| [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
-| [WikiShootMe](https://wikishootme.toolforge.org/) | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
-| [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
-| [COPERNIX](https://copernix.io/) | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
-| [WikiNearby](https://wikinearby.toolforge.org/?lang=en&q=55.333056%2C+27.248889) | Enter geographic coordinates, language, and get a list of Wikipedia articles about streets, towns, stations and other notable places nearby. |
-| [Huntel.io](https://www.huntintel.io/) | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
+| 🪦 [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
+| 🪦 [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
+| 🪦 [Snapchat map](https://map.snapchat.com/) |     |
+| 🌐 [YouTube Geofind](https://mattw.io/youtube-geofind/) | View YouTube geottaged video on map |
+| 🌐 [Flickr Photo Map](https://www.flickr.com/map) |     |
+| 🪦  [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
+| 🌐  [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
+| 🪦  [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
+| 🌐  [Pastvu.com](https://pastvu.com/) | View historical photos taken at a particular location on a map. |
+| 🌐  [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
+| 🌐  [WikiShootMe](https://wikishootme.toolforge.org/) | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
+| 🌐  [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
+| 🪦  [COPERNIX](https://copernix.io/) | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
+| 🌐  [WikiNearby](https://wikinearby.toolforge.org/?lang=en&q=55.333056%2C+27.248889) | Enter geographic coordinates, language, and get a list of Wikipedia articles about streets, towns, stations and other notable places nearby. |
+| 🔧  [Huntel.io](https://www.huntintel.io/) | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
 
 ### [](#nature)Nature
 
