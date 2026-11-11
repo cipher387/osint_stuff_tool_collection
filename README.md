@@ -1415,6 +1415,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GoGetCrawl](https://github.com/karust/gogetcrawl) | Search and download archived web pages and files from Common Crawl and Wayback Machine. |
 | [ASSAY](https://d09r.github.io/assay-url-inspection-tools/) | URL inspection toolkit: live web requests monitor, subdomains/connected domains, scam, phishing, malware detection, WHOIS, Geo IP, SafeFrame view and more. |
 | [Monolith](https://github.com/Y2Z/monolith) | A Rust tool for saving a web page along with its associated JavaScript, CSS, images, and other files. |
+| [ReadGZH](https://readgzh.site/) | Turns a public WeChat Official Account article link (mp.weixin.qq.com/s/...) into clean full text/Markdown with title, account name and publish date, readable without the WeChat app. Free daily quota, plus an API and remote MCP. |
 
 
 
