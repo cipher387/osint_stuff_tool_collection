@@ -1525,7 +1525,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
 | [Favicon Hasher](https://faviconhasher.codejavu.tech/) | Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye) |
 | [FAVIHUNTER](https://github.com/eremit4/favihunter) | Generate search queries by URL for searching favicons in FOFA, ZoomEye, Shodan, Criminal IP, Censys, ODIN |
-
+| 🪦 [The Favicon Finder](http://besticon.herokuapp.com/) | Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly. |
+| [FaviconDL](https://favicondl.com/) | Finds the favicon and touch icons a site actually declares (HTML, manifest, /favicon.ico) and lets you download them as PNG/ICO at 16–512px; also has a free no-key JSON API. Replaces The Favicon Finder (besticon.herokuapp.com), which now returns HTTP 500. |
 
 
 ### [](#domainip-investigation)Domain/IP investigation
