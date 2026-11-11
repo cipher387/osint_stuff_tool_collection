@@ -212,10 +212,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
-| [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
-| [Snapchat map](https://map.snapchat.com/) |     |
-| [YouTube Geofind](https://mattw.io/youtube-geofind/) | view YouTube geottaged video on map |
+| 🪦[Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
+| 🪦[photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
+| 🪦[Snapchat map](https://map.snapchat.com/) |     |
+| 🌐[YouTube Geofind](https://mattw.io/youtube-geofind/) | View YouTube geottaged video on map |
 | [Flickr Photo Map](https://www.flickr.com/map) |     |
 | [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
 | [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
