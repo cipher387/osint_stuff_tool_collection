@@ -1256,9 +1256,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 | []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+
+
+
 
 
 
@@ -1284,6 +1284,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [Xtea Telegram Search](https://xtea.io/ts_en.html#gsc.tab=0) | Find Channels, Bots & Groups Instantly  |
 | 🌐 [Teleteg](https://teleteg.com/) | Search: 5,603,086 Telegram groups, or 5,925,650 channels. Based on keywords, language or location. |
 | 🌐 [Intel X Telegram Search](https://intelx.io/tools?tab=telegram) | Google Custom Search Engines based Telegram search |
+| 🌐 [DarkNyx](https://darknyx.com/) | Ransomware activity Telegram search |
+| 🌐 [DeadDrop](https://deaddrop.theosintconsultants.com/) | Telegram posts search tool. 175,000,000+ posts. 2,000,000+ channels. Data range from 2026-03-09 (for free search)  |
+| 🌐 [TraceOne](https://traceon.re/dashboard) | Search across 90M+ Telegram messages in real time.  |
+
+
 
 
 #### Channels and groups directories
@@ -1321,8 +1326,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 #### Command line/self-hosted tools
 
+
+⚠️⚠️⚠️ Do not use accounts containing important contacts, messages or data to obtain a Telegram API key. Telegram may sometimes block accounts for using data-collection tools.
+
 | Link | Description |
 | --- | --- |
+|  >_ [Telegram MCP server](https://github.com/chigwell/telegram-mcp) | Integration for Claude, Cursor, and other MCP-compatible clients: read chats, manage groups and modify messages, media, contacts, and settings. |
+|  >_ [Telegram Bot Dumper](https://github.com/soxoj/telegram-bot-dumper) | Easy dumping of all Telegram bot stuff. Input: only bot token. Output: bot name & info, all chats text history & media, bot's users info & photos.  |
 |  >_ [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) | OSINT toolkit for investigating Telegram chats. |
 |  >_ [Telescan](https://github.com/pielco11/telescan) | Search users in groups (and in which groups is the user) by id, username or phone number |
 |  >_ [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
@@ -1334,6 +1344,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 |  >_ [Telerecon](https://github.com/sockysec/Telerecon) | A reconnaissance framework for researching and investigating Telegram. |
 |  >_ [Telegraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) | A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON. |
 |  >_ [4CAT](https://github.com/digitalmethodsinitiative/4cat) | Capture and Analysis Toolkit provides modular data capture & analysis for a variety of social media platforms. |
+|  >_ [Telegram Scraper](https://github.com/unnohwn/telegram-scraper) | Scrape messages from multiple channels, download media files, export data to JSON/CSV formats or SQLite database storage|
+
+
 
 #### Online tools
 
@@ -1341,8 +1354,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | 🌐 [Telegramtrac](https://telegramtrac.streamlit.app/) | Browser interace for Telegram API |
 | 🌐 [TgCollector](https://www.tgcollector.com/) | TG collector (TGC) is a browser based graphical user interface for collecting Telegram messages from the channels |
-
-
+| 🌐 [ShareTrace](https://share.whopostedwhat.com/) | Displays information about the user on various platforms who shared the link (TikTok, Pinterest, Claue, Discord, Telegram, SharePoint, Susbtack, Suno, Perplexity) |
+| 🌐 [OpenMeasures](https://public.openmeasures.io/) | Free online tool to analyse keyword post statistics across social media platforms  (BlueSky, 4chan, Fediverse, Telegram, VK, Rutube, Rumble Video and others). |
 
 #### Chats analyze
 
