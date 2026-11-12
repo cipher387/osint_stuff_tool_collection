@@ -1354,7 +1354,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | >_ [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
 | >_ [Telegram Search](https://github.com/groupultra/telegram-search) | Export and fuzzy search your Telegram chat history  |
 | >_ [Bibaandboba](https://github.com/andylvua/bibaandboba) | Python package for analyzing Telegram chats and finding correlations between people. |
-
+| >_ [TgWitness](https://github.com/phishdestroy/TgWitness) | Telegram chat exporter and OSINT evidence workspace. Preserve observed edits and deletion notices, investigate saved history, and verify signed archives with checkpoints, timestamps and optional Intel TDX attestation. | 
 
 
 ### [](#whatsapp)WhatsApp
