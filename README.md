@@ -2134,13 +2134,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Onion Search Engine] (https://onionsearchengine.com/) | Search the Tor network & dark web — no logs, no cookies, no trace    |
 
 
-#### Link directories
-
-| Link | Description |
-| --- | --- |
-| [Darkweblink](https://darkweblink.com/) | Dark Web Link is a dedicated platform ushering users to the verified and anti-phishing .onion links to various websites on the darknet.|
-| [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
-
 #### Tor technical services
 
 | Link | Description |
@@ -2149,6 +2142,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TorMap](https://tormap.org/) | Search for thousands of Tor network relays |
 | [ExoneraTor](https://metrics.torproject.org/exonerator.html) | An online tool for checking whether an IP address was used as a Tor relay on a particular date. |
 | [TorNode Archive](https://tor-archive.github.io/) | The most comprehensive and up-to-date TOR node intelligence feed available. |
+| [NYX](https://nyx.torproject.org/) | Command-line monitor for Tor |
+
+
+
 
 #### Command line tools
 
@@ -2156,13 +2153,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [DARKNET MCP SERVER](https://github.com/badchars/darknet-mcp-server) | 66 dark web & threat intelligence tools for AI agents. |
+| [TorBot](https://github.com/DedSecInside/TorBot) | Open Source Intelligence Tool for the Dark Web.  |
 | [Onion Search](https://github.com/megadose/OnionSearch) | Script that scrapes urls on different .onion search engines.  |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
 | [Dark Web OSINT Suite](https://www.datahackshaw.com/khaeos/) | A collection of tools for threat intelligence research on Tor hidden services (the dark web). |
 | [Darkus](https://github.com/Lucksi/Darkus) | Python tool that uses deep/dark web searcher engines to search a specific word and give you back the link results. |
 | [DarkSherlock](https://github.com/banaxou/dark-sherlock)| Tool built to search for usernames across 40+ dark web forums. |
-
-
+| [Onioff](https://github.com/k4m4/onioff) | An onion url inspector for inspecting deep web links. |
 
 
 #### Online tools
@@ -2176,7 +2173,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Whiteintel Darkweb Check](https://whiteintel.io/) | Check your Dark Web Exposure. Enter a domain or email to detect your leak exposure in seconds |
 | [SocRadar Darkweb Report](https://socradar.io/free-tools/dark-web-report) | SOCRadar searches Telegram, leak sites, black markets, and hacker forums for threats and exposures tied to your domain. Scan now to see the risks. |
 | [APLEPH Open Search](https://open-search.aleph-networks.eu/en) | Check has you company or personal data been exposed on the Dark & Deep Web (18M+ Dark web sites, 9K+ IP2 sites) |
-
 
 
 ### [](#pastebin)Pastebin
