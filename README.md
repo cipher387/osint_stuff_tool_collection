@@ -2125,25 +2125,58 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Search Deck](http://searchdeck.onrender.com) | - quickly search Google/Bing using advanced search operators<br>- bookmark search queries and results |
 | [Search Result Previews](https://chromewebstore.google.com/detail/search-result-previews/cedcejfiniojnlhlfhcppenochinijfo) | Have you ever had an article you're looking for that you can't remember the title or the name of the site it was published on, but remember the keyword and color scheme of that site? Add-on for such situations. |
 
-### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
+### [](#darknetdeepweb-search-tools)Darknet/deepweb tools
+
+#### Search engines
 
 | Link | Description |
 | --- | --- |
-| [Onion Search](https://github.com/megadose/OnionSearch) |     |
-| [onion-lookup](https://onion.ail-project.org/) | onion-lookup is a service (web, API) for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.|
-| [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
-| [Darkweblink](https://darkweblink.com/) |Dark Web Link is a dedicated platform ushering users to the verified and anti-phishing .onion links to various websites on the darknet.|
-| [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) |     |
-| [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
-| [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
-| [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
-| [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
-| [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) | Command line #python tool, which downloads all the pastes of a particular #Pastebin user. |
+| [Onion Search Engine (https://onionsearchengine.com/) | Search the Tor network & dark web — no logs, no cookies, no trace    |
+
+
+#### Link directories
+
+| Link | Description |
+| --- | --- |
+| [Darkweblink](https://darkweblink.com/) | Dark Web Link is a dedicated platform ushering users to the verified and anti-phishing .onion links to various websites on the darknet.|
 | [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
+
+#### Tor technical services
+
+| Link | Description |
+| --- | --- |
+| [onion-lookup](https://onion.ail-project.org/) | onion-lookup is a service (web, API) for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.|
 | [TorMap](https://tormap.org/) | Search for thousands of Tor network relays |
-| [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
 | [ExoneraTor](https://metrics.torproject.org/exonerator.html) | An online tool for checking whether an IP address was used as a Tor relay on a particular date. |
 
+
+#### Command line tools
+
+
+| Link | Description |
+| --- | --- |
+| [Onion Search](https://github.com/megadose/OnionSearch) | Script that scrapes urls on different .onion search engines.  |
+| [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
+
+
+
+#### Online tools
+
+
+| Link | Description |
+| --- | --- |
+| [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
+| [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
+| [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
+
+
+
+### [](#pastebin)Pastebin
+
+| Link | Description |
+| --- | --- |
+| [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
+| [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) | Command line #python tool, which downloads all the pastes of a particular #Pastebin user. |
 
 
 
