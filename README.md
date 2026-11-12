@@ -2131,7 +2131,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Onion Search Engine (https://onionsearchengine.com/) | Search the Tor network & dark web — no logs, no cookies, no trace    |
+| [Onion Search Engine] (https://onionsearchengine.com/) | Search the Tor network & dark web — no logs, no cookies, no trace    |
 
 
 #### Link directories
