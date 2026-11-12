@@ -1264,6 +1264,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| 🌐 [Waybien](https://waybien.com/en) | Search Telegram channels, Facebook groups, Whatsapp channels and Discord servers |
 | 🌐 [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
 | 🌐 [Wayback Machine Telegram Collection Search](https://web.archive.org/collection-search/telegram) | Search 3,787,236,399 Telegram web pages using an index built from anchor text, all URL parts (file names, hosts, domains), MIME Types, HTTP Status codes and the full text of the web pages. |
 | 🌐 [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | Search by Telegram comments |
