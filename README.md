@@ -492,6 +492,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Bellingcat Filename Finder](https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaachejkipcghppfnnfdmp) | Extension that shows the filenames of Google Maps photos. Sometimes they allow to find out the exact date of the photo, and sometimes other details like the user's name or phone model. |
 | [Google Earth Web Historical View](http://earth.google.com/web/) | Google has updated the web version of Google Earth and now there you can look at satellite images of a particular place in different years. Data from 1985. |
 | [MAPTILER](http://maptiler.com) | 1. Detailed worldwide 3D + 3D satellite +aerial photo maps 2.  A lot of additional tools (real-time weather, elevation profile etc) 3. SDK for creating your own interactive 3D maps with incredibly wide functionality |
+| [Oceanir](https://oceanir.ai/) | Estimates where a photo or video frame was taken from what is visible in it (signs, buildings, roads, terrain), when there is no GPS data. Shows candidate places and the clues behind each so you can check them on a map. Partly free. |
 
 
 
