@@ -728,6 +728,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Archivarix Tube Search](https://tube.archivarix.net/) | Find deleted YouTube videos and recover their metadata, thumbnails, and subtitles from archive data |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | Search for videos available only by link on youtube |
 | [Quite a playlist](https://quiteaplaylist.com/) | A free online service for finding the titles, descriptions, and thumbnails of deleted YouTube videos (and for all deleted videos from a single playlist). Most of data from Filmot and Wayback Machine. |
 | [PreverseTube](https://preservetube.com/) | A free online tool that allows you to save copies of YouTube videos to an archive and search for videos and channels saved by other users.  |
