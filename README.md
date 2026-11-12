@@ -2148,16 +2148,17 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [onion-lookup](https://onion.ail-project.org/) | onion-lookup is a service (web, API) for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.|
 | [TorMap](https://tormap.org/) | Search for thousands of Tor network relays |
 | [ExoneraTor](https://metrics.torproject.org/exonerator.html) | An online tool for checking whether an IP address was used as a Tor relay on a particular date. |
-
+| [TorNode Archive](https://tor-archive.github.io/) | The most comprehensive and up-to-date TOR node intelligence feed available. |
 
 #### Command line tools
 
 
 | Link | Description |
 | --- | --- |
+| [DARKNET MCP SERVER](https://github.com/badchars/darknet-mcp-server) | 66 dark web & threat intelligence tools for AI agents. |
 | [Onion Search](https://github.com/megadose/OnionSearch) | Script that scrapes urls on different .onion search engines.  |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
-
+| [Dark Web OSINT Suite](https://www.datahackshaw.com/khaeos/) | A collection of tools for threat intelligence research on Tor hidden services (the dark web). |
 
 
 #### Online tools
@@ -2168,7 +2169,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
 | [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
 | [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
-| [Darkintel Darkweb Check](https://whiteintel.io/) | Check your Dark Web Exposure. Enter a domain or email to detect your leak exposure in seconds |
+| [Whiteintel Darkweb Check](https://whiteintel.io/) | Check your Dark Web Exposure. Enter a domain or email to detect your leak exposure in seconds |
+| [SocRadar Darkweb Report](https://socradar.io/free-tools/dark-web-report) | SOCRadar searches Telegram, leak sites, black markets, and hacker forums for threats and exposures tied to your domain. Scan now to see the risks. |
+| [APLEPH Open Search](https://open-search.aleph-networks.eu/en) | Check has you company or personal data been exposed on the Dark & Deep Web (18M+ Dark web sites, 9K+ IP2 sites) |
+
 
 
 ### [](#pastebin)Pastebin
