@@ -1255,6 +1255,16 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
 
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+
+
+
+
+
 ## [](#messengers)Messengers
 
 
@@ -1264,6 +1274,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| 🌐 [Telemoon ](https://telemoon.app/) | Telegram channels, trends and posts search free tool. Search by topic, keyword or country. |
 | 🌐 [Waybien](https://waybien.com/en) | Search Telegram channels, Facebook groups, Whatsapp channels and Discord servers |
 | 🌐 [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
 | 🌐 [Wayback Machine Telegram Collection Search](https://web.archive.org/collection-search/telegram) | Search 3,787,236,399 Telegram web pages using an index built from anchor text, all URL parts (file names, hosts, domains), MIME Types, HTTP Status codes and the full text of the web pages. |
@@ -1272,7 +1283,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [Lyzem](https://lyzem.com/) | Search channels, groups, bots, messages and Telegraph articles. |
 | 🌐 [Xtea Telegram Search](https://xtea.io/ts_en.html#gsc.tab=0) | Find Channels, Bots & Groups Instantly  |
 | 🌐 [Teleteg](https://teleteg.com/) | Search: 5,603,086 Telegram groups, or 5,925,650 channels. Based on keywords, language or location. |
-
+| 🌐 [Intel X Telegram Search](https://intelx.io/tools?tab=telegram) | Google Custom Search Engines based Telegram search |
 
 
 #### Channels and groups directories
@@ -1287,6 +1298,16 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [Telegram Directory](https://tdirectory.me/) | Discover the most searched and trending Telegram channels, groups, and bots all in one place. |
 | 🌐 [TlgramEU](https://tlgrm.eu/channels) | Discover interesting channels for your Telegram |
 | 🌐 [DirectoryTG](https://directorytg.com/en/) | Channels, groups, bots and mini apps, organized by category and language.  |
+| 🌐 [Combot](https://combot.org/top/telegram/groups) | Rating and keyword search. 37K+ Telegram groups |
+
+
+#### Bots directories
+
+| Link | Description |
+| --- | --- |
+| 🌐 [ChatBottle](https://chatbottle.co/bots/telegram) | Directory of 388,830 Bots for Telegram  |
+| 🌐 [Telegramic](https://telegramic.org/bots/) | Telegram Bots Directory |
+| 🌐 [50bots.com](https://50bots.com/) | Telegram catalog: bots, channels and chats |
 
 
 
@@ -1311,6 +1332,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 |  >_ [Telegram similar channels)](https://github.com/SocialLinks-IO/telegram-similar-channels) | Telegram similar channels search tool (CLI + Maltego) |
 |  >_ [Telegram Tracker](https://github.com/estebanpdl/telegram-tracker) | Telegram Tracker collects public Telegram channels through Telegram's API and turns the collected files into a messages dataset and a channel network.  |
 |  >_ [Telerecon](https://github.com/sockysec/Telerecon) | A reconnaissance framework for researching and investigating Telegram. |
+|  >_ [Telegraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) | A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON. |
+|  >_ [4CAT](https://github.com/digitalmethodsinitiative/4cat) | Capture and Analysis Toolkit provides modular data capture & analysis for a variety of social media platforms. |
 
 #### Online tools
 
