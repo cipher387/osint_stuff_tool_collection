@@ -2159,6 +2159,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Onion Search](https://github.com/megadose/OnionSearch) | Script that scrapes urls on different .onion search engines.  |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
 | [Dark Web OSINT Suite](https://www.datahackshaw.com/khaeos/) | A collection of tools for threat intelligence research on Tor hidden services (the dark web). |
+| [Darkus](https://github.com/Lucksi/Darkus) | Python tool that uses deep/dark web searcher engines to search a specific word and give you back the link results. |
+| [DarkSherlock](https://github.com/banaxou/dark-sherlock)| Tool built to search for usernames across 40+ dark web forums. |
+
+
 
 
 #### Online tools
