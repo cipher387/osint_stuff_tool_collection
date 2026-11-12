@@ -2490,6 +2490,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Hashtray](https://github.com/balestek/hashtray) | A tool for finding publicly available Gravatar profile information associated with an email address or nickname. |
 | [BreachDetect](https://breachdetect.net/domain-breach-check) | Free check, no signup: enter a company domain and see how many of its logins appear in stealer logs (44B+ records from 37M infected machines) and breached databases (808 dumps), which of the company's own sign-in pages they were for, and a masked sample. Full results and API are paid, for businesses only. |
 | [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
+| [MailVeri](https://mailveri.com/) | Email verification service: checks whether an address exists and reports it as valid, invalid, disposable, catch-all or role-based. Web app, API and MCP server, 1,000 free credits |
 
 
 
