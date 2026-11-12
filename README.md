@@ -1255,16 +1255,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
 
-| []() |  |
-
-
-
-
-
-
-
-
-
 ## [](#messengers)Messengers
 
 
@@ -1345,7 +1335,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 |  >_ [Telegraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) | A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON. |
 |  >_ [4CAT](https://github.com/digitalmethodsinitiative/4cat) | Capture and Analysis Toolkit provides modular data capture & analysis for a variety of social media platforms. |
 |  >_ [Telegram Scraper](https://github.com/unnohwn/telegram-scraper) | Scrape messages from multiple channels, download media files, export data to JSON/CSV formats or SQLite database storage|
-
+|  >_ [Telegram Media Downloader](https://github.com/Dineshkarthik/telegram_media_downloader) | Download media files from a telegram conversation/chat/channel up to 2GiB per file. |
 
 
 #### Online tools
@@ -1362,7 +1352,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | >_ [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
-
+| >_ [Telegram Search](https://github.com/groupultra/telegram-search) | Export and fuzzy search your Telegram chat history  |
+| >_ [Bibaandboba](https://github.com/andylvua/bibaandboba) | Python package for analyzing Telegram chats and finding correlations between people. |
 
 
 
