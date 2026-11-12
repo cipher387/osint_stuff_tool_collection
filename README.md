@@ -1220,7 +1220,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd) | An extension for Chrome that allows you to find a link to Linkedin, Facebook, VK, StackOverflow, Instagram... by user Github (or other) profile |
 | [RUBY](https://github.com/jakecreps/ruby) | Simple tool for searching videos by keyword in Rumble, BitChute, YouTube and saving results (author, title, link) to CSV file. |
 | [The Visualized](https://thevisualized.com/) | visualize profile tweets to see the most popular from the last month; get info about the use of a particular hashtag (popular tweets, related hashtags, profiles that frequently use this hashtag); lists of #Twitter and #YouTube trends by country; |
- | [CommentPicker](https://commentpicker.com/) | Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export |
+| [CommentPicker](https://commentpicker.com/) | Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export |
 | [APIFY social media scrapers](http://console.apify.com/store-search?category=SOCIAL_MEDIA) | 400+ online tools (actors) for scraping data from Instagram, Twitter, Facebook, TikTok, YouTube and other social media. Free trial |
 
 [](#downloaders)Downloaders
@@ -1264,13 +1264,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
-| [Wayback Machine Telegram Collection Search](https://web.archive.org/collection-search/telegram) | Search 3,787,236,399 Telegram web pages using an index built from anchor text, all URL parts (file names, hosts, domains), MIME Types, HTTP Status codes and the full text of the web pages. |
-| [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | Search by Telegram comments |
-| [Telegcrack.com](https://telegcrack.com/) | Search in telegra.ph |
-| [Lyzem](https://lyzem.com/) | Search channels, groups, bots, messages and Telegraph articles. |
-| [Xtea Telegram Search](https://xtea.io/ts_en.html#gsc.tab=0) | Find Channels, Bots & Groups Instantly  |
-| [Teleteg](https://teleteg.com/) | Search: 5,603,086 Telegram groups, or 5,925,650 channels. Based on keywords, language or location. |
+| 🌐 [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
+| 🌐 [Wayback Machine Telegram Collection Search](https://web.archive.org/collection-search/telegram) | Search 3,787,236,399 Telegram web pages using an index built from anchor text, all URL parts (file names, hosts, domains), MIME Types, HTTP Status codes and the full text of the web pages. |
+| 🌐 [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | Search by Telegram comments |
+| 🌐 [Telegcrack.com](https://telegcrack.com/) | Search in telegra.ph |
+| 🌐 [Lyzem](https://lyzem.com/) | Search channels, groups, bots, messages and Telegraph articles. |
+| 🌐 [Xtea Telegram Search](https://xtea.io/ts_en.html#gsc.tab=0) | Find Channels, Bots & Groups Instantly  |
+| 🌐 [Teleteg](https://teleteg.com/) | Search: 5,603,086 Telegram groups, or 5,925,650 channels. Based on keywords, language or location. |
 
 
 
@@ -1278,14 +1278,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Telemetr](https://telemetr.io/en/catalog/global) | One of largest database of Telegram channels around the world + channel analyzing tool |
-| [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
-| [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
-| [Telegram group](https://telegram-group.com/en/) | 2,805 groups, 43 categories, 7 languages  |
-| [TelegramChannels](https://telegramchannels.me/) | More than 12,380 active channels, groups, bots, and stickers in English, updated daily and reviewed for quality. |
-| [Telegram Directory](https://tdirectory.me/) | Discover the most searched and trending Telegram channels, groups, and bots all in one place. |
-| [TlgramEU](https://tlgrm.eu/channels) | Discover interesting channels for your Telegram |
-| [DirectoryTG](https://directorytg.com/en/) | Channels, groups, bots and mini apps, organized by category and language.  |
+| 🌐 [Telemetr](https://telemetr.io/en/catalog/global) | One of largest database of Telegram channels around the world + channel analyzing tool |
+| 🌐 [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
+| 🌐 [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
+| 🌐 [Telegram group](https://telegram-group.com/en/) | 2,805 groups, 43 categories, 7 languages  |
+| 🌐 [TelegramChannels](https://telegramchannels.me/) | More than 12,380 active channels, groups, bots, and stickers in English, updated daily and reviewed for quality. |
+| 🌐 [Telegram Directory](https://tdirectory.me/) | Discover the most searched and trending Telegram channels, groups, and bots all in one place. |
+| 🌐 [TlgramEU](https://tlgrm.eu/channels) | Discover interesting channels for your Telegram |
+| 🌐 [DirectoryTG](https://directorytg.com/en/) | Channels, groups, bots and mini apps, organized by category and language.  |
 
 
 
@@ -1293,30 +1293,30 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) | Discover the location of nearby Telegram users on OpenStreetMap |
-| [Telegram business profiles map](https://map.telesint.dev/) | Worldwide interactive map with almost 400K Telegram business profiles. Show geo coordinates, owners usernames, opening hours, addresses and IDs. |
+|  >_ [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) | Discover the location of nearby Telegram users on OpenStreetMap |
+| 🌐 [Telegram business profiles map](https://map.telesint.dev/) | Worldwide interactive map with almost 400K Telegram business profiles. Show geo coordinates, owners usernames, opening hours, addresses and IDs. |
 
 
 #### Command line/self-hosted tools
 
 | Link | Description |
 | --- | --- |
-| [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) | OSINT toolkit for investigating Telegram chats. |
-| [Telescan](https://github.com/pielco11/telescan) | Search users in groups (and in which groups is the user) by id, username or phone number |
-| [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
-| [TOSINT (Telegram OSINT)](https://github.com/drego85/tosint) | A tool for collecting and organizing information from Telegram bots and channels. |
-| [Telegram Phone Number Checker](https://github.com/bellingcat/telegram-phone-number-checker) | Python tool/script to check if phone numbers are connected to Telegram accounts.  |
-| [TelegramOSINTPolo](https://github.com/Ironship/TelegramOSINTPolo) | Download posts from Telegram feeds and save them to text files for later OSINT AI use |
-| [Telegram similar channels)](https://github.com/SocialLinks-IO/telegram-similar-channels) | Telegram similar channels search tool (CLI + Maltego) |
-| [Telegram Tracker](https://github.com/estebanpdl/telegram-tracker) | Telegram Tracker collects public Telegram channels through Telegram's API and turns the collected files into a messages dataset and a channel network.  |
-| [Telerecon](https://github.com/sockysec/Telerecon) | A reconnaissance framework for researching and investigating Telegram. |
+|  >_ [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) | OSINT toolkit for investigating Telegram chats. |
+|  >_ [Telescan](https://github.com/pielco11/telescan) | Search users in groups (and in which groups is the user) by id, username or phone number |
+|  >_ [TeleTracker](https://github.com/tsale/TeleTracker) | Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat. |
+|  >_ [TOSINT (Telegram OSINT)](https://github.com/drego85/tosint) | A tool for collecting and organizing information from Telegram bots and channels. |
+|  >_ [Telegram Phone Number Checker](https://github.com/bellingcat/telegram-phone-number-checker) | Python tool/script to check if phone numbers are connected to Telegram accounts.  |
+|  >_ [TelegramOSINTPolo](https://github.com/Ironship/TelegramOSINTPolo) | Download posts from Telegram feeds and save them to text files for later OSINT AI use |
+|  >_ [Telegram similar channels)](https://github.com/SocialLinks-IO/telegram-similar-channels) | Telegram similar channels search tool (CLI + Maltego) |
+|  >_ [Telegram Tracker](https://github.com/estebanpdl/telegram-tracker) | Telegram Tracker collects public Telegram channels through Telegram's API and turns the collected files into a messages dataset and a channel network.  |
+|  >_ [Telerecon](https://github.com/sockysec/Telerecon) | A reconnaissance framework for researching and investigating Telegram. |
 
 #### Online tools
 
 | Link | Description |
 | --- | --- |
-| [Telegramtrac](https://telegramtrac.streamlit.app/) | Browser interace for Telegram API |
-| [TgCollector](https://www.tgcollector.com/) | TG collector (TGC) is a browser based graphical user interface for collecting Telegram messages from the channels |
+| 🌐 [Telegramtrac](https://telegramtrac.streamlit.app/) | Browser interace for Telegram API |
+| 🌐 [TgCollector](https://www.tgcollector.com/) | TG collector (TGC) is a browser based graphical user interface for collecting Telegram messages from the channels |
 
 
 
@@ -1324,7 +1324,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
+| >_ [Telegram Message Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) | Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc) |
 
 
 
