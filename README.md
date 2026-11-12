@@ -2168,7 +2168,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
 | [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
 | [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
-
+| [Darkintel Darkweb Check](https://whiteintel.io/) | Check your Dark Web Exposure. Enter a domain or email to detect your leak exposure in seconds |
 
 
 ### [](#pastebin)Pastebin
