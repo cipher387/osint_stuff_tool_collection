@@ -2137,6 +2137,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb tools
 
+⚠️ This list does not include services in the .onion domain, as GitHub blocked OSINT researchers’ accounts for mentioning such links. You can read more about this in the Indicator Media newsletter by Craig Silverman.
+
 #### Search engines
 
 | Link | Description |
@@ -2153,7 +2155,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ExoneraTor](https://metrics.torproject.org/exonerator.html) | An online tool for checking whether an IP address was used as a Tor relay on a particular date. |
 | [TorNode Archive](https://tor-archive.github.io/) | The most comprehensive and up-to-date TOR node intelligence feed available. |
 | [NYX](https://nyx.torproject.org/) | Command-line monitor for Tor |
-
 
 
 
