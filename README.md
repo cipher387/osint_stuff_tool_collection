@@ -837,7 +837,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TKMetrics](https://tkmetrics.com/) | public TikTok profile stats reports (engagement rate, average plays, posting times, top videos, hashtags) and a money calculator that fills in followers and average views for accounts in its database and estimates Creator Rewards and brand-deal ranges. Reports and calculator need no login; the influencer finder is paid |
 | [TikTok Comment Viewer (LurkAPI)](https://lurkapi.com/free-tools/tiktok-comment-viewer) | Paste a TikTok video link to read and search its comments and replies, see which the creator pinned, and export them to CSV, without the app. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 | [TTAnon](https://ttanon.com/) | Paste a TikTok profile or video link to check account creation dates, plot follower history over time, and export date-filtered video lists to CSV. Also pulls speech transcripts, technical video metadata (resolution, FPS, region, language), and comments without the app. Free |
-
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
 
 ### [](#protonmail)Protonmail
