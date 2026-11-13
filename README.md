@@ -64,6 +64,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
     - [Culture](#culture)
     - [Worldwide street webcams](#worldwide-street-webcams)
+    - [AI Geolocation](#ai-geolocation)
     - [Tools](#tools)
     - [Transport](#transport)
     - [Communications, Internet, Technologies](#communications-internet-technologies)
