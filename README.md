@@ -451,6 +451,18 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Google Custom Search Engine for search in 10 online street webcam catalogs |
 
 
+### [](#ai-geolocation)AI Geolocation
+
+| Link | Description |
+| --- | --- |
+| [Oceanir](https://oceanir.ai/) | Estimates where a photo or video frame was taken from what is visible in it (signs, buildings, roads, terrain), when there is no GPS data. Shows candidate places and the clues behind each so you can check them on a map. Partly free. |
+| [Picarta](https://picarta.ai/) | Finds where any photo was taken in the world using Artificial Intelligence. |
+| [GeoSeer](https://geoseeer.com/) | AI-powered agentic geolocation from images, or video |
+| [GeoLocator](https://geolocator.app/) |  Reaches 91.2% country accuracy on our own 478-photo benchmark of outdoor photographs, and returns city-level coordinates — a 2.8 km median error for photos taken near a town, 36.7 km across the whole outdoor set. Upload a photo and get a ranked location with the evidence behind it in about 9 seconds.  |
+| [GeoAxis](https://geoaxis.ai/) | Upload any photo. GeoAxis returns ranked locations with confidence scores and the evidence behind each one - meter-level in 2,300+ cities, no GPS or EXIF needed. |
+| [FindPicLocation](https://findpiclocation.com/en) | Location finder reads landmarks, signage, terrain and shadow to identify where a picture was taken — usually within a city block.  | 
+
+⚠️ If you work in Low Enforcement, you can get access to the undisputed market leader in AI geolocation -  Raven (GeoSpy).
 
 
 ### [](#tools)Tools
@@ -593,7 +605,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-
 ### [](#military-tracking)Military tracking
 
 | Link | Description |
@@ -611,9 +622,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Understanding War Map Room](https://www.understandingwar.org/map-room) | collection of maps illustrating military conflicts in different countries. |
 | [US Military Bases Interactive Worldwide Map](https://worldbeyondwar.org/no-bases/) | Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information. |
 | [Open Source Munitions Portal](https://github.com/eremit4/favihunter) | Archive of verified images from conflict zones. Search by munition category, condition, characteristics, shapem, mechanical features, wall (thickness) |
-
-
-
 
 
 ### [](#military-visalisation)Military visualisation
@@ -636,7 +644,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [European World Translator](https://ukdataexplorer.com/european-translator/) | Enter the word in English to see its translation into different European languages on the map. |
 | [Apple Maps Online](http://beta.maps.apple.com) | Apple Maps is available on the web. It can provide additional information about places, including Getty Images photos and Wikipedia content for some locations. |
 
-[](#social-media)Social Media
+## [](#social-media)Social Media
 
 ### [](#twitter)Twitter
 
