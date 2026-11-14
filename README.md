@@ -1,4 +1,3 @@
-
 <div align="center">
      <h1>Cyber Detective's OSINT tools collection</h1>
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection"> 
@@ -1414,6 +1413,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [TgCollector](https://www.tgcollector.com/) | TG collector (TGC) is a browser based graphical user interface for collecting Telegram messages from the channels |
 | 🌐 [ShareTrace](https://share.whopostedwhat.com/) | Displays information about the user on various platforms who shared the link (TikTok, Pinterest, Claue, Discord, Telegram, SharePoint, Susbtack, Suno, Perplexity) |
 | 🌐 [OpenMeasures](https://public.openmeasures.io/) | Free online tool to analyse keyword post statistics across social media platforms  (BlueSky, 4chan, Fediverse, Telegram, VK, Rutube, Rumble Video and others). |
+| 🌐 [Telegram User Lookup](https://noimosiny.com/modules) | Get information including historical names, usernames and groups about user by id or username (login to run tool). |
+| 🌐 [Telegram Invite Link Decoder](https://noimosiny.com/modules) | A tool that decodes Telegram invite links to extract information about the target chat/channel (login to run tool) . |
+| 🌐 [Telegram Username to ID](https://noimosiny.com/modules) | Convert a Telegram username to retrieve their current ID, display name and role (login to run tool). |
+
+
 
 #### Chats analyze
 
