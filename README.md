@@ -780,6 +780,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ReelTime AI](https://reeltime-ai.web.app) | Search inside YouTube transcripts by keyword. Instantly jump to timestamps where your topic appears. |
 | [YtGrep](https://pypi.org/project/ytgrep/) | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. |
 | [Eightify](https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related) | ChatGPT YouTube summary |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com) | Paste a YouTube link to get the transcript with timestamps. Export as SRT, VTT, JSON, CSV, Markdown or TXT. Also has an API. Free account with 100 credits (one-time), paid plans from $5/month |
 
 
 #### Comments
