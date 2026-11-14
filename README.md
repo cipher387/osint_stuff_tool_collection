@@ -879,7 +879,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Compare TikTok Influencers](https://hicreator.ai/tools/tiktok-compare-influencers) | Put two public TikTok accounts side by side on audience size, engagement rate and average post performance. |
 | [TikTok Email Finder](https://hicreator.ai/tools/tiktok-email-finder) | Find a creator’s business email from their TikTok profile. |
 | [TikTok Influencer Search](https://hicreator.ai/tools/tiktok-influencer-search) | Discover relevant creators with AI and detailed profile filters.  |
-
+| [TikTok Share Link Extractor](https://noimosiny.com/modules) | Retrieve the user shared video link(log in to run the tool). |
 
 
 
@@ -1062,7 +1062,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Serverse](https://extraction.team/serverse) | Search for Discord servers by keyword. |
 | [Disboard](http://disboard.org) | Discord servers search engine. Search across a few hundred thousand servers. |
 | [Discord Profile Viewer](https://hicreator.ai/tools/discord-profile-viewer) | Look up a public profile in seconds. Paste a profile link, username, or supported public ID to see the details that are available to everyone. |
-
+| [Discord Invite Link Decoder](https://noimosiny.com/modules) | A tool that decodes Discord invite links to extract information about the link creator. |
 
 
 
@@ -1128,7 +1128,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Instagram Email Finder](https://hicreator.ai/tools/instagram-email-finder) | Find a creator’s business email using their Instagram username or profile link. |
 | [Free Instagram Influencer Search](https://hicreator.ai/tools/instagram-influencer-search) | Describe your ideal Instagram creators. Let AI find relevant profiles, then refine your matches with detailed creator filters. |
 | [Instagram Pricing Calculator](https://hicreator.ai/tools/instagram-pricing-calculator) | An estimated price range for a sponsored post on any public Instagram account, with the method behind it shown.  |
-
+| [Share Link Extractor](https://noimosiny.com/modules) | Retrieve the user shared a reel by url containing igsh parameter. |
 
 
 ### [](#google)Google
@@ -1177,8 +1177,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Open Source Software Insight](https://ossinsight.io/) | Amazing service that allows to analyze developers and repositories data based on more than 5 billion (!) Github Events. |
 | [Map of Github](https://anvaka.github.io/map-of-github/) | Enter the name of the repository, see its links to other projects, and its place on the map of all Github repositories. Notice how small 1337 island is. |
 | [Github Release Stats](https://tooomm.github.io/github-release-stats/) | Estimate popularity of Github repo. Tool displays the number of downloads for each project release + some additional information. |
-
-
+| [Github Username to Email](https://noimosiny.com/modules) | Discover email addresses associated with a GitHub username. |
 
 ### [](#wikipedia)Wikipedia
 
