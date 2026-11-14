@@ -2883,6 +2883,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [looot](https://looot.ai) | Company enrichment by domain and company search across 300+ data providers, through an API or a remote MCP server. |
 | [USAspending Awards (Apify)](https://apify.com/publicrecords/usaspending-awards-scraper) | Federal contract and grant awards from USAspending.gov by agency, recipient, NAICS code and period: who was paid, how much and for what, with award IDs and source links. Runs on Apify. |
 | [Free Clutch․co Scraper](https://thewebscrapingguy.com/free-tools/clutch-scraper) | Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks. |
+| [SONAR Company Lookups](https://getsonar.report/tools?utm_source=cipher387-osint&utm_medium=directory&utm_campaign=directories-2026q4) | Free company lookups by name or registration number in official registers of the UK, Europe, Singapore and Brazil, plus an EU VAT number checker. No sign-up |
 
 
 
