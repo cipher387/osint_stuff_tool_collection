@@ -215,6 +215,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| 🌐  [Telegram Business Profiles Map](https://map.telesint.dev/) | Worldwide interactive map with almost 400K Telegram business profiles. Show geo coordinates, owners usernames, opening hours, addresses and IDs. |
 | 🪦  [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
 | 🪦  [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
 | 🪦  [Snapchat map](https://map.snapchat.com/) |     |
