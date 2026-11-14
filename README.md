@@ -235,39 +235,37 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Map View NGMDB](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) | map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database). |
-| [WAQI](http://waqi.info) | World's Air Pollution: Real-time Air Quality Index map |
-| [GlobalFishingMap](https://globalfishingwatch.org/map/) | click on a point on the map and get the data on the current fishing effort at that location. |
-| [ncei.noaa.gov](https://www.ncei.noaa.gov/maps/hazards/) | Natural Hazards Viewer (worldwide) |
-| [Lightingmaps](https://www.lightningmaps.org/) | lightning strikes in real time and also data on thunderstorms that ended months or years ago |
-| [Light Pollution World Map](https://www.lightpollutionmap.info/) | showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013) |
-| [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world) |
-| [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours) |
-| [Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
-| [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. |
-| [USA Fishermap](https://usa.fishermap.org/depth-map/) | when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked |
-| [Mindat.org](https://www.mindat.org/countrylist.php) | mineral maps for different countries |
-| [Ventusky.com](https://www.ventusky.com/) | collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc) |
-| [Wunderground](https://www.wunderground.com/history) | weather history data |
-| [Rain Alarm](http://rain-alarm.com) | shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app) |
-| [Cyclocane](https://cyclocane.com) | click on the hurricane on the map and get detailed information about it |
-| [MeteoBlue](https://www.meteoblue.com/) | Weather stats data |
-| [PastClimate](https://www.pastclimate.com/) | weather on a past date and month-by-month climate for tens of thousands of cities (ERA5 reanalysis, hourly records from 2016) |
-| [Zoom.earth](https://zoom.earth/) | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas |
-| [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | worldwide detailed interactive bathymetry map |
-| [Soar.earth](https://soar.earth/) | big collection satellite, drone and ecological maps |
-| [Geodesics on the Earth](https://academo.org/demos/geodesics/) | finding the shortest path between two points |
-| [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
-| [Everymountainintheworld](http://everymountainintheworld.com/) | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
-| [Rivermap](https://rivermap.org/map/#sprache=en) | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
-| [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |
-| [Natural Hazards Map (worldwide)](https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
-| [River Runner Global](https://river-runner-global.samlearner.com/) | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
-| [Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c).](https://macrostrat.org/) | Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c). |
-| [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
-| [Gaisma](https://www.gaisma.com/en/) | A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler. |
-| [My Ocean Pro](https://data.marine.copernicus.eu/viewer/expert) | An online map tool for exploring seas and oceans, with more than 277 datasets, including temperature, salinity, wave height, sea ice, acidity, and oxygen concentration. |
-| [INaturalist](http://inaturalist.org) | An online map that provides a huge database of observations about animals and plants around the world. 214M+ observations 3M+ observes |
+| 🔧  [Map View NGMDB](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) | Map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database). |
+| 🌐  [WAQI](http://waqi.info) | World's Air Pollution: Real-time Air Quality Index map. |
+| 🌐  [GlobalFishingMap](https://globalfishingwatch.org/map/) | Click on a point on the map and get the data on the current fishing effort at that location. |
+| 🌐  [ncei.noaa.gov](https://www.ncei.noaa.gov/maps/hazards/) | Natural Hazards Viewer (worldwide). |
+| 🌐  [Lightingmaps](https://www.lightningmaps.org/) | Lightning strikes in real time and also data on thunderstorms that ended months or years ago. |
+| 🌐  [Light Pollution World Map](https://www.lightpollutionmap.info/) | Showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013). |
+| 🪦  [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world). |
+| 🌐  [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | Online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours). |
+| 🌐  [[Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
+| 🌐  [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. |
+| 🔧  [USA Fishermap](https://usa.fishermap.org/depth-map/) | When you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked. |
+| 🌐  [Mindat.org](https://www.mindat.org/countrylist.php) | Mineral maps for different countries. |
+| 🌐  [Ventusky.com](https://www.ventusky.com/) | Collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc). |
+| 🌐  [Wunderground](https://www.wunderground.com/history) | Weather history data. |
+| 🌐  [Rain Alarm](http://rain-alarm.com) | Shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app). |
+| 🌐  [Cyclocane](https://cyclocane.com) | Click on the hurricane on the map and get detailed information about it |
+| 🌐  [MeteoBlue](https://www.meteoblue.com/) | Weather stats data. |
+| 🌐  [PastClimate](https://www.pastclimate.com/) | Weather on a past date and month-by-month climate for tens of thousands of cities (ERA5 reanalysis, hourly records from 2016). |
+| 🌐  [Zoom.earth](https://zoom.earth/) | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas. |
+| 🪦  [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | Worldwide detailed interactive bathymetry map. |
+| 🌐  [Soar.earth](https://soar.earth/) | Big collection satellite, drone and ecological maps. |
+| 🌐  [Everymountainintheworld](http://everymountainintheworld.com/) | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
+| 🌐  [Rivermap](https://rivermap.org/map/#sprache=en) | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
+| 🌐  [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |
+| 🪦  [Natural Hazards Map (worldwide)](https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
+| 🌐  [River Runner Global](https://river-runner-global.samlearner.com/) | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
+| 🌐  [Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c).](https://macrostrat.org/) | Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c). |
+| 🌐  [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
+| 🔧  [Gaisma](https://www.gaisma.com/en/) | A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler. |
+| 🌐  [My Ocean Pro](https://data.marine.copernicus.eu/viewer/expert) | An online map tool for exploring seas and oceans, with more than 277 datasets, including temperature, salinity, wave height, sea ice, acidity, and oxygen concentration. |
+| 🌐  [INaturalist](http://inaturalist.org) | An online map that provides a huge database of observations about animals and plants around the world. 214M+ observations 3M+ observes. |
 
 
 ### [](#aviation)Aviation
@@ -470,6 +468,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| 🌐  [Geodesics on the Earth](https://academo.org/demos/geodesics/) | Finding the shortest path between two points |
 | [Calculator IPVM](https://calculator.ipvm.com/) | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
 | [Osmaps Radius](http://jopf.re/osmaps-radius/) | drawing circles with a certain radius on the map |
 | [MeasureTool-GoogleMaps-V3](http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/) | Measurement tool for #GoogleMaps. |
@@ -585,6 +584,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
+| [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
 | [Observer](http://observer.farearth.com/observer/) | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. |
 | [USGS Earth Explorer](https://earthexplorer.usgs.gov/) | more than 40 years old collection of satellite imagery |
 | [Landviewer](https://eos.com/products/landviewer/) | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues |
