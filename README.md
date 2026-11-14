@@ -215,11 +215,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| 🪦 [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
-| 🪦 [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
-| 🪦 [Snapchat map](https://map.snapchat.com/) |     |
-| 🌐 [YouTube Geofind](https://mattw.io/youtube-geofind/) | View YouTube geottaged video on map |
-| 🌐 [Flickr Photo Map](https://www.flickr.com/map) |     |
+| 🪦  [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
+| 🪦  [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
+| 🪦  [Snapchat map](https://map.snapchat.com/) |     |
+| 🌐  [YouTube Geofind](https://mattw.io/youtube-geofind/) | View YouTube geottaged video on map |
+| 🌐  [Flickr Photo Map](https://www.flickr.com/map) |     |
 | 🪦  [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
 | 🌐  [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
 | 🪦  [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
@@ -243,7 +243,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐  [Light Pollution World Map](https://www.lightpollutionmap.info/) | Showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013). |
 | 🪦  [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world). |
 | 🌐  [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | Online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours). |
-| 🌐  [[Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
+| 🌐  [Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
 | 🌐  [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. |
 | 🔧  [USA Fishermap](https://usa.fishermap.org/depth-map/) | When you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked. |
 | 🌐  [Mindat.org](https://www.mindat.org/countrylist.php) | Mineral maps for different countries. |
