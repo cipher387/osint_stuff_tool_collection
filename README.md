@@ -729,7 +729,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitter Tools](http://twitter.lolarchiver.com) | A partly free tool for viewing the username, display-name, and bio history of Twitter users. Results may be incomplete or inaccurate. |
 | [Deleted Tweet Finder V1.7](https://cache.digitaldigging.org) | A tool that searches sources such as Google Cache, the Wayback Machine, Archive.is, Ghost Archive, and UserSearch for archived copies of deleted tweets. |
 | [XCircle](https://xcircle.me) | Free web tool that visualizes recent public X (Twitter) interactions as an avatar circle and exports a PNG. No X login; does not show private activity or follower relationships. |
-
+| [Free Twitter / X Video Downloader](https://hicreator.ai/tools/twitter-video-downloader) | Save public Twitter / X videos without a watermark. Free, unlimited, no sign-up. |
 
 ### [](#youtube)YouTube
 
@@ -759,8 +759,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Unsorted or Miscellaneous Social Media Video](https://archive.org/details/social-media-video-unsorted) | Web archive YouTube videos collection |
 | [YouTubeCrawl](https://archive.org/details/youtubecrawl) | Web archive YouTube videos collection |
 | [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search video info (thumbnails, metadata) by ID in different sources: Wayback Machine, GhostArchive, Distributed YouTube Archive, Hobune Stream, Filmot, RemovedEDM, Odysee and PreserveTube |
-
-
 
 
 
@@ -830,7 +828,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Youtube Lookup](https://youtube-lookup.vercel.app/) | Simple tool for gathering info about video: Content details, Snippet details, Statistics, Status, Thumbnails |
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
 | [OSINT Tube](https://github.com/rdWei/OsintTube) | #Python tool to automate the collection of YouTube channel info by ID: date of registration, number of views/subscribers/videos, earnings and other details. Use in combination with XARGS and other Python tools for YouTube #osint. |
-
+| [YouTube Video Downloader](https://hicreator.ai/tools) | Paste a public YouTube link and save the clip as an MP4 — every resolution the post carries, with its file size. |
 
 
 ### [](#tiktok)TikTok
@@ -854,8 +852,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TTAnon](https://ttanon.com/) | Paste a TikTok profile or video link to check account creation dates, plot follower history over time, and export date-filtered video lists to CSV. Also pulls speech transcripts, technical video metadata (resolution, FPS, region, language), and comments without the app. Free |
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
 | [VidQuark](https://vidquark.com/) | Free browser tool to download an individual public TikTok video as MP4 video or MP3 audio, with file-saving guides for iPhone, Android and desktop. No account required. |
-
-
+| [HiCreators TikTok Video Downloader](https://hicreator.ai/tools/tiktok-video-downloader)| Save public TikTok videos without a watermark. Free, unlimited, no sign-up. |
+| [Anonymous TikTok Viewer](https://hicreator.ai/tools/tiktok-viewer) | Browse a public TikTok profile and its posts without logging in. |
 
 ### [](#protonmail)Protonmail
 
@@ -876,8 +874,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Facebook Latest Posts Scraper](https://console.apify.com/actors/EtZ9lsiipPgKrQIi6) | Scrape #Facebook posts with comments from one or multiple page URLs. Get post and comment texts, timestamps, post URLs, likes, shares, comments count, author ID. |
 | [Facebook Latest Comments Scraper](https://console.apify.com/actors/w8bYllu7Jq18uWz99) | Enter link to the #Facebook post and get comments comments to it (text, timestamp and other info). |
 | [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) | Scrape names and usernames from large friend lists on Facebook, without being rate limited" |
-
 | [Facebook Ads Library Scraper](https://apify.com/harshmaur/facebook-ads-library-scraper) | Collect public Meta ads with ad text, media links, advertiser details and dates. Includes reach and spend where Meta discloses them. No Facebook login; paid per ad on Apify. |
+| [HiCreators Facebook Video Downloader](https://hicreator.ai/tools/facebook-video-downloader) | Paste a public Facebook link and save the clip as an MP4 — every resolution the post carries, with its file size. |
+
+
 
 ### [](#clubhouse)Clubhouse
 
@@ -1087,16 +1087,21 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ExportGram](https://exportgram.net) | An online tool for exporting Instagram post comments, usernames, and like counts to CSV, Excel, or JSON. Up to 100 comments are free. |
 | [iStoryTracker](https://istorytracker.com/) | Enter a public Instagram username to view its currently available Stories (and public posts) without logging in to Instagram or connecting an account; available Story media can be downloaded. Public accounts only; free searches with usage limits, paid plans add hourly tracking of one account with a Story archive and email alerts |
 | [PicMany](https://picmany.com/) | Inspects public Instagram accounts to track follower changes on a graph, calculate posting intervals, and map out connections through tagged handles, collaborations, and related profiles. Also browses story highlights and reels without logging in. Free |
-
-
+| [Free Instagram Video Downloader](https://hicreator.ai/tools/instagram-video-downloader) | Save public Instagram videos without a watermark. Free, unlimited, no sign-up. |
+| [Anonymous Instagram Viewer](https://hicreator.ai/tools/instagram-story-viewer) | Browse a public Instagram profile and its posts without logging in. |
+| [Instagram Follower Count Checker](https://hicreator.ai/tools/instagram-follower-count) | Look up the available follower count and public profile statistics for any Instagram account — no install needed. |
+| [Instagram Fake Follower Checker](https://hicreator.ai/tools/instagram-fake-follower-check) | Review public engagement patterns, audience-quality signals, and an estimated fake follower percentage for a Instagram account — no install needed.  |
+| [Instagram Account Audit](https://hicreator.ai/tools/instagram-audit) | Run a full check on a public Instagram account — profile stats, engagement rate benchmarked against similar accounts, and the audience-quality signals available for it. |
+| [Compare Instagram Influencers](https://hicreator.ai/tools/instagram-compare-influencers) | Put two public Instagram accounts next to each other and compare follower counts, engagement rates, and average performance per post in one lookup. |
+| [Instagram Email Finder](https://hicreator.ai/tools/instagram-email-finder) | Find a creator’s business email using their Instagram username or profile link. |
+| [Free Instagram Influencer Search](https://hicreator.ai/tools/instagram-influencer-search) | Describe your ideal Instagram creators. Let AI find relevant profiles, then refine your matches with detailed creator filters. |
 
 ### [](#google)Google
 
 | Link | Description |
 | --- | --- |
 | [GHunt](https://github.com/mxrch/GHunt) | google account investigation tool |
-| [Ghunt Online Version](https://gmail-osint.activetk.jp/) | Get info about Google account by email: - name - default profile  and cover pictures; - calendar events and timezone; - Google Maps reviews; - Google Plus and Google Chat data;
- |
+| [Ghunt Online Version](https://gmail-osint.activetk.jp/) | Get info about Google account by email: - name - default profile  and cover pictures; - calendar events and timezone; - Google Maps reviews; - Google Plus and Google Chat data; |
 
 ### [](#patreon)Patreon
 
