@@ -2358,6 +2358,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FullHunt](https://fullhunt.io/) | Attack surface database of the entire Internet.  Search info by domain, ip, technology, host, tag, port, city and more. |
 | [Hunter](https://hunter.how/) | Search engine for security researchers (analog Shodan, Censys, Netlas). Search by domain, page title, protocol, location, certificates, http headers, ASN, product name and more. |
 | [Whatoblock](https://whatoblock.com/) | Threat intelligence search engine built on honeypot data. Search scanners, botnet C2 servers, abusive proxies, Tor exit nodes and DDoS sources by IP, port, ASN and country. |
+| [OffSeq Mirage Feed](https://feeds.offseq.com/) | Free daily lists of IPs that attacked a honeypot fleet, plus payload/C2 URLs and exploited CVEs (CC BY 4.0). Look up any IPv4/IPv6 address to see whether it is listed and why. |
 | [ODIN](http://search.odin.io) | IP search engine. Search by ip, domain name, ASN, geolocation, BGP prefix, ASN number, WHOIS updated date and other parameters. |
 
 
@@ -2668,6 +2669,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [LittleSis](http://littlesis.org) | A free database mapping connections between public figures and organizations, with 10,930,620 citations, 1,798,375 relationships, 295,011 people, and 130,615 organizations. |
 | [NPD Breach Check](http://npd.pentester.com) | A tool claiming to check whether personal data was affected by the National Public Data breach.|
 | [Breach House](https://breach.house/) | Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email. |
+| [OffSeq Breach](https://breach.offseq.com/) | Search a company domain or an email address across leaked datasets, forums, Telegram channels and marketplaces. Masked results with source and date are free without an account; monitoring, unmasking and an API are paid. |
 
 
 
