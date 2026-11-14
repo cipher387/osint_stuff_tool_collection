@@ -1054,6 +1054,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Discord History Tracker](https://dht.chylex.com) | A tracking script will load messages from the selected channel and save them in .txt file. |
 | [Serverse](https://extraction.team/serverse) | Search for Discord servers by keyword. |
 | [Disboard](http://disboard.org) | Discord servers search engine. Search across a few hundred thousand servers. |
+| [Discord Profile Viewer](https://hicreator.ai/tools/discord-profile-viewer) | Look up a public profile in seconds. Paste a profile link, username, or supported public ID to see the details that are available to everyone. |
+
+
 
 
 ### [](#mastodon)Mastodon
