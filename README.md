@@ -2560,6 +2560,9 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Hashtray](https://github.com/balestek/hashtray) | A tool for finding publicly available Gravatar profile information associated with an email address or nickname. |
 | [BreachDetect](https://breachdetect.net/domain-breach-check) | Free check, no signup: enter a company domain and see how many of its logins appear in stealer logs (44B+ records from 37M infected machines) and breached databases (808 dumps), which of the company's own sign-in pages they were for, and a masked sample. Full results and API are paid, for businesses only. |
 | [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
+| [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by email |
+
+
 
 
 
@@ -2606,6 +2609,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Username Search & Lookup (Apify)](https://apify.com/ntriqpro/sherlock-username-osint) | Hosted wrapper of the open-source Sherlock engine: check a list of usernames across 400+ sites and get one JSON row per confirmed account. Runs on Apify, no local install. |
 | [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
 | [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
+| [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by nickname |
 
 
 
@@ -2624,7 +2628,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Phunter](https://github.com/N0rz3/Phunter) | Phone number #osint command line #python tool. Gather different info: operator, possible(s) location(s), line type, reputation, various scraped information, spammer or not, connect to amazon or not |
 | [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) | #python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses |
 | [Phone Variant Search](https://no-nonsense-intel.com/phone-variant-search) | Generates search queries for multiple variations of a single phone number, with quick links to Google, Bing, Baidu, and Yandex search. |
-
+| [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by phone number |
 
 
 ### [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
