@@ -730,6 +730,17 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Deleted Tweet Finder V1.7](https://cache.digitaldigging.org) | A tool that searches sources such as Google Cache, the Wayback Machine, Archive.is, Ghost Archive, and UserSearch for archived copies of deleted tweets. |
 | [XCircle](https://xcircle.me) | Free web tool that visualizes recent public X (Twitter) interactions as an avatar circle and exports a PNG. No X login; does not show private activity or follower relationships. |
 | [Free Twitter / X Video Downloader](https://hicreator.ai/tools/twitter-video-downloader) | Save public Twitter / X videos without a watermark. Free, unlimited, no sign-up. |
+| [Anonymous Twitter / X Viewer](https://hicreator.ai/tools/twitter-viewer) | Browse a public Twitter / X profile and its posts without logging in.  |
+| [Twitter / X Image Search](https://hicreator.ai/tools/twitter-image-search) | Upload a profile picture to find matching public Twitter / X accounts. Review the closest matches in one simple search.  |
+| [Twitter / X Follower Count](https://hicreator.ai/tools/twitter-follower-count) | Type any handle and get its live follower count and engagement rate — nothing to install.  |
+| [Twitter / X Audit](https://hicreator.ai/tools/twitter-audit) | Profile stats, engagement grade and audience-quality signals for any public Twitter / X account, from a single lookup.  |
+| [Twitter / X Engagement Calculator](https://hicreator.ai/tools/twitter-engagement-calculator) | Automatically samples recent content, calculates engagement rate and benchmarks it against same-size accounts — know in seconds whether an account is worth the conversation. |
+| [Compare Twitter / X Influencers](https://hicreator.ai/tools/twitter-compare-influencers) | Put two public Twitter / X accounts side by side on audience size, engagement rate and average post performance. |
+| [Twitter / X Influencer Search](https://hicreator.ai/tools/twitter-influencer-search) | Discover relevant creators with AI and detailed profile filters. |
+
+
+
+
 
 ### [](#youtube)YouTube
 
