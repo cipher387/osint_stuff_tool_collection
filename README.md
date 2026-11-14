@@ -853,6 +853,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [TikTok Comment Viewer (LurkAPI)](https://lurkapi.com/free-tools/tiktok-comment-viewer) | Paste a TikTok video link to read and search its comments and replies, see which the creator pinned, and export them to CSV, without the app. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 | [TTAnon](https://ttanon.com/) | Paste a TikTok profile or video link to check account creation dates, plot follower history over time, and export date-filtered video lists to CSV. Also pulls speech transcripts, technical video metadata (resolution, FPS, region, language), and comments without the app. Free |
 | [TikTok Scraper (Apify)](https://apify.com/harshmaur/tiktok-scraper) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |
+| [VidQuark](https://vidquark.com/) | Free browser tool to download an individual public TikTok video as MP4 video or MP3 audio, with file-saving guides for iPhone, Android and desktop. No account required. |
+
+
 
 ### [](#protonmail)Protonmail
 
