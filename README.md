@@ -840,6 +840,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube_Tool](https://github.com/nlitsme/youtube_tool) | #Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more. |
 | [OSINT Tube](https://github.com/rdWei/OsintTube) | #Python tool to automate the collection of YouTube channel info by ID: date of registration, number of views/subscribers/videos, earnings and other details. Use in combination with XARGS and other Python tools for YouTube #osint. |
 | [YouTube Video Downloader](https://hicreator.ai/tools) | Paste a public YouTube link and save the clip as an MP4 — every resolution the post carries, with its file size. |
+| [YouTube Follower Count](https://hicreator.ai/tools/youtube-follower-count) | Type any handle and get its live follower count and engagement rate — nothing to install. |
+| [YouTube Fake Follower Check](https://hicreator.ai/tools/youtube-fake-follower-check) | Paste a profile link and audit follower authenticity and engagement quality in one click — see real influence before quoting, and never pay for bots. |
+| [YouTube Audit](https://hicreator.ai/tools/youtube-audit) | Profile stats, engagement grade and audience-quality signals for any public YouTube account, from a single lookup. |
+| [YouTube Engagement Calculator](https://hicreator.ai/tools/youtube-engagement-calculator) | Automatically samples recent content, calculates engagement rate and benchmarks it against same-size accounts — know in seconds whether an account is worth the conversation. |
+| [YouTube Email Finder](https://hicreator.ai/tools/youtube-email-finder) | Find a creator’s business email from their YouTube profile. |
+| [YouTube Influencer Search](https://hicreator.ai/tools/youtube-influencer-search) | Discover relevant creators with AI and detailed profile filters. |
+| [YouTube Pricing Calculator](https://hicreator.ai/tools/youtube-pricing-calculator) | An estimated price range for a sponsored post on any public YouTube account, with the method behind it shown. |
+
 
 
 ### [](#tiktok)TikTok
