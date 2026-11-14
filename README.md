@@ -854,6 +854,17 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [VidQuark](https://vidquark.com/) | Free browser tool to download an individual public TikTok video as MP4 video or MP3 audio, with file-saving guides for iPhone, Android and desktop. No account required. |
 | [HiCreators TikTok Video Downloader](https://hicreator.ai/tools/tiktok-video-downloader)| Save public TikTok videos without a watermark. Free, unlimited, no sign-up. |
 | [Anonymous TikTok Viewer](https://hicreator.ai/tools/tiktok-viewer) | Browse a public TikTok profile and its posts without logging in. |
+| [TikTok Image Search](https://hicreator.ai/tools/tiktok-image-search) | Upload a profile picture to find matching public TikTok accounts. Review the closest matches in one simple search. |
+| [TikTok Follower Count](https://hicreator.ai/tools/tiktok-follower-count) | Type any handle and get its live follower count and engagement rate — nothing to install. |
+| [TikTok Fake Follower Check](https://hicreator.ai/tools/tiktok-fake-follower-check) | Paste a profile link and audit follower authenticity and engagement quality in one click — see real influence before quoting, and never pay for bots.  |
+| [TikTok Audit](https://hicreator.ai/tools/tiktok-audit) | Profile stats, engagement grade and audience-quality signals for any public TikTok account, from a single lookup.  |
+| [Compare TikTok Influencers](https://hicreator.ai/tools/tiktok-compare-influencers) | Put two public TikTok accounts side by side on audience size, engagement rate and average post performance. |
+| [TikTok Email Finder](https://hicreator.ai/tools/tiktok-email-finder) | Find a creator’s business email from their TikTok profile. |
+| [TikTok Influencer Search](https://hicreator.ai/tools/tiktok-influencer-search) | Discover relevant creators with AI and detailed profile filters.  |
+
+
+
+
 
 ### [](#protonmail)Protonmail
 
@@ -1095,6 +1106,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Compare Instagram Influencers](https://hicreator.ai/tools/instagram-compare-influencers) | Put two public Instagram accounts next to each other and compare follower counts, engagement rates, and average performance per post in one lookup. |
 | [Instagram Email Finder](https://hicreator.ai/tools/instagram-email-finder) | Find a creator’s business email using their Instagram username or profile link. |
 | [Free Instagram Influencer Search](https://hicreator.ai/tools/instagram-influencer-search) | Describe your ideal Instagram creators. Let AI find relevant profiles, then refine your matches with detailed creator filters. |
+| [Instagram Pricing Calculator](https://hicreator.ai/tools/instagram-pricing-calculator) | An estimated price range for a sponsored post on any public Instagram account, with the method behind it shown.  |
+
+
 
 ### [](#google)Google
 
