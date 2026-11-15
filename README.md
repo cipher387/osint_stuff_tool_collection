@@ -2973,6 +2973,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Barcodepedia](https://barcodepedia.com/) | Free product encyclopedia by barcode: brand owner, licensee and GS1 registrant behind a product, every fact cited |
 | [UK Find a Tender (Apify)](https://apify.com/publicrecords/uk-find-a-tender-scraper) | UK government tenders from Find a Tender and Contracts Finder with buyer, value, deadline and source link. Runs on Apify. |
 | [TED EU Tenders (Apify)](https://apify.com/publicrecords/eu-ted-notices-scraper) | EU procurement notices from TED (Tenders Electronic Daily) with buyer, CPV code, value, deadline and source link. Runs on Apify. |
+| [EU Grants Scraper (Apify)](https://apify.com/tinyrex/eu-grants-scraper) | Open and forthcoming EU funding calls from the official Funding & Tenders Portal (Horizon Europe, Digital Europe, LIFE, Erasmus+, cascade funding): status, deadlines, budgets and a portal link. Runs on Apify. |
 
 ### [](#amazon)Amazon
 
