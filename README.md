@@ -477,7 +477,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GeoAxis](https://geoaxis.ai/) | Upload any photo. GeoAxis returns ranked locations with confidence scores and the evidence behind each one - meter-level in 2,300+ cities, no GPS or EXIF needed. |
 | [FindPicLocation](https://findpiclocation.com/en) | Location finder reads landmarks, signage, terrain and shadow to identify where a picture was taken — usually within a city block.  | 
 
-⚠️ If you work in Low Enforcement, you can get access to the undisputed market leader in AI geolocation -  Raven (GeoSpy).
+⚠️ If you work in Law Enforcement, you can get access to the undisputed market leader in AI geolocation -  Raven (GeoSpy).
 
 
 ### [](#tools)Tools
