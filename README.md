@@ -53,7 +53,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Nature](#nature)
     - [Aviation](#aviation)
     - [Maritime](#maritime)
-    - [Seafloor](#seafloor)
     - [Ski areas](#skiareas)
     - [Railway](#railway)
     - [Routes](#routes)
@@ -267,6 +266,19 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐  [My Ocean Pro](https://data.marine.copernicus.eu/viewer/expert) | An online map tool for exploring seas and oceans, with more than 277 datasets, including temperature, salinity, wave height, sea ice, acidity, and oxygen concentration. |
 
 
+
+#### Seafloor
+
+| Link | Description |
+| --- | --- |
+|  🌐  [Arcgis experience](https://experience.arcgis.com/experience/094f432801904cdeb1fe78495a0b4305#data_s=id%3AdataSource_2-19be67fb632-layer-36-19be67fbe2a-layer-113%3A17547%2Cid%3AdataSource_2-19bd8480022-layer-95%3A9%2Cid%3AdataSource_2-19be2132059-layer-9%3A68) | World Reef Map (with video) |
+|  🌐  [International Hydrographic Organization](https://www.ncei.noaa.gov/maps/iho_dcdb/) | Bathymetric Data Viewer (worldwide map) |
+|  🌐  [GBPlates portal](https://portal.gplates.org/cesium/?view=seabed) | Seabed Lithology Map |
+|  🌐  [Arcgis Living Atlas](https://livingatlas.arcgis.com/emu/#viewpoint=358,1934667,102100,-6700760.335,5209373.047,-6.883&camera=2,50,102100,-6720824.116,4607338.592,371299.140) | Ecological Marine Unit Explorer |
+
+
+
+
 #### Weather 
 
 | Link | Description |
@@ -314,15 +326,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Track Trace](https://track-trace.com/container) | A free online tool that uses a shipping container number to determine which company it belongs to and automatically redirects to company's website to track it. |
 
 
-
-### [](#seafloor)Seafloor
-
-| Link | Description |
-| --- | --- |
-| [Arcgis experience](https://experience.arcgis.com/experience/094f432801904cdeb1fe78495a0b4305#data_s=id%3AdataSource_2-19be67fb632-layer-36-19be67fbe2a-layer-113%3A17547%2Cid%3AdataSource_2-19bd8480022-layer-95%3A9%2Cid%3AdataSource_2-19be2132059-layer-9%3A68) | World Reef Map (with video) |
-| [International Hydrographic Organization](https://www.ncei.noaa.gov/maps/iho_dcdb/) | Bathymetric Data Viewer (worldwide map) |
-| [GBPlates portal](https://portal.gplates.org/cesium/?view=seabed) | Seabed Lithology Map |
-| [Arcgis Living Atlas](https://livingatlas.arcgis.com/emu/#viewpoint=358,1934667,102100,-6700760.335,5209373.047,-6.883&camera=2,50,102100,-6720824.116,4607338.592,371299.140) | Ecological Marine Unit Explorer |
 
 
 
