@@ -454,6 +454,32 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 |[Football Logos](https://football-logos.cc/map/) | Interactive map of 4600+ football clubs in 110+ countries. |
 
 
+#### Basketball
+
+| Link | Description |
+| --- | --- |
+|[Courts of the world](https://www.courtsoftheworld.com/map/) | ‎70,000 basketball courts across 200+ countries and 6 continents. |
+|[Basketball Map](https://www.basketballmap.com/) |  1,200+ Players. 350+ Courts. 15+ Countries. |
+
+
+
+#### Cricket
+
+| Link | Description |
+| --- | --- |
+|[Cricket Map](https://www.cricketgroundmap.com/) | 972 grounds from all over the world |
+
+
+
+#### Tennis/pickeball/padel
+
+| Link | Description |
+| --- | --- |
+|[OpenTennisMap](https://opentennismap.org/?lat=51.29930&lon=9.49100&z=11.00) | Search 500000+ tennis courts mapped from OpenStreetMap, with surfaces, floodlights, indoor courts. |
+|[RacketMaps](https://racketmaps.com/en) | 10,000+ clubs worldwide, 25,000+ courts mapped, 100+ countries covered|
+|[GrandCourts](https://www.grandcourts.com/) |2 5,000+ players. 1,200+ courts mapped worldwide |
+
+
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
 
