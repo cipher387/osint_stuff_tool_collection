@@ -59,7 +59,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Iran vs USA conflict monitoring](#iran-monitoring)
     - [Worldwide events monitoring](#worldwide-events-monitoring)
     - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
-    - [Sport](#sport)
+    - [Sport maps](#sport)
     - [Culture](#culture)
     - [Worldwide street webcams](#worldwide-street-webcams)
     - [AI Geolocation](#ai-geolocation)
@@ -435,7 +435,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-### [](#Sport)Sport
+### [](#Sport)Sport maps
 
 #### Skiing
 
