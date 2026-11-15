@@ -1867,6 +1867,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Urlxray](http://urlxray.com/) |     |
 | [Unshorten.it](https://unshorten.it/) |     |
 | [Peekray](https://peekray.com) | Shows where a short or redirecting link really ends up, following up to 4 redirects on its server, and flags known phishing links. Free website and Chrome extension, no account. |
+| [Scanify Link Expander](https://scanify.to/link-expander) | Paste a short or redirecting link and see every hop and the final destination, followed on its servers so you never visit it. Flags cross-domain hops. Free, no account. |
 
 ### [](#text-analyze)Text Analyze
 
