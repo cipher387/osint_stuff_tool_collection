@@ -60,6 +60,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Iran vs USA conflict monitoring](#iran-monitoring)
     - [Worldwide events monitoring](#worldwide-events-monitoring)
     - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
+    - [Sport](#sport)
     - [Culture](#culture)
     - [Worldwide street webcams](#worldwide-street-webcams)
     - [AI Geolocation](#ai-geolocation)
@@ -326,18 +327,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Track Trace](https://track-trace.com/container) | A free online tool that uses a shipping container number to determine which company it belongs to and automatically redirects to company's website to track it. |
 
 
-
-
-
-### [](#skiareas)Ski areas
-
-| Link | Description |
-| --- | --- |
-| [Skimap](https://skimap.org/) | Archive of over 32000 maps from around the world, with content dating back over 90 years.  |
-| [OpenSkiMap](https://openskimap.org/) | Search ski areas, lists and runs |
-
-
-
 ### [](#railway)Railway
 
 | Link | Description |
@@ -444,6 +433,27 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [All Text in NYC](http://alltext.nyc) | A text-search service for finding inscriptions on walls in Brooklyn. |
 | [15 min city platform](https://whatif.sonycsl.it/15mincity/) | A global map of how cities fit the 15-minute city concept (walking distance to vital facilities such as grocery stores, schools, hospitals, places for walking etc). Useful for: - hotel search - apartment search - all kinds of research |
 | [ArchiveGrid](https://researchworks.oclc.org/archivegrid/) | - Worldwide map of 1400+ archives (libraries, universities, museums etc) with contact info - Search by 7M+ archival materials records |
+
+
+
+### [](#Sport)Sport
+
+#### Skiing
+
+| Link | Description |
+| --- | --- |
+| [Skimap](https://skimap.org/) | Archive of over 32000 maps from around the world, with content dating back over 90 years.  |
+| [OpenSkiMap](https://openskimap.org/) | Search ski areas, lists and runs |
+| [SkiResort](https://www.skiresort.com/en/ski-resorts/) | List  and map  of all 6113 ski resorts worldwide. |
+
+#### Football
+
+| Link | Description |
+| --- | --- |
+|[Football Clubs Map](https://footballclubsmap.com/) | Interactive world map of football clubs. 40K+ teams. |
+|[MAP11](https://map11.net/) | A free, community-built map of 18,000+ football clubs and their stadiums. |
+|[Football Logos](https://football-logos.cc/map/) | Interactive map of 4600+ football clubs in 110+ countries. |
+
 
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
