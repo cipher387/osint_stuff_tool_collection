@@ -53,7 +53,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Nature](#nature)
     - [Aviation](#aviation)
     - [Maritime](#maritime)
-    - [Ski areas](#skiareas)
     - [Railway](#railway)
     - [Routes](#routes)
     - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
