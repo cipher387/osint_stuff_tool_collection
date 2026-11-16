@@ -1167,6 +1167,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Free Instagram Influencer Search](https://hicreator.ai/tools/instagram-influencer-search) | Describe your ideal Instagram creators. Let AI find relevant profiles, then refine your matches with detailed creator filters. |
 | [Instagram Pricing Calculator](https://hicreator.ai/tools/instagram-pricing-calculator) | An estimated price range for a sponsored post on any public Instagram account, with the method behind it shown.  |
 | [Share Link Extractor](https://noimosiny.com/modules) | Retrieve the user shared a reel by url containing igsh parameter. |
+| [Stories Download](https://storiesdownload.com/) | Free Instagram Story downloader. Public Reels and posts usually work in HD with no login and no watermark; Stories and highlights often need the visitor's Instagram sign-in. Private, Close Friends, and expired Stories cannot be fetched. |
 
 
 ### [](#google)Google
