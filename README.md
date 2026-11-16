@@ -145,7 +145,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Sound indefication and analyze](#sound-indefication-and-analyze)
 - [Sound search and analyze](#sound-search-and-analyze)
 - [Video editing and analyze](#video-editing-and-analyze)
-- [Image Search](#image-search-and-identification)
+- [Image Search](#image-search)
     - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
     - [Video search engines and tools](#video-search-engines)
     - [Image editing tools](#image-editing-tools)
@@ -1980,6 +1980,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [pic.sogou.com](https://pic.sogou.com/) | Chinese reverse image search engine. |
 | 🌐 [Image So Search](https://image.so.com/) | Qihoo 360 Reverse Images Search |
 | 🌐 [Yandex Images](https://yandex.com/images) | Russian reverse image search (good for Telegram reverse image search). |
+| 🌐 [PicDetective](https://picdetective.com/) | Upload any photo to find its original source, discover who else is using it, or locate higher resolution versions. Free, fast, and no account needed. |
 | 🌐 [CopySeeker](https://copyseeker.net/discovery) | A reverse image search tool that looks for exact copies of an image and may help identify when it first appeared online. |
 | 🔧  [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) | The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. |
 | 🪦 [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
@@ -1997,6 +1998,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🪦 [Faceagle](https://faceagle.com) | A face-search service that claims to compare an uploaded photo against a database of 4,190,655 face images.|
 | 🪦 [SN Radar VK Photo Search](https://snradar.azurewebsites.net/) |  Vkontakte photos search   |
 | 🪦 [News Myseldon](https://news.myseldon.com/en/) | Search photo looks for famous and little-known (like minor officials) people. |
+| 🌐 [Surface](https://surfface.com/) | >10 billion indexed images, >250 million social profiles, U.S. public records, >22 million mugshots and criminal records, >700,000 registered sex offenders |
 
 
 #### Clothing/shopping
@@ -2044,11 +2046,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [Logobook](http://www.logobook.com/) | Help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
 
 
-### [](#news-image-search-engines)News
+### [](#news-image-search-engines)News/fact checking
 
 | Link | Description |
 | --- | --- |
-| [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
+| 🌐 [FactCheckDB](https://imagewhisperer.org/factcheck-db/) | 932 debunked images from fact-checkers worldwide (Reuters, Snopes, PolitiFact, AFP, BOOM Live, Lead Stories, Full Fact and 100+ others). Search by description, person, place and event. |
+| 🪦 [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
 
 
 #### Tools
@@ -2063,7 +2066,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 |  🌐🧩 [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
 | 🔧 [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
 | 🪦 [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
-
+| 🌐 [Verifier Pro Reverse Image Search Tool](https://verifierpro.com/tools/reverse-image-search/) | Upload an image or paste a URL — instantly search Google Images, Google Lens, Bing, Yandex, TinEye and Pinterest simultaneously. |
 
 ### [](#video-search-engines)Video search engines and tools
 
@@ -2149,6 +2152,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Face Recognition](https://github.com/ageitgey/face_recognition) | facial recognition api for Python and the command line |
 | [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
 | [Face Detection and comprasion](https://6mzld2.csb.app/) | Sometimes it can be difficult to determine if photos taken at different ages belong to the same person. In such a situation, this tool will help.  | 
+| [FaceOnLive](https://faceonlive.com/) | Passive Face Liveness Detection and Face Recognition SDKs. |
+
 
 ### [](#font-indenfication)Font Indenfication
 
