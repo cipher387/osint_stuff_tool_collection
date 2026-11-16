@@ -1313,7 +1313,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
 | [SCloudConvert](https://scloudconvert.com/) | Free SoundCloud to MP3 converter. Download a track as MP3 or M4A with title, artist and cover art, or a whole playlist as one ZIP. No sign-up. |
-
+| [SoundCloud Username Lookup](https://osint.ly/modules/soundcloud) | Extracts public SoundCloud profile data—including username, display name, bio, avatar, location, follower and track counts, verification status, and account creation date  |
 
 
 
