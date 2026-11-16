@@ -1355,6 +1355,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Megatools](https://megous.com/git/megatools) | The [http://Mega.nz](http://Mega.nz) file exchange contains links to many files, including various databases of leaked data. You can use the megatools command-line tool to automate your work with this file-sharing service. |
 | [You Get](https://github.com/soimort/you-get) | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
 | [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
+| [SCloudConvert](https://scloudconvert.com/) | Free SoundCloud to MP3 converter. Download a track as MP3 or M4A with title, artist and cover art, or a whole playlist as one ZIP. No sign-up. |
 | [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
