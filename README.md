@@ -145,12 +145,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Sound indefication and analyze](#sound-indefication-and-analyze)
 - [Sound search and analyze](#sound-search-and-analyze)
 - [Video editing and analyze](#video-editing-and-analyze)
-- [Image Search and Identification](#image-search-and-identification)
+- [Image Search](#image-search-and-identification)
     - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
     - [Video search engines and tools](#video-search-engines)
     - [Image editing tools](#image-editing-tools)
-    - [Other Image Search Engines](#other-image-search-engines)
-    - [Image Analyze](#image-analyze)
+- [Image Analyze](#image-analyze)
     - [Exif Analyze and editing](#exif-analyze-and-editing)
     - [Face recognition and search](#face-recognition-and-search)
     - [Font Indenfication](#font-indenfication)
@@ -1968,7 +1967,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 
 
-## [](#image-search-and-identification)Image Search and Identification
+## [](#image-search-and-identification)Image Search 
 
 
 #### Universal
@@ -1990,13 +1989,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| 🪦 [News Myseldon](https://news.myseldon.com/en/) | Search photo looks for famous and little-known (like minor officials) people. |
 | 🌐 [FaceSeek](https://www.faceseek.online/face-search) | Upload a photo and find where that face appears across the public web and social media. Free daily searches, no account, no credits. |
 | 🌐 [PimEyes](https://pimeyes.com/en) | Face Search And Reverse Image Search Engine. |
 | 🌐 [FaceCheckID](https://facecheck.id/) | Find People Online by Photo  |
 | 🌐 [Search4faces](https://search4faces.com/) | Search4faces is a reverse face search engine that can help you to find photos of a person all across the web. We use facial recognition, artificial intelligence and machine learning to perform a reverse image search. You can find the right person or someone very similar to him in a few seconds. The result is a link to the profile of the found person in the social network vk.com, ok.ru and others. |
-| [PicTriev](https://www.pictriev.com/) | Searching faces on the web. |
-
+| 🌐 [PicTriev](https://www.pictriev.com/) | Searching faces on the web. |
+| 🪦 [Faceagle](https://faceagle.com) | A face-search service that claims to compare an uploaded photo against a database of 4,190,655 face images.|
+| 🪦 [SN Radar VK Photo Search](https://snradar.azurewebsites.net/) |  Vkontakte photos search   |
+| 🪦 [News Myseldon](https://news.myseldon.com/en/) | Search photo looks for famous and little-known (like minor officials) people. |
 
 
 #### Clothing/shopping
@@ -2043,6 +2043,14 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | 🌐 [Logobook](http://www.logobook.com/) | Help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
 
+
+### [](#news-image-search-engines)News
+
+| Link | Description |
+| --- | --- |
+| [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
+
+
 #### Tools
 
 | Link | Description |
@@ -2081,14 +2089,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Pic2Vector](https://pic2vector.com/) | Free browser-based PNG/JPG/WebP to layered SVG converter. Classical spline tracing (vtracer) runs locally in WebAssembly; images are never uploaded. No account required. |
 | [Image Upscaler (Apify)](https://apify.com/plainrecordlabs/image-upscaler) | Upscales photos 2x, 3x or 4x with Real-ESRGAN running on CPU. Paid on Apify per image and per output megapixel. |
 
-### [](#other-image-search-engines)Other Image Search Engines
 
-| Link | Description |
-| --- | --- |
-| [SN Radar VK Photo Search](https://snradar.azurewebsites.net/) |     |
-| [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
 
-### [](#image-analyze)Image Analyze
+## [](#image-analyze)Image Analyze
 
 | Link | Description |
 | --- | --- |
@@ -2139,15 +2142,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Metadata Remover AI (metadataremoverai.com)](https://metadataremoverai.com/exif-viewer) | View and strip EXIF, GPS, XMP, IPTC and C2PA metadata in JPEG, PNG, WebP, HEIC, AVIF, TIFF, MP4 and MOV in the browser without re-encoding; nothing is uploaded, no account. Open-source engine (MIT, [repo](https://github.com/fazal-bhinder/lossless-metadata)) |
 | [WhatsInMyFile](https://whatsinmyfile.com/) | Free in-browser checker for hidden file data: photo GPS and EXIF, author names in Word and PDF files, hidden text in PDFs and C2PA/AI labels in images and audio. Files are not uploaded, no account |
 
-### [](#face-recognition-and-search)Face recognition and search
+### [](#face-recognition-and-search)Face recognition and detection
 
 | Link | Description |
 | --- | --- |
 | [Face Recognition](https://github.com/ageitgey/face_recognition) | facial recognition api for Python and the command line |
 | [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
-| [Search4faces.com](https://search4faces.com/) | search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit |
-| [Telegram Facemath bot](https://t.me/facematch_bot) | searching for a face among the archive of photographs from public events in Kazakhstan |
-| [Faceagle](https://faceagle.com) | A face-search service that claims to compare an uploaded photo against a database of 4,190,655 face images.|
 | [Face Detection and comprasion](https://6mzld2.csb.app/) | Sometimes it can be difficult to determine if photos taken at different ages belong to the same person. In such a situation, this tool will help.  | 
 
 ### [](#font-indenfication)Font Indenfication
