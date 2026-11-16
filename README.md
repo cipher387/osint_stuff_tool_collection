@@ -1392,13 +1392,13 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [Telemetr](https://telemetr.io/en/catalog/global) | One of largest database of Telegram channels around the world + channel analyzing tool |
 | 🌐 [Tgstat](https://tgstat.com) | one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources. |
 | 🌐 [Telegramchannels.me](https://telegramchannels.me/list/biggest?language=en) | Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages |
-| 🌐 [Telegram group](https://telegram-group.com/en/) | 2,805 groups, 43 categories, 7 languages  |
+| 🌐 [Telegram group](https://telegram-group.com/en/) | 2,805 groups, 43 categories, 7 languages.  |
 | 🌐 [TelegramChannels](https://telegramchannels.me/) | More than 12,380 active channels, groups, bots, and stickers in English, updated daily and reviewed for quality. |
 | 🌐 [Telegram Directory](https://tdirectory.me/) | Discover the most searched and trending Telegram channels, groups, and bots all in one place. |
-| 🌐 [TlgramEU](https://tlgrm.eu/channels) | Discover interesting channels for your Telegram |
+| 🌐 [TlgramEU](https://tlgrm.eu/channels) | Discover interesting channels for your Telegram. |
 | 🌐 [DirectoryTG](https://directorytg.com/en/) | Channels, groups, bots and mini apps, organized by category and language.  |
-| 🌐 [Combot](https://combot.org/top/telegram/groups) | Rating and keyword search. 37K+ Telegram groups |
-
+| 🌐 [Combot](https://combot.org/top/telegram/groups) | Rating and keyword search. 37K+ Telegram groups. |
+| 🌐 [ChatCrawler](https://chatcrawler.app) | 37M+ channels. 11M+ groups.   |
 
 #### Bots directories
 
