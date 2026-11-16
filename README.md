@@ -1970,38 +1970,91 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 ## [](#image-search-and-identification)Image Search and Identification
 
-### [](#reverse-image-search-engines-and-automation-tools)Reverse Image Search Engines and automation tools
+
+#### Universal
 
 | Link | Description |
 | --- | --- |
-| [News Myseldon](https://news.myseldon.com/en/) | from the photo looks for famous and little-known (like minor officials) people |
-| [Ascii2d.net](http://ascii2d.net) | Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download |
-| [Searchbyimage.app](https://searchbyimage.app/) | search clothes in online shops |
-| [Aliseeks.com](https://www.aliseeks.com/search) | search items by photo in AliExpress and Ebay |
-| [lykdat.com](https://lykdat.com/) | clothing reverse image search services |
-| [IQDB.org](https://iqdb.org/) | reverse image search specially for anime art |
-| [pic.sogou.com](https://pic.sogou.com/) | chinese reverse image search engine |
-| [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
-| [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
-| [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once |
-| [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
-| [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
-| [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
-| [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
-| [DepositPhotos Reverse Image Search](https://ru.depositphotos.com/search/by-images.html) | tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). |
-| [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree) | Upload a picture of a face and get three paintings that show similar people. |
-| [Image So Search](https://image.so.com/) | Qihoo 360 Reverse Images Search |
-| [GORIS](https://github.com/tanaikech/goris) | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
-| [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
-| [Logobook](http://www.logobook.com/) | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
-| [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
-| [Lexica](https://lexica.art/) | Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. |
-| [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) | The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. |
-| [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
-| [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
-| [CopySeeker](https://copyseeker.net/discovery) | A reverse image search tool that looks for exact copies of an image and may help identify when it first appeared online. |
-| [Search by Image](https://github.com/dessant/search-by-image) | A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines. |
-| [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
+| 🌐 [Lenso](https://lenso.ai/en) | AI Reverse Image Search. Find places, people, duplicates, and more.  |
+| 🌐 [Bing Visual Image Search](https://explore.microsoft.com/en-gb/bing/visual-search/) |  |
+| 🌐 [TinEye](https://tineye.com/) | Search over 86.7 billion images and find where images appear online. Using TinEye is private and we do not save your search images.  |
+| 🌐 [pic.sogou.com](https://pic.sogou.com/) | Chinese reverse image search engine. |
+| 🌐 [Image So Search](https://image.so.com/) | Qihoo 360 Reverse Images Search |
+| 🌐 [Yandex Images](https://yandex.com/images) | Russian reverse image search (good for Telegram reverse image search). |
+| 🌐 [CopySeeker](https://copyseeker.net/discovery) | A reverse image search tool that looks for exact copies of an image and may help identify when it first appeared online. |
+| 🔧  [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) | The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. |
+| 🪦 [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
+
+
+#### Face search
+
+| Link | Description |
+| --- | --- |
+| 🪦 [News Myseldon](https://news.myseldon.com/en/) | Search photo looks for famous and little-known (like minor officials) people. |
+| 🌐 [FaceSeek](https://www.faceseek.online/face-search) | Upload a photo and find where that face appears across the public web and social media. Free daily searches, no account, no credits. |
+| 🌐 [PimEyes](https://pimeyes.com/en) | Face Search And Reverse Image Search Engine. |
+| 🌐 [FaceCheckID](https://facecheck.id/) | Find People Online by Photo  |
+| 🌐 [Search4faces](https://search4faces.com/) | Search4faces is a reverse face search engine that can help you to find photos of a person all across the web. We use facial recognition, artificial intelligence and machine learning to perform a reverse image search. You can find the right person or someone very similar to him in a few seconds. The result is a link to the profile of the found person in the social network vk.com, ok.ru and others. |
+| [PicTriev](https://www.pictriev.com/) | Searching faces on the web. |
+
+
+
+#### Clothing/shopping
+
+| Link | Description |
+| --- | --- |
+| 🌐 [lykdat.com](https://lykdat.com/) | Сlothing reverse image search services. |
+| 🪦 [Aliseeks.com](https://www.aliseeks.com/search) | Search items by photo in AliExpress and Ebay. |
+| 🪦 [Searchbyimage.app](https://searchbyimage.app/) | Search clothes in online shops. |
+
+
+#### Anime/art
+
+| Link | Description |
+| --- | --- |
+| 🌐 [Ascii2d.net](http://ascii2d.net) | Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download. |
+| 🌐 [Lexica](https://lexica.art/) | Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. |
+| 🔧 [IQDB.org](https://iqdb.org/) | Reverse image search specially for anime art |
+| 🌐 [Same Energy](https://same.energy/) | reverse image search engine for finding beautiful art and photos in the same style as the original picture |
+| 🪦 [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree) | Upload a picture of a face and get three paintings that show similar people. |
+
+
+
+#### Stocks
+
+| Link | Description |
+| --- | --- |
+| 🌐 [DepositPhotos Reverse Image Search](https://ru.depositphotos.com/search/by-images.html) | tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). |
+| 🌐 [Pixsy](https://pixsy.com) | Allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted. |
+| 🪦 [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
+
+
+#### Medecine
+
+| Link | Description |
+| --- | --- |
+| 🔧 [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images. |
+| 🌐 [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
+
+
+#### Trademarks/brands/logos
+
+| Link | Description |
+| --- | --- |
+| 🌐 [Logobook](http://www.logobook.com/) | Help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
+
+#### Tools
+
+| Link | Description |
+| --- | --- |
+| >_ [GORIS](https://github.com/tanaikech/goris) | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
+| >_ [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
+| >_ [Search by Image](https://github.com/dessant/search-by-image) | A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines. |
+| >_ [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
+| 🧩 [Fatkun Image Search](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | Searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once. |
+|  🌐🧩 [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
+| 🔧 [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
+| 🪦 [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
 
 
 ### [](#video-search-engines)Video search engines and tools
