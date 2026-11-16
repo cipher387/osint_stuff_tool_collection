@@ -2265,6 +2265,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [DARKNET MCP SERVER](https://github.com/badchars/darknet-mcp-server) | 66 dark web & threat intelligence tools for AI agents. |
+| [OpenTor](https://github.com/vichhka-git/OpenTor) | Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Search 12 dark web engines, spider .onion sites, extract IOCs. |
 | [TorBot](https://github.com/DedSecInside/TorBot) | Open Source Intelligence Tool for the Dark Web.  |
 | [Onion Search](https://github.com/megadose/OnionSearch) | Script that scrapes urls on different .onion search engines.  |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
