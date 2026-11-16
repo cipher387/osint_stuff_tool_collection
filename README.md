@@ -2062,15 +2062,21 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | >_ [LingoLens](https://github.com/OSINT-mindset/lingolens) | Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings). |
 | >_ [Search by Image](https://github.com/dessant/search-by-image) | A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines. |
 | >_ [MEMERY](https://github.com/deepfates/memery) | Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server. |
-|  >_ [Bulk Bing Image Downloader](https://github.com/ostrolucky/Bulk-Bing-Image-downloader) | A simple and fast tool to automate loading images from Bing Images search results  (limit 5 is used for the example, but larger limits can be used). |
+| >_ [Bulk Bing Image Downloader](https://github.com/ostrolucky/Bulk-Bing-Image-downloader) | A simple and fast tool to automate loading images from Bing Images search results  (limit 5 is used for the example, but larger limits can be used). |
 | 🧩 [Fatkun Image Search](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) | Searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once. |
 |  🌐🧩 [Reverse Image Search Anywhere](https://reverseimage.app/) | Free Chrome, Edge and Firefox extension for searching images across Google Lens, Yandex, Bing and TinEye from a right-click, including images on sites such as Instagram. |
 | 🔧 [Revesearch.com](https://revesesearch.com) | allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. |
 | 🪦 [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) |
 | 🌐 [Verifier Pro Reverse Image Search Tool](https://verifierpro.com/tools/reverse-image-search/) | Upload an image or paste a URL — instantly search Google Images, Google Lens, Bing, Yandex, TinEye and Pinterest simultaneously. |
 
-### [](#video-search-engines)Video search engines and tools
+#### Local image search
 
+| Link | Description |
+| --- | --- |
+| >_ [MEMERY](https://github.com/deepfates/memery) | Search over large image datasets with natural language and computer vision. |
+
+
+### [](#video-search-engines)Video search engines and tools
 
 | Link | Description |
 | --- | --- |
