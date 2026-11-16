@@ -110,6 +110,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [OneDrive](#onedrive)
     - [Udemy](#udemy)
     - [Duolingo](#duolingo)
+    - [Soundcloud](#soundcloud)
     - [Universal](#universal)
     - [Downloaders](#downloaders)
 - [Messengers](#messengers)
@@ -1304,6 +1305,18 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [duolingOSINT](https://github.com/ajuelosemmanuel/duolingOSINT) | The language learning platform Duolingo has more than 570 million+ users worldwide. This tool collects information about Duolingo users by nickname or email. |
 
+
+
+### [](#souncloud)Soundcloud
+
+| Link | Description |
+| --- | --- |
+| [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
+| [SCloudConvert](https://scloudconvert.com/) | Free SoundCloud to MP3 converter. Download a track as MP3 or M4A with title, artist and cover art, or a whole playlist as one ZIP. No sign-up. |
+
+
+
+
 ### [](#universal)Universal
 
 | Link | Description |
@@ -1355,8 +1368,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Slideshare Downloader](https://github.com/mohan3d/slideshare-go) | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) |
 | [Megatools](https://megous.com/git/megatools) | The [http://Mega.nz](http://Mega.nz) file exchange contains links to many files, including various databases of leaked data. You can use the megatools command-line tool to automate your work with this file-sharing service. |
 | [You Get](https://github.com/soimort/you-get) | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
-| [SoundScrape](https://github.com/Miserlou/SoundScrape) | Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com. |
-| [SCloudConvert](https://scloudconvert.com/) | Free SoundCloud to MP3 converter. Download a track as MP3 or M4A with title, artist and cover art, or a whole playlist as one ZIP. No sign-up. |
 | [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
 
