@@ -3064,6 +3064,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | Link | Description |
 | --- | --- |
 | [GlimpseHG](http://glimpsehq.io) | View active Ads in Google, Linkedin and Meta (Facebook) for target domain. Free. |
+| [Adspy](https://adspy.sh) | (PAID, from $19/month) Hosted MCP server for Claude and Codex: search brands' public Meta and Google ads and their organic TikTok, YouTube and Instagram posts, with first-seen dates and counts. |
 
 
 ### [](#bank-information-search)Bank information search
