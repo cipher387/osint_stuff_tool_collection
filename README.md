@@ -2686,6 +2686,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BreachDetect](https://breachdetect.net/domain-breach-check) | Free check, no signup: enter a company domain and see how many of its logins appear in stealer logs (44B+ records from 37M infected machines) and breached databases (808 dumps), which of the company's own sign-in pages they were for, and a masked sample. Full results and API are paid, for businesses only. |
 | [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
 | [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by email |
+| [TraceFind](https://tracefind.info/email) | Enter an email and see which of 493 sites it is registered on, its data breaches and exposed fields, the linked Google account and whether the mailbox exists. The owner is not notified. Free preview, full report paid. |
 
 
 
@@ -2735,6 +2736,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
 | [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
 | [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by nickname |
+| [TraceFind](https://tracefind.info/username) | Search a username across about 1,000 sites; each match shows the profile's name, bio, picture and links. |
 
 
 
@@ -2754,6 +2756,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) | #python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses |
 | [Phone Variant Search](https://no-nonsense-intel.com/phone-variant-search) | Generates search queries for multiple variations of a single phone number, with quick links to Google, Bing, Baidu, and Yandex search. |
 | [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by phone number |
+| [TraceFind](https://tracefind.info/phone) | Carrier, country and line type of a number, whether it is on WhatsApp, Telegram, Signal or Facebook, whether it is disposable, spam reports and data breaches containing the number. |
 
 
 ### [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
@@ -2791,6 +2794,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [NPD Breach Check](http://npd.pentester.com) | A tool claiming to check whether personal data was affected by the National Public Data breach.|
 | [Breach House](https://breach.house/) | Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email. |
 | [OffSeq Breach](https://breach.offseq.com/) | Search a company domain or an email address across leaked datasets, forums, Telegram channels and marketplaces. Masked results with source and date are free without an account; monitoring, unmasking and an API are paid. |
+| [TraceFind](https://tracefind.info/search) | One search box for emails, usernames, phone numbers, domains, IPs and crypto wallets with data breach checks; also has an API and an MCP server for AI assistants. |
 
 
 
