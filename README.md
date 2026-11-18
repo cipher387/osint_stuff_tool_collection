@@ -2196,6 +2196,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) | Free web tool, no sign-up: paste a wallet or token address, a link or a suspicious message and it checks for scam signals such as addresses flagged for theft or phishing, honeypot tokens and phishing or drainer sites. |
 | [FreezeRadar](https://freezeradar.com/) | Free, no sign-up: check whether a wallet address was frozen/blacklisted by a stablecoin issuer (USDT, USDC, PAXG, XAUt) and see sanctions exposure and freeze/release history |
 | [XMRList](https://xmrlist.com/) | Free, no sign-up: look up a service that accepts Monero (XMR) before paying it, with its KYC policy, .onion address, uptime, scam warnings and user reports |
+| [USDT Checker](https://www.usdtchecker.io/) | Free, no sign-up: check whether a USDT address (TRON TRC20 or Ethereum ERC20) is frozen/blacklisted by Tether, with freeze time and amount; live list of frozen addresses and freeze statistics |
 
 
 # [](#code)Code
