@@ -377,6 +377,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Nawafith](https://media.nawafith.net/index-en) | Live monitor of Syrian and international media coverage of Syria, in Arabic and English. One feed, filterable by topic (military, political, humanitarian, economic, governance, security) and by time, with an option to hide state media; every headline links to its source outlet. Free, no account. |
 | [Legistar Council Meetings (Apify)](https://apify.com/publicrecords/legistar-meetings-scraper) | City council meetings, agenda items, votes and attached documents for any city that publishes on Legistar, each with a link back to the official record. Runs on Apify. |
 | [Street Crime Map](https://streetcrimemap.co.uk/) | Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes. | 
+| [Monitor the Situation](https://monitor-the-situation.com/) | free, no-login live world news map: conflict, disaster and political events geolocated from news outlets, official agencies and X posts, each linked to its source reports; aircraft, ships, GPS jamming and internet outage layers |
 
 ### [](#iran-monitoring)Iran vs USA conflict monitoring
 
