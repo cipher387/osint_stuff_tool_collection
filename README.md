@@ -851,6 +851,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube Comment Finder And AI Analysis](https://www.youtubecommentfinder.com) | Search, Filter, Download & Analyze YouTube Comments |
 | [YouTube Comments Search](http://youtube-comments.io) | Paste a YouTube video link to search its comments by keyword and sort them by likes, replies, or date. |
 | [First YouTube Comment Finder](https://tubepilot.ai/tools/first-comment-finder/) | Free online tool, show exact time and author nickname. The first comments on posts and videos are often left by the author's close friends. Therefore, finding them can be useful for investigations on all social networks.  |
+| [AI Comment Exporter](https://aicommentexporter.com/youtube-comment-exporter/) | Paste a YouTube video link to read, search and filter its first 500 comments for free without login, then export all comments and replies to Excel-ready CSV or JSON. Also works for TikTok, Instagram, X and Reddit. Paid per exported row, from $10 top-up |
 
 
 #### Other tools
