@@ -1395,6 +1395,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | 🌐 [DarkNyx](https://darknyx.com/) | Ransomware activity Telegram search |
 | 🌐 [DeadDrop](https://deaddrop.theosintconsultants.com/) | Telegram posts search tool. 175,000,000+ posts. 2,000,000+ channels. Data range from 2026-03-09 (for free search)  |
 | 🌐 [TraceOne](https://traceon.re/dashboard) | Search across 90M+ Telegram messages in real time.  |
+| 🌐 [TGScope](https://tgscope.io/) | Search 3M+ public Telegram channels by topic and language: describe what you need in any language and get matching channels with subscriber counts. No login. |
 
 
 
