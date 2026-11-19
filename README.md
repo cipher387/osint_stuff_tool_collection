@@ -3217,7 +3217,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
 | [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USAðºð¸ and International), Email Search, Phone Number Searchðºð¸, Username Permutator, Email Permutator, Vehicle License Plate Searchðºð¸, Vehicle,VIN No. Searchðºð¸, Facebook User/Page/Posts Search |
 | [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
-
+| [Sentinelle Pulse OSINT Copilot](https://copilot.sentinellepulse.com) | French-language OSINT directory: 1268 tools in 34 categories, every link checked and dead ones deleted rather than flagged as inactive. Also includes official sources for the 101 French departments (prefecture and local authority), 21 task-based guides, a glossary, and an English version. |
 
 ### [](#databases-and-data-analyzes)Databases and data analyzes
 
