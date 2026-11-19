@@ -3160,6 +3160,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 | Link | Description |
 | --- | --- |
+| [OSINTHunter](https://github.com/letox4/osinthunter) | The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required. |
 | [Vortimo](https://find.osint-tool.com/) | An online tool for quickly searching hundreds of different sources and then processing the information found. As an entry point you can use email, domain, hash, phone number, image and more. Now rebrended as Ubikron. |
 | [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
 | [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
