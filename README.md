@@ -636,6 +636,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
+| [Historical satellite](https://historical-satellite.iconem.com) | A free online tool for comparing satellite images from different time periods and sources: Google Earth, Bing Single, ESRI Wayback, EOX Sentinel and 2NASA HLS. |
 | [Observer](http://observer.farearth.com/observer/) | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. |
 | [USGS Earth Explorer](https://earthexplorer.usgs.gov/) | more than 40 years old collection of satellite imagery |
 | [Landviewer](https://eos.com/products/landviewer/) | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues |
