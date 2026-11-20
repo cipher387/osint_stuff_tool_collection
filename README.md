@@ -2200,6 +2200,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [FreezeRadar](https://freezeradar.com/) | Free, no sign-up: check whether a wallet address was frozen/blacklisted by a stablecoin issuer (USDT, USDC, PAXG, XAUt) and see sanctions exposure and freeze/release history |
 | [XMRList](https://xmrlist.com/) | Free, no sign-up: look up a service that accepts Monero (XMR) before paying it, with its KYC policy, .onion address, uptime, scam warnings and user reports |
 | [USDT Checker](https://www.usdtchecker.io/) | Free, no sign-up: check whether a USDT address (TRON TRC20 or Ethereum ERC20) is frozen/blacklisted by Tether, with freeze time and amount; live list of frozen addresses and freeze statistics |
+| [Hopline](https://forensicworks.github.io/hopline/index.html) | Browser-based Bitcoin forensics tool: follow the money, flag patterns with reasons, label wallets, and write verifiable reports. Fully local-first |
 
 
 # [](#code)Code
