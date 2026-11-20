@@ -167,7 +167,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [IOT](#iot)
 - [Archives](#archives)
     - [Tools for working with web archives](#tools-for-working-with-web-archives)
-    - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
+    - [Archives of documents/newspapers](#documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
 - [Factchecking](#factchecking)
 - [Datasets](#datasets)
@@ -201,10 +201,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Movies](#movies)
 - [Netflix](#netflix)
 - [TV/Radio](#tvradio)
-- [Tools collections/toolkits](#tools-collectionstoolkits)
 - [Databases and data analyzes](#databases-and-data-analyzes)
 - [Online OS Emulators](#online-os-emulators)
 - [Virtual Machines/Linux distributions](#virtual-machineslinux-distributions)
+- [Tools collections/toolkits](#tools-collectionstoolkits)
 - [My Projects](#my-projects)
 
 # [](#maps-geolocation-and-transport)Maps, Geolocation and Transport
@@ -968,7 +968,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Recruitin.net](https://recruitin.net/) | easily use Google to search profiles on LinkedIn |
 | [LinkedIn Profile Viewer (LurkAPI)](https://lurkapi.com/free-tools/linkedin-profile-viewer) | Paste a linkedin.com/in/ link to see what logged-out visitors see (about, experience, education, posts) without signing in, so you don't appear in their profile views. Free, 5 tries a day without signing up; runs on the paid LurkAPI API |
 | [Linkedin Profile Viewer](https://nubela.co/proxycurl/demo/linkedin-profile-viewer) | Free shows profile picture and description in full + some information about experience and education. Useful for those who do not have a Linkedin account. |
-
+| [GoMapEnum](https://github.com/nodauf/GoMapEnum) | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) |
 
 
 ### [](#xing)Xing
@@ -2467,7 +2467,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Google Word Sniper](https://googlewordsniper.eu/) | Simple tool to make easier Google queries with the advanced search operator AROUND(). |
 | [OMAIL](https://omail.io/) | An online tool that extracts and validates emails from Google and Bing search results (by keyword or domain). Partly free (200 extracts per search) |
 | [Search Whisperer Beta](http://searchwhisperer.ai) | A free AI tool that suggests search queries based on what you want to find, with explanations on how to compose them. |
-
+| [ResearchBuzz](https://researchbuzz.github.io/) | Google Sinker Search queries constructor (view pic), Google News Search queries constructor, Quick twitter account historical navigation in http://archive.org, Blogspace Time Machine and more tools |
 
 
 ### [](#iot)IOT (IP search engines)
@@ -2553,7 +2553,7 @@ You also may interested [Awesome IP Search Engines Github repo](https://github.c
 | [har2warc](https://github.com/webrecorder/har2warc) | Convert HTTP Archive (HAR) → Web Archive (WARC) format|
 
 
-### [](#archives-of-documentsnewspapers)Archives of documents/newspapers
+### [](#documentsnewspapers)Documents and newspapers
 
 | Link | Description |
 | --- | --- |
@@ -2576,7 +2576,7 @@ You also may interested [Awesome IP Search Engines Github repo](https://github.c
 | [FEDERAl TRADE COMMISSION DATABASE](http://ftc.gov/legal-library/browse/cases-proceedings) | A lot of PDF documents that uncover fraud, scams, and deceptive practices by companies in USA🇺🇸 Search by company name or keyword. |
 | [Scribd](https://www.scribd.com/) | 195 million+ PDF documents library |
 | [Slideshare](https://www.slideshare.net/) | 28M+ PDF files library |
-
+| [one-plus.github.io/DocumentSearch](https://one-plus.github.io/DocumentSearch) | Document Search osint Toolkit |
 
 
 
@@ -2881,7 +2881,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [LemmeKnow](https://github.com/swanandx/lemmeknow) | Tool for "identifying mysterious text or analyze hard-coded strings". Identifies API keys, cryptocurrency wallet numbers, encrypted strings, YouTube channel IDs, IPs, credit card numbers and much more. |
 | [](https://github.com/spyboy-productions/Valid8Proxy) |  Retrieve proxies from popular proxy sources, officiently validate proxies, save the list of validated proxies to a file |
 | [pyWhat](https://github.com/bee-san/pyWhat) | A customizable Python tool for identifying and classifying text patterns in files, including PCAP files. |
-
+| [ExtendClass](https://extendsclass.com/) | One of my favorite sites for #automating various routine tasks. Among the many analogues, it stands out for its quality of work and variety of functions (view pic). |
 
 ### [](#visualization-tools)Visualization tools
 
@@ -3157,71 +3157,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 
 
-
-### [](#tools-collectionstoolkits)Tools collections/toolkits
-
-| Link | Description |
-| --- | --- |
-| [OSINTHunter](https://github.com/letox4/osinthunter) | The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required. |
-| [Vortimo](https://find.osint-tool.com/) | An online tool for quickly searching hundreds of different sources and then processing the information found. As an entry point you can use email, domain, hash, phone number, image and more. Now rebrended as Ubikron. |
-| [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
-| [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
-| [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | osint toolkit for gathering information about domains, phone numbers and social media accounts |
-| [SEMID osint framework](https://github.com/Himatric/SEMID) | Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github |
-| [NAZAR](https://github.com/MR-NULL666/NAZAR) | universal Osint Toolkit |
-| [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) | ShellScript toolkit for #osint (12 tools) |
-| [Recon Spider](https://github.com/bhavsec/reconspider) | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations |
-| [Hunt Osint Framework](https://nitinpandey.in/ihunt/) | Dozens of online tools for different stages of #osint investigations |
-| [GoMapEnum](https://github.com/nodauf/GoMapEnum) | Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development) |
-| [ExtendClass](https://extendsclass.com/) | One of my favorite sites for #automating various routine tasks. Among the many analogues, it stands out for its quality of work and variety of functions (view pic). |
-| [FoxyRecon](https://addons.mozilla.org/ru/firefox/addon/foxyrecon/) | 44 osint tools in one add-on for #Firefox |
-| [S.I.G.I.T.](https://github.com/termuxhackers-id/SIGIT) | Simple information gathering toolkit |
-| [GVNG Search](https://github.com/ByDog3r/GvngSearch) | Command line toolkit for gathering information about person (nickname search, validate email, geolocate ip) and domain (traceroute, dns lookup, tcp port scan etc). |
-| [Owasp Maryam](https://github.com/saeeddhqan/Maryam) | modular open-source framework based on OSINT and data gathering |
-| [Ghoulbond](https://github.com/hitesh22rana/ghoulbond) | Just another all-in-one command line toolkit for gathering information about system (technical characteristics, internet speed, IP/Mac address, port scanner)+some features for nickname and phone number #osint. |
-| [Metabigoor](https://github.com/j3ssie/metabigor) | Simple and fast #osint framework |
-| [Geekflare Tools](https://gf.dev/toolbox) | 39 online free tools for website testing |
-| [Oryon OSINT query tool](https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221) | Construct investigations links in Google Sheet |
-| [Discover](https://github.com/leebaird/discover) | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one) |
-| [one-plus.github.io/DocumentSearch](https://one-plus.github.io/DocumentSearch) | Document Search osint Toolkit |
-| [Telegram HowToFindBot](https://t.me/HowToFindBot) |     |
-| [Harpoon](https://github.com/Te-k/harpoon) |     |
-| [ResearchBuzz](https://researchbuzz.github.io/) | Google Sinker Search queries constructor (view pic), Google News Search queries constructor, Quick twitter account historical navigation in http://archive.org, Blogspace Time Machine and more tools |
-| [Profounder](https://github.com/d8rkmind/Profounder) | searching users by nickname and scrapping url's from website |
-| [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) |     |
-| [Osintcombine Tools](https://osintcombine.tools/) |     |
-| [OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) |     |
-| [Mihari](https://github.com/ninoseki/mihari) |     |
-| [One Plus OSINT Toolkit](https://one-plus.github.io/Instagram) |     |
-| [Vichiti](https://github.com/umair9747/vichiti) |     |
-| [Sarenka](https://github.com/pawlaczyk/sarenka) |     |
-| [Vedbex.com](https://www.vedbex.com/tools/home) |     |
-| [Synapsint.com](https://synapsint.com/) |     |
-| [Ashok](https://github.com/ankitdobhal/Ashok) | Swiff knife for #osint |
-| [IVRE](https://github.com/ivre/ivre) | framework for network recon |
-| [SEARCH Investigative and Forensic Toolbar](https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related) | extension with quick access to dozens of online tools for osint, forensics and othef investigations goals. |
-| [Tenssens](https://github.com/thenurhabib/tenssens) | osint framework |
-| [Collector](https://github.com/galihap76/collector) | Universal Osint Toolkit |
-| [Randomtools](https://randomtools.io/) | Several dozen online tools for a variety of purposes. Including to facilitate gathering information on #Facebook, #Twitter, #YouTube, #Instagram |
-| [Infooze](https://github.com/devXprite/infoooze) | User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata |
-| [ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke/related) | Helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It's designed to be completely customizable and work with any rest API(c) |
-| [Osint tool](https://osint-tool.com/) | A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.). |
-| [Hackers toolkit](https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related) | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
-| [BOTSTER](https://botster.io/bots) | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
-| [Magnifier](https://github.com/TheEyeOfCyber/Magnifier) | #osint #python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
-| [Wannabe1337 Toolkit](https://wannabe1337.xyz/) | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools. |
-| [BazzellPy](https://github.com/dmw94/bazzellpy) | Unofficial(!) #Python library for automation work with IntelTechniques Search Tools https://inteltechniques.com/tools/ |
-| [BBOT](https://github.com/blacklanternsecurity/bbot) | Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback (full list in the picture) |
-| [SLASH](https://github.com/theahmadov/slash) | Universal #cli search tool. Search email or username across social media, forums, Pastebin leaks, Github commits and more. |
-| [How to verify?](https://www.howtoverify.info/) | Visual fact checking mind maps for verification video, audio, source, text. Detailed workflows descriptions with tools, tips and tricks. |
-| [Cyclect](https://www.godaddy.com/forsale/cyclect.io?utm_source=TDFS_BINNS&utm_medium=BINNS&utm_campaign=TDFS_BINNS&traffic_type=TDFS_BINNS&traffic_id=binns&) | Ultimate OSINT Search Engine + list of 281+ tools for information gathering about": IP Adress, Social Media Account, Email, Phone, Domain, Person, Venicle and more. |
-| [ShrewdEye](https://shrewdeye.app/) | Online versions of popular command line #osint tools: Amass, SubFinder, AssetFinder, GAU, DNSX |
-| [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) | Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more. |
-| [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
-| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USAðºð¸ and International), Email Search, Phone Number Searchðºð¸, Username Permutator, Email Permutator, Vehicle License Plate Searchðºð¸, Vehicle,VIN No. Searchðºð¸, Facebook User/Page/Posts Search |
-| [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
-| [Sentinelle Pulse OSINT Copilot](https://copilot.sentinellepulse.com) | French-language OSINT directory: 1268 tools in 34 categories, every link checked and dead ones deleted rather than flagged as inactive. Also includes official sources for the 101 French departments (prefecture and local authority), 21 task-based guides, a glossary, and an English version. |
-
 ### [](#databases-and-data-analyzes)Databases and data analyzes
 
 | Link | Description |
@@ -3229,8 +3164,8 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Cronodump](https://github.com/alephdata/cronodump) | When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV. |
 | [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
 | [1C Database Converter](https://github.com/soxoj/1c-database-converter) | 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files. |
-| [Insight Jini](https://insightjini.com/) | Extreme quick, extreme simple and free online tool for data visalization and analysis |
-| [DIAGRAMIFY](https://diagramify.agiliq.com/) | generates flow charts from the text description. Branching and backtracking are supported  |
+| [Insight Jini](https://insightjini.com/) | Extreme quick, extreme simple and free online tool for data visalization and analysis. |
+| [DIAGRAMIFY](https://diagramify.agiliq.com/) | Generates flow charts from the text description. Branching and backtracking are supported/  |
 | [OBSIDIAN CLI](https://github.com/Yakitrak/obsidian-cli) | Very simple #go tool that let to interact with the Obsidian using the terminal. Open, search, create and edit files. Can be combined with any other #cli #osint tools to automate your workflow. |
 
 ### [](#online-os-emulators)Online OS Emulators
@@ -3265,37 +3200,115 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Falcon Arch Linux](https://sourceforge.net/projects/falcon-archlinux/) |     |
 | [AttifyOS](https://github.com/adi0x90/attifyos) | Linux distro for pentesting IoT devices. |
 
+
+
+### [](#tools-collectionstoolkits)Tools collections/toolkits
+
+#### Chrome extensions
+
+| Link | Description |
+| --- | --- |
+| [Vortimo](https://find.osint-tool.com/) | An online tool for quickly searching hundreds of different sources and then processing the information found. As an entry point you can use email, domain, hash, phone number, image and more. Now rebrended as Ubikron. |
+| [FoxyRecon](https://addons.mozilla.org/ru/firefox/addon/foxyrecon/) | 44 osint tools in one add-on for #Firefox. |
+| [SEARCH Investigative and Forensic Toolbar](https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related) | Extension with quick access to dozens of online tools for osint, forensics and othef investigations goals. |
+| [ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke/related) | Helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It's designed to be completely customizable and work with any rest API(c) |
+| [Hackers toolkit](https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related) | An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (#SQLi,#LFI,#XSS). |
+
+
+#### Collections/online toolkits
+
+| Link | Description |
+| --- | --- |
+| [Telegram HowToFindBot](https://t.me/HowToFindBot) |     |
+| [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes. |
+| [Hunt Osint Framework](https://nitinpandey.in/ihunt/) | Dozens of online tools for different stages of #osint investigations. |
+| [Geekflare Tools](https://gf.dev/toolbox) | 39 online free tools for website testing |
+| [Oryon OSINT query tool](https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221) | Construct investigations links in Google Sheet |
+| [Osintcombine Tools](https://osintcombine.tools/) |     |
+| [One Plus OSINT Toolkit](https://one-plus.github.io/) |     |
+| [Vedbex.com](https://www.vedbex.com/tools/home) |     |
+| [Synapsint.com](https://synapsint.com/) |     |
+| [Randomtools](https://randomtools.io/) | Several dozen online tools for a variety of purposes. Including to facilitate gathering information on #Facebook, #Twitter, #YouTube, #Instagram. |
+| [Osint tool](https://osint-tool.com/) | A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.). |
+| [BOTSTER](https://botster.io/bots) | A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services. |
+| [Wannabe1337 Toolkit](https://wannabe1337.xyz/) | This site has dozens of free online tools (many of which will be useful for #osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools. |
+| [How to verify?](https://www.howtoverify.info/) | Visual fact checking mind maps for verification video, audio, source, text. Detailed workflows descriptions with tools, tips and tricks. |
+| [Cyclect](https://www.godaddy.com/forsale/cyclect.io?utm_source=TDFS_BINNS&utm_medium=BINNS&utm_campaign=TDFS_BINNS&traffic_type=TDFS_BINNS&traffic_id=binns&) | Ultimate OSINT Search Engine + list of 281+ tools for information gathering about": IP Adress, Social Media Account, Email, Phone, Domain, Person, Venicle and more. |
+| [ShrewdEye](https://shrewdeye.app/) | Online versions of popular command line #osint tools: Amass, SubFinder, AssetFinder, GAU, DNSX |
+| [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) | Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more. |
+| [OSINTTracker](https://app.osintracker.com/) | A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services. |
+| [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USAðºð¸ and International), Email Search, Phone Number Searchðºð¸, Username Permutator, Email Permutator, Vehicle License Plate Searchðºð¸, Vehicle,VIN No. Searchðºð¸, Facebook User/Page/Posts Search |
+| [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
+| [Sentinelle Pulse OSINT Copilot](https://copilot.sentinellepulse.com) | French-language OSINT directory: 1268 tools in 34 categories, every link checked and dead ones deleted rather than flagged as inactive. Also includes official sources for the 101 French departments (prefecture and local authority), 21 task-based guides, a glossary, and an English version. |
+
+
+#### Command line toolkits
+
+| Link | Description |
+| --- | --- |
+| [OSINTHunter](https://github.com/letox4/osinthunter) | The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required. |
+| [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework. |
+| [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) | Osint toolkit for gathering information about domains, phone numbers and social media accounts. |
+| [SEMID osint framework](https://github.com/Himatric/SEMID) | Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github. |
+| [NAZAR](https://github.com/MR-NULL666/NAZAR) | Universal Osint Toolki.  |
+| [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) | ShellScript toolkit for #osint (12 tools). |
+| [Recon Spider](https://github.com/bhavsec/reconspider) | Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations. |
+| [S.I.G.I.T.](https://github.com/termuxhackers-id/SIGIT) | Simple information gathering toolkit |
+| [GVNG Search](https://github.com/ByDog3r/GvngSearch) | Command line toolkit for gathering information about person (nickname search, validate email, geolocate ip) and domain (traceroute, dns lookup, tcp port scan etc). |
+| [Owasp Maryam](https://github.com/saeeddhqan/Maryam) | modular open-source framework based on OSINT and data gathering |
+| [Ghoulbond](https://github.com/hitesh22rana/ghoulbond) | Just another all-in-one command line toolkit for gathering information about system (technical characteristics, internet speed, IP/Mac address, port scanner)+some features for nickname and phone number #osint. |
+| [Metabigoor](https://github.com/j3ssie/metabigor) | Simple and fast #osint framework |
+| [Discover](https://github.com/leebaird/discover) | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one) |
+| [Harpoon](https://github.com/Te-k/harpoon) |     |
+| [Profounder](https://github.com/d8rkmind/Profounder) | searching users by nickname and scrapping url's from website |
+| [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) |     |
+| [OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) |     |
+| [Mihari](https://github.com/ninoseki/mihari) |     |
+| [Vichiti](https://github.com/umair9747/vichiti) |     |
+| [Sarenka](https://github.com/pawlaczyk/sarenka) |     |
+| [Ashok](https://github.com/ankitdobhal/Ashok) | Swiff knife for #osint. |
+| [IVRE](https://github.com/ivre/ivre) | framework for network recon. |
+| [Tenssens](https://github.com/thenurhabib/tenssens) | Osint framework. |
+| [Collector](https://github.com/galihap76/collector) | Universal Osint Toolkit. |
+| [Infooze](https://github.com/devXprite/infoooze) | User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata. |
+| [Magnifier](https://github.com/TheEyeOfCyber/Magnifier) | #osint #python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more. |
+| [BazzellPy](https://github.com/dmw94/bazzellpy) | Unofficial(!) #Python library for automation work with IntelTechniques Search Tools https://inteltechniques.com/tools/ |
+| [BBOT](https://github.com/blacklanternsecurity/bbot) | Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback (full list in the picture) |
+| [SLASH](https://github.com/theahmadov/slash) | Universal #cli search tool. Search email or username across social media, forums, Pastebin leaks, Github commits and more. |
+
+
+
 ### [](#my-projects)My Projects
 
 
 | Link | Description |
 | --- | --- |
 | [Python OSINT automation examples](https://github.com/cipher387/Python-osint-automation-examples) | In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.  |
-| [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) |     |
-| [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/) |     |
-| [Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/) |     |
-| [Phone Number Search Constructor](https://cipher387.github.io/phonenumberqueryconstructor/) |     |
-| [Domain Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/) |     |
-| [IP adress Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) |     |
-| [Quick Cache and Archive search](https://cipher387.github.io/quickcacheandarchivesearch/) |     |
-| [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails |
-| [5 Google Custom Search Engine for search 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) |     |
-| [CSE for search 20 source code hosting services](https://cipher387.github.io/code_repository_google_custom_search_engines/) |     |
-| [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
-| [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
-| [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
-| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
-| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
-| [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
+| [Worldwide OSINT Tools Map](https://cybdetective.com/osintmap/) |     |
+| [Quick hashtags and keywords search](https://cybdetective.com/hashtags_and_keywords_social_media_quick_search/) |     |
+| [Quick geolocation search](https://cybdetective.com/quickgeolocationsearch/) |     |
+| [Phone Number Search Constructor](https://cybdetective.com/phonenumberqueryconstructor/) |     |
+| [Domain Investigation Toolbox](https://cybdetective.com/domain_investigation_toolbox/) |     |
+| [IP adress Investigation Toolbox](https://cybdetective.com/domain_investigation_toolbox/ip.html) |     |
+| [Quick Cache and Archive search](https://cybdetective.com/quickcacheandarhivesearch.html) |     |
+| [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails. |
+| [Pastes search](https://cybdetective.com/pastebinsearchengines/) | Google Custom Search Engine for search 48 pastebin sites.   |
+| [Source code search](https://cybdetective.com/code_repository_google_custom_search_engines/) | Google Custom Search Engine for search 20 source code hosting services. |
+| [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines. |
+| [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc. |
+| [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators. |
+| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code source. |
+| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes. |
+| [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | List of tools that handle different data and make it usable in Maltego. |
+
 
 * * *
 
-Command line cheat sheet for this collection made by [Coordinat Cat](https://github.com/Coordinate-Cat):
+Command line cheatsheet for this collection made by [Coordinat Cat](https://github.com/Coordinate-Cat):
 
 [OSINT TOOLS CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
 
-(Under development, In progress)
 
 * * *
 
-Thank you for following me! [@cyb_detective](https://cybdetective.com)
+Thank you for following me! [Cyber Detective Substack Newsletter](https://cybdetective.substack.com/)
