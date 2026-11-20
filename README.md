@@ -1342,6 +1342,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CommentPicker](https://commentpicker.com/) | Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export |
 | [APIFY social media scrapers](http://console.apify.com/store-search?category=SOCIAL_MEDIA) | 400+ online tools (actors) for scraping data from Instagram, Twitter, Facebook, TikTok, YouTube and other social media. Free trial |
 | [okdata](https://okdata.online/) | API and MCP server for public posts, comments, accounts, transcripts and hot-search boards on Douyin, Xiaohongshu (RedNote), Weibo, WeChat, Bilibili, Kuaishou, TikTok, X, YouTube, Instagram and Reddit. Pay per call, free trial credit. |
+| [DataXAPI](https://dataxapi.com/) | API and remote MCP server for public posts, comments, accounts, transcripts and trend boards on Douyin, Xiaohongshu (RedNote), WeChat Official Accounts and Channels, Weibo, Zhihu, Bilibili, Kuaishou, TikTok, X, YouTube, Instagram, Reddit and Telegram. Pay per call, failed calls are not charged, free trial of up to 333 calls. |
 
 [](#downloaders)Downloaders
 
