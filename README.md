@@ -1720,6 +1720,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DPulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) | A Python tool that gathers domain information and generates PDF or XLSX reports covering WHOIS, social media links, subdomains, DNS, SSL certificates, internet database results, and website technologies. |
 | [Robofinder](https://github.com/Spix0r/robofinder) | A tool to analyze the history of robots.txt. It analyzes all versions of the file from the wayback machine and displays a list of all found directories. |
 | [Shodan Spider](https://github.com/shubhamrooter/ShodanSpider) | Very simple #bash tool that automate Shodan search and save results to txt files. NOT login or API key required! |
+| [TryTheHandle](https://trythehandle.eu/) | External security scan of a website or server as seen from the Internet: TLS, HTTP security headers, DNS, SPF/DKIM/DMARC, exposed files and software versions. Report scored out of 100 with a fix for each issue, downloadable as PDF. Free; the full scan (160+ checks) requires proof of ownership of the target. |
 
 
 ### [](#favicon-search)Favicon search
