@@ -2158,6 +2158,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Metadata Remover AI (metadataremoverai.com)](https://metadataremoverai.com/exif-viewer) | View and strip EXIF, GPS, XMP, IPTC and C2PA metadata in JPEG, PNG, WebP, HEIC, AVIF, TIFF, MP4 and MOV in the browser without re-encoding; nothing is uploaded, no account. Open-source engine (MIT, [repo](https://github.com/fazal-bhinder/lossless-metadata)) |
 | [WhatsInMyFile](https://whatsinmyfile.com/) | Free in-browser checker for hidden file data: photo GPS and EXIF, author names in Word and PDF files, hidden text in PDFs and C2PA/AI labels in images and audio. Files are not uploaded, no account |
 | [BatchSet EXIF Viewer](https://batchset.com/tools/exif-metadata) | Free in-browser EXIF viewer and remover. Shows camera, lens, date and GPS location tags (with a map) for JPG, PNG, WebP, TIFF and HEIC photos, and saves a copy with the metadata stripped. Runs locally, nothing is uploaded, no account. |
+| [Photo Location Checker](https://freegpsmapcamera.com/tools/photo-location-checker) | Shows whether a photo holds GPS data: coordinates in decimal and DMS, altitude, camera facing, date taken and camera model, with links to the spot in Google Maps and OpenStreetMap. Reads JPEG, HEIC, PNG, WebP, AVIF and TIFF in the browser; nothing is uploaded, no account. |
 
 ### [](#face-recognition-and-search)Face recognition and detection
 
