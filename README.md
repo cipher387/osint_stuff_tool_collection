@@ -2716,6 +2716,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | --- | --- |
 | [@maigret\_osint\_bot](https://t.me/maigret_osint_bot) | check accounts by username on 1500 sites. Based on maigret CLI tool |
 | [Analyzeid.com Username Search](https://analyzeid.com/username/) | view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. |
+| [Reverse Username Search](https://reverseusernamesearch.com/) | Finds public profiles by username across 5,000+ sites, including social networks, dating apps, gaming platforms, and forums. Free to use. |
 | [NEXFIL](https://github.com/thewhiteh4t/nexfil) | Search username by 350 social media platforms |
 | [Spy](https://github.com/CYB3R-G0D/SPY) | Just another very quick and simple account checker by username (210 sites in list). |
 | [Profil3r](https://github.com/Rog3rSm1th/Profil3r) | search for profiles in social networks by nickname |
