@@ -120,6 +120,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Kik](#kik)
     - [Slack](#slack)
     - [Skype](#skype)
+    - [Gravatar](#gravatar)
 - [Domain/IP/Links](#domainiplinks)
     - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
     - [APK analysis](#apk-analysis)
@@ -1520,6 +1521,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [SkypeHunt](https://github.com/8C/skypehunt) | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
 
 
+### [](#gravatar)Gravatar
+
+| Link | Description |
+| --- | --- |
+| [Gravatar check](https://en.gravatar.com/site/check/) | Just enter email and see what the person's Gravatar avatar looks like. |
+| [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name. |
 
 
 [](#domainiplinks)Domain/IP/Links
@@ -2673,7 +2680,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [MailBoxLayer API](https://mailboxlayer.com/) | free api for email adress checking |
 | [EmailHippo](https://tools.emailhippo.com/email/) | Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale. |
 | [Spycloud.com](https://spycloud.com/check-your-exposure/) | check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled |
-| [Gravatar check](https://en.gravatar.com/site/check/) | Just enter email and see what the person's Gravatar avatar looks like. |
 | [Email Permutator](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0) | Google Sheet table that generate 46 variants of user email by first name, last name and domain |
 | [Have I Been Sold?](https://haveibeensold.app/) | The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free cybercrime intelligence toolset that can indicate with a specific email address was compromised in global Infostealer attacks. 
@@ -2714,6 +2720,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 
 | Link | Description |
 | --- | --- |
+| [NAMINT](https://seintpl.github.io/NAMINT/) | Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) |
+| [Free Username](https://freeusername.com/) | Username search across 3,450+ sites. |
+| [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
+| [Noimosiny](https://noimosiny.com/) | Find profiles in 250+ social media by nickname + extract additional data from profiles (avatars, birthdays, last seen dates. full names) |
 | [@maigret\_osint\_bot](https://t.me/maigret_osint_bot) | check accounts by username on 1500 sites. Based on maigret CLI tool |
 | [Analyzeid.com Username Search](https://analyzeid.com/username/) | view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. |
 | [Reverse Username Search](https://reverseusernamesearch.com/) | Finds public profiles by username across 5,000+ sites, including social networks, dating apps, gaming platforms, and forums. Free to use. |
@@ -2729,7 +2739,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Pyosint](https://github.com/d8rkmind/Pyosint) | Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services |
 | [Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder) | When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. |
 | [Translit.net](https://translit.net) | Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names |
-| [NAMINT](https://seintpl.github.io/NAMINT/) | Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) |
 | [Username Availability Checker](https://username-check.herokuapp.com/) | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
@@ -2737,13 +2746,12 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlockâ¦). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Lullar](https://com.lullar.com) | Free online people search by username, email or name across 170+ social media platforms. Returns direct profile links, no sign-up, works in 22 languages. Online since 2008. |
-| [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
-| [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
+
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 | [Username Search & Lookup (Apify)](https://apify.com/ntriqpro/sherlock-username-osint) | Hosted wrapper of the open-source Sherlock engine: check a list of usernames across 400+ sites and get one JSON row per confirmed account. Runs on Apify, no local install. |
 | [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
 | [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
-| [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by nickname |
+
 | [TraceFind](https://tracefind.info/username) | Search a username across about 1,000 sites; each match shows the profile's name, bio, picture and links. |
 
 
