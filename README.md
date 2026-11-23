@@ -3052,6 +3052,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | Link | Description |
 | --- | --- |
 | [Lei.bloomberg.com](https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118) | search information about company by Legal Identify Number |
+| [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) | look up EU VAT numbers by API or web console, up to 1,000 per request |
 | [990 finder](https://candid.org/research-and-verify-nonprofits/990-finder) | Enter the company name and select the state to get a link to download its 900 form. |
 | [Open Corporates Command Line Client (Occli)](https://github.com/rlyonheart/occli) | Gathering detailed information about company through cli. |
 | [NewsBrief](https://emm.newsbrief.eu/NewsBrief/clusteredition/ru/latest.html) | Looking for recent mentions of the company in online media around the world |
