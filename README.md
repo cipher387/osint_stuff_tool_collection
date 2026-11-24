@@ -3169,6 +3169,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Wideband shortware radio receiver map](http://rx.linkfanel.net/) | Online map of shortwave radio receivers available for listening in your browser at the moment. |
 | [IPTV org](https://iptv-org.github.io/) | Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream). |
 | [TV News Archive](http://archive.org/details/tv) | An archive of 2,976,000 videos dating back to 2009, searchable by keywords in captions, with fact-checks and special collections. |
+| [Broadcast Atlas](https://broadcastatlas.com/) | Free directory of about 8,000 live TV channels and 30,000 radio stations from about 220 countries. Filter by country, language and category; each channel links straight to the broadcaster's own public stream. |
 
 
 
