@@ -2751,12 +2751,10 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlockâ¦). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Lullar](https://com.lullar.com) | Free online people search by username, email or name across 170+ social media platforms. Returns direct profile links, no sign-up, works in 22 languages. Online since 2008. |
-
 | [Sherlockeye](https://sherlockeye.io) | Sherlockeye - Reverse Lookup & AI-Powered OSINT - Search across 800+ open sources |
 | [Username Search & Lookup (Apify)](https://apify.com/ntriqpro/sherlock-username-osint) | Hosted wrapper of the open-source Sherlock engine: check a list of usernames across 400+ sites and get one JSON row per confirmed account. Runs on Apify, no local install. |
 | [Maigret Username Search (Apify)](https://apify.com/ntriqpro/maigret-actor) | Hosted wrapper of the open-source Maigret: search a username across 3000+ sites via API and export structured rows. Runs on Apify. |
 | [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
-
 | [TraceFind](https://tracefind.info/username) | Search a username across about 1,000 sites; each match shows the profile's name, bio, picture and links. |
 | [Username Searcher](https://usernamesearcher.com/) | Searches a username across 1,000+ sites and marks each result as found, available or unknown, with links to the public profiles. Also has single-platform lookups for TikTok, Snapchat and Twitch and a Discord ID lookup. Free, no sign-up. |
 
