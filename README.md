@@ -3143,7 +3143,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [WIPO.int](https://www3.wipo.int/branddb/en/) | Global Brands Database (46,020,000 records) |
 | [TMDN Design View](https://www.tmdn.org/tmdsview-web/) | Search 17 684 046 products designs across the European Union and beyond |
 | [TESS](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | Search engine for #USA trademarks |
-| [BrandShield](https://brand-checker.appwrite.network/) | 100% free, no-signup brand & domain OSINT checker: screens 78+ TLDs via live IANA RDAP alongside live USPTO trademark records (Class 009/042), App Store / Play Store name collisions, and aftermarket parking detection (plus open-source MIT CLI). |
+| [BrandShield](https://brand.shipbastion.com/) | 100% free, no-signup brand & domain OSINT checker: screens 78+ TLDs via live IANA RDAP alongside live USPTO trademark records (Class 009/042), App Store / Play Store name collisions, and aftermarket parking detection (plus open-source MIT CLI). |
 
 ### [](#tendershipment-information-search)Tender/shipment information search
 
