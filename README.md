@@ -634,7 +634,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Panoramax](http://panoramax.openstreetmap.fr) | A Google Street View alternative based on OpenStreetMap. |
 
 
-#### 360 panoramas map
+#### 360° panoramas map
 
 | Link | Description |
 | --- | --- |
@@ -642,7 +642,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Earthviewer360.com](http://earthviewer360.com) | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) |
 
 
-#### YouTube driving video
+#### YouTube driving videos
 
 | Link | Description |
 | --- | --- |
