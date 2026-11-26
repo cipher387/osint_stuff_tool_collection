@@ -402,7 +402,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [NearMe](https://github.com/mcasrom/nearme-osint) | A real-time geographic OSINT aggregator that combines 15 public and official data sources into a single interactive map with severity levels, continuous measurements, and customizable alerts. Spain focused. |
 | [Polyglobe](https://www.pizzint.watch/polyglobe/app) | Maps live global events, military installations, and regional hot spots directly onto an interactive 3D globe interface. |
 | [WAR ROOM Global Monitor](https://retrosheep.com/global-monitor) | Publicly sourced data, 24/7 real-time monitoring, 6 OSINT data categories, 28 live feeds. Paid. |
-
+| [WARNPOINT](https://warnpoint.com/map) | Live global conflict & incident map from 1,000+ graded sources, with satellite before/after imagery and heat detected from space. |
 
 
 ### [](#culture)Culture
