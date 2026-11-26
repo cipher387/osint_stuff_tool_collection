@@ -513,6 +513,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [GeoLocator](https://geolocator.app/) |  Reaches 91.2% country accuracy on our own 478-photo benchmark of outdoor photographs, and returns city-level coordinates — a 2.8 km median error for photos taken near a town, 36.7 km across the whole outdoor set. Upload a photo and get a ranked location with the evidence behind it in about 9 seconds.  |
 | [GeoAxis](https://geoaxis.ai/) | Upload any photo. GeoAxis returns ranked locations with confidence scores and the evidence behind each one - meter-level in 2,300+ cities, no GPS or EXIF needed. |
 | [FindPicLocation](https://findpiclocation.com/en) | Location finder reads landmarks, signage, terrain and shadow to identify where a picture was taken — usually within a city block.  | 
+| [WhereMatch](https://wherematch.com/) | Estimates where a photo was taken from what is visible in it (buildings, signs, roads, vegetation, terrain), with no EXIF or GPS data needed. Returns country, city and spot with a confidence for each, the clues it used and up to three alternative places. Free while in testing, five photos a day, no account. Treat the result as a lead to verify. |
 
 ⚠️ If you work in Law Enforcement, you can get access to the undisputed market leader in AI geolocation -  Raven (GeoSpy).
 
