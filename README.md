@@ -1493,6 +1493,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Watools.io](https://watools.io/download-profile-picture) | download whatsapp profile picture |
 | [WAGSCRAPER](https://github.com/riz4d/WaGpScraper) | Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images) |
 | [WhatsApp Checker](http://2chat.co/tools/whatsapp-checker) | An online tool and API that claims to retrieve a WhatsApp profile image using a phone number.|
+| [CheckLeaked WhatsApp Checker](https://whatsapp.checkleaked.cc/) | Enter a phone number to see whether it is registered on WhatsApp, plus the public profile picture, display name, about/status text and personal/business flag. The number is not messaged or notified. Free account with a limited number of lookups; paid credits and an API for bulk |
 
 
 ### [](#wechat)WeChat
