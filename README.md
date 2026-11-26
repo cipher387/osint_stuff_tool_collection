@@ -2703,6 +2703,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Have I Been Ransomed?](https://haveibeenransom.com/) | Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid. |
 | [Noimosiny](https://noimosiny.com/) | Find profils in 250+ social media by email |
 | [TraceFind](https://tracefind.info/email) | Enter an email and see which of 493 sites it is registered on, its data breaches and exposed fields, the linked Google account and whether the mailbox exists. The owner is not notified. Free preview, full report paid. |
+| [Mailfacts](https://reverseemaillookuptool.com) | Enter an email and see its mail provider (MX and disposable check), known data breaches with the types of data leaked, public Gravatar profile, linked GitHub accounts and PGP keys, each with its source. Free, 3 lookups a day without signup; paid deep lookups are waitlist-only for now. |
 
 
 
