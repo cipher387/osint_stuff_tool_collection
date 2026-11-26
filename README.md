@@ -2468,6 +2468,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [XGS](https://github.com/XAMFRA/XGS) | allows you to search for links to onion sites using Google Dorks (site:[http://onion.cab](http://onion.cab), site:[http://onion.city](http://onion.city) etc) |
 | [Google Email Extractor](https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related) | Extract emails from Google Search Results |
 | [SEQE.me](https://seqe.me/) | online #tool for constructing search queries using advanced search operators simultaneously for five search engines |
+| [Sourcepick](https://sourcepick.toolnjoy.com/) | free web app and browser extension that turns 69 groups of sources (793 sites: forums, Reddit, docs, papers, Q&A) into site: filters for Google, Bing, DuckDuckGo and Brave, trimmed to each engine's limit of site: operators. No account, no tracking |
 | [Bright Local Search Result Checker](https://www.brightlocal.com/local-search-results-checker/) | shows what #Google search results look like for a particular query around the world (by exact address) |
 | [Auto Searcher](https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related) | One by one types words from a given list into the search bar of #Google, #Bing, or another search engine |
 | [2lingual.com](https://2lingual.com/) | google search in two languages simultaneously in one window |
