@@ -2758,6 +2758,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Psudohash](https://github.com/t3l3machus/psudohash) | One of the most important problems with nickname/email enumeration is the different spellings of one nickname (like j0hn and jOhn). Psudohash (created for generating password lists) will help automate the enumeration of nickname variants. |
 
 | [TraceFind](https://tracefind.info/username) | Search a username across about 1,000 sites; each match shows the profile's name, bio, picture and links. |
+| [Username Searcher](https://usernamesearcher.com/) | Searches a username across 1,000+ sites and marks each result as found, available or unknown, with links to the public profiles. Also has single-platform lookups for TikTok, Snapchat and Twitch and a Discord ID lookup. Free, no sign-up. |
 
 
 
