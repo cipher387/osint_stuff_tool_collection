@@ -1855,6 +1855,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ip-api.io ASN Lookup](https://ip-api.io/asn-lookup) | Free ASN lookup by IP address or AS number: owner, network range, announced prefixes, country and whether the range is a datacenter. Free in the browser, no signup; the JSON API needs a key |
 | [InternetData](https://internetdata.io/) | Looks up an IP's location, network and company, and whether it's Tor or a privacy relay. Free, no signup. Also a [Chrome extension](https://chromewebstore.google.com/detail/internetdata-ip-address-l/gmhignbphnhicmfpcfnbcjebkjinjdel) that looks up an IP you select on any page |
 | [The Network Tools](https://thenetworktools.com/) | Ad-free DNS, MX, SPF/DKIM/DMARC email security, SSL certificate, HTTP security headers, BGP/IP, DNSBL blacklist, subdomain CT, and ICANN RDAP lookup suite (47+ free web tools, no signup) |
+| [Sendfinery](https://sendfinery.com) | Checks a domain's SPF, DKIM, DMARC and MX records in one pass, follows every SPF include and counts the 10 DNS lookups SPF allows. Also reads email headers. Free, no signup |
 
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
