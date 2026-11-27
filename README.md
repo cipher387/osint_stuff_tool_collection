@@ -3294,7 +3294,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Analytics research tools](https://analystresearchtools.com) | Online #osint tools: People Search (USA and International), Email Search, Phone Number Search, Username Permutator, Email Permutator, Vehicle License Plate Search, Vehicle,VIN No. Search, Facebook User/Page/Posts Search. |
 | [The OSINT Vault](https://theosintvault.io) | Free, browser-native tools, query generators, and structured discovery engines. |
 | [Sentinelle Pulse OSINT Copilot](https://copilot.sentinellepulse.com) | French-language OSINT directory: 1268 tools in 34 categories, every link checked and dead ones deleted rather than flagged as inactive. Also includes official sources for the 101 French departments (prefecture and local authority), 21 task-based guides, a glossary, and an English version. |
-
+| [OSINTario](https://osintario.github.io) | Free, curated directory of 220+ verified OSINT tools in Spanish, English and Portuguese (status, licence, sign-up/paid flags), plus Multi-OSINT Lite: browser-only lookups for domain, IP, username, email and image metadata. |
 
 
 #### Command line toolkits
