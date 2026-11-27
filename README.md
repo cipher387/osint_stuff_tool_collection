@@ -1407,6 +1407,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [You Get](https://github.com/soimort/you-get) | Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites |
 | [Stream Downloader](https://github.com/lunnlew/stream-downloader) | Download streams from different sites |
 | [Chat Downloader](https://github.com/xenova/chat-downloader) | Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook |
+| [Savoclip](https://savoclip.com) | download public #TikTok videos without the watermark, #Instagram Reels and photos, and #YouTube Shorts as MP4 or MP3 in the browser. Free, no sign-up |
 
 
 ## [](#messengers)Messengers
