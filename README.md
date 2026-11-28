@@ -932,6 +932,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
 | [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) | scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file |
 | [TikTok Downloader](https://tiktokdownloader.com/) | TikTok Video Downloader |
+| [SMDownloader](https://www.smdownloader.com/) | Multi-platform online video and audio downloader for 32 platforms (TikTok, Instagram, YouTube, X, Facebook, and more) |
 | [GetTikVideo](https://gettikvideo.com/tiktok-profile-picture-downloader) | full-size profile picture and the latest public videos from a profile link; downloads public videos, photo posts and stories without an account |
 | [Snaptik.app](https://snaptik.app/) | TikTok Video Downloader |
 | [TikTake.net](https://tiktake.net/) | TikTok Video Downloader |
